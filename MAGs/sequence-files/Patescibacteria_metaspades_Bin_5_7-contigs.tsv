@@ -1,0 +1,337 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+Patescibacteria_metaspades_Bin_5_7-contigs_00001	CDS	117				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00002	CDS	357	dgkA	2.7.1.66	COG0818	Undecaprenol kinase
+Patescibacteria_metaspades_Bin_5_7-contigs_00003	CDS	1476	comEC_1		COG0658	ComE operon protein 3
+Patescibacteria_metaspades_Bin_5_7-contigs_00004	CDS	714	queE	4.3.99.3		7-carboxy-7-deazaguanine synthase
+Patescibacteria_metaspades_Bin_5_7-contigs_00005	CDS	2103	nrdD	1.1.98.6	COG1328	Anaerobic ribonucleoside-triphosphate reductase
+Patescibacteria_metaspades_Bin_5_7-contigs_00006	CDS	921	ftsZ		COG0206	Cell division protein FtsZ
+Patescibacteria_metaspades_Bin_5_7-contigs_00007	CDS	1203	ftsA_1		COG0849	Cell division protein FtsA
+Patescibacteria_metaspades_Bin_5_7-contigs_00008	CDS	441			COG0328	Bifunctional protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00009	CDS	1173	recJ	3.1.-.-	COG0608	Single-stranded-DNA-specific exonuclease RecJ
+Patescibacteria_metaspades_Bin_5_7-contigs_00010	CDS	1122	pgk	2.7.2.3		Phosphoglycerate kinase
+Patescibacteria_metaspades_Bin_5_7-contigs_00011	CDS	393	dksA			RNA polymerase-binding transcription factor DksA
+Patescibacteria_metaspades_Bin_5_7-contigs_00012	CDS	1089				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00013	CDS	1326				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00014	CDS	1557				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00015	CDS	2103	pnp	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+Patescibacteria_metaspades_Bin_5_7-contigs_00016	CDS	504				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00017	CDS	270	rpsO			30S ribosomal protein S15
+Patescibacteria_metaspades_Bin_5_7-contigs_00018	CDS	1800	sasA	2.7.-.-		Adaptive-response sensory-kinase SasA
+Patescibacteria_metaspades_Bin_5_7-contigs_00019	CDS	1920	rnr	3.1.13.1	COG0557	Ribonuclease R
+Patescibacteria_metaspades_Bin_5_7-contigs_00020	CDS	1062	ychF		COG0012	Ribosome-binding ATPase YchF
+Patescibacteria_metaspades_Bin_5_7-contigs_00021	CDS	1689				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00022	CDS	780	ycdX	3.1.3.-		phosphatase YcdX
+Patescibacteria_metaspades_Bin_5_7-contigs_00023	CDS	1194	gspF		COG1459	Putative type II secretion system protein F
+Patescibacteria_metaspades_Bin_5_7-contigs_00024	CDS	1068	pilT		COG2805	Twitching mobility protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00025	CDS	1728				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00026	CDS	360				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00027	CDS	528				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00028	CDS	528				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00029	CDS	1071	ftsA_2			Cell division protein FtsA
+Patescibacteria_metaspades_Bin_5_7-contigs_00030	CDS	1524	rny	3.1.-.-	COG1418	Ribonuclease Y
+Patescibacteria_metaspades_Bin_5_7-contigs_00031	CDS	276				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00032	CDS	426	nusB		COG0781	Transcription antitermination protein NusB
+Patescibacteria_metaspades_Bin_5_7-contigs_00033	CDS	690	rnc	3.1.26.3	COG0571	Ribonuclease 3
+Patescibacteria_metaspades_Bin_5_7-contigs_00034	CDS	804	comM		COG0606	Competence protein ComM
+Patescibacteria_metaspades_Bin_5_7-contigs_00035	CDS	357				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00036	CDS	2409	leuS	6.1.1.4		Leucine--tRNA ligase
+Patescibacteria_metaspades_Bin_5_7-contigs_00037	CDS	747	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+Patescibacteria_metaspades_Bin_5_7-contigs_00038	CDS	402				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00039	CDS	747		2.4.-.-	COG0463	putative glycosyltransferase
+Patescibacteria_metaspades_Bin_5_7-contigs_00040	CDS	441	smpB		COG0691	SsrA-binding protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00041	tmRNA	359	ssrA			transfer-messenger RNA, SsrA
+Patescibacteria_metaspades_Bin_5_7-contigs_00042	CDS	435	infC			Translation initiation factor IF-3
+Patescibacteria_metaspades_Bin_5_7-contigs_00043	CDS	186				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00044	CDS	357	rplT		COG0292	50S ribosomal protein L20
+Patescibacteria_metaspades_Bin_5_7-contigs_00045	CDS	1302				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00046	CDS	279				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00047	CDS	393				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00048	CDS	1509	infB			Translation initiation factor IF-2
+Patescibacteria_metaspades_Bin_5_7-contigs_00049	tRNA	73				tRNA-Cys(gca)
+Patescibacteria_metaspades_Bin_5_7-contigs_00050	tRNA	84				tRNA-Leu(taa)
+Patescibacteria_metaspades_Bin_5_7-contigs_00051	CDS	495				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00052	tRNA	73				tRNA-Gly(gcc)
+Patescibacteria_metaspades_Bin_5_7-contigs_00053	tRNA	73				tRNA-Phe(gaa)
+Patescibacteria_metaspades_Bin_5_7-contigs_00054	tRNA	73				tRNA-Val(tac)
+Patescibacteria_metaspades_Bin_5_7-contigs_00055	tRNA	85				tRNA-Leu(gag)
+Patescibacteria_metaspades_Bin_5_7-contigs_00056	CDS	363	rplS		COG0335	50S ribosomal protein L19
+Patescibacteria_metaspades_Bin_5_7-contigs_00057	CDS	714	rluD	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+Patescibacteria_metaspades_Bin_5_7-contigs_00058	CDS	189				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00059	CDS	1170				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00060	CDS	615				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00061	CDS	573	pgiA	5.3.1.9		Glucose-6-phosphate isomerase
+Patescibacteria_metaspades_Bin_5_7-contigs_00062	CDS	1668	rnjA	3.1.-.-	COG0595	Ribonuclease J1
+Patescibacteria_metaspades_Bin_5_7-contigs_00063	CDS	975	trpS	6.1.1.2		Tryptophan--tRNA ligase
+Patescibacteria_metaspades_Bin_5_7-contigs_00064	CDS	1320	murC	6.3.2.8		UDP-N-acetylmuramate--L-alanine ligase
+Patescibacteria_metaspades_Bin_5_7-contigs_00065	CDS	525	thpR	3.1.4.58		RNA 2',3'-cyclic phosphodiesterase
+Patescibacteria_metaspades_Bin_5_7-contigs_00066	CDS	300				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00067	CDS	681				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00068	CDS	996	fmt	2.1.2.9	COG0223	Methionyl-tRNA formyltransferase
+Patescibacteria_metaspades_Bin_5_7-contigs_00069	CDS	213				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00070	CDS	276	rpmA		COG0211	50S ribosomal protein L27
+Patescibacteria_metaspades_Bin_5_7-contigs_00071	CDS	1632	pyrG	6.3.4.2		CTP synthase
+Patescibacteria_metaspades_Bin_5_7-contigs_00072	CDS	447	rplI		COG0359	50S ribosomal protein L9
+Patescibacteria_metaspades_Bin_5_7-contigs_00073	CDS	1194		3.4.21.-		putative CtpA-like serine protease
+Patescibacteria_metaspades_Bin_5_7-contigs_00074	tRNA	74				tRNA-Lys(ttt)
+Patescibacteria_metaspades_Bin_5_7-contigs_00075	CDS	1062	dnaJ		COG0484	Chaperone protein DnaJ
+Patescibacteria_metaspades_Bin_5_7-contigs_00076	CDS	1935	dnaK			Chaperone protein DnaK
+Patescibacteria_metaspades_Bin_5_7-contigs_00077	CDS	510	grpE			Protein GrpE
+Patescibacteria_metaspades_Bin_5_7-contigs_00078	CDS	741	hrcA			Heat-inducible transcription repressor HrcA
+Patescibacteria_metaspades_Bin_5_7-contigs_00079	CDS	1035				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00080	CDS	1005				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00081	tRNA	74				tRNA-Glu(ctc)
+Patescibacteria_metaspades_Bin_5_7-contigs_00082	CDS	306				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00083	CDS	594				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00084	CDS	1674	spoVD		COG0768	Stage V sporulation protein D
+Patescibacteria_metaspades_Bin_5_7-contigs_00085	CDS	321				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00086	CDS	879	rsmH	2.1.1.199	COG0275	Ribosomal RNA small subunit methyltransferase H
+Patescibacteria_metaspades_Bin_5_7-contigs_00087	CDS	432	mraZ			Transcriptional regulator MraZ
+Patescibacteria_metaspades_Bin_5_7-contigs_00088	CDS	582				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00089	CDS	420	ybeY	3.1.-.-		Endoribonuclease YbeY
+Patescibacteria_metaspades_Bin_5_7-contigs_00090	CDS	495	yqeY		COG1610	putative protein YqeY
+Patescibacteria_metaspades_Bin_5_7-contigs_00091	CDS	243				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00092	CDS	357		3.9.1.-	COG0537	Purine nucleoside phosphoramidase
+Patescibacteria_metaspades_Bin_5_7-contigs_00093	CDS	1275	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+Patescibacteria_metaspades_Bin_5_7-contigs_00094	CDS	546	sipP	3.4.21.89		Signal peptidase I P
+Patescibacteria_metaspades_Bin_5_7-contigs_00095	CDS	558	pth	3.1.1.29	COG0193	Peptidyl-tRNA hydrolase
+Patescibacteria_metaspades_Bin_5_7-contigs_00096	tRNA	72				tRNA-Gln(ctg)
+Patescibacteria_metaspades_Bin_5_7-contigs_00097	CDS	684				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00098	CDS	738	uppP	3.6.1.27		Undecaprenyl-diphosphatase
+Patescibacteria_metaspades_Bin_5_7-contigs_00099	CDS	1404	murD	6.3.2.9		UDP-N-acetylmuramoylalanine--D-glutamate ligase
+Patescibacteria_metaspades_Bin_5_7-contigs_00100	CDS	1287	murE	6.3.2.13	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+Patescibacteria_metaspades_Bin_5_7-contigs_00101	CDS	693	adk_1	2.7.4.3		Adenylate kinase
+Patescibacteria_metaspades_Bin_5_7-contigs_00102	CDS	711	map	3.4.11.18	COG0024	Methionine aminopeptidase 1
+Patescibacteria_metaspades_Bin_5_7-contigs_00103	CDS	690	tpiA	5.3.1.1	COG0149	Triosephosphate isomerase
+Patescibacteria_metaspades_Bin_5_7-contigs_00104	CDS	678				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00105	CDS	1839				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00106	CDS	1221				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00107	CDS	1356	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+Patescibacteria_metaspades_Bin_5_7-contigs_00108	CDS	1386	dnaC	3.6.4.12	COG0305	Replicative DNA helicase
+Patescibacteria_metaspades_Bin_5_7-contigs_00109	CDS	624	recR		COG0353	Recombination protein RecR
+Patescibacteria_metaspades_Bin_5_7-contigs_00110	CDS	312	rplU		COG0261	50S ribosomal protein L21
+Patescibacteria_metaspades_Bin_5_7-contigs_00111	CDS	459	greA		COG0782	Transcription elongation factor GreA
+Patescibacteria_metaspades_Bin_5_7-contigs_00112	CDS	1932	mrdA	3.4.16.4	COG0768	Peptidoglycan D,D-transpeptidase MrdA
+Patescibacteria_metaspades_Bin_5_7-contigs_00113	CDS	813				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00114	CDS	684				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00115	CDS	795	aspS	6.1.1.12		Aspartate--tRNA(Asp/Asn) ligase
+Patescibacteria_metaspades_Bin_5_7-contigs_00116	CDS	1002	dacA	3.4.16.4	COG1686	D-alanyl-D-alanine carboxypeptidase DacA
+Patescibacteria_metaspades_Bin_5_7-contigs_00117	CDS	1104	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+Patescibacteria_metaspades_Bin_5_7-contigs_00118	CDS	258				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00119	CDS	243				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00120	CDS	108				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00121	CDS	1050				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00122	CDS	225				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00123	CDS	1167		2.4.1.337	COG0438	Alpha-monoglucosyldiacylglycerol synthase
+Patescibacteria_metaspades_Bin_5_7-contigs_00124	CDS	681	truB	5.4.99.25	COG0130	tRNA pseudouridine synthase B
+Patescibacteria_metaspades_Bin_5_7-contigs_00125	CDS	354				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00126	CDS	1494	relA	2.7.6.5	COG0317	GTP pyrophosphokinase
+Patescibacteria_metaspades_Bin_5_7-contigs_00127	CDS	2712	clpB1		COG0542	Chaperone protein ClpB 1
+Patescibacteria_metaspades_Bin_5_7-contigs_00128	CDS	1221	htrA			Putative serine protease HtrA
+Patescibacteria_metaspades_Bin_5_7-contigs_00129	CDS	180				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00130	CDS	477	ruvC	3.1.22.4	COG0817	Crossover junction endodeoxyribonuclease RuvC
+Patescibacteria_metaspades_Bin_5_7-contigs_00131	CDS	1200	tyrS	6.1.1.1	COG0162	Tyrosine--tRNA ligase
+Patescibacteria_metaspades_Bin_5_7-contigs_00132	CDS	1878	pbpG		COG0744	Penicillin-binding protein 2D
+Patescibacteria_metaspades_Bin_5_7-contigs_00133	CDS	195				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00134	CDS	1599	mdtA			Multidrug resistance protein MdtA
+Patescibacteria_metaspades_Bin_5_7-contigs_00135	CDS	678	yknY	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+Patescibacteria_metaspades_Bin_5_7-contigs_00136	CDS	1209	macB	3.6.3.-		Macrolide export ATP-binding/permease protein MacB
+Patescibacteria_metaspades_Bin_5_7-contigs_00137	CDS	1329	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+Patescibacteria_metaspades_Bin_5_7-contigs_00138	CDS	204				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00139	CDS	945	obg	3.6.5.-		GTPase Obg
+Patescibacteria_metaspades_Bin_5_7-contigs_00140	CDS	255				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00141	CDS	291				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00142	CDS	456	eno	4.2.1.11	COG0148	Enolase
+Patescibacteria_metaspades_Bin_5_7-contigs_00143	CDS	1203	apgM			2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+Patescibacteria_metaspades_Bin_5_7-contigs_00144	CDS	246				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00145	CDS	1017	gap	1.2.1.12	COG0057	Glyceraldehyde-3-phosphate dehydrogenase
+Patescibacteria_metaspades_Bin_5_7-contigs_00146	CDS	927	ppaC	3.6.1.1	COG1227	Manganese-dependent inorganic pyrophosphatase
+Patescibacteria_metaspades_Bin_5_7-contigs_00147	CDS	558				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00148	CDS	288				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00149	CDS	1182				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00150	CDS	705				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00151	CDS	366				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00152	CDS	120				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00153	CDS	3882				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00154	CDS	1533				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00155	CDS	1905				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00156	CDS	1719				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00157	CDS	1476				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00158	CDS	597				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00159	CDS	120				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00160	CDS	198				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00161	CDS	276				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00162	CDS	576				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00163	CDS	537				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00164	CDS	342				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00165	CDS	615				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00166	CDS	678				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00167	CDS	252				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00168	CDS	204				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00169	CDS	201				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00170	CDS	222				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00171	CDS	558				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00172	CDS	237				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00173	CDS	174				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00174	CDS	240				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00175	CDS	762				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00176	CDS	207				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00177	CDS	207				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00178	CDS	321				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00179	CDS	360				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00180	CDS	225				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00181	CDS	798				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00182	CDS	609				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00183	CDS	489				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00184	CDS	267				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00185	CDS	780	tatC			Sec-independent protein translocase protein TatC
+Patescibacteria_metaspades_Bin_5_7-contigs_00186	CDS	717	tmk	2.7.4.9		Thymidylate kinase
+Patescibacteria_metaspades_Bin_5_7-contigs_00187	CDS	570				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00188	tRNA	75				tRNA-Val(gac)
+Patescibacteria_metaspades_Bin_5_7-contigs_00189	CDS	1305	sigA		COG0568	RNA polymerase sigma factor SigA
+Patescibacteria_metaspades_Bin_5_7-contigs_00190	CDS	1767	dnaG	2.7.7.-		DNA primase
+Patescibacteria_metaspades_Bin_5_7-contigs_00191	CDS	1515	glgA	2.4.1.21	COG0297	Glycogen synthase
+Patescibacteria_metaspades_Bin_5_7-contigs_00192	CDS	1473				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00193	CDS	1368				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00194	CDS	630				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00195	CDS	222				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00196	CDS	1008	mbl		COG1077	Cell shape-determining protein Mbl
+Patescibacteria_metaspades_Bin_5_7-contigs_00197	CDS	1317	murA	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+Patescibacteria_metaspades_Bin_5_7-contigs_00198	CDS	2019	pheT	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+Patescibacteria_metaspades_Bin_5_7-contigs_00199	CDS	1038	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+Patescibacteria_metaspades_Bin_5_7-contigs_00200	CDS	2643	pacL	7.2.2.10	COG0474	Calcium-transporting ATPase
+Patescibacteria_metaspades_Bin_5_7-contigs_00201	CDS	1494	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+Patescibacteria_metaspades_Bin_5_7-contigs_00202	CDS	1080	rpsA		COG0539	30S ribosomal protein S1
+Patescibacteria_metaspades_Bin_5_7-contigs_00203	CDS	606				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00204	CDS	243				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00205	CDS	264				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00206	CDS	216				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00207	CDS	354				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00208	CDS	228				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00209	tRNA	75				tRNA-Trp(cca)
+Patescibacteria_metaspades_Bin_5_7-contigs_00210	CDS	177				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00211	CDS	177				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00212	CDS	159				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00213	CDS	402				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00214	CDS	1659	recF			DNA replication and repair protein RecF
+Patescibacteria_metaspades_Bin_5_7-contigs_00215	CDS	279				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00216	CDS	627				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00217	CDS	300				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00218	CDS	489				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00219	CDS	330				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00220	CDS	222				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00221	CDS	636				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00222	CDS	300				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00223	CDS	882				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00224	CDS	876				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00225	CDS	1047				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00226	CDS	684				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00227	CDS	1008	mltG	4.2.2.-		Endolytic murein transglycosylase
+Patescibacteria_metaspades_Bin_5_7-contigs_00228	CDS	447	def	3.5.1.88	COG0242	Peptide deformylase
+Patescibacteria_metaspades_Bin_5_7-contigs_00229	tRNA	72				tRNA-Trp(cca)
+Patescibacteria_metaspades_Bin_5_7-contigs_00230	CDS	174				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00231	tRNA	73				tRNA-Thr(ggt)
+Patescibacteria_metaspades_Bin_5_7-contigs_00232	tRNA	84				tRNA-Tyr(gta)
+Patescibacteria_metaspades_Bin_5_7-contigs_00233	CDS	714	trmD	2.1.1.228	COG0336	tRNA (guanine-N(1)-)-methyltransferase
+Patescibacteria_metaspades_Bin_5_7-contigs_00234	CDS	354				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00235	CDS	1938	gyrB	5.6.2.2	COG0187	DNA gyrase subunit B
+Patescibacteria_metaspades_Bin_5_7-contigs_00236	CDS	201	secE			Protein translocase subunit SecE
+Patescibacteria_metaspades_Bin_5_7-contigs_00237	CDS	546	nusG		COG0250	Transcription termination/antitermination protein NusG
+Patescibacteria_metaspades_Bin_5_7-contigs_00238	CDS	423	rplK		COG0080	50S ribosomal protein L11
+Patescibacteria_metaspades_Bin_5_7-contigs_00239	CDS	510				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00240	CDS	696	deoC2	4.1.2.4		Deoxyribose-phosphate aldolase 2
+Patescibacteria_metaspades_Bin_5_7-contigs_00241	CDS	1482	gatB	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+Patescibacteria_metaspades_Bin_5_7-contigs_00242	CDS	1986				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00243	CDS	858				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00244	CDS	447				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00245	CDS	2427				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00246	CDS	795	comC			Type 4 prepilin-like proteins leader peptide-processing enzyme
+Patescibacteria_metaspades_Bin_5_7-contigs_00247	CDS	636				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00248	CDS	549				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00249	CDS	570				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00250	CDS	363				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00251	CDS	2055	ligA	6.5.1.2		DNA ligase
+Patescibacteria_metaspades_Bin_5_7-contigs_00252	CDS	255				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00253	CDS	729				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00254	CDS	1227	arnC	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+Patescibacteria_metaspades_Bin_5_7-contigs_00255	CDS	519				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00256	CDS	675	rsmI	2.1.1.198	COG0313	Ribosomal RNA small subunit methyltransferase I
+Patescibacteria_metaspades_Bin_5_7-contigs_00257	CDS	1461	metG	6.1.1.10	COG0143	Methionine--tRNA ligase
+Patescibacteria_metaspades_Bin_5_7-contigs_00258	CDS	294				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00259	CDS	1203	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+Patescibacteria_metaspades_Bin_5_7-contigs_00260	CDS	951			COG0391	Gluconeogenesis factor
+Patescibacteria_metaspades_Bin_5_7-contigs_00261	CDS	1146	glmU	2.7.7.23		Bifunctional protein GlmU
+Patescibacteria_metaspades_Bin_5_7-contigs_00262	CDS	264	dpnA	2.1.1.72		Modification methylase DpnIIB
+Patescibacteria_metaspades_Bin_5_7-contigs_00263	tRNA	87				tRNA-Ser(gga)
+Patescibacteria_metaspades_Bin_5_7-contigs_00264	CDS	537				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00265	CDS	900	htpX	3.4.24.-	COG0501	Protease HtpX 
+Patescibacteria_metaspades_Bin_5_7-contigs_00266	CDS	564	lemA		COG1704	Protein LemA
+Patescibacteria_metaspades_Bin_5_7-contigs_00267	CDS	294	groS		COG0234	10 kDa chaperonin
+Patescibacteria_metaspades_Bin_5_7-contigs_00268	CDS	1662	groL			60 kDa chaperonin
+Patescibacteria_metaspades_Bin_5_7-contigs_00269	CDS	510	dhfrIII	1.5.1.3		Dihydrofolate reductase type 3
+Patescibacteria_metaspades_Bin_5_7-contigs_00270	CDS	849	thyA2	2.1.1.45	COG0207	Thymidylate synthase 2
+Patescibacteria_metaspades_Bin_5_7-contigs_00271	CDS	960				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00272	CDS	675		1.11.1.15	COG0450	Peroxiredoxin
+Patescibacteria_metaspades_Bin_5_7-contigs_00273	CDS	402	dfx	1.15.1.2	COG2033	Desulfoferrodoxin
+Patescibacteria_metaspades_Bin_5_7-contigs_00274	CDS	318				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00275	CDS	417	perR		COG0735	Peroxide-responsive repressor PerR
+Patescibacteria_metaspades_Bin_5_7-contigs_00276	CDS	333				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00277	CDS	210				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00278	CDS	891	secF		COG0341	Protein translocase subunit SecF
+Patescibacteria_metaspades_Bin_5_7-contigs_00279	CDS	1686	secD			Protein translocase subunit SecD
+Patescibacteria_metaspades_Bin_5_7-contigs_00280	CDS	606				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00281	CDS	2472	secA		COG0653	Protein translocase subunit SecA
+Patescibacteria_metaspades_Bin_5_7-contigs_00282	CDS	183				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00283	CDS	546				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00284	CDS	462	rpsE			30S ribosomal protein S5
+Patescibacteria_metaspades_Bin_5_7-contigs_00285	CDS	342	rplR		COG0256	50S ribosomal protein L18
+Patescibacteria_metaspades_Bin_5_7-contigs_00286	CDS	540	rplF			50S ribosomal protein L6
+Patescibacteria_metaspades_Bin_5_7-contigs_00287	CDS	393	rpsH		COG0096	30S ribosomal protein S8
+Patescibacteria_metaspades_Bin_5_7-contigs_00288	CDS	186	rpsN1		COG0199	30S ribosomal protein S14
+Patescibacteria_metaspades_Bin_5_7-contigs_00289	CDS	564	rplE			50S ribosomal protein L5
+Patescibacteria_metaspades_Bin_5_7-contigs_00290	CDS	306	rplX			50S ribosomal protein L24
+Patescibacteria_metaspades_Bin_5_7-contigs_00291	CDS	372	rplN		COG0093	50S ribosomal protein L14
+Patescibacteria_metaspades_Bin_5_7-contigs_00292	CDS	264	rpsQ		COG0186	30S ribosomal protein S17
+Patescibacteria_metaspades_Bin_5_7-contigs_00293	CDS	186				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00294	CDS	411	rplP		COG0197	50S ribosomal protein L16
+Patescibacteria_metaspades_Bin_5_7-contigs_00295	CDS	648	rpsC		COG0092	30S ribosomal protein S3
+Patescibacteria_metaspades_Bin_5_7-contigs_00296	CDS	501				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00297	CDS	285	rpsS			30S ribosomal protein S19
+Patescibacteria_metaspades_Bin_5_7-contigs_00298	CDS	783	rplB			50S ribosomal protein L2
+Patescibacteria_metaspades_Bin_5_7-contigs_00299	CDS	375				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00300	CDS	672	rplD			50S ribosomal protein L4
+Patescibacteria_metaspades_Bin_5_7-contigs_00301	CDS	564	rplC		COG0087	50S ribosomal protein L3
+Patescibacteria_metaspades_Bin_5_7-contigs_00302	CDS	369	rpsJ		COG0051	30S ribosomal protein S10
+Patescibacteria_metaspades_Bin_5_7-contigs_00303	CDS	1200	tufA		COG0050	Elongation factor Tu
+Patescibacteria_metaspades_Bin_5_7-contigs_00304	CDS	2112	fusA		COG0480	Elongation factor G
+Patescibacteria_metaspades_Bin_5_7-contigs_00305	CDS	459	rpsG		COG0049	30S ribosomal protein S7
+Patescibacteria_metaspades_Bin_5_7-contigs_00306	CDS	411	rpsL		COG0048	30S ribosomal protein S12
+Patescibacteria_metaspades_Bin_5_7-contigs_00307	CDS	213				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00308	CDS	1029				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00309	CDS	1065	adk_2	2.7.4.3		Adenylate kinase
+Patescibacteria_metaspades_Bin_5_7-contigs_00310	CDS	705				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00311	CDS	891	comEC_2		COG0658	ComE operon protein 3
+Patescibacteria_metaspades_Bin_5_7-contigs_00312	CDS	273				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00313	CDS	1236				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00314	CDS	375				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00315	CDS	969	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+Patescibacteria_metaspades_Bin_5_7-contigs_00316	CDS	714				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00317	CDS	330				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00318	CDS	1467	cca	2.7.7.72		CCA-adding enzyme
+Patescibacteria_metaspades_Bin_5_7-contigs_00319	CDS	264				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00320	CDS	573	clpP	3.4.21.92		ATP-dependent Clp protease proteolytic subunit
+Patescibacteria_metaspades_Bin_5_7-contigs_00321	CDS	1005	nusA		COG0195	Transcription termination/antitermination protein NusA
+Patescibacteria_metaspades_Bin_5_7-contigs_00322	CDS	369	phoP		COG0745	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+Patescibacteria_metaspades_Bin_5_7-contigs_00323	CDS	381	phoB		COG0745	Phosphate regulon transcriptional regulatory protein PhoB
+Patescibacteria_metaspades_Bin_5_7-contigs_00324	CDS	870				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00325	CDS	267	rpsT		COG0268	30S ribosomal protein S20
+Patescibacteria_metaspades_Bin_5_7-contigs_00326	tRNA	76				tRNA-Ile(tat)
+Patescibacteria_metaspades_Bin_5_7-contigs_00327	CDS	678				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00328	CDS	840	ftsQ			Cell division protein FtsQ
+Patescibacteria_metaspades_Bin_5_7-contigs_00329	CDS	993				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00330	CDS	1221	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+Patescibacteria_metaspades_Bin_5_7-contigs_00331	CDS	1302	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+Patescibacteria_metaspades_Bin_5_7-contigs_00332	CDS	1467	lysS	6.1.1.6	COG1190	Lysine--tRNA ligase
+Patescibacteria_metaspades_Bin_5_7-contigs_00333	CDS	126				hypothetical protein
+Patescibacteria_metaspades_Bin_5_7-contigs_00334	CDS	960	ftsX		COG2177	Cell division protein FtsX
+Patescibacteria_metaspades_Bin_5_7-contigs_00335	CDS	696	ftsE		COG2884	Cell division ATP-binding protein FtsE
+Patescibacteria_metaspades_Bin_5_7-contigs_00336	CDS	663	prfB			Peptide chain release factor 2

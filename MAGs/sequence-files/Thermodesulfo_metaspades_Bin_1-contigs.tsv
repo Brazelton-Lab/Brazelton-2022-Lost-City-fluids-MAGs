@@ -1,0 +1,1335 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+Thermodesulfo_metaspades_Bin_1-contigs_00001	CDS	693				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00002	CDS	474				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00003	CDS	1926	dxs	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+Thermodesulfo_metaspades_Bin_1-contigs_00004	CDS	891		2.5.1.10		Farnesyl diphosphate synthase
+Thermodesulfo_metaspades_Bin_1-contigs_00005	CDS	1542	guaA	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+Thermodesulfo_metaspades_Bin_1-contigs_00006	CDS	1461	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+Thermodesulfo_metaspades_Bin_1-contigs_00007	CDS	669	ppiD	5.2.1.8	COG0760	Peptidyl-prolyl cis-trans isomerase D
+Thermodesulfo_metaspades_Bin_1-contigs_00008	CDS	849	ispH	1.17.7.4	COG0761	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+Thermodesulfo_metaspades_Bin_1-contigs_00009	CDS	1611	rpsA		COG0539	30S ribosomal protein S1
+Thermodesulfo_metaspades_Bin_1-contigs_00010	CDS	867	sppA	3.4.21.-	COG0616	Putative signal peptide peptidase SppA
+Thermodesulfo_metaspades_Bin_1-contigs_00011	CDS	474	rimP			Ribosome maturation factor RimP
+Thermodesulfo_metaspades_Bin_1-contigs_00012	CDS	1104	nusA		COG0195	Transcription termination/antitermination protein NusA
+Thermodesulfo_metaspades_Bin_1-contigs_00013	CDS	243				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00014	CDS	1095	miaB_1	2.8.4.3		tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+Thermodesulfo_metaspades_Bin_1-contigs_00015	CDS	711	walR		COG0745	Transcriptional regulatory protein WalR
+Thermodesulfo_metaspades_Bin_1-contigs_00016	CDS	1092	aroB	4.2.3.4	COG0337	3-dehydroquinate synthase
+Thermodesulfo_metaspades_Bin_1-contigs_00017	CDS	513	aroK	2.7.1.71	COG0703	Shikimate kinase
+Thermodesulfo_metaspades_Bin_1-contigs_00018	CDS	1332	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+Thermodesulfo_metaspades_Bin_1-contigs_00019	CDS	384				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00020	CDS	243				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00021	CDS	318				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00022	CDS	528				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00023	CDS	1284	hemL	5.4.3.8	COG0001	Glutamate-1-semialdehyde 2,1-aminomutase
+Thermodesulfo_metaspades_Bin_1-contigs_00024	CDS	1425	pyk	2.7.1.40		Pyruvate kinase
+Thermodesulfo_metaspades_Bin_1-contigs_00025	CDS	858	dat	2.6.1.21		D-alanine aminotransferase
+Thermodesulfo_metaspades_Bin_1-contigs_00026	CDS	1020	trpD	2.4.2.18	COG0547	Anthranilate phosphoribosyltransferase
+Thermodesulfo_metaspades_Bin_1-contigs_00027	CDS	1206	dsvA		COG2221	Sulfite reductase, dissimilatory-type subunit alpha
+Thermodesulfo_metaspades_Bin_1-contigs_00028	CDS	1071	dsvB	1.8.99.5	COG2221	Sulfite reductase, dissimilatory-type subunit beta
+Thermodesulfo_metaspades_Bin_1-contigs_00029	CDS	246				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00030	CDS	1383	cbiA	6.3.5.11	COG1797	Cobyrinate a,c-diamide synthase
+Thermodesulfo_metaspades_Bin_1-contigs_00031	CDS	1083				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00032	CDS	1950	pbpG		COG0744	Penicillin-binding protein 2D
+Thermodesulfo_metaspades_Bin_1-contigs_00033	CDS	537		3.6.1.15	COG1618	Nucleoside-triphosphatase THEP1
+Thermodesulfo_metaspades_Bin_1-contigs_00034	CDS	1407				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00035	CDS	885				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00036	CDS	261				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00037	CDS	471				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00038	CDS	750				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00039	CDS	252				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00040	tRNA	76				tRNA-Ala(ggc)
+Thermodesulfo_metaspades_Bin_1-contigs_00041	CDS	924	cysL		COG0583	HTH-type transcriptional regulator CysL
+Thermodesulfo_metaspades_Bin_1-contigs_00042	CDS	1284	bzaA	4.1.99.23		5-hydroxybenzimidazole synthase BzaA
+Thermodesulfo_metaspades_Bin_1-contigs_00043	CDS	723	thiE_1	2.5.1.3		Thiamine-phosphate synthase
+Thermodesulfo_metaspades_Bin_1-contigs_00044	CDS	771	thiG	2.8.1.10	COG2022	Thiazole synthase
+Thermodesulfo_metaspades_Bin_1-contigs_00045	CDS	219				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00046	CDS	144				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00047	CDS	876	glyQ	6.1.1.14	COG0752	Glycine--tRNA ligase alpha subunit
+Thermodesulfo_metaspades_Bin_1-contigs_00048	CDS	2091	glyS	6.1.1.14	COG0751	Glycine--tRNA ligase beta subunit
+Thermodesulfo_metaspades_Bin_1-contigs_00049	CDS	1098	ychF		COG0012	Ribosome-binding ATPase YchF
+Thermodesulfo_metaspades_Bin_1-contigs_00050	CDS	519	ogt	2.1.1.63	COG0350	Methylated-DNA--protein-cysteine methyltransferase
+Thermodesulfo_metaspades_Bin_1-contigs_00051	CDS	273				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00052	CDS	312				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00053	CDS	471				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00054	CDS	636	queE_1	4.3.99.3		7-carboxy-7-deazaguanine synthase
+Thermodesulfo_metaspades_Bin_1-contigs_00055	CDS	699				putative protein
+Thermodesulfo_metaspades_Bin_1-contigs_00056	CDS	543	COQ7	1.14.99.60		5-demethoxyubiquinone hydroxylase, mitochondrial
+Thermodesulfo_metaspades_Bin_1-contigs_00057	CDS	453	dfx	1.15.1.2	COG2033	Desulfoferrodoxin
+Thermodesulfo_metaspades_Bin_1-contigs_00058	CDS	1689	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+Thermodesulfo_metaspades_Bin_1-contigs_00059	CDS	1032	ppx2	3.6.1.11	COG0248	Exopolyphosphatase 2
+Thermodesulfo_metaspades_Bin_1-contigs_00060	CDS	483	argA	2.3.1.1		Amino-acid acetyltransferase
+Thermodesulfo_metaspades_Bin_1-contigs_00061	CDS	507				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00062	CDS	780	bamA_1			Outer membrane protein assembly factor BamA
+Thermodesulfo_metaspades_Bin_1-contigs_00063	CDS	1968	bamA_2			Outer membrane protein assembly factor BamA
+Thermodesulfo_metaspades_Bin_1-contigs_00064	CDS	4020				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00065	CDS	1413	rpoD			RNA polymerase sigma factor RpoD
+Thermodesulfo_metaspades_Bin_1-contigs_00066	rRNA	1032				23S ribosomal RNA (partial)
+Thermodesulfo_metaspades_Bin_1-contigs_00067	CDS	969		3.1.3.11	COG1494	D-fructose 1,6-bisphosphatase class 2/sedoheptulose 1,7-bisphosphatase
+Thermodesulfo_metaspades_Bin_1-contigs_00068	CDS	426	dnaJ_1			Chaperone protein DnaJ
+Thermodesulfo_metaspades_Bin_1-contigs_00069	CDS	882	hflC		COG0330	Modulator of FtsH protease HflC
+Thermodesulfo_metaspades_Bin_1-contigs_00070	CDS	1098				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00071	CDS	453	mraZ			Transcriptional regulator MraZ
+Thermodesulfo_metaspades_Bin_1-contigs_00072	CDS	882	rsmH	2.1.1.199	COG0275	Ribosomal RNA small subunit methyltransferase H
+Thermodesulfo_metaspades_Bin_1-contigs_00073	CDS	363				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00074	CDS	1743	ftsI	3.4.16.4	COG0768	Peptidoglycan D,D-transpeptidase FtsI
+Thermodesulfo_metaspades_Bin_1-contigs_00075	CDS	1635	murE	6.3.2.13	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+Thermodesulfo_metaspades_Bin_1-contigs_00076	CDS	1404	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+Thermodesulfo_metaspades_Bin_1-contigs_00077	CDS	1083	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+Thermodesulfo_metaspades_Bin_1-contigs_00078	CDS	1035				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00079	CDS	1284	ftsW	2.4.1.129		peptidoglycan glycosyltransferase FtsW
+Thermodesulfo_metaspades_Bin_1-contigs_00080	CDS	1122	murG	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+Thermodesulfo_metaspades_Bin_1-contigs_00081	CDS	1470	murC	6.3.2.8	COG0773	UDP-N-acetylmuramate--L-alanine ligase
+Thermodesulfo_metaspades_Bin_1-contigs_00082	CDS	927	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+Thermodesulfo_metaspades_Bin_1-contigs_00083	CDS	942	ddlB	6.3.2.4	COG1181	D-alanine--D-alanine ligase B
+Thermodesulfo_metaspades_Bin_1-contigs_00084	CDS	165				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00085	CDS	1650	flgK		COG1256	Flagellar hook-associated protein 1
+Thermodesulfo_metaspades_Bin_1-contigs_00086	CDS	438				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00087	CDS	300				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00088	CDS	420				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00089	CDS	1131	flgI			Flagellar P-ring protein
+Thermodesulfo_metaspades_Bin_1-contigs_00090	CDS	768	flgH			Flagellar L-ring protein
+Thermodesulfo_metaspades_Bin_1-contigs_00091	CDS	726				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00092	CDS	789	flgG_1		COG4786	Flagellar basal-body rod protein FlgG
+Thermodesulfo_metaspades_Bin_1-contigs_00093	CDS	729	flgG_2		COG4786	Flagellar basal-body rod protein FlgG
+Thermodesulfo_metaspades_Bin_1-contigs_00094	CDS	192				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00095	CDS	843	rny_1	3.1.-.-		Ribonuclease Y
+Thermodesulfo_metaspades_Bin_1-contigs_00096	CDS	4230				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00097	CDS	1014				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00098	CDS	675	tmk	2.7.4.9	COG0125	Thymidylate kinase
+Thermodesulfo_metaspades_Bin_1-contigs_00099	CDS	1023				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00100	CDS	906				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00101	CDS	1632	metG	6.1.1.10	COG0143	Methionine--tRNA ligase
+Thermodesulfo_metaspades_Bin_1-contigs_00102	CDS	945				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00103	CDS	213				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00104	CDS	198				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00105	CDS	126				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00106	CDS	2241	metE	2.1.1.14	COG0620	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+Thermodesulfo_metaspades_Bin_1-contigs_00107	CDS	531	bioY_1		COG1268	Biotin transporter BioY
+Thermodesulfo_metaspades_Bin_1-contigs_00108	CDS	1017	bioB	2.8.1.6		Biotin synthase
+Thermodesulfo_metaspades_Bin_1-contigs_00109	CDS	282				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00110	CDS	648				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00111	CDS	129				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00112	CDS	363				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00113	CDS	189				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00114	CDS	354				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00115	CDS	144				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00116	CDS	198				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00117	CDS	450				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00118	CDS	438				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00119	CDS	792				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00120	CDS	1260	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+Thermodesulfo_metaspades_Bin_1-contigs_00121	CDS	261				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00122	CDS	1005	pal_1			Peptidoglycan-associated lipoprotein
+Thermodesulfo_metaspades_Bin_1-contigs_00123	CDS	345				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00124	CDS	606				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00125	tRNA	73				tRNA-Lys(ttt)
+Thermodesulfo_metaspades_Bin_1-contigs_00126	tRNA	76				tRNA-Glu(ttc)
+Thermodesulfo_metaspades_Bin_1-contigs_00127	CDS	1242				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00128	CDS	1005	gap	1.2.1.12		Glyceraldehyde-3-phosphate dehydrogenase
+Thermodesulfo_metaspades_Bin_1-contigs_00129	CDS	1236	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+Thermodesulfo_metaspades_Bin_1-contigs_00130	CDS	930	speE_1	2.5.1.104	COG0421	Polyamine aminopropyltransferase
+Thermodesulfo_metaspades_Bin_1-contigs_00131	CDS	408	speH	4.1.1.50	COG1586	S-adenosylmethionine decarboxylase proenzyme
+Thermodesulfo_metaspades_Bin_1-contigs_00132	CDS	1839	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+Thermodesulfo_metaspades_Bin_1-contigs_00133	CDS	723	hisA	5.3.1.16	COG0106	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+Thermodesulfo_metaspades_Bin_1-contigs_00134	CDS	1077	dnaJ_2		COG0484	Chaperone protein DnaJ
+Thermodesulfo_metaspades_Bin_1-contigs_00135	CDS	2658	clpB1		COG0542	Chaperone protein ClpB 1
+Thermodesulfo_metaspades_Bin_1-contigs_00136	tRNA	76				tRNA-Asn(gtt)
+Thermodesulfo_metaspades_Bin_1-contigs_00137	CDS	216	skfE	7.3.2.3	COG1131	SkfA peptide export ATP-binding protein SkfE
+Thermodesulfo_metaspades_Bin_1-contigs_00138	CDS	486	lnrL	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+Thermodesulfo_metaspades_Bin_1-contigs_00139	CDS	747				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00140	CDS	891	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+Thermodesulfo_metaspades_Bin_1-contigs_00141	CDS	192				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00142	CDS	1446	gatA	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+Thermodesulfo_metaspades_Bin_1-contigs_00143	CDS	714	rnc	3.1.26.3	COG0571	Ribonuclease 3
+Thermodesulfo_metaspades_Bin_1-contigs_00144	CDS	1248	fabF	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+Thermodesulfo_metaspades_Bin_1-contigs_00145	CDS	231	acpP		COG0236	Acyl carrier protein
+Thermodesulfo_metaspades_Bin_1-contigs_00146	CDS	888	pstC		COG0573	Phosphate transport system permease protein PstC
+Thermodesulfo_metaspades_Bin_1-contigs_00147	CDS	855	pstA1		COG0581	Phosphate transport system permease protein PstA 1
+Thermodesulfo_metaspades_Bin_1-contigs_00148	CDS	663	phoU		COG0704	Phosphate-specific transport system accessory protein PhoU 
+Thermodesulfo_metaspades_Bin_1-contigs_00149	CDS	207	rpsU		COG0828	30S ribosomal protein S21
+Thermodesulfo_metaspades_Bin_1-contigs_00150	CDS	984				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00151	CDS	1464	ubiD	4.1.1.98	COG0043	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+Thermodesulfo_metaspades_Bin_1-contigs_00152	CDS	1146	ribD		COG0117	Riboflavin biosynthesis protein RibD
+Thermodesulfo_metaspades_Bin_1-contigs_00153	CDS	1248	dnaA		COG0593	Chromosomal replication initiator protein DnaA
+Thermodesulfo_metaspades_Bin_1-contigs_00154	CDS	1770				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00155	CDS	402	cheY		COG0784	Chemotaxis protein CheY
+Thermodesulfo_metaspades_Bin_1-contigs_00156	CDS	480	rcsC_1	2.7.13.3		Sensor histidine kinase RcsC
+Thermodesulfo_metaspades_Bin_1-contigs_00157	CDS	495	tadA	3.5.4.33	COG0590	tRNA-specific adenosine deaminase
+Thermodesulfo_metaspades_Bin_1-contigs_00158	CDS	648	hypB		COG0378	Hydrogenase maturation factor HypB
+Thermodesulfo_metaspades_Bin_1-contigs_00159	CDS	378	hypA			Hydrogenase maturation factor HypA
+Thermodesulfo_metaspades_Bin_1-contigs_00160	CDS	231				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00161	CDS	2079	fusA		COG0480	Elongation factor G
+Thermodesulfo_metaspades_Bin_1-contigs_00162	CDS	474	rpsG			30S ribosomal protein S7
+Thermodesulfo_metaspades_Bin_1-contigs_00163	CDS	372	rpsL			30S ribosomal protein S12
+Thermodesulfo_metaspades_Bin_1-contigs_00164	tRNA	87				tRNA-Leu(caa)
+Thermodesulfo_metaspades_Bin_1-contigs_00165	CDS	1014	ilvC	1.1.1.382		Ketol-acid reductoisomerase (NAD(+))
+Thermodesulfo_metaspades_Bin_1-contigs_00166	CDS	348				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00167	CDS	1422	tldD	3.4.-.-	COG0312	Metalloprotease TldD
+Thermodesulfo_metaspades_Bin_1-contigs_00168	CDS	1215				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00169	CDS	528	sulD		COG0801	Bifunctional folate synthesis protein
+Thermodesulfo_metaspades_Bin_1-contigs_00170	CDS	1167	dapL	2.6.1.83	COG0436	LL-diaminopimelate aminotransferase
+Thermodesulfo_metaspades_Bin_1-contigs_00171	CDS	2211	relA	2.7.6.5	COG0317	GTP pyrophosphokinase
+Thermodesulfo_metaspades_Bin_1-contigs_00172	CDS	450				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00173	CDS	702				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00174	CDS	996	ribF			Bifunctional riboflavin kinase/FMN adenylyltransferase
+Thermodesulfo_metaspades_Bin_1-contigs_00175	CDS	621	coaE	2.7.1.24	COG0237	Dephospho-CoA kinase
+Thermodesulfo_metaspades_Bin_1-contigs_00176	CDS	1581	mutS		COG0249	DNA mismatch repair protein MutS
+Thermodesulfo_metaspades_Bin_1-contigs_00177	CDS	1140				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00178	CDS	1197	argG	6.3.4.5	COG0137	Argininosuccinate synthase
+Thermodesulfo_metaspades_Bin_1-contigs_00179	CDS	831	comC			Type 4 prepilin-like proteins leader peptide-processing enzyme
+Thermodesulfo_metaspades_Bin_1-contigs_00180	CDS	315				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00181	CDS	195				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00182	CDS	345				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00183	CDS	120				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00184	CDS	201				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00185	CDS	2076	ctpC_1	3.6.3.-	COG2217	Manganese-exporting P-type ATPase
+Thermodesulfo_metaspades_Bin_1-contigs_00186	tRNA	84				tRNA-Leu(tag)
+Thermodesulfo_metaspades_Bin_1-contigs_00187	tRNA	91				tRNA-Ser(tga)
+Thermodesulfo_metaspades_Bin_1-contigs_00188	CDS	381	iscU		COG0822	Iron-sulfur cluster assembly scaffold protein IscU
+Thermodesulfo_metaspades_Bin_1-contigs_00189	CDS	1215	iscS	2.8.1.7		Cysteine desulfurase IscS
+Thermodesulfo_metaspades_Bin_1-contigs_00190	CDS	246	tusA			Sulfur carrier protein TusA
+Thermodesulfo_metaspades_Bin_1-contigs_00191	CDS	462	iscR		COG1959	HTH-type transcriptional regulator IscR
+Thermodesulfo_metaspades_Bin_1-contigs_00192	CDS	1005	gpsA	1.1.1.94		Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+Thermodesulfo_metaspades_Bin_1-contigs_00193	CDS	336		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+Thermodesulfo_metaspades_Bin_1-contigs_00194	CDS	306	rlmB_1	2.1.1.185		23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+Thermodesulfo_metaspades_Bin_1-contigs_00195	CDS	2154	mshC	6.3.1.13		L-cysteine:1D-myo-inositol 2-amino-2-deoxy-alpha-D-glucopyranoside ligase
+Thermodesulfo_metaspades_Bin_1-contigs_00196	CDS	2637	adhE		COG1012	Aldehyde-alcohol dehydrogenase
+Thermodesulfo_metaspades_Bin_1-contigs_00197	CDS	480				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00198	CDS	549				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00199	CDS	921			COG4663	Lactate-binding periplasmic protein
+Thermodesulfo_metaspades_Bin_1-contigs_00200	CDS	549				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00201	CDS	1311	dctM		COG1593	C4-dicarboxylate TRAP transporter large permease protein DctM
+Thermodesulfo_metaspades_Bin_1-contigs_00202	CDS	1653	rcsC_2	2.7.13.3		Sensor histidine kinase RcsC
+Thermodesulfo_metaspades_Bin_1-contigs_00203	CDS	1536	hisB_1	3.1.3.15		Histidine biosynthesis bifunctional protein HisB
+Thermodesulfo_metaspades_Bin_1-contigs_00204	CDS	1053	rfaC	2.-.-.-	COG0859	Lipopolysaccharide heptosyltransferase 1
+Thermodesulfo_metaspades_Bin_1-contigs_00205	CDS	678	COQ5	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+Thermodesulfo_metaspades_Bin_1-contigs_00206	CDS	1536	comM		COG0606	Competence protein ComM
+Thermodesulfo_metaspades_Bin_1-contigs_00207	CDS	924				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00208	CDS	672				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00209	CDS	1596				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00210	CDS	363				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00211	CDS	435				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00212	CDS	303				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00213	CDS	252				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00214	CDS	894	znuA		COG0803	High-affinity zinc uptake system binding-protein ZnuA
+Thermodesulfo_metaspades_Bin_1-contigs_00215	CDS	342				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00216	CDS	1743	nadE	6.3.5.1	COG0171	Glutamine-dependent NAD(+) synthetase
+Thermodesulfo_metaspades_Bin_1-contigs_00217	CDS	315				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00218	CDS	846	rsmI	2.1.1.198		Ribosomal RNA small subunit methyltransferase I
+Thermodesulfo_metaspades_Bin_1-contigs_00219	CDS	423				Protein archease
+Thermodesulfo_metaspades_Bin_1-contigs_00220	CDS	591	ecdB	2.5.1.129	COG0163	putative UbiX-like flavin prenyltransferase
+Thermodesulfo_metaspades_Bin_1-contigs_00221	CDS	1551				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00222	CDS	804				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00223	CDS	693				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00224	CDS	861		1.2.7.10	COG1013	Oxalate oxidoreductase subunit beta
+Thermodesulfo_metaspades_Bin_1-contigs_00225	CDS	1158	padG	1.2.1.58		NADH-dependent phenylglyoxylate dehydrogenase subunit alpha
+Thermodesulfo_metaspades_Bin_1-contigs_00226	CDS	603				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00227	CDS	333	trxA			Thioredoxin 1
+Thermodesulfo_metaspades_Bin_1-contigs_00228	CDS	1326	ffh		COG0541	Signal recognition particle protein
+Thermodesulfo_metaspades_Bin_1-contigs_00229	CDS	513	hybD	3.4.23.-	COG0680	Hydrogenase 2 maturation protease
+Thermodesulfo_metaspades_Bin_1-contigs_00230	CDS	225	hybG		COG0298	Hydrogenase maturation factor HybG
+Thermodesulfo_metaspades_Bin_1-contigs_00231	CDS	216				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00232	CDS	276	zapA			Cell division protein ZapA
+Thermodesulfo_metaspades_Bin_1-contigs_00233	CDS	1185	larC	4.99.1.12		Pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel insertion protein
+Thermodesulfo_metaspades_Bin_1-contigs_00234	tRNA	72				tRNA-Thr(cgt)
+Thermodesulfo_metaspades_Bin_1-contigs_00235	CDS	834	nfuA_1			Fe/S biogenesis protein NfuA
+Thermodesulfo_metaspades_Bin_1-contigs_00236	CDS	378				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00237	CDS	1458	accC_1	6.3.4.14	COG0439	Biotin carboxylase
+Thermodesulfo_metaspades_Bin_1-contigs_00238	CDS	2034	pycA	6.4.1.1		Pyruvate carboxylase
+Thermodesulfo_metaspades_Bin_1-contigs_00239	CDS	483				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00240	tRNA	90				tRNA-Ser(cga)
+Thermodesulfo_metaspades_Bin_1-contigs_00241	CDS	1233	epsF_1		COG1459	Type II secretion system protein F
+Thermodesulfo_metaspades_Bin_1-contigs_00242	CDS	708				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00243	CDS	1287	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+Thermodesulfo_metaspades_Bin_1-contigs_00244	CDS	1578	serA	1.1.1.95	COG0111	D-3-phosphoglycerate dehydrogenase
+Thermodesulfo_metaspades_Bin_1-contigs_00245	CDS	1140		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+Thermodesulfo_metaspades_Bin_1-contigs_00246	CDS	345		3.9.1.-	COG0537	Purine nucleoside phosphoramidase
+Thermodesulfo_metaspades_Bin_1-contigs_00247	CDS	1014	asd2	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase 2
+Thermodesulfo_metaspades_Bin_1-contigs_00248	CDS	1161	metK_1	2.5.1.6		S-adenosylmethionine synthase
+Thermodesulfo_metaspades_Bin_1-contigs_00249	CDS	1275	ahcY	3.3.1.1	COG0499	Adenosylhomocysteinase
+Thermodesulfo_metaspades_Bin_1-contigs_00250	CDS	1134	tgt	2.4.2.29	COG0343	Queuine tRNA-ribosyltransferase
+Thermodesulfo_metaspades_Bin_1-contigs_00251	CDS	1182	mshA_1	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+Thermodesulfo_metaspades_Bin_1-contigs_00252	CDS	2334	kojP	2.4.1.230		Kojibiose phosphorylase
+Thermodesulfo_metaspades_Bin_1-contigs_00253	CDS	675	pgmB	5.4.2.6	COG0637	Beta-phosphoglucomutase
+Thermodesulfo_metaspades_Bin_1-contigs_00254	CDS	747	yggS		COG0325	Pyridoxal phosphate homeostasis protein
+Thermodesulfo_metaspades_Bin_1-contigs_00255	CDS	789	proC	1.5.1.2	COG0345	Pyrroline-5-carboxylate reductase
+Thermodesulfo_metaspades_Bin_1-contigs_00256	CDS	468	divIVA		COG3599	Septum site-determining protein DivIVA
+Thermodesulfo_metaspades_Bin_1-contigs_00257	CDS	1269	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+Thermodesulfo_metaspades_Bin_1-contigs_00258	CDS	1356	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+Thermodesulfo_metaspades_Bin_1-contigs_00259	CDS	1209	apgM_1			2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+Thermodesulfo_metaspades_Bin_1-contigs_00260	CDS	345	ftsB			Cell division protein FtsB
+Thermodesulfo_metaspades_Bin_1-contigs_00261	CDS	1176	ytlR	2.7.1.-	COG1597	Putative lipid kinase YtlR
+Thermodesulfo_metaspades_Bin_1-contigs_00262	CDS	1692	lldP		COG1620	L-lactate permease
+Thermodesulfo_metaspades_Bin_1-contigs_00263	CDS	651	gph	3.1.3.18	COG0546	Phosphoglycolate phosphatase
+Thermodesulfo_metaspades_Bin_1-contigs_00264	CDS	306				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00265	CDS	486				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00266	CDS	141				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00267	CDS	3138		7.2.2.10		Calcium-transporting ATPase 1
+Thermodesulfo_metaspades_Bin_1-contigs_00268	CDS	1206	metK_2	2.5.1.6		S-adenosylmethionine synthase
+Thermodesulfo_metaspades_Bin_1-contigs_00269	tRNA	78				tRNA-Pro(ggg)
+Thermodesulfo_metaspades_Bin_1-contigs_00270	CDS	822	htpX	3.4.24.-	COG0501	Protease HtpX 
+Thermodesulfo_metaspades_Bin_1-contigs_00271	CDS	1623	murJ		COG0728	Lipid II flippase MurJ
+Thermodesulfo_metaspades_Bin_1-contigs_00272	CDS	645	gloC	3.1.2.6	COG0491	Hydroxyacylglutathione hydrolase GloC
+Thermodesulfo_metaspades_Bin_1-contigs_00273	tRNA	74				tRNA-Met(cat)
+Thermodesulfo_metaspades_Bin_1-contigs_00274	CDS	2154	mltF	4.2.2.-		Membrane-bound lytic murein transglycosylase F
+Thermodesulfo_metaspades_Bin_1-contigs_00275	CDS	1209	aroC	4.2.3.5	COG0082	Chorismate synthase
+Thermodesulfo_metaspades_Bin_1-contigs_00276	CDS	1176	pilT_1		COG2805	Twitching mobility protein
+Thermodesulfo_metaspades_Bin_1-contigs_00277	CDS	1062	pilT_2		COG2805	Twitching mobility protein
+Thermodesulfo_metaspades_Bin_1-contigs_00278	CDS	2679	secA		COG0653	Protein translocase subunit SecA
+Thermodesulfo_metaspades_Bin_1-contigs_00279	CDS	204				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00280	CDS	1020	ynhG	2.-.-.-	COG1376	putative L,D-transpeptidase YnhG
+Thermodesulfo_metaspades_Bin_1-contigs_00281	CDS	351				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00282	CDS	747	surE	3.1.3.5	COG0496	5'-nucleotidase SurE
+Thermodesulfo_metaspades_Bin_1-contigs_00283	CDS	1389		1.18.1.2		Ferredoxin--NADP reductase
+Thermodesulfo_metaspades_Bin_1-contigs_00284	CDS	645	pcm_1	2.1.1.77	COG2518	Protein-L-isoaspartate O-methyltransferase
+Thermodesulfo_metaspades_Bin_1-contigs_00285	CDS	966	rgtE	2.4.1.-	COG0463	Dodecaprenyl-phosphate galacturonate synthase
+Thermodesulfo_metaspades_Bin_1-contigs_00286	CDS	1959	mnmG		COG0445	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+Thermodesulfo_metaspades_Bin_1-contigs_00287	CDS	375				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00288	CDS	294				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00289	CDS	1353	mepM	3.4.24.-	COG0739	Murein DD-endopeptidase MepM
+Thermodesulfo_metaspades_Bin_1-contigs_00290	CDS	1539	cysG_1	4.99.1.4		Siroheme synthase
+Thermodesulfo_metaspades_Bin_1-contigs_00291	CDS	969	hemC	2.5.1.61	COG0181	Porphobilinogen deaminase
+Thermodesulfo_metaspades_Bin_1-contigs_00292	CDS	639				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00293	CDS	141				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00294	CDS	597				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00295	CDS	2016				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00296	CDS	1278	hemA	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+Thermodesulfo_metaspades_Bin_1-contigs_00297	CDS	816	ccsA_1			Cytochrome c biogenesis protein CcsA
+Thermodesulfo_metaspades_Bin_1-contigs_00298	CDS	1872				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00299	CDS	564	mgtA	2.4.1.-	COG0438	GDP-mannose-dependent alpha-mannosyltransferase
+Thermodesulfo_metaspades_Bin_1-contigs_00300	CDS	1374	tuaD	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase TuaD
+Thermodesulfo_metaspades_Bin_1-contigs_00301	CDS	1734				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00302	CDS	750	uppS	2.5.1.-		Isoprenyl transferase
+Thermodesulfo_metaspades_Bin_1-contigs_00303	CDS	819	cdsA	2.7.7.41	COG0575	Phosphatidate cytidylyltransferase
+Thermodesulfo_metaspades_Bin_1-contigs_00304	CDS	1167	dxr	1.1.1.267	COG0743	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+Thermodesulfo_metaspades_Bin_1-contigs_00305	CDS	1074				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00306	CDS	477	hldE_1		COG2870	Bifunctional protein HldE
+Thermodesulfo_metaspades_Bin_1-contigs_00307	CDS	669				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00308	CDS	1167	mrdB	2.4.1.129	COG0772	Peptidoglycan glycosyltransferase MrdB
+Thermodesulfo_metaspades_Bin_1-contigs_00309	CDS	237	ltrA		COG3344	Group II intron-encoded protein LtrA
+Thermodesulfo_metaspades_Bin_1-contigs_00310	CDS	453				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00311	CDS	234				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00312	CDS	324				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00313	CDS	531	pyrR			Bifunctional protein PyrR
+Thermodesulfo_metaspades_Bin_1-contigs_00314	CDS	912	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase
+Thermodesulfo_metaspades_Bin_1-contigs_00315	CDS	1071	mqnE	2.5.1.120	COG1060	Aminodeoxyfutalosine synthase
+Thermodesulfo_metaspades_Bin_1-contigs_00316	CDS	1224	oxlT			Oxalate:formate antiporter
+Thermodesulfo_metaspades_Bin_1-contigs_00317	CDS	1326				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00318	CDS	396				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00319	CDS	243				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00320	CDS	576	hrb		COG1773	High molecular weight rubredoxin
+Thermodesulfo_metaspades_Bin_1-contigs_00321	CDS	159			COG1773	Rubredoxin
+Thermodesulfo_metaspades_Bin_1-contigs_00322	CDS	171				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00323	CDS	561				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00324	CDS	3306	bepA	3.4.-.-		Beta-barrel assembly-enhancing protease
+Thermodesulfo_metaspades_Bin_1-contigs_00325	CDS	1653	cpoB_1			Cell division coordinator CpoB
+Thermodesulfo_metaspades_Bin_1-contigs_00326	CDS	1158	atoS	2.7.13.3	COG0642	Signal transduction histidine-protein kinase AtoS
+Thermodesulfo_metaspades_Bin_1-contigs_00327	CDS	1365	zraR		COG2204	Transcriptional regulatory protein ZraR
+Thermodesulfo_metaspades_Bin_1-contigs_00328	CDS	339	flgB		COG1815	Flagellar basal body rod protein FlgB
+Thermodesulfo_metaspades_Bin_1-contigs_00329	CDS	411	flgC		COG1558	Flagellar basal-body rod protein FlgC
+Thermodesulfo_metaspades_Bin_1-contigs_00330	CDS	294	fliE			Flagellar hook-basal body complex protein FliE
+Thermodesulfo_metaspades_Bin_1-contigs_00331	CDS	1518	fliF		COG1766	Flagellar M-ring protein
+Thermodesulfo_metaspades_Bin_1-contigs_00332	CDS	981	fliG		COG1536	Flagellar motor switch protein FliG
+Thermodesulfo_metaspades_Bin_1-contigs_00333	CDS	672				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00334	CDS	1371	fliI	7.1.2.2	COG1157	Flagellum-specific ATP synthase
+Thermodesulfo_metaspades_Bin_1-contigs_00335	CDS	459				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00336	CDS	396	rpsH		COG0096	30S ribosomal protein S8
+Thermodesulfo_metaspades_Bin_1-contigs_00337	CDS	585	rplE			50S ribosomal protein L5
+Thermodesulfo_metaspades_Bin_1-contigs_00338	CDS	318	rplX			50S ribosomal protein L24
+Thermodesulfo_metaspades_Bin_1-contigs_00339	CDS	369	rplN		COG0093	50S ribosomal protein L14
+Thermodesulfo_metaspades_Bin_1-contigs_00340	CDS	249	rpsQ		COG0186	30S ribosomal protein S17
+Thermodesulfo_metaspades_Bin_1-contigs_00341	CDS	210	rpmC			50S ribosomal protein L29
+Thermodesulfo_metaspades_Bin_1-contigs_00342	CDS	420	rplP		COG0197	50S ribosomal protein L16
+Thermodesulfo_metaspades_Bin_1-contigs_00343	CDS	657	rpsC		COG0092	30S ribosomal protein S3
+Thermodesulfo_metaspades_Bin_1-contigs_00344	CDS	342	rplV		COG0091	50S ribosomal protein L22
+Thermodesulfo_metaspades_Bin_1-contigs_00345	CDS	285	rpsS		COG0185	30S ribosomal protein S19
+Thermodesulfo_metaspades_Bin_1-contigs_00346	CDS	825	rplB			50S ribosomal protein L2
+Thermodesulfo_metaspades_Bin_1-contigs_00347	CDS	291	rplW		COG0089	50S ribosomal protein L23
+Thermodesulfo_metaspades_Bin_1-contigs_00348	CDS	687	rplD			50S ribosomal protein L4
+Thermodesulfo_metaspades_Bin_1-contigs_00349	CDS	639	rplC		COG0087	50S ribosomal protein L3
+Thermodesulfo_metaspades_Bin_1-contigs_00350	CDS	306	rpsJ		COG0051	30S ribosomal protein S10
+Thermodesulfo_metaspades_Bin_1-contigs_00351	tRNA	77				tRNA-Pro(cgg)
+Thermodesulfo_metaspades_Bin_1-contigs_00352	CDS	951				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00353	CDS	1551	nnr		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+Thermodesulfo_metaspades_Bin_1-contigs_00354	CDS	423				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00355	CDS	795	panB	2.1.2.11	COG0413	3-methyl-2-oxobutanoate hydroxymethyltransferase
+Thermodesulfo_metaspades_Bin_1-contigs_00356	CDS	819	larE	4.4.1.37	COG1606	Pyridinium-3,5-bisthiocarboxylic acid mononucleotide synthase
+Thermodesulfo_metaspades_Bin_1-contigs_00357	CDS	1203	glpC		COG0247	Anaerobic glycerol-3-phosphate dehydrogenase subunit C
+Thermodesulfo_metaspades_Bin_1-contigs_00358	CDS	648	tal	2.2.1.2	COG0176	Transaldolase
+Thermodesulfo_metaspades_Bin_1-contigs_00359	CDS	210				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00360	CDS	285				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00361	tRNA	74				tRNA-Arg(cct)
+Thermodesulfo_metaspades_Bin_1-contigs_00362	CDS	996	atoC_1		COG2204	Regulatory protein AtoC
+Thermodesulfo_metaspades_Bin_1-contigs_00363	tRNA	85				tRNA-Leu(gag)
+Thermodesulfo_metaspades_Bin_1-contigs_00364	CDS	1038	thiI	2.8.1.4		tRNA sulfurtransferase
+Thermodesulfo_metaspades_Bin_1-contigs_00365	CDS	996	hldE_2		COG2870	Bifunctional protein HldE
+Thermodesulfo_metaspades_Bin_1-contigs_00366	CDS	420	nhaX		COG0589	Stress response protein NhaX
+Thermodesulfo_metaspades_Bin_1-contigs_00367	CDS	720	menG	2.1.1.163	COG2226	Demethylmenaquinone methyltransferase
+Thermodesulfo_metaspades_Bin_1-contigs_00368	CDS	1011				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00369	CDS	276				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00370	CDS	699				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00371	CDS	714	ybeY	3.1.-.-		Endoribonuclease YbeY
+Thermodesulfo_metaspades_Bin_1-contigs_00372	CDS	1041	pgpH	3.1.4.59		Cyclic-di-AMP phosphodiesterase PgpH
+Thermodesulfo_metaspades_Bin_1-contigs_00373	CDS	243				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00374	CDS	795			COG1702	PhoH-like protein
+Thermodesulfo_metaspades_Bin_1-contigs_00375	CDS	507	queH	1.17.99.6	COG1636	Epoxyqueuosine reductase QueH
+Thermodesulfo_metaspades_Bin_1-contigs_00376	CDS	594	gmhA	5.3.1.28	COG0279	Phosphoheptose isomerase
+Thermodesulfo_metaspades_Bin_1-contigs_00377	CDS	480		2.7.7.53	COG0537	AP-4-A phosphorylase
+Thermodesulfo_metaspades_Bin_1-contigs_00378	CDS	1698		3.6.1.1		Cobalt-dependent inorganic pyrophosphatase
+Thermodesulfo_metaspades_Bin_1-contigs_00379	CDS	534				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00380	CDS	1629	recQ	3.6.4.12	COG0514	ATP-dependent DNA helicase RecQ
+Thermodesulfo_metaspades_Bin_1-contigs_00381	CDS	768	ecfT		COG0619	Energy-coupling factor transporter transmembrane protein EcfT
+Thermodesulfo_metaspades_Bin_1-contigs_00382	CDS	129				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00383	CDS	921	ilvE	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+Thermodesulfo_metaspades_Bin_1-contigs_00384	CDS	1299	purB	4.3.2.2	COG0015	Adenylosuccinate lyase
+Thermodesulfo_metaspades_Bin_1-contigs_00385	CDS	801				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00386	tRNA	76				tRNA-Ala(tgc)
+Thermodesulfo_metaspades_Bin_1-contigs_00387	tRNA	77				tRNA-Ile(gat)
+Thermodesulfo_metaspades_Bin_1-contigs_00388	CDS	555	nucH	3.1.31.1		Thermonuclease
+Thermodesulfo_metaspades_Bin_1-contigs_00389	CDS	447				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00390	CDS	225				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00391	CDS	486				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00392	CDS	1764	fhs	6.3.4.3	COG2759	Formate--tetrahydrofolate ligase
+Thermodesulfo_metaspades_Bin_1-contigs_00393	CDS	2532	uvrA_1		COG0178	UvrABC system protein A
+Thermodesulfo_metaspades_Bin_1-contigs_00394	CDS	477				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00395	CDS	540	pleD			Response regulator PleD
+Thermodesulfo_metaspades_Bin_1-contigs_00396	CDS	843				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00397	CDS	1233				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00398	CDS	1131	per	2.6.1.102	COG0399	GDP-perosamine synthase
+Thermodesulfo_metaspades_Bin_1-contigs_00399	CDS	984	iolG	1.1.1.369		Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase
+Thermodesulfo_metaspades_Bin_1-contigs_00400	CDS	771	COQ3	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+Thermodesulfo_metaspades_Bin_1-contigs_00401	CDS	462				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00402	CDS	291				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00403	CDS	372				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00404	CDS	1218				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00405	tRNA	87				tRNA-Leu(cag)
+Thermodesulfo_metaspades_Bin_1-contigs_00406	CDS	1434	gltX	6.1.1.17	COG0008	Glutamate--tRNA ligase
+Thermodesulfo_metaspades_Bin_1-contigs_00407	CDS	447	nusB			Transcription antitermination protein NusB
+Thermodesulfo_metaspades_Bin_1-contigs_00408	CDS	462	ribH	2.5.1.78	COG0054	6,7-dimethyl-8-ribityllumazine synthase
+Thermodesulfo_metaspades_Bin_1-contigs_00409	CDS	1248			COG1373	putative protein
+Thermodesulfo_metaspades_Bin_1-contigs_00410	CDS	972	galE	5.1.3.2	COG1087	UDP-glucose 4-epimerase
+Thermodesulfo_metaspades_Bin_1-contigs_00411	CDS	324				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00412	CDS	120				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00413	CDS	171				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00414	CDS	684	ecfA1	7.-.-.-		Energy-coupling factor transporter ATP-binding protein EcfA1
+Thermodesulfo_metaspades_Bin_1-contigs_00415	CDS	555	bioY_2		COG1268	Biotin transporter BioY
+Thermodesulfo_metaspades_Bin_1-contigs_00416	CDS	969	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+Thermodesulfo_metaspades_Bin_1-contigs_00417	CDS	945	surA	5.2.1.8		Chaperone SurA
+Thermodesulfo_metaspades_Bin_1-contigs_00418	CDS	723	rluB	5.4.99.22	COG1187	Ribosomal large subunit pseudouridine synthase B
+Thermodesulfo_metaspades_Bin_1-contigs_00419	CDS	1806	aspS	6.1.1.12		Aspartate--tRNA ligase
+Thermodesulfo_metaspades_Bin_1-contigs_00420	CDS	1053	ftsA_1			Cell division protein FtsA
+Thermodesulfo_metaspades_Bin_1-contigs_00421	CDS	546				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00422	CDS	561				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00423	CDS	681				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00424	CDS	777	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+Thermodesulfo_metaspades_Bin_1-contigs_00425	CDS	576				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00426	CDS	837				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00427	CDS	246	remA		COG2052	Extracellular matrix regulatory protein A
+Thermodesulfo_metaspades_Bin_1-contigs_00428	CDS	609	gmk	2.7.4.8	COG0194	Guanylate kinase
+Thermodesulfo_metaspades_Bin_1-contigs_00429	CDS	405	rpoZ	2.7.7.6		DNA-directed RNA polymerase subunit omega
+Thermodesulfo_metaspades_Bin_1-contigs_00430	CDS	1191	coaBC		COG0452	Coenzyme A biosynthesis bifunctional protein CoaBC
+Thermodesulfo_metaspades_Bin_1-contigs_00431	CDS	411				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00432	CDS	1077	ypdF	3.4.11.-	COG0006	Aminopeptidase YpdF
+Thermodesulfo_metaspades_Bin_1-contigs_00433	CDS	576	efp		COG0231	Elongation factor P
+Thermodesulfo_metaspades_Bin_1-contigs_00434	CDS	429	accB		COG0511	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+Thermodesulfo_metaspades_Bin_1-contigs_00435	CDS	1356	accC_2	6.3.4.14	COG0439	Biotin carboxylase
+Thermodesulfo_metaspades_Bin_1-contigs_00436	CDS	654	thiE_2	2.5.1.3	COG0352	Thiamine-phosphate synthase
+Thermodesulfo_metaspades_Bin_1-contigs_00437	CDS	2715	ctpF	3.6.3.-	COG0474	putative cation-transporting ATPase F
+Thermodesulfo_metaspades_Bin_1-contigs_00438	CDS	201				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00439	CDS	135				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00440	CDS	258				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00441	CDS	612	rfbC	5.1.3.13	COG1898	dTDP-4-dehydrorhamnose 3,5-epimerase
+Thermodesulfo_metaspades_Bin_1-contigs_00442	CDS	1236				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00443	CDS	1125	rfbG	4.2.1.45	COG0451	CDP-glucose 4,6-dehydratase
+Thermodesulfo_metaspades_Bin_1-contigs_00444	CDS	198				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00445	CDS	807	rfbF	2.7.7.33	COG1208	Glucose-1-phosphate cytidylyltransferase
+Thermodesulfo_metaspades_Bin_1-contigs_00446	CDS	1683	argS	6.1.1.19		Arginine--tRNA ligase
+Thermodesulfo_metaspades_Bin_1-contigs_00447	CDS	1341	trkA		COG0569	Trk system potassium uptake protein TrkA
+Thermodesulfo_metaspades_Bin_1-contigs_00448	CDS	1458	trkH		COG0168	Trk system potassium uptake protein TrkH
+Thermodesulfo_metaspades_Bin_1-contigs_00449	CDS	801	folP	2.5.1.15	COG0294	Dihydropteroate synthase
+Thermodesulfo_metaspades_Bin_1-contigs_00450	CDS	1806	ftsH	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+Thermodesulfo_metaspades_Bin_1-contigs_00451	CDS	732	rph	2.7.7.56	COG0689	Ribonuclease PH
+Thermodesulfo_metaspades_Bin_1-contigs_00452	CDS	828	murI	5.1.1.3	COG0796	Glutamate racemase
+Thermodesulfo_metaspades_Bin_1-contigs_00453	CDS	576				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00454	CDS	1086				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00455	CDS	1032	rlmN	2.1.1.192	COG0820	Dual-specificity RNA methyltransferase RlmN
+Thermodesulfo_metaspades_Bin_1-contigs_00456	tRNA	78				tRNA-Pro(tgg)
+Thermodesulfo_metaspades_Bin_1-contigs_00457	tRNA	77				tRNA-Arg(tct)
+Thermodesulfo_metaspades_Bin_1-contigs_00458	tRNA	76				tRNA-His(gtg)
+Thermodesulfo_metaspades_Bin_1-contigs_00459	tRNA	77				tRNA-Arg(ccg)
+Thermodesulfo_metaspades_Bin_1-contigs_00460	CDS	939	rluD	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+Thermodesulfo_metaspades_Bin_1-contigs_00461	CDS	516	frp	1.5.1.38		NADPH-flavin oxidoreductase
+Thermodesulfo_metaspades_Bin_1-contigs_00462	CDS	909				Nucleotide-binding protein
+Thermodesulfo_metaspades_Bin_1-contigs_00463	CDS	519	hpf		COG1544	Ribosome hibernation promotion factor
+Thermodesulfo_metaspades_Bin_1-contigs_00464	CDS	1428	rpoN		COG1508	RNA polymerase sigma-54 factor
+Thermodesulfo_metaspades_Bin_1-contigs_00465	CDS	735	lptB	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+Thermodesulfo_metaspades_Bin_1-contigs_00466	CDS	519	lptA			Lipopolysaccharide export system protein LptA
+Thermodesulfo_metaspades_Bin_1-contigs_00467	CDS	501				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00468	CDS	837	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+Thermodesulfo_metaspades_Bin_1-contigs_00469	CDS	1005	moaA_1	4.1.99.22	COG2896	GTP 3',8-cyclase
+Thermodesulfo_metaspades_Bin_1-contigs_00470	CDS	909	cpoB_2			Cell division coordinator CpoB
+Thermodesulfo_metaspades_Bin_1-contigs_00471	CDS	594	pal_2			Peptidoglycan-associated lipoprotein
+Thermodesulfo_metaspades_Bin_1-contigs_00472	CDS	1206				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00473	CDS	2421	gyrA	5.6.2.2	COG0188	DNA gyrase subunit A
+Thermodesulfo_metaspades_Bin_1-contigs_00474	CDS	492	cooF		COG1142	Iron-sulfur protein
+Thermodesulfo_metaspades_Bin_1-contigs_00475	CDS	1143	hycE		COG3261	Formate hydrogenlyase subunit 5
+Thermodesulfo_metaspades_Bin_1-contigs_00476	CDS	348				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00477	CDS	1518				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00478	CDS	621	hisH	4.3.2.10	COG0118	Imidazole glycerol phosphate synthase subunit HisH
+Thermodesulfo_metaspades_Bin_1-contigs_00479	CDS	1134	purF_1	2.4.2.14		Amidophosphoribosyltransferase
+Thermodesulfo_metaspades_Bin_1-contigs_00480	CDS	768	hisF	4.3.2.10	COG0107	Imidazole glycerol phosphate synthase subunit HisF
+Thermodesulfo_metaspades_Bin_1-contigs_00481	CDS	1524	rsxB_1	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+Thermodesulfo_metaspades_Bin_1-contigs_00482	CDS	762				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00483	CDS	675	hssR			Heme response regulator HssR
+Thermodesulfo_metaspades_Bin_1-contigs_00484	CDS	744		2.4.-.-	COG0463	putative glycosyltransferase
+Thermodesulfo_metaspades_Bin_1-contigs_00485	CDS	678	nifH1	1.18.6.1		Nitrogenase iron protein 1
+Thermodesulfo_metaspades_Bin_1-contigs_00486	CDS	153				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00487	CDS	150	glnK		COG0347	Nitrogen regulatory protein P-II 2
+Thermodesulfo_metaspades_Bin_1-contigs_00488	CDS	372	glnB		COG0347	Nitrogen regulatory protein P-II
+Thermodesulfo_metaspades_Bin_1-contigs_00489	CDS	1437	vnfD	1.18.6.1	COG2710	Nitrogenase vanadium-iron protein alpha chain
+Thermodesulfo_metaspades_Bin_1-contigs_00490	CDS	1467	anfK_1	1.18.6.1	COG2710	Nitrogenase iron-iron protein beta chain
+Thermodesulfo_metaspades_Bin_1-contigs_00491	CDS	1338	anfK_2	1.18.6.1	COG2710	Nitrogenase iron-iron protein beta chain
+Thermodesulfo_metaspades_Bin_1-contigs_00492	CDS	831	nifD_1	1.18.6.1		Nitrogenase molybdenum-iron protein alpha chain
+Thermodesulfo_metaspades_Bin_1-contigs_00493	CDS	405	nifD_2	1.18.6.1		Nitrogenase molybdenum-iron protein alpha chain
+Thermodesulfo_metaspades_Bin_1-contigs_00494	CDS	783	nifB_1	4.-.-.-	COG0535	FeMo cofactor biosynthesis protein NifB
+Thermodesulfo_metaspades_Bin_1-contigs_00495	CDS	192	nifB_2	4.-.-.-	COG0535	FeMo cofactor biosynthesis protein NifB
+Thermodesulfo_metaspades_Bin_1-contigs_00496	CDS	693				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00497	CDS	1203	amiC	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase AmiC
+Thermodesulfo_metaspades_Bin_1-contigs_00498	CDS	225	nfuA_2			Fe/S biogenesis protein NfuA
+Thermodesulfo_metaspades_Bin_1-contigs_00499	CDS	531				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00500	CDS	474	cinA			Putative competence-damage inducible protein
+Thermodesulfo_metaspades_Bin_1-contigs_00501	CDS	276				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00502	CDS	408				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00503	CDS	957	MRI1	5.3.1.23		Methylthioribose-1-phosphate isomerase
+Thermodesulfo_metaspades_Bin_1-contigs_00504	CDS	393				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00505	CDS	1242				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00506	CDS	1335				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00507	CDS	621	cpoB_3			Cell division coordinator CpoB
+Thermodesulfo_metaspades_Bin_1-contigs_00508	CDS	651				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00509	CDS	768			COG0330	putative protein
+Thermodesulfo_metaspades_Bin_1-contigs_00510	CDS	1029	dinB	2.7.7.7	COG0389	DNA polymerase IV
+Thermodesulfo_metaspades_Bin_1-contigs_00511	CDS	3957	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase
+Thermodesulfo_metaspades_Bin_1-contigs_00512	CDS	651	nfi	3.1.21.7	COG1515	Endonuclease V
+Thermodesulfo_metaspades_Bin_1-contigs_00513	CDS	1056	rtcA	6.5.1.4	COG0430	RNA 3'-terminal phosphate cyclase
+Thermodesulfo_metaspades_Bin_1-contigs_00514	tRNA	77				tRNA-Met(cat)
+Thermodesulfo_metaspades_Bin_1-contigs_00515	CDS	2373	speE_2	2.5.1.16		Polyamine aminopropyltransferase
+Thermodesulfo_metaspades_Bin_1-contigs_00516	CDS	1140	moaA_2			GTP 3',8-cyclase
+Thermodesulfo_metaspades_Bin_1-contigs_00517	CDS	735				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00518	CDS	1659	oadA_1	7.2.4.2	COG0511	Oxaloacetate decarboxylase alpha chain
+Thermodesulfo_metaspades_Bin_1-contigs_00519	CDS	1341	oadA_2	7.2.4.2	COG0511	Oxaloacetate decarboxylase alpha chain
+Thermodesulfo_metaspades_Bin_1-contigs_00520	CDS	1134				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00521	CDS	2523	acs	6.2.1.1		Acetyl-coenzyme A synthetase
+Thermodesulfo_metaspades_Bin_1-contigs_00522	CDS	1059	mch	4.2.1.148	COG2030	Beta-methylmalyl-CoA dehydratase
+Thermodesulfo_metaspades_Bin_1-contigs_00523	CDS	984	mcl1	4.1.3.24	COG2301	L-malyl-CoA/beta-methylmalyl-CoA lyase
+Thermodesulfo_metaspades_Bin_1-contigs_00524	CDS	1899	acsA_1	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+Thermodesulfo_metaspades_Bin_1-contigs_00525	CDS	906	ttdA	4.2.1.32	COG1951	L(+)-tartrate dehydratase subunit alpha
+Thermodesulfo_metaspades_Bin_1-contigs_00526	CDS	2007	prpB	4.1.3.30		2-methylisocitrate lyase
+Thermodesulfo_metaspades_Bin_1-contigs_00527	CDS	1449	prpD	4.2.1.79	COG2079	2-methylcitrate dehydratase
+Thermodesulfo_metaspades_Bin_1-contigs_00528	CDS	222				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00529	CDS	1572	pabB	2.6.1.85	COG0147	Aminodeoxychorismate synthase component 1
+Thermodesulfo_metaspades_Bin_1-contigs_00530	CDS	744	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+Thermodesulfo_metaspades_Bin_1-contigs_00531	CDS	594	dcd	3.5.4.13		dCTP deaminase
+Thermodesulfo_metaspades_Bin_1-contigs_00532	tRNA	76				tRNA-Phe(gaa)
+Thermodesulfo_metaspades_Bin_1-contigs_00533	CDS	621	yceC		COG2310	Stress response protein SCP2
+Thermodesulfo_metaspades_Bin_1-contigs_00534	CDS	582	yceD		COG2310	General stress protein 16U
+Thermodesulfo_metaspades_Bin_1-contigs_00535	CDS	951	yrbG		COG0530	Inner membrane protein YrbG
+Thermodesulfo_metaspades_Bin_1-contigs_00536	CDS	870				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00537	CDS	1176	stiP	3.4.22.-		Cysteine protease StiP
+Thermodesulfo_metaspades_Bin_1-contigs_00538	CDS	1368				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00539	CDS	1179				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00540	CDS	615				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00541	CDS	1395				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00542	CDS	1386	atoC_2		COG2204	Regulatory protein AtoC
+Thermodesulfo_metaspades_Bin_1-contigs_00543	CDS	720	zraS	2.7.13.3		Sensor protein ZraS
+Thermodesulfo_metaspades_Bin_1-contigs_00544	CDS	579	scpB		COG1386	Segregation and condensation protein B 
+Thermodesulfo_metaspades_Bin_1-contigs_00545	CDS	141				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00546	CDS	873	ispE	2.7.1.148		Putative 4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+Thermodesulfo_metaspades_Bin_1-contigs_00547	tRNA	73				tRNA-Gln(ttg)
+Thermodesulfo_metaspades_Bin_1-contigs_00548	CDS	945	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+Thermodesulfo_metaspades_Bin_1-contigs_00549	CDS	630	rplY			50S ribosomal protein L25
+Thermodesulfo_metaspades_Bin_1-contigs_00550	CDS	600	pth	3.1.1.29		Peptidyl-tRNA hydrolase
+Thermodesulfo_metaspades_Bin_1-contigs_00551	CDS	693				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00552	CDS	1254	moeA	2.10.1.1		Molybdopterin molybdenumtransferase
+Thermodesulfo_metaspades_Bin_1-contigs_00553	CDS	1308	tolC		COG1538	Outer membrane protein TolC
+Thermodesulfo_metaspades_Bin_1-contigs_00554	CDS	1083	mexA			Multidrug resistance protein MexA
+Thermodesulfo_metaspades_Bin_1-contigs_00555	CDS	3069	mdtC			Multidrug resistance protein MdtC
+Thermodesulfo_metaspades_Bin_1-contigs_00556	CDS	1248	pfp	2.7.1.90	COG0205	Pyrophosphate--fructose 6-phosphate 1-phosphotransferase
+Thermodesulfo_metaspades_Bin_1-contigs_00557	CDS	1344				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00558	CDS	204	cspD		COG1278	Cold shock protein CspD
+Thermodesulfo_metaspades_Bin_1-contigs_00559	CDS	1095				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00560	CDS	1839	der_1			GTPase Der
+Thermodesulfo_metaspades_Bin_1-contigs_00561	CDS	330				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00562	CDS	312				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00563	CDS	558				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00564	CDS	717				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00565	CDS	360				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00566	CDS	450				Flavodoxin
+Thermodesulfo_metaspades_Bin_1-contigs_00567	CDS	240				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00568	CDS	444	xcpT		COG2165	Type II secretion system protein G
+Thermodesulfo_metaspades_Bin_1-contigs_00569	CDS	1200	epsF_2		COG1459	Type II secretion system protein F
+Thermodesulfo_metaspades_Bin_1-contigs_00570	CDS	840	flgE		COG1749	Flagellar hook protein FlgE
+Thermodesulfo_metaspades_Bin_1-contigs_00571	CDS	1980	leuC	4.2.1.33		3-isopropylmalate dehydratase large subunit
+Thermodesulfo_metaspades_Bin_1-contigs_00572	CDS	1131				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00573	CDS	1065				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00574	CDS	321	erpA		COG0316	Iron-sulfur cluster insertion protein ErpA
+Thermodesulfo_metaspades_Bin_1-contigs_00575	CDS	915	hemB	4.2.1.24		Delta-aminolevulinic acid dehydratase
+Thermodesulfo_metaspades_Bin_1-contigs_00576	CDS	1356		1.-.-.-	COG0277	putative FAD-linked oxidoreductase
+Thermodesulfo_metaspades_Bin_1-contigs_00577	CDS	1041	phoR_1	2.7.13.3	COG0642	Alkaline phosphatase synthesis sensor protein PhoR
+Thermodesulfo_metaspades_Bin_1-contigs_00578	CDS	2154	rnr	3.1.13.1	COG0557	Ribonuclease R
+Thermodesulfo_metaspades_Bin_1-contigs_00579	CDS	2118	hppA	7.1.3.1	COG3808	K(+)-insensitive pyrophosphate-energized proton pump
+Thermodesulfo_metaspades_Bin_1-contigs_00580	CDS	1158				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00581	CDS	2205				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00582	CDS	1257				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00583	CDS	774				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00584	CDS	801				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00585	CDS	1917	aprA	1.8.99.2		Adenylylsulfate reductase subunit alpha
+Thermodesulfo_metaspades_Bin_1-contigs_00586	CDS	447	aprB			Adenylylsulfate reductase subunit beta
+Thermodesulfo_metaspades_Bin_1-contigs_00587	CDS	1239	sat	2.7.7.4	COG2046	Sulfate adenylyltransferase
+Thermodesulfo_metaspades_Bin_1-contigs_00588	CDS	648	adk	2.7.4.3		Adenylate kinase
+Thermodesulfo_metaspades_Bin_1-contigs_00589	CDS	648		3.6.1.66	COG0127	dITP/XTP pyrophosphatase
+Thermodesulfo_metaspades_Bin_1-contigs_00590	CDS	324	hisI	3.5.4.19	COG0139	Phosphoribosyl-AMP cyclohydrolase
+Thermodesulfo_metaspades_Bin_1-contigs_00591	CDS	804	queC	6.3.4.20	COG0603	7-cyano-7-deazaguanine synthase
+Thermodesulfo_metaspades_Bin_1-contigs_00592	CDS	2106	pat_1	2.3.1.-	COG0454	Peptidyl-lysine N-acetyltransferase Pat
+Thermodesulfo_metaspades_Bin_1-contigs_00593	CDS	1062				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00594	CDS	354	atpH			ATP synthase subunit c
+Thermodesulfo_metaspades_Bin_1-contigs_00595	CDS	687	atpB		COG0356	ATP synthase subunit a
+Thermodesulfo_metaspades_Bin_1-contigs_00596	CDS	639				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00597	CDS	426				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00598	CDS	279				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00599	CDS	813	mutM	3.2.2.23	COG0266	Formamidopyrimidine-DNA glycosylase
+Thermodesulfo_metaspades_Bin_1-contigs_00600	CDS	546	yajL	3.1.2.-	COG0693	Protein/nucleic acid deglycase 3
+Thermodesulfo_metaspades_Bin_1-contigs_00601	CDS	1350	glnA	6.3.1.2	COG0174	Glutamine synthetase
+Thermodesulfo_metaspades_Bin_1-contigs_00602	CDS	510				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00603	CDS	1086	potA	7.6.2.11	COG3842	Spermidine/putrescine import ATP-binding protein PotA
+Thermodesulfo_metaspades_Bin_1-contigs_00604	CDS	789	cysW		COG4208	Sulfate transport system permease protein CysW
+Thermodesulfo_metaspades_Bin_1-contigs_00605	CDS	834				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00606	CDS	522	hpt	2.4.2.8	COG0634	Hypoxanthine phosphoribosyltransferase
+Thermodesulfo_metaspades_Bin_1-contigs_00607	CDS	570	pabA	2.6.1.85	COG0512	Aminodeoxychorismate/anthranilate synthase component 2
+Thermodesulfo_metaspades_Bin_1-contigs_00608	CDS	1344	trpE	4.1.3.27	COG0147	Anthranilate synthase component 1
+Thermodesulfo_metaspades_Bin_1-contigs_00609	CDS	1293				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00610	CDS	375				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00611	CDS	936				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00612	CDS	1131				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00613	CDS	375	rplL		COG0222	50S ribosomal protein L7/L12
+Thermodesulfo_metaspades_Bin_1-contigs_00614	CDS	531	rplJ		COG0244	50S ribosomal protein L10
+Thermodesulfo_metaspades_Bin_1-contigs_00615	CDS	753	rplA			50S ribosomal protein L1
+Thermodesulfo_metaspades_Bin_1-contigs_00616	CDS	426	rplK		COG0080	50S ribosomal protein L11
+Thermodesulfo_metaspades_Bin_1-contigs_00617	CDS	525	nusG		COG0250	Transcription termination/antitermination protein NusG
+Thermodesulfo_metaspades_Bin_1-contigs_00618	CDS	186	secE			Protein translocase subunit SecE
+Thermodesulfo_metaspades_Bin_1-contigs_00619	tRNA	75				tRNA-Trp(cca)
+Thermodesulfo_metaspades_Bin_1-contigs_00620	CDS	351	panD	4.1.1.11	COG0853	Aspartate 1-decarboxylase
+Thermodesulfo_metaspades_Bin_1-contigs_00621	CDS	639	nth_1	4.2.99.18		Endonuclease III
+Thermodesulfo_metaspades_Bin_1-contigs_00622	CDS	495				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00623	CDS	495				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00624	CDS	798	mtnN	3.2.2.9	COG0775	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+Thermodesulfo_metaspades_Bin_1-contigs_00625	CDS	600	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+Thermodesulfo_metaspades_Bin_1-contigs_00626	CDS	414				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00627	CDS	1011	miaB_2	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+Thermodesulfo_metaspades_Bin_1-contigs_00628	CDS	2049	ligA	6.5.1.2		DNA ligase
+Thermodesulfo_metaspades_Bin_1-contigs_00629	CDS	2007	uvrB			UvrABC system protein B
+Thermodesulfo_metaspades_Bin_1-contigs_00630	CDS	1461	purF_2	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+Thermodesulfo_metaspades_Bin_1-contigs_00631	CDS	315	cutA		COG1324	Divalent-cation tolerance protein CutA
+Thermodesulfo_metaspades_Bin_1-contigs_00632	CDS	1578				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00633	CDS	2019	gspD		COG1450	Putative secretin GspD
+Thermodesulfo_metaspades_Bin_1-contigs_00634	CDS	168				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00635	CDS	885				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00636	CDS	951	cysK	2.5.1.47		Cysteine synthase
+Thermodesulfo_metaspades_Bin_1-contigs_00637	CDS	759	rpsB		COG0052	30S ribosomal protein S2
+Thermodesulfo_metaspades_Bin_1-contigs_00638	CDS	606	tsf		COG0264	Elongation factor Ts
+Thermodesulfo_metaspades_Bin_1-contigs_00639	CDS	741	pyrH	2.7.4.22		Uridylate kinase
+Thermodesulfo_metaspades_Bin_1-contigs_00640	CDS	222	rhlE_1	3.6.4.13	COG0513	ATP-dependent RNA helicase RhlE
+Thermodesulfo_metaspades_Bin_1-contigs_00641	CDS	237	rhlE_2	3.6.4.13		ATP-dependent RNA helicase RhlE
+Thermodesulfo_metaspades_Bin_1-contigs_00642	CDS	687	rhlE_3	3.6.4.13	COG0513	ATP-dependent RNA helicase RhlE
+Thermodesulfo_metaspades_Bin_1-contigs_00643	CDS	261	typA_1		COG1217	GTP-binding protein TypA/BipA
+Thermodesulfo_metaspades_Bin_1-contigs_00644	CDS	1410	typA_2		COG1217	GTP-binding protein TypA/BipA
+Thermodesulfo_metaspades_Bin_1-contigs_00645	CDS	948	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+Thermodesulfo_metaspades_Bin_1-contigs_00646	CDS	786	pyrK		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+Thermodesulfo_metaspades_Bin_1-contigs_00647	CDS	474	greA		COG0782	Transcription elongation factor GreA
+Thermodesulfo_metaspades_Bin_1-contigs_00648	CDS	1053	ymdB_1	3.1.1.106		O-acetyl-ADP-ribose deacetylase
+Thermodesulfo_metaspades_Bin_1-contigs_00649	CDS	1092		1.-.-.-		NADH oxidase
+Thermodesulfo_metaspades_Bin_1-contigs_00650	CDS	954	pdxA2	1.1.1.408	COG1995	D-threonate 4-phosphate dehydrogenase
+Thermodesulfo_metaspades_Bin_1-contigs_00651	CDS	429				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00652	CDS	294				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00653	CDS	1437	tilS	6.3.4.19	COG0037	tRNA(Ile)-lysidine synthase
+Thermodesulfo_metaspades_Bin_1-contigs_00654	CDS	1458	degP	3.4.21.107	COG0265	Periplasmic serine endoprotease DegP
+Thermodesulfo_metaspades_Bin_1-contigs_00655	CDS	2784	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+Thermodesulfo_metaspades_Bin_1-contigs_00656	CDS	366				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00657	CDS	900				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00658	CDS	516				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00659	CDS	2601	leuS	6.1.1.4		Leucine--tRNA ligase
+Thermodesulfo_metaspades_Bin_1-contigs_00660	CDS	480	mog	2.7.7.75	COG0521	Molybdopterin adenylyltransferase
+Thermodesulfo_metaspades_Bin_1-contigs_00661	CDS	462				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00662	CDS	1884	pglF	4.2.1.135	COG1086	UDP-N-acetyl-alpha-D-glucosamine C6 dehydratase
+Thermodesulfo_metaspades_Bin_1-contigs_00663	CDS	282				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00664	CDS	525	rplM		COG0102	50S ribosomal protein L13
+Thermodesulfo_metaspades_Bin_1-contigs_00665	CDS	393	rpsI		COG0103	30S ribosomal protein S9
+Thermodesulfo_metaspades_Bin_1-contigs_00666	CDS	1041	argC	1.2.1.38	COG0002	N-acetyl-gamma-glutamyl-phosphate reductase
+Thermodesulfo_metaspades_Bin_1-contigs_00667	CDS	2760	ppdK	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+Thermodesulfo_metaspades_Bin_1-contigs_00668	CDS	1218	treT	2.4.1.245		Trehalose synthase
+Thermodesulfo_metaspades_Bin_1-contigs_00669	CDS	672				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00670	CDS	1347	trpB_1	4.2.1.20	COG0133	Tryptophan synthase beta chain
+Thermodesulfo_metaspades_Bin_1-contigs_00671	CDS	990	mltG	4.2.2.-		Endolytic murein transglycosylase
+Thermodesulfo_metaspades_Bin_1-contigs_00672	CDS	1056	ispG	1.17.7.3	COG0821	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)
+Thermodesulfo_metaspades_Bin_1-contigs_00673	CDS	855	kdsA	2.5.1.55	COG2877	2-dehydro-3-deoxyphosphooctonate aldolase
+Thermodesulfo_metaspades_Bin_1-contigs_00674	CDS	990	galE1	5.1.3.2	COG1088	UDP-glucose 4-epimerase
+Thermodesulfo_metaspades_Bin_1-contigs_00675	CDS	357				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00676	CDS	1683	ilvD	4.2.1.9	COG0129	Dihydroxy-acid dehydratase
+Thermodesulfo_metaspades_Bin_1-contigs_00677	CDS	1371	murD	6.3.2.9		UDP-N-acetylmuramoylalanine--D-glutamate ligase
+Thermodesulfo_metaspades_Bin_1-contigs_00678	CDS	1254				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00679	CDS	435				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00680	CDS	345				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00681	CDS	216				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00682	CDS	303				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00683	CDS	480				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00684	CDS	999	yacL	3.1.-.-	COG4956	putative PIN and TRAM-domain containing protein YacL
+Thermodesulfo_metaspades_Bin_1-contigs_00685	CDS	714	ispD	2.7.7.60	COG1211	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+Thermodesulfo_metaspades_Bin_1-contigs_00686	CDS	477	ispF	4.6.1.12	COG0245	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+Thermodesulfo_metaspades_Bin_1-contigs_00687	rRNA	112				5S ribosomal RNA
+Thermodesulfo_metaspades_Bin_1-contigs_00688	CDS	849	panC	6.3.2.1	COG0414	Pantothenate synthetase
+Thermodesulfo_metaspades_Bin_1-contigs_00689	CDS	423	atpC		COG0355	ATP synthase epsilon chain
+Thermodesulfo_metaspades_Bin_1-contigs_00690	CDS	1416	atpD_1	7.1.2.2	COG0055	ATP synthase subunit beta
+Thermodesulfo_metaspades_Bin_1-contigs_00691	CDS	870	atpG		COG0224	ATP synthase gamma chain
+Thermodesulfo_metaspades_Bin_1-contigs_00692	CDS	1509	atpA	7.1.2.2	COG0056	ATP synthase subunit alpha
+Thermodesulfo_metaspades_Bin_1-contigs_00693	CDS	543	atpD_2			ATP synthase subunit delta
+Thermodesulfo_metaspades_Bin_1-contigs_00694	CDS	633	atpF_1			ATP synthase subunit b
+Thermodesulfo_metaspades_Bin_1-contigs_00695	CDS	420	atpF_2		COG0711	ATP synthase subunit b
+Thermodesulfo_metaspades_Bin_1-contigs_00696	CDS	522				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00697	CDS	270				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00698	CDS	762	yafJ	2.4.2.-	COG0121	Putative glutamine amidotransferase YafJ
+Thermodesulfo_metaspades_Bin_1-contigs_00699	CDS	252	rpsP		COG0228	30S ribosomal protein S16
+Thermodesulfo_metaspades_Bin_1-contigs_00700	CDS	231				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00701	CDS	747	trmD	2.1.1.228		tRNA (guanine-N(1)-)-methyltransferase
+Thermodesulfo_metaspades_Bin_1-contigs_00702	CDS	360	rplS		COG0335	50S ribosomal protein L19
+Thermodesulfo_metaspades_Bin_1-contigs_00703	CDS	636	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+Thermodesulfo_metaspades_Bin_1-contigs_00704	CDS	2400	hypF	6.2.-.-	COG0068	Carbamoyltransferase HypF
+Thermodesulfo_metaspades_Bin_1-contigs_00705	CDS	588				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00706	CDS	201	rpmI			50S ribosomal protein L35
+Thermodesulfo_metaspades_Bin_1-contigs_00707	CDS	222				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00708	CDS	111				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00709	CDS	789	valG	2.4.1.338	COG0463	Validoxylamine A glucosyltransferase
+Thermodesulfo_metaspades_Bin_1-contigs_00710	CDS	714				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00711	CDS	654				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00712	CDS	504				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00713	CDS	531				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00714	CDS	963	fmt	2.1.2.9	COG0223	Methionyl-tRNA formyltransferase
+Thermodesulfo_metaspades_Bin_1-contigs_00715	CDS	525	def	3.5.1.88		Peptide deformylase
+Thermodesulfo_metaspades_Bin_1-contigs_00716	CDS	498	hndA	1.12.1.3	COG1905	NADP-reducing hydrogenase subunit HndA
+Thermodesulfo_metaspades_Bin_1-contigs_00717	CDS	915	cooS	1.2.7.4	COG1151	Carbon monoxide dehydrogenase
+Thermodesulfo_metaspades_Bin_1-contigs_00718	CDS	1074	cooS2	1.2.7.4	COG1151	Carbon monoxide dehydrogenase 2
+Thermodesulfo_metaspades_Bin_1-contigs_00719	CDS	342				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00720	CDS	441				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00721	CDS	3939	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+Thermodesulfo_metaspades_Bin_1-contigs_00722	CDS	4122	rpoC	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit beta'
+Thermodesulfo_metaspades_Bin_1-contigs_00723	CDS	1263	rho	3.6.4.-	COG1158	Transcription termination factor Rho
+Thermodesulfo_metaspades_Bin_1-contigs_00724	CDS	1032	mreB			Cell shape-determining protein MreB
+Thermodesulfo_metaspades_Bin_1-contigs_00725	CDS	792				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00726	CDS	504				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00727	CDS	1788	mrdA	3.4.16.4	COG0768	Peptidoglycan D,D-transpeptidase MrdA
+Thermodesulfo_metaspades_Bin_1-contigs_00728	CDS	474				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00729	CDS	609	plsC	2.3.1.-	COG0204	1-acyl-sn-glycerol-3-phosphate acyltransferase
+Thermodesulfo_metaspades_Bin_1-contigs_00730	CDS	651	cmk	2.7.4.25	COG0283	Cytidylate kinase
+Thermodesulfo_metaspades_Bin_1-contigs_00731	CDS	1299	aroA1	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase 1
+Thermodesulfo_metaspades_Bin_1-contigs_00732	CDS	900	tyrC	1.3.1.43		Cyclohexadienyl dehydrogenase
+Thermodesulfo_metaspades_Bin_1-contigs_00733	CDS	1026	aroF	2.5.1.54	COG2876	Phospho-2-dehydro-3-deoxyheptonate aldolase
+Thermodesulfo_metaspades_Bin_1-contigs_00734	CDS	1146	pheA			Bifunctional chorismate mutase/prephenate dehydratase
+Thermodesulfo_metaspades_Bin_1-contigs_00735	CDS	879	lpxC	3.5.1.108	COG0774	UDP-3-O-acyl-N-acetylglucosamine deacetylase
+Thermodesulfo_metaspades_Bin_1-contigs_00736	CDS	945	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+Thermodesulfo_metaspades_Bin_1-contigs_00737	CDS	423				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00738	CDS	414	yhfA		COG1765	Protein YhfA
+Thermodesulfo_metaspades_Bin_1-contigs_00739	CDS	1047	hypD		COG0409	Hydrogenase maturation factor HypD
+Thermodesulfo_metaspades_Bin_1-contigs_00740	CDS	1509	leuA	2.3.3.13	COG0119	2-isopropylmalate synthase
+Thermodesulfo_metaspades_Bin_1-contigs_00741	CDS	807	mqnD	4.1.-.-	COG2107	1,4-dihydroxy-6-naphtoate synthase
+Thermodesulfo_metaspades_Bin_1-contigs_00742	CDS	1710	glgP	2.4.1.1	COG0058	Glycogen phosphorylase
+Thermodesulfo_metaspades_Bin_1-contigs_00743	CDS	1257	murA	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+Thermodesulfo_metaspades_Bin_1-contigs_00744	CDS	741	rlpA	4.2.2.-		Endolytic peptidoglycan transglycosylase RlpA
+Thermodesulfo_metaspades_Bin_1-contigs_00745	CDS	1353	hslU		COG1220	ATP-dependent protease ATPase subunit HslU
+Thermodesulfo_metaspades_Bin_1-contigs_00746	CDS	534	hslV	3.4.25.2	COG5405	ATP-dependent protease subunit HslV
+Thermodesulfo_metaspades_Bin_1-contigs_00747	CDS	1077				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00748	CDS	531	cysC	2.7.1.25	COG0529	putative adenylyl-sulfate kinase
+Thermodesulfo_metaspades_Bin_1-contigs_00749	tRNA	76				tRNA-Val(tac)
+Thermodesulfo_metaspades_Bin_1-contigs_00750	tRNA	77				tRNA-Asp(gtc)
+Thermodesulfo_metaspades_Bin_1-contigs_00751	CDS	873	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+Thermodesulfo_metaspades_Bin_1-contigs_00752	CDS	1560	nadB	1.4.3.16	COG0029	L-aspartate oxidase
+Thermodesulfo_metaspades_Bin_1-contigs_00753	CDS	177				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00754	CDS	171				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00755	CDS	1659	secD		COG0342	Protein translocase subunit SecD
+Thermodesulfo_metaspades_Bin_1-contigs_00756	CDS	954	secF		COG0341	Protein translocase subunit SecF
+Thermodesulfo_metaspades_Bin_1-contigs_00757	CDS	1794	recJ	3.1.-.-	COG0608	Single-stranded-DNA-specific exonuclease RecJ
+Thermodesulfo_metaspades_Bin_1-contigs_00758	CDS	1386	dadD	3.5.4.31		5'-deoxyadenosine deaminase
+Thermodesulfo_metaspades_Bin_1-contigs_00759	CDS	531				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00760	CDS	1161		3.4.21.-		putative CtpA-like serine protease
+Thermodesulfo_metaspades_Bin_1-contigs_00761	CDS	1134	dnaN			Beta sliding clamp
+Thermodesulfo_metaspades_Bin_1-contigs_00762	CDS	2310	gyrB	5.6.2.2	COG0187	Type 2 topoisomerase subunit B
+Thermodesulfo_metaspades_Bin_1-contigs_00763	CDS	1623				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00764	CDS	237				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00765	CDS	765	pstB	7.3.2.1	COG1117	Phosphate import ATP-binding protein PstB
+Thermodesulfo_metaspades_Bin_1-contigs_00766	CDS	813	pstS1		COG0226	Phosphate-binding protein PstS 1
+Thermodesulfo_metaspades_Bin_1-contigs_00767	CDS	630	nth_2	4.2.99.18	COG0177	Endonuclease III
+Thermodesulfo_metaspades_Bin_1-contigs_00768	CDS	891	coaX	2.7.1.33	COG1521	Type III pantothenate kinase
+Thermodesulfo_metaspades_Bin_1-contigs_00769	CDS	447	teaD		COG0589	TRAP-T-associated universal stress protein TeaD
+Thermodesulfo_metaspades_Bin_1-contigs_00770	CDS	951	ldh	1.1.1.27		L-lactate dehydrogenase
+Thermodesulfo_metaspades_Bin_1-contigs_00771	CDS	588	oppD_1		COG0444	Oligopeptide transport ATP-binding protein OppD
+Thermodesulfo_metaspades_Bin_1-contigs_00772	CDS	1011	oppF		COG4608	Oligopeptide transport ATP-binding protein OppF
+Thermodesulfo_metaspades_Bin_1-contigs_00773	CDS	834	rlmB_2	2.1.1.185		23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+Thermodesulfo_metaspades_Bin_1-contigs_00774	CDS	1059	thiL	2.7.4.16	COG0611	Thiamine-monophosphate kinase
+Thermodesulfo_metaspades_Bin_1-contigs_00775	CDS	2403	lon	3.4.21.53	COG0466	Lon protease
+Thermodesulfo_metaspades_Bin_1-contigs_00776	CDS	897	gtaB	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+Thermodesulfo_metaspades_Bin_1-contigs_00777	tRNA	87				tRNA-Leu(taa)
+Thermodesulfo_metaspades_Bin_1-contigs_00778	CDS	930	prmC	2.1.1.297	COG2890	Release factor glutamine methyltransferase
+Thermodesulfo_metaspades_Bin_1-contigs_00779	CDS	1095	prfA		COG0216	Peptide chain release factor 1
+Thermodesulfo_metaspades_Bin_1-contigs_00780	CDS	327				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00781	CDS	423				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00782	CDS	243				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00783	CDS	2016	sfrA	1.-.-.-	COG3383	NADPH-Fe(3+) oxidoreductase subunit alpha
+Thermodesulfo_metaspades_Bin_1-contigs_00784	CDS	591	hndC_1	1.12.1.3	COG1145	NADP-reducing hydrogenase subunit HndC
+Thermodesulfo_metaspades_Bin_1-contigs_00785	CDS	423				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00786	CDS	1236	hndC_2	1.12.1.3	COG1145	NADP-reducing hydrogenase subunit HndC
+Thermodesulfo_metaspades_Bin_1-contigs_00787	CDS	873	hisG	2.4.2.17	COG0040	ATP phosphoribosyltransferase
+Thermodesulfo_metaspades_Bin_1-contigs_00788	tRNA	74				tRNA-Ala(cgc)
+Thermodesulfo_metaspades_Bin_1-contigs_00789	CDS	1137	phoA	3.1.3.1	COG1785	Alkaline phosphatase
+Thermodesulfo_metaspades_Bin_1-contigs_00790	CDS	2844	uvrA_2			UvrABC system protein A
+Thermodesulfo_metaspades_Bin_1-contigs_00791	CDS	1020	lpxK	2.7.1.130	COG1663	Tetraacyldisaccharide 4'-kinase
+Thermodesulfo_metaspades_Bin_1-contigs_00792	CDS	1269	waaA	2.4.99.12	COG1519	3-deoxy-D-manno-octulosonic acid transferase
+Thermodesulfo_metaspades_Bin_1-contigs_00793	CDS	1722		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+Thermodesulfo_metaspades_Bin_1-contigs_00794	CDS	1191	lpxB	2.4.1.182	COG0763	Lipid-A-disaccharide synthase
+Thermodesulfo_metaspades_Bin_1-contigs_00795	CDS	1089	wbpE	2.6.1.98	COG0399	UDP-2-acetamido-2-deoxy-3-oxo-D-glucuronate aminotransferase
+Thermodesulfo_metaspades_Bin_1-contigs_00796	CDS	873	iolX	1.1.1.370	COG0673	scyllo-inositol 2-dehydrogenase (NAD(+))
+Thermodesulfo_metaspades_Bin_1-contigs_00797	CDS	720	cysG_2	4.99.1.4		Siroheme synthase
+Thermodesulfo_metaspades_Bin_1-contigs_00798	CDS	918	bamD			Outer membrane protein assembly factor BamD
+Thermodesulfo_metaspades_Bin_1-contigs_00799	CDS	1281				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00800	CDS	423	fur		COG0735	Ferric uptake regulation protein
+Thermodesulfo_metaspades_Bin_1-contigs_00801	CDS	1176				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00802	CDS	1056	cheB1	3.1.1.61	COG2201	Protein-glutamate methylesterase/protein-glutamine glutaminase 1
+Thermodesulfo_metaspades_Bin_1-contigs_00803	CDS	477	cheW		COG0835	Chemotaxis protein CheW
+Thermodesulfo_metaspades_Bin_1-contigs_00804	CDS	699	menB	4.1.3.36	COG0447	1,4-dihydroxy-2-naphthoyl-CoA synthase
+Thermodesulfo_metaspades_Bin_1-contigs_00805	CDS	591		1.6.5.2		NAD(P)H dehydrogenase (quinone)
+Thermodesulfo_metaspades_Bin_1-contigs_00806	CDS	201	frc	2.8.3.16	COG1804	Formyl-CoA:oxalate CoA-transferase
+Thermodesulfo_metaspades_Bin_1-contigs_00807	CDS	927	uctC	2.8.3.19		Acetyl-CoA:oxalate CoA-transferase
+Thermodesulfo_metaspades_Bin_1-contigs_00808	CDS	735	fabG	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+Thermodesulfo_metaspades_Bin_1-contigs_00809	CDS	726	thyX	2.1.1.148		Flavin-dependent thymidylate synthase
+Thermodesulfo_metaspades_Bin_1-contigs_00810	CDS	1119	rip3		COG0517	Putative zinc metalloprotease Rip3
+Thermodesulfo_metaspades_Bin_1-contigs_00811	CDS	588	hisB_2	4.2.1.19	COG0131	Imidazoleglycerol-phosphate dehydratase
+Thermodesulfo_metaspades_Bin_1-contigs_00812	CDS	1065	hisC	2.6.1.9	COG0079	Histidinol-phosphate aminotransferase
+Thermodesulfo_metaspades_Bin_1-contigs_00813	CDS	789	cysQ	3.1.3.7		3'(2'),5'-bisphosphate nucleotidase CysQ
+Thermodesulfo_metaspades_Bin_1-contigs_00814	CDS	354				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00815	CDS	657	yrfG	3.1.3.5	COG1011	GMP/IMP nucleotidase YrfG
+Thermodesulfo_metaspades_Bin_1-contigs_00816	CDS	273				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00817	CDS	756	motB_1		COG1360	Motility protein B
+Thermodesulfo_metaspades_Bin_1-contigs_00818	CDS	861	motA		COG1291	Motility protein A
+Thermodesulfo_metaspades_Bin_1-contigs_00819	CDS	546				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00820	CDS	657	motB_2		COG1360	Motility protein B
+Thermodesulfo_metaspades_Bin_1-contigs_00821	CDS	759	pomA		COG1291	Chemotaxis protein PomA
+Thermodesulfo_metaspades_Bin_1-contigs_00822	CDS	540	pgsA_1	2.7.8.5	COG0558	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+Thermodesulfo_metaspades_Bin_1-contigs_00823	CDS	1137				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00824	CDS	705	rpe	5.1.3.1		Ribulose-phosphate 3-epimerase
+Thermodesulfo_metaspades_Bin_1-contigs_00825	CDS	240				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00826	CDS	222				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00827	CDS	195				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00828	CDS	153				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00829	CDS	804	ftsQ			Cell division protein FtsQ
+Thermodesulfo_metaspades_Bin_1-contigs_00830	CDS	1344	ftsA_2		COG0849	Cell division protein FtsA
+Thermodesulfo_metaspades_Bin_1-contigs_00831	CDS	1245	ftsZ		COG0206	Cell division protein FtsZ
+Thermodesulfo_metaspades_Bin_1-contigs_00832	CDS	606				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00833	CDS	276	acyP	3.6.1.7	COG1254	Acylphosphatase
+Thermodesulfo_metaspades_Bin_1-contigs_00834	CDS	240				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00835	CDS	852				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00836	CDS	1743	dnaG	2.7.7.-		DNA primase
+Thermodesulfo_metaspades_Bin_1-contigs_00837	CDS	1287				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00838	CDS	2226	malQ	2.4.1.25	COG1640	4-alpha-glucanotransferase
+Thermodesulfo_metaspades_Bin_1-contigs_00839	CDS	333				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00840	CDS	1677	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+Thermodesulfo_metaspades_Bin_1-contigs_00841	CDS	423				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00842	CDS	204				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00843	CDS	1728	ilvI	2.2.1.6	COG0028	Acetolactate synthase isozyme 3 large subunit
+Thermodesulfo_metaspades_Bin_1-contigs_00844	CDS	489	ilvH	2.2.1.6	COG0440	Putative acetolactate synthase small subunit
+Thermodesulfo_metaspades_Bin_1-contigs_00845	CDS	1239		2.3.3.3		Citrate (Re)-synthase
+Thermodesulfo_metaspades_Bin_1-contigs_00846	CDS	1305				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00847	CDS	669	exbB		COG0811	Biopolymer transport protein ExbB
+Thermodesulfo_metaspades_Bin_1-contigs_00848	CDS	402	exbD		COG0848	Biopolymer transport protein ExbD
+Thermodesulfo_metaspades_Bin_1-contigs_00849	CDS	867				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00850	CDS	1263	tolB		COG0823	Tol-Pal system protein TolB
+Thermodesulfo_metaspades_Bin_1-contigs_00851	CDS	486	moaC	4.6.1.17	COG0315	Cyclic pyranopterin monophosphate synthase
+Thermodesulfo_metaspades_Bin_1-contigs_00852	CDS	522				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00853	CDS	1017	ispB	2.5.1.90	COG0142	Octaprenyl diphosphate synthase
+Thermodesulfo_metaspades_Bin_1-contigs_00854	CDS	1065	mtnA	5.3.1.23	COG0182	Methylthioribose-1-phosphate isomerase
+Thermodesulfo_metaspades_Bin_1-contigs_00855	CDS	1824				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00856	CDS	765				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00857	CDS	555	frr		COG0233	Ribosome-recycling factor
+Thermodesulfo_metaspades_Bin_1-contigs_00858	CDS	486	coaD	2.7.7.3	COG0669	Phosphopantetheine adenylyltransferase
+Thermodesulfo_metaspades_Bin_1-contigs_00859	CDS	588	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+Thermodesulfo_metaspades_Bin_1-contigs_00860	CDS	648	purN	2.1.2.2		Phosphoribosylglycinamide formyltransferase
+Thermodesulfo_metaspades_Bin_1-contigs_00861	CDS	1023	hemE	4.1.1.37	COG0407	Uroporphyrinogen decarboxylase
+Thermodesulfo_metaspades_Bin_1-contigs_00862	CDS	999	mftC	2.-.-.-	COG0535	Putative mycofactocin radical SAM maturase MftC
+Thermodesulfo_metaspades_Bin_1-contigs_00863	CDS	1332	hflX			GTPase HflX
+Thermodesulfo_metaspades_Bin_1-contigs_00864	CDS	120				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00865	CDS	237				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00866	CDS	1179	thrC	4.2.3.1	COG0498	Threonine synthase
+Thermodesulfo_metaspades_Bin_1-contigs_00867	CDS	1221	apgM_2			2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+Thermodesulfo_metaspades_Bin_1-contigs_00868	CDS	1224	lysC	2.7.2.4	COG0527	Aspartate kinase Ask_LysC
+Thermodesulfo_metaspades_Bin_1-contigs_00869	CDS	1605	cimA	2.3.1.182	COG0119	(R)-citramalate synthase
+Thermodesulfo_metaspades_Bin_1-contigs_00870	CDS	1389	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+Thermodesulfo_metaspades_Bin_1-contigs_00871	CDS	234				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00872	CDS	1143	hypE	4.2.1.-		Carbamoyl dehydratase HypE
+Thermodesulfo_metaspades_Bin_1-contigs_00873	CDS	213		1.11.1.15		Peroxiredoxin
+Thermodesulfo_metaspades_Bin_1-contigs_00874	CDS	114		1.11.1.15		Peroxiredoxin
+Thermodesulfo_metaspades_Bin_1-contigs_00875	CDS	150				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00876	CDS	576	rbr		COG1592	Rubrerythrin
+Thermodesulfo_metaspades_Bin_1-contigs_00877	CDS	426	perR		COG0735	Peroxide-responsive repressor PerR
+Thermodesulfo_metaspades_Bin_1-contigs_00878	CDS	1704	ubiB	2.7.-.-	COG0661	putative protein kinase UbiB
+Thermodesulfo_metaspades_Bin_1-contigs_00879	CDS	315				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00880	CDS	2721	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+Thermodesulfo_metaspades_Bin_1-contigs_00881	CDS	339				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00882	CDS	1014	recA			Protein RecA
+Thermodesulfo_metaspades_Bin_1-contigs_00883	tRNA	93				tRNA-Ser(gct)
+Thermodesulfo_metaspades_Bin_1-contigs_00884	CDS	267	smc_1		COG1196	Chromosome partition protein Smc
+Thermodesulfo_metaspades_Bin_1-contigs_00885	CDS	1473	smc_2			Chromosome partition protein Smc
+Thermodesulfo_metaspades_Bin_1-contigs_00886	CDS	453				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00887	CDS	267				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00888	CDS	729	smc_3		COG1196	Chromosome partition protein Smc
+Thermodesulfo_metaspades_Bin_1-contigs_00889	CDS	1245				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00890	CDS	267	flhB_1		COG1377	Flagellar biosynthetic protein FlhB
+Thermodesulfo_metaspades_Bin_1-contigs_00891	CDS	645	fadF_1	1.-.-.-	COG0247	putative iron-sulfur-binding oxidoreductase FadF
+Thermodesulfo_metaspades_Bin_1-contigs_00892	CDS	1287	fadF_2	1.-.-.-	COG0247	putative iron-sulfur-binding oxidoreductase FadF
+Thermodesulfo_metaspades_Bin_1-contigs_00893	CDS	168	yacG			DNA gyrase inhibitor YacG
+Thermodesulfo_metaspades_Bin_1-contigs_00894	CDS	804	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+Thermodesulfo_metaspades_Bin_1-contigs_00895	CDS	627	rpsD		COG0522	30S ribosomal protein S4
+Thermodesulfo_metaspades_Bin_1-contigs_00896	CDS	387	rpsK			30S ribosomal protein S11
+Thermodesulfo_metaspades_Bin_1-contigs_00897	CDS	351	rpsM		COG0099	30S ribosomal protein S13
+Thermodesulfo_metaspades_Bin_1-contigs_00898	CDS	114	rpmJ			50S ribosomal protein L36
+Thermodesulfo_metaspades_Bin_1-contigs_00899	CDS	219	infA		COG0361	Translation initiation factor IF-1
+Thermodesulfo_metaspades_Bin_1-contigs_00900	CDS	765	map	3.4.11.18	COG0024	Methionine aminopeptidase 1
+Thermodesulfo_metaspades_Bin_1-contigs_00901	CDS	1311	secY		COG0201	Protein translocase subunit SecY
+Thermodesulfo_metaspades_Bin_1-contigs_00902	CDS	450	rplO			50S ribosomal protein L15
+Thermodesulfo_metaspades_Bin_1-contigs_00903	CDS	516	rpsE		COG0098	30S ribosomal protein S5
+Thermodesulfo_metaspades_Bin_1-contigs_00904	CDS	360	rplR			50S ribosomal protein L18
+Thermodesulfo_metaspades_Bin_1-contigs_00905	CDS	543	rplF		COG0097	50S ribosomal protein L6
+Thermodesulfo_metaspades_Bin_1-contigs_00906	CDS	846				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00907	CDS	426	btuB			Vitamin B12 transporter BtuB
+Thermodesulfo_metaspades_Bin_1-contigs_00908	CDS	255				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00909	CDS	1521	icd	1.1.1.42	COG0473	Isocitrate dehydrogenase [NADP]
+Thermodesulfo_metaspades_Bin_1-contigs_00910	CDS	2124	nrdD	1.1.98.6	COG1328	Anaerobic ribonucleoside-triphosphate reductase
+Thermodesulfo_metaspades_Bin_1-contigs_00911	CDS	702	queE_2	4.3.99.3		7-carboxy-7-deazaguanine synthase
+Thermodesulfo_metaspades_Bin_1-contigs_00912	CDS	1257	proA	1.2.1.41	COG0014	Gamma-glutamyl phosphate reductase
+Thermodesulfo_metaspades_Bin_1-contigs_00913	CDS	276				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00914	CDS	669	nadD	2.7.7.18	COG1057	putative nicotinate-nucleotide adenylyltransferase
+Thermodesulfo_metaspades_Bin_1-contigs_00915	CDS	216	fis			DNA-binding protein Fis
+Thermodesulfo_metaspades_Bin_1-contigs_00916	CDS	477	mutL			DNA mismatch repair protein MutL
+Thermodesulfo_metaspades_Bin_1-contigs_00917	CDS	1224				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00918	CDS	2607		2.7.7.-	COG0517	A-adding tRNA nucleotidyltransferase
+Thermodesulfo_metaspades_Bin_1-contigs_00919	CDS	1944				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00920	CDS	411				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00921	CDS	975				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00922	CDS	909				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00923	CDS	1047	purM	6.3.3.1		Phosphoribosylformylglycinamidine cyclo-ligase
+Thermodesulfo_metaspades_Bin_1-contigs_00924	CDS	846	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+Thermodesulfo_metaspades_Bin_1-contigs_00925	CDS	2856	valS	6.1.1.9	COG0525	Valine--tRNA ligase
+Thermodesulfo_metaspades_Bin_1-contigs_00926	CDS	789	rssB			Regulator of RpoS
+Thermodesulfo_metaspades_Bin_1-contigs_00927	CDS	354	rplT		COG0292	50S ribosomal protein L20
+Thermodesulfo_metaspades_Bin_1-contigs_00928	CDS	1008	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+Thermodesulfo_metaspades_Bin_1-contigs_00929	CDS	2109	pheT	6.1.1.20		Phenylalanine--tRNA ligase beta subunit
+Thermodesulfo_metaspades_Bin_1-contigs_00930	CDS	771	uppP	3.6.1.27	COG1968	Undecaprenyl-diphosphatase
+Thermodesulfo_metaspades_Bin_1-contigs_00931	CDS	1827	rapA	3.6.4.-		RNA polymerase-associated protein RapA
+Thermodesulfo_metaspades_Bin_1-contigs_00932	CDS	150				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00933	CDS	1128				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00934	CDS	291				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00935	CDS	1785				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00936	CDS	747	ycf3			Photosystem I assembly protein Ycf3
+Thermodesulfo_metaspades_Bin_1-contigs_00937	tRNA	76				tRNA-Cys(gca)
+Thermodesulfo_metaspades_Bin_1-contigs_00938	tRNA	73				tRNA-Gly(gcc)
+Thermodesulfo_metaspades_Bin_1-contigs_00939	CDS	414				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00940	CDS	393				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00941	CDS	1275	hisD	1.1.1.23	COG0141	Histidinol dehydrogenase
+Thermodesulfo_metaspades_Bin_1-contigs_00942	CDS	2685	pat_2	2.3.1.-	COG0454	Peptidyl-lysine N-acetyltransferase Pat
+Thermodesulfo_metaspades_Bin_1-contigs_00943	CDS	666				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00944	CDS	900				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00945	CDS	954				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00946	CDS	1203	mqnC	1.21.98.1	COG1060	Cyclic dehypoxanthine futalosine synthase
+Thermodesulfo_metaspades_Bin_1-contigs_00947	CDS	522				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00948	CDS	1230	purK	6.3.4.18		N5-carboxyaminoimidazole ribonucleotide synthase
+Thermodesulfo_metaspades_Bin_1-contigs_00949	CDS	513	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+Thermodesulfo_metaspades_Bin_1-contigs_00950	CDS	990	ywlC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+Thermodesulfo_metaspades_Bin_1-contigs_00951	CDS	219				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00952	CDS	264				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00953	CDS	273				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00954	CDS	399				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00955	CDS	219				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00956	CDS	270				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00957	CDS	231				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00958	CDS	243				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00959	CDS	288				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00960	CDS	219				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00961	CDS	1353	hom	1.1.1.3	COG0460	Homoserine dehydrogenase
+Thermodesulfo_metaspades_Bin_1-contigs_00962	CDS	1179	alaC	2.6.1.2	COG0436	Glutamate-pyruvate aminotransferase AlaC
+Thermodesulfo_metaspades_Bin_1-contigs_00963	CDS	840	lipA	2.8.1.8	COG0320	Lipoyl synthase
+Thermodesulfo_metaspades_Bin_1-contigs_00964	CDS	2406	mshA_2	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+Thermodesulfo_metaspades_Bin_1-contigs_00965	CDS	99				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00966	CDS	270				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00967	CDS	798	lipM	2.3.1.181	COG0095	Octanoyltransferase LipM
+Thermodesulfo_metaspades_Bin_1-contigs_00968	CDS	1011				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00969	CDS	807	lpxI	3.6.1.54	COG3494	UDP-2,3-diacylglucosamine pyrophosphatase LpxI
+Thermodesulfo_metaspades_Bin_1-contigs_00970	CDS	780	lpxA	2.3.1.129	COG1043	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+Thermodesulfo_metaspades_Bin_1-contigs_00971	CDS	438	fabZ	4.2.1.59	COG0764	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+Thermodesulfo_metaspades_Bin_1-contigs_00972	CDS	1014	lpxD	2.3.1.-	COG1044	UDP-3-O-acylglucosamine N-acyltransferase
+Thermodesulfo_metaspades_Bin_1-contigs_00973	CDS	540				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00974	CDS	2250	bamA_3		COG4775	Outer membrane protein assembly factor BamA
+Thermodesulfo_metaspades_Bin_1-contigs_00975	CDS	963	glkA	2.7.1.2		Glucokinase
+Thermodesulfo_metaspades_Bin_1-contigs_00976	CDS	1791	lepA	3.6.5.-	COG0481	Elongation factor 4
+Thermodesulfo_metaspades_Bin_1-contigs_00977	CDS	606	lepB	3.4.21.89	COG0681	Signal peptidase I
+Thermodesulfo_metaspades_Bin_1-contigs_00978	CDS	711	ribE	2.5.1.9	COG0307	Riboflavin synthase
+Thermodesulfo_metaspades_Bin_1-contigs_00979	CDS	129				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00980	CDS	795	cdaA	2.7.7.85	COG1624	Cyclic di-AMP synthase CdaA
+Thermodesulfo_metaspades_Bin_1-contigs_00981	CDS	240				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00982	CDS	1062	leuB	1.1.1.85	COG0473	3-isopropylmalate dehydrogenase
+Thermodesulfo_metaspades_Bin_1-contigs_00983	CDS	747				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00984	CDS	858	nadK	2.7.1.23	COG0061	NAD kinase
+Thermodesulfo_metaspades_Bin_1-contigs_00985	CDS	453				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00986	CDS	708	rl5	1.10.3.-		Polyphenol oxidase
+Thermodesulfo_metaspades_Bin_1-contigs_00987	CDS	891				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00988	CDS	1434				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00989	CDS	330				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00990	CDS	783				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00991	CDS	1110	carA	6.3.5.5	COG0505	Carbamoyl-phosphate synthase small chain
+Thermodesulfo_metaspades_Bin_1-contigs_00992	CDS	3264	carB	6.3.5.5	COG0458	Carbamoyl-phosphate synthase large chain
+Thermodesulfo_metaspades_Bin_1-contigs_00993	tRNA	77				tRNA-Met(cat)
+Thermodesulfo_metaspades_Bin_1-contigs_00994	CDS	717				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00995	CDS	432			COG0328	Bifunctional protein
+Thermodesulfo_metaspades_Bin_1-contigs_00996	CDS	273	hup			DNA-binding protein HU
+Thermodesulfo_metaspades_Bin_1-contigs_00997	CDS	477	lspA	3.4.23.36	COG0597	Lipoprotein signal peptidase
+Thermodesulfo_metaspades_Bin_1-contigs_00998	CDS	687				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_00999	CDS	642	trpF	5.3.1.24	COG0135	N-(5'-phosphoribosyl)anthranilate isomerase
+Thermodesulfo_metaspades_Bin_1-contigs_01000	CDS	369	queF	1.7.1.13	COG0780	NADPH-dependent 7-cyano-7-deazaguanine reductase
+Thermodesulfo_metaspades_Bin_1-contigs_01001	CDS	1563	rny_2	3.1.-.-	COG1418	Ribonuclease Y
+Thermodesulfo_metaspades_Bin_1-contigs_01002	CDS	789	ymdB_2	3.1.4.16	COG1692	2',3'-cyclic-nucleotide 2'-phosphodiesterase
+Thermodesulfo_metaspades_Bin_1-contigs_01003	CDS	765	moeB	2.7.7.80	COG0476	Molybdopterin-synthase adenylyltransferase
+Thermodesulfo_metaspades_Bin_1-contigs_01004	CDS	1002	trpS	6.1.1.2	COG0180	Tryptophan--tRNA ligase
+Thermodesulfo_metaspades_Bin_1-contigs_01005	CDS	663				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01006	CDS	1101	proB	2.7.2.11		Glutamate 5-kinase
+Thermodesulfo_metaspades_Bin_1-contigs_01007	CDS	1008	obg	3.6.5.-	COG0536	GTPase Obg
+Thermodesulfo_metaspades_Bin_1-contigs_01008	CDS	285	rpmA			50S ribosomal protein L27
+Thermodesulfo_metaspades_Bin_1-contigs_01009	CDS	309	rplU		COG0261	50S ribosomal protein L21
+Thermodesulfo_metaspades_Bin_1-contigs_01010	CDS	1638	sdcS			Sodium-dependent dicarboxylate transporter SdcS
+Thermodesulfo_metaspades_Bin_1-contigs_01011	CDS	966	miaA	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+Thermodesulfo_metaspades_Bin_1-contigs_01012	CDS	996	rnz	3.1.26.11	COG1234	Ribonuclease Z
+Thermodesulfo_metaspades_Bin_1-contigs_01013	CDS	999	galT	2.7.7.12	COG1085	Galactose-1-phosphate uridylyltransferase
+Thermodesulfo_metaspades_Bin_1-contigs_01014	CDS	1446	glgA	2.4.1.21	COG0297	Glycogen synthase
+Thermodesulfo_metaspades_Bin_1-contigs_01015	CDS	2721	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+Thermodesulfo_metaspades_Bin_1-contigs_01016	CDS	354	phoP		COG0745	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+Thermodesulfo_metaspades_Bin_1-contigs_01017	CDS	1350	hemY	1.3.3.4	COG1232	Protoporphyrinogen oxidase
+Thermodesulfo_metaspades_Bin_1-contigs_01018	CDS	969	hemH	4.99.1.1	COG0276	Ferrochelatase
+Thermodesulfo_metaspades_Bin_1-contigs_01019	CDS	1773	uvrC		COG0322	UvrABC system protein C
+Thermodesulfo_metaspades_Bin_1-contigs_01020	CDS	402				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01021	CDS	141				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01022	CDS	108				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01023	CDS	255				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01024	CDS	798				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01025	CDS	129				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01026	CDS	819				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01027	CDS	837				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01028	CDS	1782				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01029	CDS	990	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+Thermodesulfo_metaspades_Bin_1-contigs_01030	CDS	768				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01031	CDS	339				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01032	CDS	897	truB	5.4.99.25	COG0130	tRNA pseudouridine synthase B
+Thermodesulfo_metaspades_Bin_1-contigs_01033	CDS	1974	lptD			LPS-assembly protein LptD
+Thermodesulfo_metaspades_Bin_1-contigs_01034	CDS	1314	fpgS	6.3.2.17		Folylpolyglutamate synthase
+Thermodesulfo_metaspades_Bin_1-contigs_01035	CDS	864	accD	2.1.3.15	COG0777	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+Thermodesulfo_metaspades_Bin_1-contigs_01036	CDS	774	trpA	4.2.1.20	COG0159	Tryptophan synthase alpha chain
+Thermodesulfo_metaspades_Bin_1-contigs_01037	CDS	1251	trpB_2	4.2.1.20	COG0133	Tryptophan synthase beta chain
+Thermodesulfo_metaspades_Bin_1-contigs_01038	CDS	642				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01039	CDS	990	rsxB_2	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+Thermodesulfo_metaspades_Bin_1-contigs_01040	CDS	1245		3.4.24.-	COG0612	putative zinc protease
+Thermodesulfo_metaspades_Bin_1-contigs_01041	CDS	2112	pnp	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+Thermodesulfo_metaspades_Bin_1-contigs_01042	CDS	303	rpsO			30S ribosomal protein S15
+Thermodesulfo_metaspades_Bin_1-contigs_01043	CDS	390				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01044	CDS	2457				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01045	CDS	1074	dppB		COG0601	Dipeptide transport system permease protein DppB
+Thermodesulfo_metaspades_Bin_1-contigs_01046	CDS	1335				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01047	CDS	963	oppD_2		COG0444	Oligopeptide transport ATP-binding protein OppD
+Thermodesulfo_metaspades_Bin_1-contigs_01048	CDS	1011	oppD_3		COG0444	Oligopeptide transport ATP-binding protein OppD
+Thermodesulfo_metaspades_Bin_1-contigs_01049	CDS	852	folD_1		COG0190	Bifunctional protein FolD protein
+Thermodesulfo_metaspades_Bin_1-contigs_01050	CDS	555	folE	3.5.4.16	COG0302	GTP cyclohydrolase 1
+Thermodesulfo_metaspades_Bin_1-contigs_01051	CDS	630	yqgN		COG0212	putative protein YqgN
+Thermodesulfo_metaspades_Bin_1-contigs_01052	CDS	141				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01053	CDS	591				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01054	tRNA	76				tRNA-Glu(ctc)
+Thermodesulfo_metaspades_Bin_1-contigs_01055	tRNA	73				tRNA-Gln(ctg)
+Thermodesulfo_metaspades_Bin_1-contigs_01056	CDS	468	nrdR		COG1327	Transcriptional repressor NrdR
+Thermodesulfo_metaspades_Bin_1-contigs_01057	CDS	1239	glyA	2.1.2.1	COG0112	Serine hydroxymethyltransferase
+Thermodesulfo_metaspades_Bin_1-contigs_01058	CDS	480	ywlF	5.3.1.-	COG0698	Putative sugar phosphate isomerase YwlF
+Thermodesulfo_metaspades_Bin_1-contigs_01059	CDS	183				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01060	CDS	1416	der_2			GTPase Der
+Thermodesulfo_metaspades_Bin_1-contigs_01061	CDS	264	groS			10 kDa chaperonin
+Thermodesulfo_metaspades_Bin_1-contigs_01062	CDS	1647	groL		COG0459	60 kDa chaperonin
+Thermodesulfo_metaspades_Bin_1-contigs_01063	CDS	1215	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+Thermodesulfo_metaspades_Bin_1-contigs_01064	CDS	1122				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01065	CDS	399	dksA		COG1734	RNA polymerase-binding transcription factor DksA
+Thermodesulfo_metaspades_Bin_1-contigs_01066	CDS	582				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01067	CDS	369				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01068	CDS	846				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01069	CDS	564				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01070	CDS	870	hdaH	3.5.1.-		Histone deacetylase-like amidohydrolase
+Thermodesulfo_metaspades_Bin_1-contigs_01071	CDS	2274	ctpC_2	3.6.3.-	COG2217	Manganese-exporting P-type ATPase
+Thermodesulfo_metaspades_Bin_1-contigs_01072	CDS	621	pcm_2	2.1.1.77		Protein-L-isoaspartate O-methyltransferase
+Thermodesulfo_metaspades_Bin_1-contigs_01073	CDS	1707	feoB		COG0370	Fe(2+) transporter FeoB
+Thermodesulfo_metaspades_Bin_1-contigs_01074	CDS	234				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01075	CDS	915	polA	2.7.7.7	COG0258	DNA polymerase I
+Thermodesulfo_metaspades_Bin_1-contigs_01076	CDS	306				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01077	CDS	234				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01078	CDS	225				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01079	CDS	2085				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01080	CDS	252				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01081	CDS	759	pgk/tpi		COG0126	Bifunctional PGK/TIM
+Thermodesulfo_metaspades_Bin_1-contigs_01082	CDS	1572	lysS	6.1.1.6		Lysine--tRNA ligase
+Thermodesulfo_metaspades_Bin_1-contigs_01083	CDS	1230	lolC		COG4591	Lipoprotein-releasing system transmembrane protein LolC
+Thermodesulfo_metaspades_Bin_1-contigs_01084	CDS	279				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01085	CDS	735	lolD	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+Thermodesulfo_metaspades_Bin_1-contigs_01086	CDS	1794	thrS	6.1.1.3	COG0441	Threonine--tRNA ligase 1
+Thermodesulfo_metaspades_Bin_1-contigs_01087	CDS	462	infC			Translation initiation factor IF-3
+Thermodesulfo_metaspades_Bin_1-contigs_01088	CDS	1593	cshA	3.6.4.13		DEAD-box ATP-dependent RNA helicase CshA
+Thermodesulfo_metaspades_Bin_1-contigs_01089	CDS	1650				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01090	CDS	2406				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01091	CDS	1236				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01092	CDS	279	cysO		COG1977	Sulfur carrier protein CysO
+Thermodesulfo_metaspades_Bin_1-contigs_01093	CDS	888	dapA	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+Thermodesulfo_metaspades_Bin_1-contigs_01094	CDS	852	dapF	5.1.1.7	COG0253	Diaminopimelate epimerase
+Thermodesulfo_metaspades_Bin_1-contigs_01095	CDS	1362	lysA	4.1.1.20	COG0019	Diaminopimelate decarboxylase
+Thermodesulfo_metaspades_Bin_1-contigs_01096	tRNA	76				tRNA-Lys(ctt)
+Thermodesulfo_metaspades_Bin_1-contigs_01097	CDS	441	smpB		COG0691	SsrA-binding protein
+Thermodesulfo_metaspades_Bin_1-contigs_01098	tmRNA	353	ssrA			transfer-messenger RNA, SsrA
+Thermodesulfo_metaspades_Bin_1-contigs_01099	CDS	540	kdsC	3.1.3.45	COG1778	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC
+Thermodesulfo_metaspades_Bin_1-contigs_01100	CDS	537	pgsA_2	2.7.8.5	COG0558	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+Thermodesulfo_metaspades_Bin_1-contigs_01101	CDS	600	plsY	2.3.1.275	COG0344	Glycerol-3-phosphate acyltransferase
+Thermodesulfo_metaspades_Bin_1-contigs_01102	CDS	756	fdhD		COG1526	Sulfur carrier protein FdhD
+Thermodesulfo_metaspades_Bin_1-contigs_01103	CDS	1743				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01104	CDS	873	mqnA	4.2.1.151	COG1427	Chorismate dehydratase
+Thermodesulfo_metaspades_Bin_1-contigs_01105	CDS	1446	rtcB	6.5.1.-		RNA-splicing ligase RtcB
+Thermodesulfo_metaspades_Bin_1-contigs_01106	CDS	3021				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01107	CDS	2295				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01108	CDS	1851	treZ	3.2.1.141	COG0296	Malto-oligosyltrehalose trehalohydrolase
+Thermodesulfo_metaspades_Bin_1-contigs_01109	CDS	1950	glgB	2.4.1.18	COG0296	1,4-alpha-glucan branching enzyme GlgB
+Thermodesulfo_metaspades_Bin_1-contigs_01110	CDS	1041	rpfG	3.1.4.-	COG3437	Cyclic di-GMP phosphodiesterase response regulator RpfG
+Thermodesulfo_metaspades_Bin_1-contigs_01111	CDS	1254	dmdA	4.2.1.85		2,3-dimethylmalate dehydratase large subunit
+Thermodesulfo_metaspades_Bin_1-contigs_01112	CDS	222	nqo5	7.1.1.-	COG0852	NADH-quinone oxidoreductase subunit 5
+Thermodesulfo_metaspades_Bin_1-contigs_01113	CDS	894	ndhK	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit K, chloroplastic
+Thermodesulfo_metaspades_Bin_1-contigs_01114	CDS	549				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01115	CDS	492				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01116	CDS	129				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01117	CDS	1437	rng	3.1.26.-	COG1530	Ribonuclease G
+Thermodesulfo_metaspades_Bin_1-contigs_01118	CDS	861	plqA	2.5.1.39		4-hydroxybenzoate solanesyltransferase
+Thermodesulfo_metaspades_Bin_1-contigs_01119	CDS	405	gcvH		COG0509	Glycine cleavage system H protein
+Thermodesulfo_metaspades_Bin_1-contigs_01120	CDS	1389	lpd	1.8.1.4	COG1249	Dihydrolipoyl dehydrogenase
+Thermodesulfo_metaspades_Bin_1-contigs_01121	CDS	1302	eno	4.2.1.11	COG0148	Enolase
+Thermodesulfo_metaspades_Bin_1-contigs_01122	CDS	384	rplQ		COG0203	50S ribosomal protein L17
+Thermodesulfo_metaspades_Bin_1-contigs_01123	CDS	990	rpoA	2.7.7.6	COG0202	DNA-directed RNA polymerase subunit alpha
+Thermodesulfo_metaspades_Bin_1-contigs_01124	CDS	786		2.4.2.44	COG0005	S-methyl-5'-thioinosine phosphorylase
+Thermodesulfo_metaspades_Bin_1-contigs_01125	CDS	750			COG0217	putative transcriptional regulatory protein
+Thermodesulfo_metaspades_Bin_1-contigs_01126	CDS	1383	glmU		COG1207	Bifunctional protein GlmU
+Thermodesulfo_metaspades_Bin_1-contigs_01127	CDS	1221		3.1.4.-	COG2206	Cyclic di-GMP phosphodiesterase
+Thermodesulfo_metaspades_Bin_1-contigs_01128	CDS	207				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01129	CDS	1461	algA		COG0662	Alginate biosynthesis protein AlgA
+Thermodesulfo_metaspades_Bin_1-contigs_01130	CDS	1485	algC	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+Thermodesulfo_metaspades_Bin_1-contigs_01131	CDS	303				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01132	CDS	501				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01133	CDS	642		2.7.8.-	COG0558	Phosphatidylinositol phosphate synthase
+Thermodesulfo_metaspades_Bin_1-contigs_01134	CDS	1104	ino1	5.5.1.4	COG1260	Inositol-3-phosphate synthase
+Thermodesulfo_metaspades_Bin_1-contigs_01135	CDS	1179				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01136	CDS	1224	mshA_3	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+Thermodesulfo_metaspades_Bin_1-contigs_01137	CDS	447	rplI		COG0359	50S ribosomal protein L9
+Thermodesulfo_metaspades_Bin_1-contigs_01138	CDS	1395	dnaC	3.6.4.12	COG0305	Replicative DNA helicase
+Thermodesulfo_metaspades_Bin_1-contigs_01139	CDS	804				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01140	CDS	603	mobA	2.7.7.77	COG0746	putative molybdenum cofactor guanylyltransferase
+Thermodesulfo_metaspades_Bin_1-contigs_01141	CDS	222	tatA			Sec-independent protein translocase protein TatA
+Thermodesulfo_metaspades_Bin_1-contigs_01142	CDS	1146	alr1	5.1.1.1	COG0787	Alanine racemase 1
+Thermodesulfo_metaspades_Bin_1-contigs_01143	CDS	771	mlaE		COG0767	Intermembrane phospholipid transport system permease protein MlaE
+Thermodesulfo_metaspades_Bin_1-contigs_01144	CDS	759	mkl		COG1127	putative ribonucleotide transport ATP-binding protein mkl
+Thermodesulfo_metaspades_Bin_1-contigs_01145	CDS	1377				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01146	CDS	1191		2.6.1.1		Aspartate aminotransferase
+Thermodesulfo_metaspades_Bin_1-contigs_01147	CDS	888	era		COG1159	GTPase Era
+Thermodesulfo_metaspades_Bin_1-contigs_01148	CDS	456			COG1259	putative protein
+Thermodesulfo_metaspades_Bin_1-contigs_01149	CDS	657				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01150	CDS	1269				L-lactate transporter
+Thermodesulfo_metaspades_Bin_1-contigs_01151	CDS	1245	tig	5.2.1.8	COG0544	Trigger factor
+Thermodesulfo_metaspades_Bin_1-contigs_01152	CDS	639	clpP	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+Thermodesulfo_metaspades_Bin_1-contigs_01153	CDS	1248	clpX			ATP-dependent Clp protease ATP-binding subunit ClpX
+Thermodesulfo_metaspades_Bin_1-contigs_01154	CDS	459				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01155	CDS	192	rpmB		COG0227	50S ribosomal protein L28
+Thermodesulfo_metaspades_Bin_1-contigs_01156	CDS	2289	infB			Translation initiation factor IF-2
+Thermodesulfo_metaspades_Bin_1-contigs_01157	CDS	429	rbfA			Ribosome-binding factor A
+Thermodesulfo_metaspades_Bin_1-contigs_01158	CDS	1002	nrnA	3.1.-.-	COG0618	Bifunctional oligoribonuclease and PAP phosphatase NrnA
+Thermodesulfo_metaspades_Bin_1-contigs_01159	CDS	1680	hybC	1.12.99.6	COG0374	Hydrogenase-2 large chain
+Thermodesulfo_metaspades_Bin_1-contigs_01160	CDS	1143	hybB		COG5557	putative Ni/Fe-hydrogenase 2 b-type cytochrome subunit
+Thermodesulfo_metaspades_Bin_1-contigs_01161	CDS	975	fdoH		COG0437	Formate dehydrogenase-O iron-sulfur subunit
+Thermodesulfo_metaspades_Bin_1-contigs_01162	CDS	1158	hybO	1.12.99.6	COG1740	Hydrogenase-2 small chain
+Thermodesulfo_metaspades_Bin_1-contigs_01163	CDS	2376	topA	5.6.2.1		DNA topoisomerase 1
+Thermodesulfo_metaspades_Bin_1-contigs_01164	CDS	390				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01165	CDS	561	fumA	4.2.1.2	COG1838	Fumarate hydratase class I, aerobic
+Thermodesulfo_metaspades_Bin_1-contigs_01166	CDS	636				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01167	CDS	1812	frdA	1.3.5.4	COG1053	Fumarate reductase flavoprotein subunit
+Thermodesulfo_metaspades_Bin_1-contigs_01168	CDS	729	frdB	1.3.5.1	COG0479	Fumarate reductase iron-sulfur subunit
+Thermodesulfo_metaspades_Bin_1-contigs_01169	CDS	930	mdh	1.1.1.37	COG0039	Malate dehydrogenase
+Thermodesulfo_metaspades_Bin_1-contigs_01170	CDS	282	livF		COG0410	High-affinity branched-chain amino acid transport ATP-binding protein LivF
+Thermodesulfo_metaspades_Bin_1-contigs_01171	CDS	336	tusE	2.8.1.-	COG2920	Sulfurtransferase TusE
+Thermodesulfo_metaspades_Bin_1-contigs_01172	CDS	501				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01173	CDS	108				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01174	CDS	993				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01175	CDS	1617				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01176	CDS	402				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01177	CDS	768	ttrB		COG0437	Tetrathionate reductase subunit B
+Thermodesulfo_metaspades_Bin_1-contigs_01178	CDS	1158				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01179	CDS	186				Ferredoxin-2
+Thermodesulfo_metaspades_Bin_1-contigs_01180	CDS	174				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01181	CDS	174				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01182	CDS	195				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01183	CDS	108				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01184	CDS	693	kdsB	2.7.7.90	COG1212	8-amino-3,8-dideoxy-manno-octulosonate cytidylyltransferase
+Thermodesulfo_metaspades_Bin_1-contigs_01185	CDS	1650	pyrG	6.3.4.2		CTP synthase
+Thermodesulfo_metaspades_Bin_1-contigs_01186	CDS	1146	mshA_4	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+Thermodesulfo_metaspades_Bin_1-contigs_01187	CDS	1434				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01188	CDS	585				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01189	tRNA	89				tRNA-Ser(gga)
+Thermodesulfo_metaspades_Bin_1-contigs_01190	CDS	1614	dnaX	2.7.7.7	COG2812	DNA polymerase III subunit gamma/tau
+Thermodesulfo_metaspades_Bin_1-contigs_01191	CDS	339			COG0718	Nucleoid-associated protein
+Thermodesulfo_metaspades_Bin_1-contigs_01192	CDS	1734	pgcA	5.4.2.2		Phosphoglucomutase
+Thermodesulfo_metaspades_Bin_1-contigs_01193	CDS	120				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01194	CDS	1206				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01195	CDS	873	ftsX		COG2177	Cell division protein FtsX
+Thermodesulfo_metaspades_Bin_1-contigs_01196	CDS	663	ftsE		COG2884	Cell division ATP-binding protein FtsE
+Thermodesulfo_metaspades_Bin_1-contigs_01197	CDS	984	aptB	2.2.1.-	COG3958	Apulose-4-phosphate transketolase subunit B
+Thermodesulfo_metaspades_Bin_1-contigs_01198	CDS	843	aptA	2.2.1.-	COG3959	Apulose-4-phosphate transketolase subunit A
+Thermodesulfo_metaspades_Bin_1-contigs_01199	CDS	132				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01200	CDS	1032				Deoxyguanosinetriphosphate triphosphohydrolase-like protein
+Thermodesulfo_metaspades_Bin_1-contigs_01201	CDS	2826				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01202	CDS	3084	recB	3.1.11.5		RecBCD enzyme subunit RecB
+Thermodesulfo_metaspades_Bin_1-contigs_01203	CDS	699				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01204	CDS	273	rsfS		COG0799	Ribosomal silencing factor RsfS
+Thermodesulfo_metaspades_Bin_1-contigs_01205	CDS	1116	dnaJ_3		COG0484	Chaperone protein DnaJ
+Thermodesulfo_metaspades_Bin_1-contigs_01206	CDS	1926	dnaK			Chaperone protein DnaK
+Thermodesulfo_metaspades_Bin_1-contigs_01207	CDS	558	grpE		COG0576	Protein GrpE
+Thermodesulfo_metaspades_Bin_1-contigs_01208	CDS	1077	hrcA		COG1420	Heat-inducible transcription repressor HrcA
+Thermodesulfo_metaspades_Bin_1-contigs_01209	CDS	837	speE_3	2.5.1.16	COG0421	Polyamine aminopropyltransferase
+Thermodesulfo_metaspades_Bin_1-contigs_01210	CDS	1134	ldc	4.1.1.17		Lysine/ornithine decarboxylase
+Thermodesulfo_metaspades_Bin_1-contigs_01211	CDS	1338	pyrC	3.5.2.3	COG0044	Dihydroorotase
+Thermodesulfo_metaspades_Bin_1-contigs_01212	CDS	147				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01213	CDS	225				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01214	CDS	1257	phoR_2	2.7.13.3	COG0642	Alkaline phosphatase synthesis sensor protein PhoR
+Thermodesulfo_metaspades_Bin_1-contigs_01215	CDS	495				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01216	CDS	186				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01217	CDS	297				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01218	CDS	1419	ccsB			Cytochrome c biogenesis protein CcsB
+Thermodesulfo_metaspades_Bin_1-contigs_01219	CDS	1083	ccsA_2			Cytochrome c biogenesis protein CcsA
+Thermodesulfo_metaspades_Bin_1-contigs_01220	CDS	1035	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+Thermodesulfo_metaspades_Bin_1-contigs_01221	CDS	1971	acsA_2	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+Thermodesulfo_metaspades_Bin_1-contigs_01222	CDS	936			COG0701	Putative two-component membrane permease complex subunit SMU_747c
+Thermodesulfo_metaspades_Bin_1-contigs_01223	CDS	3483	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+Thermodesulfo_metaspades_Bin_1-contigs_01224	CDS	987	accA	2.1.3.15	COG0825	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+Thermodesulfo_metaspades_Bin_1-contigs_01225	CDS	906	ftsY		COG0552	Signal recognition particle receptor FtsY
+Thermodesulfo_metaspades_Bin_1-contigs_01226	CDS	321				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01227	CDS	189				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01228	CDS	297				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01229	CDS	354	rsxB_3	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+Thermodesulfo_metaspades_Bin_1-contigs_01230	CDS	210				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01231	CDS	513				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01232	CDS	213				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01233	CDS	345				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01234	CDS	315				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01235	CDS	1425	fliD		COG1345	B-type flagellar hook-associated protein 2
+Thermodesulfo_metaspades_Bin_1-contigs_01236	CDS	147				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01237	CDS	501				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01238	CDS	189	rpmF			50S ribosomal protein L32
+Thermodesulfo_metaspades_Bin_1-contigs_01239	CDS	1005	plsX	2.3.1.274	COG0416	Phosphate acyltransferase
+Thermodesulfo_metaspades_Bin_1-contigs_01240	CDS	981	fabH	2.3.1.180	COG0332	3-oxoacyl-[acyl-carrier-protein] synthase 3
+Thermodesulfo_metaspades_Bin_1-contigs_01241	CDS	717	crnA	3.5.2.10		Creatinine amidohydrolase
+Thermodesulfo_metaspades_Bin_1-contigs_01242	CDS	378	queD	4.1.2.50	COG0720	6-carboxy-5,6,7,8-tetrahydropterin synthase
+Thermodesulfo_metaspades_Bin_1-contigs_01243	CDS	1344	pmbA	3.4.-.-	COG0312	Metalloprotease PmbA
+Thermodesulfo_metaspades_Bin_1-contigs_01244	CDS	1158		1.3.99.-	COG1960	putative acyl-CoA dehydrogenase fadE25
+Thermodesulfo_metaspades_Bin_1-contigs_01245	CDS	459	pgpA	3.1.3.27	COG1267	Phosphatidylglycerophosphatase A
+Thermodesulfo_metaspades_Bin_1-contigs_01246	CDS	582	thpR	3.1.4.58		RNA 2',3'-cyclic phosphodiesterase
+Thermodesulfo_metaspades_Bin_1-contigs_01247	CDS	1230	glgC	2.7.7.27	COG0448	Glucose-1-phosphate adenylyltransferase
+Thermodesulfo_metaspades_Bin_1-contigs_01248	CDS	225	rpsR		COG0238	30S ribosomal protein S18
+Thermodesulfo_metaspades_Bin_1-contigs_01249	CDS	282				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01250	CDS	276				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01251	CDS	288				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01252	CDS	747				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01253	CDS	765	pdxJ	2.6.99.2	COG0854	Pyridoxine 5'-phosphate synthase
+Thermodesulfo_metaspades_Bin_1-contigs_01254	CDS	459	acpS	2.7.8.7	COG0736	Holo-[acyl-carrier-protein] synthase
+Thermodesulfo_metaspades_Bin_1-contigs_01255	CDS	774	carD	1.3.1.108	COG2086	Caffeyl-CoA reductase-Etf complex subunit CarD
+Thermodesulfo_metaspades_Bin_1-contigs_01256	CDS	1032	carE	1.3.1.108	COG2025	Caffeyl-CoA reductase-Etf complex subunit CarE
+Thermodesulfo_metaspades_Bin_1-contigs_01257	CDS	930	fabD	2.3.1.39	COG0331	Malonyl CoA-acyl carrier protein transacylase
+Thermodesulfo_metaspades_Bin_1-contigs_01258	CDS	417	ndk	2.7.4.6	COG0105	Nucleoside diphosphate kinase
+Thermodesulfo_metaspades_Bin_1-contigs_01259	CDS	348				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01260	CDS	402				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01261	CDS	1788	ndhB	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+Thermodesulfo_metaspades_Bin_1-contigs_01262	CDS	246				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01263	CDS	1530	mrpA		COG1009	Na(+)/H(+) antiporter subunit A
+Thermodesulfo_metaspades_Bin_1-contigs_01264	CDS	1539	mrpD		COG0651	Na(+)/H(+) antiporter subunit D
+Thermodesulfo_metaspades_Bin_1-contigs_01265	CDS	381				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01266	CDS	459				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01267	CDS	279				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01268	CDS	249				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01269	CDS	309	mrpG		COG1320	Na(+)/H(+) antiporter subunit G
+Thermodesulfo_metaspades_Bin_1-contigs_01270	CDS	267				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01271	CDS	498	mnhE1		COG1863	Na(+)/H(+) antiporter subunit E1
+Thermodesulfo_metaspades_Bin_1-contigs_01272	CDS	663	nfnB	1.-.-.-	COG0778	Nitroreductase NfnB
+Thermodesulfo_metaspades_Bin_1-contigs_01273	CDS	516				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01274	CDS	540	resA		COG0526	Thiol-disulfide oxidoreductase ResA
+Thermodesulfo_metaspades_Bin_1-contigs_01275	CDS	2310	clpC			ATP-dependent Clp protease ATP-binding subunit ClpC
+Thermodesulfo_metaspades_Bin_1-contigs_01276	CDS	2055	priA	3.6.4.-		primosomal protein N'
+Thermodesulfo_metaspades_Bin_1-contigs_01277	CDS	801	lgt	2.5.1.145	COG0682	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+Thermodesulfo_metaspades_Bin_1-contigs_01278	CDS	93				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01279	CDS	810				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01280	CDS	1008				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01281	CDS	333				Membrane-associated protein
+Thermodesulfo_metaspades_Bin_1-contigs_01282	CDS	1023	lldD	1.1.-.-		L-lactate dehydrogenase
+Thermodesulfo_metaspades_Bin_1-contigs_01283	CDS	144	rpmH			50S ribosomal protein L34
+Thermodesulfo_metaspades_Bin_1-contigs_01284	CDS	1515	yidC			Membrane protein insertase YidC
+Thermodesulfo_metaspades_Bin_1-contigs_01285	CDS	1467	mnmE	3.6.-.-	COG0486	tRNA modification GTPase MnmE
+Thermodesulfo_metaspades_Bin_1-contigs_01286	CDS	969	kdsD	5.3.1.13	COG0517	Arabinose 5-phosphate isomerase KdsD
+Thermodesulfo_metaspades_Bin_1-contigs_01287	CDS	165				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01288	CDS	1554	purH		COG0138	Bifunctional purine biosynthesis protein PurH
+Thermodesulfo_metaspades_Bin_1-contigs_01289	CDS	1275	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+Thermodesulfo_metaspades_Bin_1-contigs_01290	CDS	885				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01291	CDS	675				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01292	CDS	141				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01293	CDS	1008				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01294	CDS	270				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01295	CDS	444	dtd	3.1.1.96	COG1490	D-aminoacyl-tRNA deacylase
+Thermodesulfo_metaspades_Bin_1-contigs_01296	CDS	1329		2.7.7.-		CC-adding tRNA nucleotidyltransferase
+Thermodesulfo_metaspades_Bin_1-contigs_01297	CDS	498				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01298	CDS	1065				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01299	CDS	1038	queA	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+Thermodesulfo_metaspades_Bin_1-contigs_01300	CDS	1146	pepT	3.4.11.4		Peptidase T
+Thermodesulfo_metaspades_Bin_1-contigs_01301	CDS	1188	argD	2.6.1.11	COG4992	Acetylornithine aminotransferase
+Thermodesulfo_metaspades_Bin_1-contigs_01302	CDS	906	argF	2.1.3.3	COG0078	Ornithine carbamoyltransferase
+Thermodesulfo_metaspades_Bin_1-contigs_01303	CDS	1212	tyrS	6.1.1.1	COG0162	Tyrosine--tRNA ligase
+Thermodesulfo_metaspades_Bin_1-contigs_01304	CDS	1230	argJ		COG1364	Arginine biosynthesis bifunctional protein ArgJ
+Thermodesulfo_metaspades_Bin_1-contigs_01305	CDS	183				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01306	CDS	789	trpC	4.1.1.48	COG0134	Indole-3-glycerol phosphate synthase
+Thermodesulfo_metaspades_Bin_1-contigs_01307	CDS	600				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01308	CDS	204				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01309	CDS	348				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01310	CDS	171				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01311	CDS	4200	napA	1.9.6.1		Periplasmic nitrate reductase
+Thermodesulfo_metaspades_Bin_1-contigs_01312	CDS	423	folD_2		COG0190	Bifunctional protein FolD protein
+Thermodesulfo_metaspades_Bin_1-contigs_01313	CDS	450	folD_3		COG0190	Bifunctional protein FolD protein
+Thermodesulfo_metaspades_Bin_1-contigs_01314	tRNA	77				tRNA-Arg(acg)
+Thermodesulfo_metaspades_Bin_1-contigs_01315	CDS	987				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01316	CDS	426				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01317	CDS	1155				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01318	CDS	483				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01319	CDS	963	fliM		COG1868	Flagellar motor switch protein FliM
+Thermodesulfo_metaspades_Bin_1-contigs_01320	CDS	330				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01321	CDS	312				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01322	CDS	765	fliP		COG1338	Flagellar biosynthetic protein FliP
+Thermodesulfo_metaspades_Bin_1-contigs_01323	CDS	270	fliQ		COG1987	Flagellar biosynthetic protein FliQ
+Thermodesulfo_metaspades_Bin_1-contigs_01324	CDS	732	fliR		COG1684	Flagellar biosynthetic protein FliR
+Thermodesulfo_metaspades_Bin_1-contigs_01325	CDS	1068	flhB_2		COG1377	Flagellar biosynthetic protein FlhB
+Thermodesulfo_metaspades_Bin_1-contigs_01326	CDS	2061	flhA		COG1298	Flagellar biosynthesis protein FlhA
+Thermodesulfo_metaspades_Bin_1-contigs_01327	CDS	1047	srp54			Signal recognition particle 54 kDa protein
+Thermodesulfo_metaspades_Bin_1-contigs_01328	CDS	810	ylxH		COG0455	Flagellum site-determining protein YlxH
+Thermodesulfo_metaspades_Bin_1-contigs_01329	CDS	723	fliA		COG1191	RNA polymerase sigma factor FliA
+Thermodesulfo_metaspades_Bin_1-contigs_01330	CDS	1878				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01331	CDS	831	cheR2	2.1.1.80		Chemotaxis protein methyltransferase Cher2
+Thermodesulfo_metaspades_Bin_1-contigs_01332	CDS	552				hypothetical protein
+Thermodesulfo_metaspades_Bin_1-contigs_01333	CDS	447	mec	3.13.1.6	COG1310	CysO-cysteine peptidase
+Thermodesulfo_metaspades_Bin_1-contigs_01334	CDS	783	ttuC	2.7.7.80	COG0476	Sulfur carrier protein adenylyltransferase

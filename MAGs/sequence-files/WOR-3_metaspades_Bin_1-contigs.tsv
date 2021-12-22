@@ -1,0 +1,1103 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+WOR-3_metaspades_Bin_1-contigs_00001	CDS	369				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00002	CDS	417				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00003	CDS	222	nfuA			Fe/S biogenesis protein NfuA
+WOR-3_metaspades_Bin_1-contigs_00004	tRNA	76				tRNA-Ala(cgc)
+WOR-3_metaspades_Bin_1-contigs_00005	CDS	1386				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00006	CDS	864	nfo	3.1.21.2	COG0648	putative endonuclease 4
+WOR-3_metaspades_Bin_1-contigs_00007	CDS	1404		5.1.1.21	COG0160	Isoleucine 2-epimerase
+WOR-3_metaspades_Bin_1-contigs_00008	CDS	321				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00009	CDS	978	glmU_1	2.7.7.23		Bifunctional protein GlmU
+WOR-3_metaspades_Bin_1-contigs_00010	CDS	1155	metK	2.5.1.6		S-adenosylmethionine synthase
+WOR-3_metaspades_Bin_1-contigs_00011	CDS	510				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00012	CDS	318	rplU		COG0261	50S ribosomal protein L21
+WOR-3_metaspades_Bin_1-contigs_00013	CDS	330				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00014	CDS	765	pgk/tpi_1		COG0126	Bifunctional PGK/TIM
+WOR-3_metaspades_Bin_1-contigs_00015	CDS	669	lolD	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+WOR-3_metaspades_Bin_1-contigs_00016	CDS	471	rpsG		COG0049	30S ribosomal protein S7
+WOR-3_metaspades_Bin_1-contigs_00017	CDS	795				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00018	CDS	1710	mrdA	3.4.16.4	COG0768	Peptidoglycan D,D-transpeptidase MrdA
+WOR-3_metaspades_Bin_1-contigs_00019	CDS	318				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00020	CDS	957	rmd	1.1.1.281		GDP-6-deoxy-D-mannose reductase
+WOR-3_metaspades_Bin_1-contigs_00021	CDS	1170	mshA_1	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+WOR-3_metaspades_Bin_1-contigs_00022	CDS	288				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00023	CDS	1185	tolB_1			Tol-Pal system protein TolB
+WOR-3_metaspades_Bin_1-contigs_00024	CDS	1077	hflX		COG2262	GTPase HflX
+WOR-3_metaspades_Bin_1-contigs_00025	CDS	876	argF	2.1.3.3	COG0078	Ornithine carbamoyltransferase
+WOR-3_metaspades_Bin_1-contigs_00026	CDS	1257	deoA	2.4.2.4	COG0213	Thymidine phosphorylase
+WOR-3_metaspades_Bin_1-contigs_00027	tRNA	88				tRNA-Leu(caa)
+WOR-3_metaspades_Bin_1-contigs_00028	CDS	579				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00029	CDS	537	rsxG	7.-.-.-		Ion-translocating oxidoreductase complex subunit G
+WOR-3_metaspades_Bin_1-contigs_00030	CDS	624				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00031	CDS	618	pflA	1.97.1.4	COG1180	Pyruvate formate-lyase 1-activating enzyme
+WOR-3_metaspades_Bin_1-contigs_00032	CDS	2271	pflB_1	2.3.1.54		Formate acetyltransferase
+WOR-3_metaspades_Bin_1-contigs_00033	CDS	666	clsA	2.7.8.-		Cardiolipin synthase A
+WOR-3_metaspades_Bin_1-contigs_00034	CDS	168				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00035	CDS	816	accD	2.1.3.15	COG0777	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+WOR-3_metaspades_Bin_1-contigs_00036	CDS	549				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00037	CDS	417				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00038	CDS	411				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00039	CDS	1182				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00040	CDS	531	gmhB	3.1.3.82	COG0241	D-glycero-beta-D-manno-heptose-1,7-bisphosphate 7-phosphatase
+WOR-3_metaspades_Bin_1-contigs_00041	CDS	1071				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00042	CDS	495	adhE		COG1012	Aldehyde-alcohol dehydrogenase
+WOR-3_metaspades_Bin_1-contigs_00043	CDS	2229	pflB_2	2.3.1.54		Formate acetyltransferase
+WOR-3_metaspades_Bin_1-contigs_00044	CDS	375				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00045	CDS	639	rpe	5.1.3.1		Ribulose-phosphate 3-epimerase
+WOR-3_metaspades_Bin_1-contigs_00046	CDS	606				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00047	CDS	606				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00048	CDS	1278	eno	4.2.1.11	COG0148	Enolase
+WOR-3_metaspades_Bin_1-contigs_00049	CDS	216				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00050	CDS	882				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00051	tRNA	72				tRNA-Met(cat)
+WOR-3_metaspades_Bin_1-contigs_00052	CDS	909	rgtE	2.4.1.-	COG0463	Dodecaprenyl-phosphate galacturonate synthase
+WOR-3_metaspades_Bin_1-contigs_00053	CDS	135				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00054	CDS	1059	mnaA	5.1.3.14	COG0381	UDP-N-acetylglucosamine 2-epimerase
+WOR-3_metaspades_Bin_1-contigs_00055	CDS	771	COQ3_1	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+WOR-3_metaspades_Bin_1-contigs_00056	CDS	519				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00057	CDS	477	bepC			Outer membrane efflux protein BepC
+WOR-3_metaspades_Bin_1-contigs_00058	CDS	921	mdtA			Multidrug resistance protein MdtA
+WOR-3_metaspades_Bin_1-contigs_00059	CDS	393				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00060	CDS	402				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00061	CDS	1194	pilQ		COG4796	Type IV pilus biogenesis and competence protein PilQ
+WOR-3_metaspades_Bin_1-contigs_00062	CDS	732				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00063	CDS	561				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00064	CDS	1593				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00065	CDS	1188	dnaA_1			Chromosomal replication initiator protein DnaA
+WOR-3_metaspades_Bin_1-contigs_00066	CDS	417				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00067	CDS	432				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00068	CDS	876				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00069	CDS	711	pppA		COG1989	Prepilin peptidase PppA
+WOR-3_metaspades_Bin_1-contigs_00070	CDS	405	epsG		COG2165	Type II secretion system protein G
+WOR-3_metaspades_Bin_1-contigs_00071	CDS	1044	epsF		COG1459	Type II secretion system protein F
+WOR-3_metaspades_Bin_1-contigs_00072	CDS	1059	pilT		COG2805	Twitching mobility protein
+WOR-3_metaspades_Bin_1-contigs_00073	CDS	1557	epsE		COG2804	Type II secretion system protein E
+WOR-3_metaspades_Bin_1-contigs_00074	CDS	279	ctpC	3.6.3.-	COG2217	Manganese-exporting P-type ATPase
+WOR-3_metaspades_Bin_1-contigs_00075	CDS	1251	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+WOR-3_metaspades_Bin_1-contigs_00076	CDS	363				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00077	CDS	1236				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00078	CDS	1302				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00079	CDS	1536	comM		COG0606	Competence protein ComM
+WOR-3_metaspades_Bin_1-contigs_00080	CDS	687	queE	4.3.99.3		7-carboxy-7-deazaguanine synthase
+WOR-3_metaspades_Bin_1-contigs_00081	CDS	606				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00082	CDS	1104				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00083	CDS	324	acpS	2.7.8.7	COG0736	Holo-[acyl-carrier-protein] synthase
+WOR-3_metaspades_Bin_1-contigs_00084	CDS	483				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00085	CDS	396				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00086	tRNA	75				tRNA-Glu(ctc)
+WOR-3_metaspades_Bin_1-contigs_00087	tRNA	84				tRNA-Leu(tag)
+WOR-3_metaspades_Bin_1-contigs_00088	CDS	2214				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00089	CDS	603	cpoB_1			Cell division coordinator CpoB
+WOR-3_metaspades_Bin_1-contigs_00090	CDS	561	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+WOR-3_metaspades_Bin_1-contigs_00091	CDS	552	pdaD	4.1.1.19		Pyruvoyl-dependent arginine decarboxylase
+WOR-3_metaspades_Bin_1-contigs_00092	CDS	897	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+WOR-3_metaspades_Bin_1-contigs_00093	CDS	126				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00094	CDS	210				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00095	CDS	381				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00096	CDS	237				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00097	CDS	156				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00098	CDS	477	fruA_1		COG1299	PTS system fructose-specific EIIABC component
+WOR-3_metaspades_Bin_1-contigs_00099	CDS	129				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00100	CDS	723	pcm_1	2.1.1.77	COG2518	Protein-L-isoaspartate O-methyltransferase
+WOR-3_metaspades_Bin_1-contigs_00101	CDS	990	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+WOR-3_metaspades_Bin_1-contigs_00102	CDS	795				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00103	CDS	246				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00104	CDS	747	surE	3.1.3.5	COG0496	5'/3'-nucleotidase SurE
+WOR-3_metaspades_Bin_1-contigs_00105	CDS	669		2.4.1.54		Undecaprenyl-phosphate mannosyltransferase
+WOR-3_metaspades_Bin_1-contigs_00106	CDS	816	lpxL	2.3.1.241		Lipid A biosynthesis lauroyltransferase
+WOR-3_metaspades_Bin_1-contigs_00107	CDS	210				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00108	CDS	396				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00109	CDS	1488	sigA_1		COG0568	RNA polymerase sigma factor SigA
+WOR-3_metaspades_Bin_1-contigs_00110	CDS	1542	nnr		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+WOR-3_metaspades_Bin_1-contigs_00111	CDS	1014	plsX	2.3.1.274		Phosphate acyltransferase
+WOR-3_metaspades_Bin_1-contigs_00112	CDS	1230	fabF	2.3.1.179		3-oxoacyl-[acyl-carrier-protein] synthase 2
+WOR-3_metaspades_Bin_1-contigs_00113	CDS	240	acpP			Acyl carrier protein
+WOR-3_metaspades_Bin_1-contigs_00114	CDS	936				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00115	CDS	2016				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00116	CDS	1119	purK	6.3.4.18	COG0026	N5-carboxyaminoimidazole ribonucleotide synthase
+WOR-3_metaspades_Bin_1-contigs_00117	CDS	180				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00118	CDS	2562				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00119	CDS	921	mltG	4.2.2.-	COG1559	Endolytic murein transglycosylase
+WOR-3_metaspades_Bin_1-contigs_00120	CDS	1203				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00121	tRNA	74				tRNA-His(gtg)
+WOR-3_metaspades_Bin_1-contigs_00122	CDS	291				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00123	CDS	495				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00124	CDS	816	carD	1.3.1.108	COG2086	Caffeyl-CoA reductase-Etf complex subunit CarD
+WOR-3_metaspades_Bin_1-contigs_00125	CDS	369				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00126	CDS	1179	carE	1.3.1.108	COG2025	Caffeyl-CoA reductase-Etf complex subunit CarE
+WOR-3_metaspades_Bin_1-contigs_00127	CDS	186				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00128	CDS	1509				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00129	CDS	939				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00130	CDS	168				Ferredoxin-2
+WOR-3_metaspades_Bin_1-contigs_00131	CDS	933	COQ3_2	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+WOR-3_metaspades_Bin_1-contigs_00132	CDS	1068	hldD	5.1.3.20		ADP-L-glycero-D-manno-heptose-6-epimerase
+WOR-3_metaspades_Bin_1-contigs_00133	CDS	1161	ugtP	2.4.1.315	COG0707	Processive diacylglycerol beta-glucosyltransferase
+WOR-3_metaspades_Bin_1-contigs_00134	CDS	2601	valS	6.1.1.9		Valine--tRNA ligase
+WOR-3_metaspades_Bin_1-contigs_00135	CDS	1488	guaA	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+WOR-3_metaspades_Bin_1-contigs_00136	CDS	387				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00137	CDS	2040				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00138	CDS	1287				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00139	CDS	1566				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00140	CDS	393	rplM		COG0102	50S ribosomal protein L13
+WOR-3_metaspades_Bin_1-contigs_00141	CDS	1326	mnmE	3.6.5.-	COG0486	tRNA modification GTPase MnmE
+WOR-3_metaspades_Bin_1-contigs_00142	CDS	2820	secA		COG0653	Protein translocase subunit SecA
+WOR-3_metaspades_Bin_1-contigs_00143	CDS	705				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00144	CDS	1128	ftsZ		COG0206	Cell division protein FtsZ
+WOR-3_metaspades_Bin_1-contigs_00145	CDS	1761	lptD			LPS-assembly protein LptD
+WOR-3_metaspades_Bin_1-contigs_00146	CDS	396	yiaD		COG2885	putative lipoprotein YiaD
+WOR-3_metaspades_Bin_1-contigs_00147	CDS	969				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00148	CDS	6315				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00149	CDS	222				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00150	CDS	1041	ruvB	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+WOR-3_metaspades_Bin_1-contigs_00151	CDS	1122				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00152	CDS	612				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00153	CDS	1035	strE	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+WOR-3_metaspades_Bin_1-contigs_00154	CDS	456				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00155	CDS	1053	cutD_1	1.97.1.-		Choline trimethylamine-lyase activating enzyme
+WOR-3_metaspades_Bin_1-contigs_00156	CDS	420				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00157	CDS	444				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00158	CDS	291				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00159	CDS	1650	ubiB	2.7.-.-		protein kinase UbiB
+WOR-3_metaspades_Bin_1-contigs_00160	CDS	726	trmD	2.1.1.228		tRNA (guanine-N(1)-)-methyltransferase
+WOR-3_metaspades_Bin_1-contigs_00161	CDS	237				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00162	CDS	285				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00163	CDS	1041				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00164	CDS	777	uppP	3.6.1.27	COG1968	Undecaprenyl-diphosphatase
+WOR-3_metaspades_Bin_1-contigs_00165	CDS	465				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00166	CDS	1059	ispG	1.17.7.3	COG0821	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)
+WOR-3_metaspades_Bin_1-contigs_00167	CDS	357	panD	4.1.1.11	COG0853	Aspartate 1-decarboxylase
+WOR-3_metaspades_Bin_1-contigs_00168	CDS	927	glmU_2		COG1207	Bifunctional protein GlmU
+WOR-3_metaspades_Bin_1-contigs_00169	CDS	387				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00170	CDS	405				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00171	CDS	375	rsfS		COG0799	Ribosomal silencing factor RsfS
+WOR-3_metaspades_Bin_1-contigs_00172	CDS	558	efp		COG0231	Elongation factor P
+WOR-3_metaspades_Bin_1-contigs_00173	CDS	429				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00174	CDS	1539	mutL			DNA mismatch repair protein MutL
+WOR-3_metaspades_Bin_1-contigs_00175	CDS	690	ktrA		COG0569	Ktr system potassium uptake protein A
+WOR-3_metaspades_Bin_1-contigs_00176	CDS	966	iolG	1.1.1.369		Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase
+WOR-3_metaspades_Bin_1-contigs_00177	CDS	924	galE1	5.1.3.2	COG1088	UDP-glucose 4-epimerase
+WOR-3_metaspades_Bin_1-contigs_00178	CDS	2148	hcf136			Ycf48-like protein
+WOR-3_metaspades_Bin_1-contigs_00179	CDS	486	ntpK			V-type sodium ATPase subunit K
+WOR-3_metaspades_Bin_1-contigs_00180	CDS	573	atpE			V-type proton ATPase subunit E
+WOR-3_metaspades_Bin_1-contigs_00181	CDS	618	tolQ_1			Tol-Pal system protein TolQ
+WOR-3_metaspades_Bin_1-contigs_00182	CDS	417	tolR_1			Tol-Pal system protein TolR
+WOR-3_metaspades_Bin_1-contigs_00183	CDS	408				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00184	CDS	2376	gyrA	5.6.2.2	COG0188	DNA gyrase subunit A
+WOR-3_metaspades_Bin_1-contigs_00185	CDS	699	bshB1	3.5.1.-	COG2120	N-acetyl-alpha-D-glucosaminyl L-malate deacetylase 1
+WOR-3_metaspades_Bin_1-contigs_00186	CDS	510				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00187	CDS	2160	metE	2.1.1.14	COG0620	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+WOR-3_metaspades_Bin_1-contigs_00188	CDS	579				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00189	CDS	576	pal_1			Peptidoglycan-associated lipoprotein
+WOR-3_metaspades_Bin_1-contigs_00190	CDS	942				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00191	CDS	3015				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00192	CDS	180				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00193	CDS	2769	tolB_2			Tol-Pal system protein TolB
+WOR-3_metaspades_Bin_1-contigs_00194	CDS	612				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00195	tRNA	74				tRNA-Met(cat)
+WOR-3_metaspades_Bin_1-contigs_00196	CDS	1029	gutB	1.1.1.-	COG1063	Sorbitol dehydrogenase
+WOR-3_metaspades_Bin_1-contigs_00197	CDS	1968	uvrB			UvrABC system protein B
+WOR-3_metaspades_Bin_1-contigs_00198	CDS	1257	napA	1.9.6.1		Periplasmic nitrate reductase
+WOR-3_metaspades_Bin_1-contigs_00199	CDS	834	glyQ	6.1.1.14	COG0752	Glycine--tRNA ligase alpha subunit
+WOR-3_metaspades_Bin_1-contigs_00200	CDS	387				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00201	CDS	117				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00202	tRNA	88				tRNA-Leu(taa)
+WOR-3_metaspades_Bin_1-contigs_00203	CDS	1323				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00204	CDS	369				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00205	CDS	1254	gdhA	1.4.1.3	COG0334	Glutamate dehydrogenase
+WOR-3_metaspades_Bin_1-contigs_00206	CDS	1098	mshA_2	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+WOR-3_metaspades_Bin_1-contigs_00207	CDS	846	apbE	2.7.1.180	COG1477	FAD:protein FMN transferase
+WOR-3_metaspades_Bin_1-contigs_00208	CDS	1140	cpg2	3.4.17.11		Carboxypeptidase G2
+WOR-3_metaspades_Bin_1-contigs_00209	CDS	2022				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00210	CDS	441				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00211	CDS	1194				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00212	CDS	768	nadK	2.7.1.23	COG0061	NAD kinase
+WOR-3_metaspades_Bin_1-contigs_00213	CDS	834	prmC_1	2.1.1.297	COG2890	Release factor glutamine methyltransferase
+WOR-3_metaspades_Bin_1-contigs_00214	CDS	438	dtd	3.1.1.96	COG1490	D-aminoacyl-tRNA deacylase
+WOR-3_metaspades_Bin_1-contigs_00215	CDS	600				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00216	CDS	414				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00217	CDS	618	rplC			50S ribosomal protein L3
+WOR-3_metaspades_Bin_1-contigs_00218	CDS	306	rpsJ		COG0051	30S ribosomal protein S10
+WOR-3_metaspades_Bin_1-contigs_00219	CDS	1194	tuf		COG0050	Elongation factor Tu
+WOR-3_metaspades_Bin_1-contigs_00220	CDS	1395	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+WOR-3_metaspades_Bin_1-contigs_00221	CDS	1677	pyrG	6.3.4.2	COG0504	CTP synthase
+WOR-3_metaspades_Bin_1-contigs_00222	CDS	1002	rnfB	7.2.1.2	COG2878	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit B
+WOR-3_metaspades_Bin_1-contigs_00223	CDS	1791	asnB	6.3.5.4	COG0367	Asparagine synthetase [glutamine-hydrolyzing] 1
+WOR-3_metaspades_Bin_1-contigs_00224	CDS	354	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+WOR-3_metaspades_Bin_1-contigs_00225	CDS	672				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00226	CDS	2496				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00227	CDS	888	ligA	6.5.1.2		DNA ligase
+WOR-3_metaspades_Bin_1-contigs_00228	CDS	1251	rarA		COG2256	Replication-associated recombination protein A
+WOR-3_metaspades_Bin_1-contigs_00229	CDS	1071				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00230	CDS	975	hadI	3.-.-.-	COG1924	2-hydroxyisocaproyl-CoA dehydratase activator
+WOR-3_metaspades_Bin_1-contigs_00231	CDS	2127	btuB_1			Vitamin B12 transporter BtuB
+WOR-3_metaspades_Bin_1-contigs_00232	CDS	654	atoA	2.8.3.8	COG2057	Acetate CoA-transferase subunit beta
+WOR-3_metaspades_Bin_1-contigs_00233	CDS	675	atoD	2.8.3.8	COG1788	Acetate CoA-transferase subunit alpha
+WOR-3_metaspades_Bin_1-contigs_00234	CDS	1251	kamA_1	5.4.3.2		L-lysine 2,3-aminomutase
+WOR-3_metaspades_Bin_1-contigs_00235	CDS	813	kce	2.3.1.247	COG3246	3-keto-5-aminohexanoate cleavage enzyme
+WOR-3_metaspades_Bin_1-contigs_00236	CDS	1248	kat	2.6.1.111		3-aminobutyryl-CoA aminotransferase
+WOR-3_metaspades_Bin_1-contigs_00237	CDS	798		5.4.3.3	COG5012	Lysine 5,6-aminomutase beta subunit
+WOR-3_metaspades_Bin_1-contigs_00238	CDS	834	kamD	5.4.3.3		Lysine 5,6-aminomutase alpha subunit
+WOR-3_metaspades_Bin_1-contigs_00239	CDS	1992	cshA	3.6.4.13		DEAD-box ATP-dependent RNA helicase CshA
+WOR-3_metaspades_Bin_1-contigs_00240	CDS	432	lysC	2.7.2.4	COG0527	Aspartate kinase Ask_LysC
+WOR-3_metaspades_Bin_1-contigs_00241	CDS	1077				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00242	CDS	1395	selA	2.9.1.1	COG1921	L-seryl-tRNA(Sec) selenium transferase
+WOR-3_metaspades_Bin_1-contigs_00243	CDS	921	selD	2.7.9.3	COG0709	Selenide, water dikinase
+WOR-3_metaspades_Bin_1-contigs_00244	tRNA	94				tRNA-SeC(tca)
+WOR-3_metaspades_Bin_1-contigs_00245	CDS	228				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00246	CDS	873	CARKD	4.2.1.136		ATP-dependent (S)-NAD(P)H-hydrate dehydratase
+WOR-3_metaspades_Bin_1-contigs_00247	CDS	543				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00248	CDS	1080				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00249	CDS	1215	adhA_1	1.1.1.2		Long-chain primary alcohol dehydrogenase AdhA
+WOR-3_metaspades_Bin_1-contigs_00250	CDS	282	grdA_1	1.21.4.2		Glycine/sarcosine/betaine reductase complex component A
+WOR-3_metaspades_Bin_1-contigs_00251	CDS	129	grdA_2	1.21.4.2		Glycine/sarcosine/betaine reductase complex component A
+WOR-3_metaspades_Bin_1-contigs_00252	CDS	1041				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00253	CDS	360				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00254	CDS	309				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00255	CDS	1122	dxr	1.1.1.267	COG0743	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+WOR-3_metaspades_Bin_1-contigs_00256	CDS	567	rseP	3.4.24.-	COG0750	Regulator of sigma-E protease RseP
+WOR-3_metaspades_Bin_1-contigs_00257	CDS	1080	rnhB			Ribonuclease HII
+WOR-3_metaspades_Bin_1-contigs_00258	CDS	924	pdxA2	1.1.1.408	COG1995	D-threonate 4-phosphate dehydrogenase
+WOR-3_metaspades_Bin_1-contigs_00259	CDS	3678				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00260	CDS	993	gpsA	1.1.1.94		Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+WOR-3_metaspades_Bin_1-contigs_00261	CDS	777	lsrF	2.3.1.245	COG1830	3-hydroxy-5-phosphonooxypentane-2,4-dione thiolase
+WOR-3_metaspades_Bin_1-contigs_00262	CDS	399				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00263	CDS	483				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00264	CDS	711	rpsB		COG0052	30S ribosomal protein S2
+WOR-3_metaspades_Bin_1-contigs_00265	CDS	594	tsf			Elongation factor Ts
+WOR-3_metaspades_Bin_1-contigs_00266	CDS	702	pyrH	2.7.4.22	COG0528	Uridylate kinase
+WOR-3_metaspades_Bin_1-contigs_00267	CDS	558	frr		COG0233	Ribosome-recycling factor
+WOR-3_metaspades_Bin_1-contigs_00268	CDS	333				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00269	CDS	612				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00270	CDS	459				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00271	CDS	1515	folC	6.3.2.12	COG0285	Dihydrofolate synthase/folylpolyglutamate synthase
+WOR-3_metaspades_Bin_1-contigs_00272	CDS	171	rpmF			50S ribosomal protein L32
+WOR-3_metaspades_Bin_1-contigs_00273	CDS	1920	fusA		COG0480	Elongation factor G
+WOR-3_metaspades_Bin_1-contigs_00274	CDS	540	ycaC	4.-.-.-	COG1335	putative hydrolase YcaC
+WOR-3_metaspades_Bin_1-contigs_00275	CDS	1365	accC	6.3.4.14	COG0439	Biotin carboxylase
+WOR-3_metaspades_Bin_1-contigs_00276	CDS	999	yrbG		COG0530	Inner membrane protein YrbG
+WOR-3_metaspades_Bin_1-contigs_00277	CDS	591				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00278	CDS	510				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00279	CDS	300				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00280	CDS	315				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00281	CDS	348				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00282	CDS	180				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00283	CDS	1224	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+WOR-3_metaspades_Bin_1-contigs_00284	CDS	1014				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00285	CDS	468				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00286	CDS	1443	lysS	6.1.1.6	COG1190	Lysine--tRNA ligase
+WOR-3_metaspades_Bin_1-contigs_00287	CDS	1215	lysN	2.6.1.39	COG1167	2-aminoadipate transaminase
+WOR-3_metaspades_Bin_1-contigs_00288	CDS	888				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00289	CDS	792				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00290	CDS	285				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00291	CDS	585				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00292	CDS	1689	fadD3	6.2.1.41	COG0318	3-[(3aS,4S,7aS)-7a-methyl-1,5-dioxo-octahydro-1H-inden-4-yl]propanoyl:CoA ligase
+WOR-3_metaspades_Bin_1-contigs_00293	CDS	1608	acsA_1	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+WOR-3_metaspades_Bin_1-contigs_00294	CDS	1398	tpl_1	4.1.99.2	COG3033	Tyrosine phenol-lyase
+WOR-3_metaspades_Bin_1-contigs_00295	CDS	1038	adhA_2	1.1.1.1	COG1064	putative alcohol dehydrogenase AdhA
+WOR-3_metaspades_Bin_1-contigs_00296	CDS	669				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00297	CDS	459				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00298	CDS	366				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00299	CDS	756	fepC		COG1120	Ferric enterobactin transport ATP-binding protein FepC
+WOR-3_metaspades_Bin_1-contigs_00300	CDS	501	prmC_2	2.1.1.297		Release factor glutamine methyltransferase
+WOR-3_metaspades_Bin_1-contigs_00301	CDS	294				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00302	CDS	744				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00303	CDS	864				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00304	CDS	753				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00305	CDS	1365				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00306	CDS	1308	pmbA	3.4.-.-	COG0312	Metalloprotease PmbA
+WOR-3_metaspades_Bin_1-contigs_00307	rRNA	112				5S ribosomal RNA
+WOR-3_metaspades_Bin_1-contigs_00308	CDS	1557	secD		COG0342	Protein translocase subunit SecD
+WOR-3_metaspades_Bin_1-contigs_00309	CDS	1365	lpd	1.8.1.4	COG1249	Dihydrolipoyl dehydrogenase
+WOR-3_metaspades_Bin_1-contigs_00310	CDS	873				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00311	CDS	1428	murJ_1			lipid II flippase MurJ
+WOR-3_metaspades_Bin_1-contigs_00312	CDS	2079				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00313	CDS	108				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00314	CDS	1992	acsA_2	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+WOR-3_metaspades_Bin_1-contigs_00315	CDS	1185	iscS_1	2.8.1.7		Cysteine desulfurase IscS
+WOR-3_metaspades_Bin_1-contigs_00316	CDS	1086	mnmA	2.8.1.13		tRNA-specific 2-thiouridylase MnmA
+WOR-3_metaspades_Bin_1-contigs_00317	CDS	1326	cpgS	6.5.-.-		Cyclic 2,3-diphosphoglycerate synthetase
+WOR-3_metaspades_Bin_1-contigs_00318	CDS	1158		2.7.7.-	COG0617	A-adding tRNA nucleotidyltransferase
+WOR-3_metaspades_Bin_1-contigs_00319	CDS	720		2.4.1.54		Undecaprenyl-phosphate mannosyltransferase
+WOR-3_metaspades_Bin_1-contigs_00320	CDS	702	ispD	2.7.7.60	COG1211	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+WOR-3_metaspades_Bin_1-contigs_00321	CDS	453	ispF	4.6.1.12	COG0245	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+WOR-3_metaspades_Bin_1-contigs_00322	CDS	252				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00323	CDS	1392	cpoB_2			Cell division coordinator CpoB
+WOR-3_metaspades_Bin_1-contigs_00324	CDS	405				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00325	CDS	807	cpoB_3			Cell division coordinator CpoB
+WOR-3_metaspades_Bin_1-contigs_00326	CDS	300				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00327	CDS	729	pyrK		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+WOR-3_metaspades_Bin_1-contigs_00328	CDS	516	apt	2.4.2.7	COG0503	Adenine phosphoribosyltransferase
+WOR-3_metaspades_Bin_1-contigs_00329	CDS	546	nudF	3.6.1.13	COG0494	ADP-ribose pyrophosphatase
+WOR-3_metaspades_Bin_1-contigs_00330	CDS	759				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00331	CDS	2640	ppdK	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+WOR-3_metaspades_Bin_1-contigs_00332	CDS	381				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00333	CDS	906		2.4.1.320	COG2152	1,4-beta-mannosyl-N-acetylglucosamine phosphorylase
+WOR-3_metaspades_Bin_1-contigs_00334	CDS	543	queH	1.17.99.6	COG1636	Epoxyqueuosine reductase QueH
+WOR-3_metaspades_Bin_1-contigs_00335	CDS	1257	murAA	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 1
+WOR-3_metaspades_Bin_1-contigs_00336	CDS	126				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00337	CDS	483				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00338	CDS	252	gph_1	3.1.3.18	COG0546	Phosphoglycolate phosphatase
+WOR-3_metaspades_Bin_1-contigs_00339	CDS	1140				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00340	CDS	195				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00341	CDS	216				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00342	CDS	2148				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00343	CDS	543				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00344	CDS	1299	argS	6.1.1.19		Arginine--tRNA ligase
+WOR-3_metaspades_Bin_1-contigs_00345	CDS	381				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00346	CDS	294	yajC		COG1862	Sec translocon accessory complex subunit YajC
+WOR-3_metaspades_Bin_1-contigs_00347	CDS	681				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00348	CDS	1167	natB	7.2.2.4	COG1668	ABC transporter permease protein NatB
+WOR-3_metaspades_Bin_1-contigs_00349	CDS	747	natA	7.2.2.4	COG4555	ABC transporter ATP-binding protein NatA
+WOR-3_metaspades_Bin_1-contigs_00350	CDS	591	lspA_1	3.4.23.36		Lipoprotein signal peptidase
+WOR-3_metaspades_Bin_1-contigs_00351	CDS	585	fumB	4.2.1.2	COG1838	Fumarate hydratase class I, anaerobic
+WOR-3_metaspades_Bin_1-contigs_00352	CDS	1071	pimA	2.4.1.345	COG0438	Phosphatidyl-myo-inositol mannosyltransferase
+WOR-3_metaspades_Bin_1-contigs_00353	CDS	1032	ispB	2.5.1.90	COG0142	Octaprenyl diphosphate synthase
+WOR-3_metaspades_Bin_1-contigs_00354	CDS	834				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00355	CDS	456				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00356	CDS	711				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00357	CDS	237				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00358	CDS	1170				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00359	CDS	303	rimP		COG0779	Ribosome maturation factor RimP
+WOR-3_metaspades_Bin_1-contigs_00360	CDS	1215	nusA		COG0195	Transcription termination/antitermination protein NusA
+WOR-3_metaspades_Bin_1-contigs_00361	CDS	2088	infB			Translation initiation factor IF-2
+WOR-3_metaspades_Bin_1-contigs_00362	CDS	306	rbfA		COG0858	Ribosome-binding factor A
+WOR-3_metaspades_Bin_1-contigs_00363	CDS	378				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00364	CDS	1584	tpl_2	4.1.99.2		Tyrosine phenol-lyase
+WOR-3_metaspades_Bin_1-contigs_00365	CDS	882	metF	1.5.1.20	COG0685	5,10-methylenetetrahydrofolate reductase
+WOR-3_metaspades_Bin_1-contigs_00366	CDS	414				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00367	CDS	384				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00368	CDS	1272	grdE	1.21.4.2		Glycine reductase complex component B subunits alpha and beta
+WOR-3_metaspades_Bin_1-contigs_00369	CDS	1056	grdB_1	1.21.4.2		Glycine reductase complex component B subunit gamma
+WOR-3_metaspades_Bin_1-contigs_00370	CDS	192	grdB_2	1.21.4.2		Glycine reductase complex component B subunit gamma
+WOR-3_metaspades_Bin_1-contigs_00371	CDS	939	trxB_1	1.8.1.9		Thioredoxin reductase
+WOR-3_metaspades_Bin_1-contigs_00372	CDS	978				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00373	CDS	192	ndhI	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+WOR-3_metaspades_Bin_1-contigs_00374	CDS	1179	abo	1.5.3.19		4-methylaminobutanoate oxidase (formaldehyde-forming)
+WOR-3_metaspades_Bin_1-contigs_00375	CDS	456				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00376	CDS	441				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00377	CDS	849	ttdA	4.2.1.32	COG1951	L(+)-tartrate dehydratase subunit alpha
+WOR-3_metaspades_Bin_1-contigs_00378	CDS	1137				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00379	CDS	2313	cpoB_4			Cell division coordinator CpoB
+WOR-3_metaspades_Bin_1-contigs_00380	CDS	882				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00381	CDS	1584				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00382	CDS	1416	gabD	1.2.1.79	COG1012	Succinate-semialdehyde dehydrogenase [NADP(+)] GabD
+WOR-3_metaspades_Bin_1-contigs_00383	CDS	876				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00384	CDS	831	nadC	2.4.2.19	COG0157	Nicotinate-nucleotide pyrophosphorylase [carboxylating]
+WOR-3_metaspades_Bin_1-contigs_00385	CDS	621	rpsD		COG0522	30S ribosomal protein S4
+WOR-3_metaspades_Bin_1-contigs_00386	CDS	372	rpsK			30S ribosomal protein S11
+WOR-3_metaspades_Bin_1-contigs_00387	CDS	387	rpsM		COG0099	30S ribosomal protein S13
+WOR-3_metaspades_Bin_1-contigs_00388	CDS	114	rpmJ		COG0257	50S ribosomal protein L36
+WOR-3_metaspades_Bin_1-contigs_00389	CDS	219	infA		COG0361	Translation initiation factor IF-1
+WOR-3_metaspades_Bin_1-contigs_00390	CDS	612	adk	2.7.4.3		Adenylate kinase
+WOR-3_metaspades_Bin_1-contigs_00391	CDS	1314	secY		COG0201	Protein translocase subunit SecY
+WOR-3_metaspades_Bin_1-contigs_00392	CDS	435	rplO			50S ribosomal protein L15
+WOR-3_metaspades_Bin_1-contigs_00393	CDS	189	rpmD			50S ribosomal protein L30
+WOR-3_metaspades_Bin_1-contigs_00394	CDS	474	rpsE			30S ribosomal protein S5
+WOR-3_metaspades_Bin_1-contigs_00395	CDS	399	rplR			50S ribosomal protein L18
+WOR-3_metaspades_Bin_1-contigs_00396	CDS	549	rplF			50S ribosomal protein L6
+WOR-3_metaspades_Bin_1-contigs_00397	CDS	5229				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00398	CDS	951				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00399	CDS	1692				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00400	CDS	831				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00401	CDS	489				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00402	CDS	276				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00403	CDS	525	pal_2			Peptidoglycan-associated lipoprotein
+WOR-3_metaspades_Bin_1-contigs_00404	CDS	639	cpoB_5			Cell division coordinator CpoB
+WOR-3_metaspades_Bin_1-contigs_00405	CDS	651	tolQ_2		COG0811	Tol-Pal system protein TolQ
+WOR-3_metaspades_Bin_1-contigs_00406	CDS	390	tolR_2			Tol-Pal system protein TolR
+WOR-3_metaspades_Bin_1-contigs_00407	CDS	1242				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00408	CDS	993	rnfD	7.1.1.-	COG4658	Proton-translocating ferredoxin:NAD(+) oxidoreductase complex subunit D
+WOR-3_metaspades_Bin_1-contigs_00409	CDS	1290	rnfC	7.1.1.-	COG4656	Proton-translocating ferredoxin:NAD(+) oxidoreductase complex subunit C
+WOR-3_metaspades_Bin_1-contigs_00410	CDS	1527				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00411	CDS	516				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00412	CDS	1341	algC	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+WOR-3_metaspades_Bin_1-contigs_00413	CDS	810				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00414	CDS	1656				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00415	CDS	1152	bepA	3.4.-.-		Beta-barrel assembly-enhancing protease
+WOR-3_metaspades_Bin_1-contigs_00416	CDS	522	cas9	3.1.-.-		CRISPR-associated endonuclease Cas9
+WOR-3_metaspades_Bin_1-contigs_00417	CDS	723				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00418	CDS	2088				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00419	CDS	1047				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00420	CDS	228				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00421	CDS	1911	priA	3.6.4.-		primosomal protein N'
+WOR-3_metaspades_Bin_1-contigs_00422	CDS	639	bamD			Outer membrane protein assembly factor BamD
+WOR-3_metaspades_Bin_1-contigs_00423	CDS	819	rsmH	2.1.1.199	COG0275	Ribosomal RNA small subunit methyltransferase H
+WOR-3_metaspades_Bin_1-contigs_00424	CDS	258	ftsL			Cell division protein FtsL
+WOR-3_metaspades_Bin_1-contigs_00425	CDS	951				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00426	CDS	2853	purL	6.3.5.3		Phosphoribosylformylglycinamidine synthase subunit PurL
+WOR-3_metaspades_Bin_1-contigs_00427	CDS	819				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00428	CDS	372	rpsL			30S ribosomal protein S12
+WOR-3_metaspades_Bin_1-contigs_00429	CDS	753				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00430	CDS	549	gmhA1	5.3.1.28	COG0279	Phosphoheptose isomerase 1
+WOR-3_metaspades_Bin_1-contigs_00431	CDS	828	ispE	2.7.1.148	COG1947	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+WOR-3_metaspades_Bin_1-contigs_00432	CDS	267	spoVG		COG2088	Putative septation protein SpoVG
+WOR-3_metaspades_Bin_1-contigs_00433	tRNA	72				tRNA-Gln(ttg)
+WOR-3_metaspades_Bin_1-contigs_00434	CDS	1083				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00435	CDS	783	tagG		COG1682	Teichoic acid translocation permease protein TagG
+WOR-3_metaspades_Bin_1-contigs_00436	CDS	993	ntpC			V-type sodium ATPase subunit C
+WOR-3_metaspades_Bin_1-contigs_00437	CDS	321	atpF			V-type ATP synthase subunit F
+WOR-3_metaspades_Bin_1-contigs_00438	CDS	1728	ntpA	7.2.2.1		V-type sodium ATPase catalytic subunit A
+WOR-3_metaspades_Bin_1-contigs_00439	CDS	1371	ntpB			V-type sodium ATPase subunit B
+WOR-3_metaspades_Bin_1-contigs_00440	CDS	1014				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00441	CDS	459				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00442	CDS	681	yggS		COG0325	Pyridoxal phosphate homeostasis protein
+WOR-3_metaspades_Bin_1-contigs_00443	CDS	705	lpxB	2.4.1.182	COG0763	Lipid-A-disaccharide synthase
+WOR-3_metaspades_Bin_1-contigs_00444	CDS	1308	purB	4.3.2.2		Adenylosuccinate lyase
+WOR-3_metaspades_Bin_1-contigs_00445	CDS	1083				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00446	CDS	519				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00447	CDS	1752	pal_3			Peptidoglycan-associated lipoprotein
+WOR-3_metaspades_Bin_1-contigs_00448	CDS	1425	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+WOR-3_metaspades_Bin_1-contigs_00449	CDS	528	hslV	3.4.25.2		ATP-dependent protease subunit HslV
+WOR-3_metaspades_Bin_1-contigs_00450	CDS	1317	hslU		COG1220	ATP-dependent protease ATPase subunit HslU
+WOR-3_metaspades_Bin_1-contigs_00451	CDS	363	rplT			50S ribosomal protein L20
+WOR-3_metaspades_Bin_1-contigs_00452	CDS	1014	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+WOR-3_metaspades_Bin_1-contigs_00453	CDS	1506				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00454	CDS	267				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00455	CDS	903				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00456	CDS	1644	hutU	4.2.1.49	COG2987	Urocanate hydratase
+WOR-3_metaspades_Bin_1-contigs_00457	CDS	411				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00458	CDS	1086	dnaN			Beta sliding clamp
+WOR-3_metaspades_Bin_1-contigs_00459	CDS	369				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00460	CDS	1320		2.7.7.-	COG0617	A-adding tRNA nucleotidyltransferase
+WOR-3_metaspades_Bin_1-contigs_00461	CDS	711				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00462	CDS	1560	sftA			DNA translocase SftA
+WOR-3_metaspades_Bin_1-contigs_00463	CDS	252				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00464	CDS	372				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00465	CDS	321				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00466	CDS	513				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00467	CDS	1971	dnaK		COG0443	Chaperone protein DnaK
+WOR-3_metaspades_Bin_1-contigs_00468	CDS	1128	dnaJ		COG0484	Chaperone protein DnaJ
+WOR-3_metaspades_Bin_1-contigs_00469	CDS	234				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00470	CDS	498				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00471	CDS	207				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00472	CDS	612				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00473	CDS	267				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00474	CDS	309				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00475	tRNA	73				tRNA-Phe(gaa)
+WOR-3_metaspades_Bin_1-contigs_00476	tRNA	73				tRNA-Thr(cgt)
+WOR-3_metaspades_Bin_1-contigs_00477	CDS	1191				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00478	CDS	1263				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00479	CDS	222				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00480	CDS	1419				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00481	tRNA	86				tRNA-Leu(cag)
+WOR-3_metaspades_Bin_1-contigs_00482	CDS	168				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00483	CDS	1221				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00484	tRNA	76				tRNA-Lys(ctt)
+WOR-3_metaspades_Bin_1-contigs_00485	tRNA	76				tRNA-Arg(acg)
+WOR-3_metaspades_Bin_1-contigs_00486	CDS	138	rpmH		COG0230	50S ribosomal protein L34
+WOR-3_metaspades_Bin_1-contigs_00487	CDS	228			COG0759	Putative membrane protein insertion efficiency factor
+WOR-3_metaspades_Bin_1-contigs_00488	CDS	990				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00489	CDS	954				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00490	CDS	453	fruA_2		COG1299	PTS system fructose-specific EIIABC component
+WOR-3_metaspades_Bin_1-contigs_00491	CDS	690				queuosine precursor transporter
+WOR-3_metaspades_Bin_1-contigs_00492	CDS	3228				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00493	CDS	1824	oadA	7.2.4.2	COG0511	Oxaloacetate decarboxylase alpha chain
+WOR-3_metaspades_Bin_1-contigs_00494	CDS	174				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00495	CDS	537				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00496	CDS	1434				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00497	CDS	1296	pyrC	3.5.2.3	COG0044	Dihydroorotase
+WOR-3_metaspades_Bin_1-contigs_00498	CDS	948	pyrB	2.1.3.2		Aspartate carbamoyltransferase
+WOR-3_metaspades_Bin_1-contigs_00499	CDS	528	pyrR			Bifunctional protein PyrR
+WOR-3_metaspades_Bin_1-contigs_00500	CDS	3999	rpoC	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit beta'
+WOR-3_metaspades_Bin_1-contigs_00501	CDS	3678	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+WOR-3_metaspades_Bin_1-contigs_00502	CDS	1881				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00503	CDS	228				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00504	CDS	1224				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00505	CDS	621	tmk	2.7.4.9	COG0125	Thymidylate kinase
+WOR-3_metaspades_Bin_1-contigs_00506	CDS	207	rpmE		COG0254	50S ribosomal protein L31
+WOR-3_metaspades_Bin_1-contigs_00507	CDS	1104				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00508	CDS	825				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00509	CDS	852	wbbL_1	2.4.1.289	COG1216	N-acetylglucosaminyl-diphospho-decaprenol L-rhamnosyltransferase
+WOR-3_metaspades_Bin_1-contigs_00510	CDS	1431	rnd	3.1.13.5		Ribonuclease D
+WOR-3_metaspades_Bin_1-contigs_00511	CDS	753	recQ	3.6.4.12	COG0514	ATP-dependent DNA helicase RecQ
+WOR-3_metaspades_Bin_1-contigs_00512	CDS	1671				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00513	CDS	2202				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00514	CDS	1470	grdC	1.21.4.2		Glycine/sarcosine/betaine reductase complex component C subunit beta
+WOR-3_metaspades_Bin_1-contigs_00515	CDS	570	wbpD	2.3.1.201	COG0110	UDP-2-acetamido-3-amino-2,3-dideoxy-D-glucuronate N-acetyltransferase
+WOR-3_metaspades_Bin_1-contigs_00516	CDS	849	cyoE	2.5.1.141		Protoheme IX farnesyltransferase
+WOR-3_metaspades_Bin_1-contigs_00517	CDS	414				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00518	CDS	279				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00519	CDS	198				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00520	CDS	1569	rpsA		COG0539	30S ribosomal protein S1
+WOR-3_metaspades_Bin_1-contigs_00521	CDS	1221	der_1			GTPase Der
+WOR-3_metaspades_Bin_1-contigs_00522	CDS	456				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00523	CDS	1731	uvrC		COG0322	UvrABC system protein C
+WOR-3_metaspades_Bin_1-contigs_00524	CDS	594	coaE	2.7.1.24	COG0237	Dephospho-CoA kinase
+WOR-3_metaspades_Bin_1-contigs_00525	CDS	804	dpnA	2.1.1.72		Modification methylase DpnIIB
+WOR-3_metaspades_Bin_1-contigs_00526	CDS	528	polA	2.7.7.7		DNA polymerase I, thermostable
+WOR-3_metaspades_Bin_1-contigs_00527	CDS	1527				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00528	CDS	543	tyrS	6.1.1.1	COG0162	Tyrosine--tRNA ligase
+WOR-3_metaspades_Bin_1-contigs_00529	CDS	228				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00530	CDS	498				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00531	CDS	387				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00532	CDS	2067	mutS2	3.1.-.-	COG1193	Endonuclease MutS2
+WOR-3_metaspades_Bin_1-contigs_00533	CDS	264				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00534	CDS	363				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00535	CDS	825				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00536	CDS	459				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00537	CDS	612				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00538	CDS	939	arcC1	2.7.2.2		Carbamate kinase 1
+WOR-3_metaspades_Bin_1-contigs_00539	CDS	900				Purine-binding protein
+WOR-3_metaspades_Bin_1-contigs_00540	CDS	1347			COG2239	Magnesium transporter MgtE
+WOR-3_metaspades_Bin_1-contigs_00541	CDS	297				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00542	CDS	405				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00543	CDS	1416				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00544	CDS	1119		2.4.1.336		Beta-monoglucosyldiacylglycerol synthase
+WOR-3_metaspades_Bin_1-contigs_00545	CDS	1167				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00546	CDS	132				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00547	CDS	1119				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00548	CDS	585	rnfA	7.2.1.2	COG4657	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit A
+WOR-3_metaspades_Bin_1-contigs_00549	CDS	594	rnfE	7.2.1.2	COG4660	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit E
+WOR-3_metaspades_Bin_1-contigs_00550	CDS	552	sigW_1		COG1595	ECF RNA polymerase sigma factor SigW
+WOR-3_metaspades_Bin_1-contigs_00551	CDS	468				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00552	CDS	540				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00553	CDS	1383	tilS	6.3.4.19	COG0037	tRNA(Ile)-lysidine synthase
+WOR-3_metaspades_Bin_1-contigs_00554	CDS	279				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00555	CDS	537				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00556	CDS	1308	murJ_2			lipid II flippase MurJ
+WOR-3_metaspades_Bin_1-contigs_00557	CDS	636	tsaB		COG1214	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+WOR-3_metaspades_Bin_1-contigs_00558	CDS	567	gloC	3.1.2.6	COG0491	Hydroxyacylglutathione hydrolase GloC
+WOR-3_metaspades_Bin_1-contigs_00559	CDS	1395				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00560	tRNA	75				tRNA-Ala(ggc)
+WOR-3_metaspades_Bin_1-contigs_00561	CDS	1173	clpX		COG1219	ATP-dependent Clp protease ATP-binding subunit ClpX
+WOR-3_metaspades_Bin_1-contigs_00562	CDS	588	clpP	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+WOR-3_metaspades_Bin_1-contigs_00563	CDS	414				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00564	CDS	936	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+WOR-3_metaspades_Bin_1-contigs_00565	CDS	627	rplY			50S ribosomal protein L25
+WOR-3_metaspades_Bin_1-contigs_00566	CDS	555	pth	3.1.1.29		Peptidyl-tRNA hydrolase
+WOR-3_metaspades_Bin_1-contigs_00567	CDS	831				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00568	CDS	408				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00569	CDS	546		3.1.4.58	COG1514	RNA 2',3'-cyclic phosphodiesterase
+WOR-3_metaspades_Bin_1-contigs_00570	CDS	828				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00571	CDS	723	uppS	2.5.1.31		Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+WOR-3_metaspades_Bin_1-contigs_00572	CDS	243	tusA		COG0425	Sulfur carrier protein TusA
+WOR-3_metaspades_Bin_1-contigs_00573	CDS	159				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00574	CDS	162				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00575	CDS	1197	iscS_2	2.8.1.7	COG1104	Cysteine desulfurase IscS
+WOR-3_metaspades_Bin_1-contigs_00576	CDS	102				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00577	CDS	564	rbr		COG1592	Rubrerythrin
+WOR-3_metaspades_Bin_1-contigs_00578	CDS	1386				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00579	CDS	675		1.11.1.15	COG0450	Peroxiredoxin
+WOR-3_metaspades_Bin_1-contigs_00580	rRNA	3873				23S ribosomal RNA
+WOR-3_metaspades_Bin_1-contigs_00581	CDS	456	ribH	2.5.1.78	COG0054	6,7-dimethyl-8-ribityllumazine synthase
+WOR-3_metaspades_Bin_1-contigs_00582	CDS	450	nusB		COG0781	Transcription antitermination protein NusB
+WOR-3_metaspades_Bin_1-contigs_00583	CDS	165				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00584	CDS	255	rpmA		COG0211	50S ribosomal protein L27
+WOR-3_metaspades_Bin_1-contigs_00585	CDS	489				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00586	CDS	240				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00587	CDS	1158				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00588	CDS	1005				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00589	CDS	576	folE	3.5.4.16	COG0302	GTP cyclohydrolase 1
+WOR-3_metaspades_Bin_1-contigs_00590	tRNA	84				tRNA-Ser(tga)
+WOR-3_metaspades_Bin_1-contigs_00591	CDS	378				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00592	tRNA	92				tRNA-Ser(gct)
+WOR-3_metaspades_Bin_1-contigs_00593	CDS	843				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00594	CDS	1011				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00595	CDS	291				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00596	CDS	510				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00597	CDS	417				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00598	CDS	1701				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00599	CDS	867	arnC	2.4.2.53	COG0463	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+WOR-3_metaspades_Bin_1-contigs_00600	CDS	930	trxB_2	1.8.1.9	COG0492	Thioredoxin reductase
+WOR-3_metaspades_Bin_1-contigs_00601	CDS	2757				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00602	CDS	1629				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00603	CDS	207				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00604	CDS	2013				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00605	CDS	993				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00606	CDS	2802				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00607	CDS	1587	yheI	3.6.3.-	COG1132	putative multidrug resistance ABC transporter ATP-binding/permease protein YheI
+WOR-3_metaspades_Bin_1-contigs_00608	CDS	2067	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+WOR-3_metaspades_Bin_1-contigs_00609	CDS	417				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00610	CDS	1782				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00611	CDS	312				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00612	CDS	402	cdd	3.5.4.5	COG0295	Cytidine deaminase
+WOR-3_metaspades_Bin_1-contigs_00613	CDS	420				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00614	CDS	1890	dxs	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+WOR-3_metaspades_Bin_1-contigs_00615	CDS	903				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00616	CDS	867	rmlD	1.1.1.133		dTDP-4-dehydrorhamnose reductase
+WOR-3_metaspades_Bin_1-contigs_00617	CDS	534	ywlF	5.3.1.-	COG0698	Putative sugar phosphate isomerase YwlF
+WOR-3_metaspades_Bin_1-contigs_00618	CDS	1914				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00619	CDS	237				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00620	CDS	651	pcm_2	2.1.1.77	COG2518	Protein-L-isoaspartate O-methyltransferase
+WOR-3_metaspades_Bin_1-contigs_00621	tRNA	73				tRNA-Pro(cgg)
+WOR-3_metaspades_Bin_1-contigs_00622	CDS	204				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00623	CDS	360				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00624	CDS	1044	msmX	7.5.2.-	COG3839	Oligosaccharides import ATP-binding protein MsmX
+WOR-3_metaspades_Bin_1-contigs_00625	CDS	2301				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00626	CDS	309	truA	5.4.99.12		tRNA pseudouridine synthase A
+WOR-3_metaspades_Bin_1-contigs_00627	CDS	717	coaX	2.7.1.33	COG1521	Type III pantothenate kinase
+WOR-3_metaspades_Bin_1-contigs_00628	CDS	714				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00629	CDS	2154	bamA		COG4775	Outer membrane protein assembly factor BamA
+WOR-3_metaspades_Bin_1-contigs_00630	CDS	756				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00631	CDS	738	purQ	6.3.5.3	COG0047	Phosphoribosylformylglycinamidine synthase subunit PurQ
+WOR-3_metaspades_Bin_1-contigs_00632	CDS	375				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00633	CDS	1149				Deoxyguanosinetriphosphate triphosphohydrolase-like protein
+WOR-3_metaspades_Bin_1-contigs_00634	CDS	1149	acdA	1.3.99.-	COG1960	Acyl-CoA dehydrogenase
+WOR-3_metaspades_Bin_1-contigs_00635	CDS	3303	tri1	3.4.21.-	COG0793	Tricorn protease 
+WOR-3_metaspades_Bin_1-contigs_00636	CDS	510	pflD	4.2.1.172	COG1882	Trans-4-hydroxy-L-proline dehydratase
+WOR-3_metaspades_Bin_1-contigs_00637	CDS	900	bssD	1.97.1.-		Benzylsuccinate synthase activating enzyme
+WOR-3_metaspades_Bin_1-contigs_00638	CDS	492				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00639	CDS	609	recX			Regulatory protein RecX
+WOR-3_metaspades_Bin_1-contigs_00640	CDS	3282				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00641	CDS	3324				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00642	CDS	912	menA	2.5.1.74		1,4-dihydroxy-2-naphthoate octaprenyltransferase
+WOR-3_metaspades_Bin_1-contigs_00643	CDS	951				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00644	CDS	426	tadA	3.5.4.33	COG0590	tRNA-specific adenosine deaminase
+WOR-3_metaspades_Bin_1-contigs_00645	CDS	1449	rng	3.1.26.-	COG1530	Ribonuclease G
+WOR-3_metaspades_Bin_1-contigs_00646	CDS	1062	ysdC	3.4.11.-	COG1363	Putative aminopeptidase YsdC
+WOR-3_metaspades_Bin_1-contigs_00647	CDS	390	rpsI		COG0103	30S ribosomal protein S9
+WOR-3_metaspades_Bin_1-contigs_00648	CDS	552				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00649	CDS	969				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00650	CDS	942				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00651	CDS	414	ybeY	3.1.-.-		Endoribonuclease YbeY
+WOR-3_metaspades_Bin_1-contigs_00652	CDS	1212	nanM	5.1.3.24		N-acetylneuraminate epimerase
+WOR-3_metaspades_Bin_1-contigs_00653	CDS	1038	kdd	1.4.1.11		L-erythro-3,5-diaminohexanoate dehydrogenase
+WOR-3_metaspades_Bin_1-contigs_00654	tRNA	75				tRNA-Ala(tgc)
+WOR-3_metaspades_Bin_1-contigs_00655	CDS	723				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00656	CDS	1251	ahcY	3.3.1.1	COG0499	Adenosylhomocysteinase
+WOR-3_metaspades_Bin_1-contigs_00657	CDS	3114				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00658	CDS	756		2.4.-.-	COG0463	putative glycosyltransferase
+WOR-3_metaspades_Bin_1-contigs_00659	CDS	1119				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00660	CDS	204				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00661	CDS	747	map	3.4.11.18	COG0024	Methionine aminopeptidase 1
+WOR-3_metaspades_Bin_1-contigs_00662	CDS	414				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00663	CDS	414				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00664	CDS	384				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00665	CDS	657				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00666	CDS	1002		3.4.21.-		Thermophilic serine proteinase
+WOR-3_metaspades_Bin_1-contigs_00667	CDS	1968				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00668	CDS	1698				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00669	CDS	333				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00670	CDS	1251	lpxC	3.5.1.108		UDP-3-O-acyl-N-acetylglucosamine deacetylase
+WOR-3_metaspades_Bin_1-contigs_00671	CDS	1875	selB		COG3276	Selenocysteine-specific elongation factor
+WOR-3_metaspades_Bin_1-contigs_00672	CDS	1593	lnt	2.3.1.269	COG0815	Apolipoprotein N-acyltransferase
+WOR-3_metaspades_Bin_1-contigs_00673	CDS	1608				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00674	CDS	1071				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00675	CDS	810	prsA1	5.2.1.8	COG0760	Foldase protein PrsA 1
+WOR-3_metaspades_Bin_1-contigs_00676	CDS	1170	surA_1	5.2.1.8		Chaperone SurA
+WOR-3_metaspades_Bin_1-contigs_00677	CDS	912	cysM	2.5.1.47	COG0031	Cysteine synthase B
+WOR-3_metaspades_Bin_1-contigs_00678	CDS	525				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00679	CDS	2304				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00680	CDS	1104	mshA_3	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+WOR-3_metaspades_Bin_1-contigs_00681	CDS	426	lspA_2	3.4.23.36	COG0597	Lipoprotein signal peptidase
+WOR-3_metaspades_Bin_1-contigs_00682	CDS	369	dksA			RNA polymerase-binding transcription factor DksA
+WOR-3_metaspades_Bin_1-contigs_00683	CDS	594				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00684	CDS	963	rpoA	2.7.7.6		DNA-directed RNA polymerase subunit alpha
+WOR-3_metaspades_Bin_1-contigs_00685	CDS	390	rplQ		COG0203	50S ribosomal protein L17
+WOR-3_metaspades_Bin_1-contigs_00686	CDS	393				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00687	CDS	1560	rny	3.1.-.-	COG1418	Ribonuclease Y
+WOR-3_metaspades_Bin_1-contigs_00688	CDS	822	ymdB	3.1.4.16	COG1692	2',3'-cyclic-nucleotide 2'-phosphodiesterase
+WOR-3_metaspades_Bin_1-contigs_00689	CDS	1788	mnmG			tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+WOR-3_metaspades_Bin_1-contigs_00690	CDS	798	thi4	2.4.2.59		Thiamine thiazole synthase
+WOR-3_metaspades_Bin_1-contigs_00691	CDS	1197	lolE		COG4591	Lipoprotein-releasing system transmembrane protein LolE
+WOR-3_metaspades_Bin_1-contigs_00692	CDS	696				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00693	CDS	1179	thlA	2.3.1.9	COG0183	Acetyl-CoA acetyltransferase
+WOR-3_metaspades_Bin_1-contigs_00694	CDS	759	arsM	2.1.1.137		Arsenite methyltransferase
+WOR-3_metaspades_Bin_1-contigs_00695	CDS	210				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00696	CDS	954			COG1702	PhoH-like protein
+WOR-3_metaspades_Bin_1-contigs_00697	CDS	993				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00698	CDS	915				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00699	CDS	789	thiD	2.7.1.49	COG0351	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+WOR-3_metaspades_Bin_1-contigs_00700	CDS	2169	topA	5.6.2.1		DNA topoisomerase 1
+WOR-3_metaspades_Bin_1-contigs_00701	CDS	1029				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00702	CDS	888		3.5.3.24	COG0010	N(1)-aminopropylagmatine ureohydrolase
+WOR-3_metaspades_Bin_1-contigs_00703	CDS	348				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00704	CDS	975	thiI	2.8.1.4		tRNA sulfurtransferase
+WOR-3_metaspades_Bin_1-contigs_00705	CDS	588	thiDN		COG0351	Bifunctional thiamine biosynthesis protein ThiDN
+WOR-3_metaspades_Bin_1-contigs_00706	CDS	897	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+WOR-3_metaspades_Bin_1-contigs_00707	CDS	312				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00708	CDS	1953				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00709	CDS	645				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00710	CDS	1134				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00711	CDS	216				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00712	CDS	276	groS			10 kDa chaperonin
+WOR-3_metaspades_Bin_1-contigs_00713	CDS	1650	groL1		COG0459	60 kDa chaperonin 1
+WOR-3_metaspades_Bin_1-contigs_00714	CDS	219				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00715	CDS	972	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+WOR-3_metaspades_Bin_1-contigs_00716	CDS	270	ptsH			Phosphocarrier protein HPr
+WOR-3_metaspades_Bin_1-contigs_00717	CDS	210				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00718	CDS	1284	mshA_4	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+WOR-3_metaspades_Bin_1-contigs_00719	CDS	1845				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00720	CDS	1404				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00721	CDS	1140	gltX	6.1.1.17		Glutamate--tRNA ligase
+WOR-3_metaspades_Bin_1-contigs_00722	CDS	957	ywlC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+WOR-3_metaspades_Bin_1-contigs_00723	CDS	885	moaA_1			GTP 3',8-cyclase
+WOR-3_metaspades_Bin_1-contigs_00724	CDS	309				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00725	CDS	1095	nmoA	1.13.12.-	COG2070	Nitronate monooxygenase
+WOR-3_metaspades_Bin_1-contigs_00726	CDS	1515	rssB			Regulator of RpoS
+WOR-3_metaspades_Bin_1-contigs_00727	CDS	1107	sasA	2.7.-.-		Adaptive-response sensory-kinase SasA
+WOR-3_metaspades_Bin_1-contigs_00728	CDS	159				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00729	CDS	315				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00730	CDS	105				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00731	CDS	216				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00732	CDS	267				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00733	CDS	354				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00734	CDS	213				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00735	CDS	1230				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00736	CDS	570	pgsA2	2.7.8.-	COG0558	Phosphatidylinositol phosphate synthase
+WOR-3_metaspades_Bin_1-contigs_00737	CDS	693	rsmI	2.1.1.198	COG0313	Ribosomal RNA small subunit methyltransferase I
+WOR-3_metaspades_Bin_1-contigs_00738	CDS	1092				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00739	CDS	1290	phoA	3.1.3.1	COG1785	Alkaline phosphatase
+WOR-3_metaspades_Bin_1-contigs_00740	CDS	1860	dapb3	3.4.14.-		Dipeptidyl aminopeptidase BIII
+WOR-3_metaspades_Bin_1-contigs_00741	CDS	1974	pheT	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+WOR-3_metaspades_Bin_1-contigs_00742	CDS	189				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00743	CDS	285				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00744	CDS	237				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00745	CDS	267				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00746	CDS	1275	bzaF	4.1.99.23	COG0422	5-hydroxybenzimidazole synthase
+WOR-3_metaspades_Bin_1-contigs_00747	CDS	309				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00748	CDS	1032				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00749	CDS	2295	lon2	3.4.21.53	COG0466	Lon protease 2
+WOR-3_metaspades_Bin_1-contigs_00750	CDS	1077	prfA		COG0216	Peptide chain release factor 1
+WOR-3_metaspades_Bin_1-contigs_00751	CDS	816				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00752	CDS	552	gmk	2.7.4.8	COG0194	Guanylate kinase
+WOR-3_metaspades_Bin_1-contigs_00753	CDS	1218				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00754	CDS	90				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00755	CDS	375	dfx	1.15.1.2	COG2033	Desulfoferrodoxin
+WOR-3_metaspades_Bin_1-contigs_00756	CDS	705	dsbD	1.8.1.8	COG4232	Thiol:disulfide interchange protein DsbD
+WOR-3_metaspades_Bin_1-contigs_00757	CDS	327				Thioredoxin C-1
+WOR-3_metaspades_Bin_1-contigs_00758	CDS	486	dsbH	1.8.-.-	COG0526	Disulfide bond reductase DsbH
+WOR-3_metaspades_Bin_1-contigs_00759	CDS	906	ahpF	1.6.99.3		NADH dehydrogenase
+WOR-3_metaspades_Bin_1-contigs_00760	CDS	90				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00761	CDS	1188	mshA_5	2.4.1.250	COG0438	D-inositol 3-phosphate glycosyltransferase
+WOR-3_metaspades_Bin_1-contigs_00762	CDS	198				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00763	CDS	348				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00764	CDS	429				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00765	CDS	261				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00766	CDS	318				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00767	CDS	1527	nadB	1.4.3.16	COG0029	L-aspartate oxidase
+WOR-3_metaspades_Bin_1-contigs_00768	CDS	222				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00769	CDS	288	hpf			Ribosome hibernation promoting factor
+WOR-3_metaspades_Bin_1-contigs_00770	CDS	918	hprK	2.7.11.-		HPr kinase/phosphorylase
+WOR-3_metaspades_Bin_1-contigs_00771	CDS	747	pdxJ	2.6.99.2	COG0854	Pyridoxine 5'-phosphate synthase
+WOR-3_metaspades_Bin_1-contigs_00772	CDS	1224				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00773	CDS	360				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00774	CDS	1158	moaA_2			GTP 3',8-cyclase
+WOR-3_metaspades_Bin_1-contigs_00775	CDS	186				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00776	CDS	3444				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00777	CDS	297				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00778	CDS	1377				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00779	CDS	1269				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00780	CDS	660	tal	2.2.1.2	COG0176	Transaldolase
+WOR-3_metaspades_Bin_1-contigs_00781	tRNA	76				tRNA-Val(tac)
+WOR-3_metaspades_Bin_1-contigs_00782	tRNA	76				tRNA-Arg(cct)
+WOR-3_metaspades_Bin_1-contigs_00783	CDS	396				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00784	CDS	300				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00785	CDS	159				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00786	CDS	1128	mshA_6	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+WOR-3_metaspades_Bin_1-contigs_00787	CDS	1770	msbA	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+WOR-3_metaspades_Bin_1-contigs_00788	CDS	1485				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00789	CDS	2052	recG	3.6.4.12		ATP-dependent DNA helicase RecG
+WOR-3_metaspades_Bin_1-contigs_00790	CDS	213				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00791	CDS	624				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00792	CDS	813				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00793	CDS	789	sigA_2		COG0568	RNA polymerase sigma factor SigA
+WOR-3_metaspades_Bin_1-contigs_00794	CDS	1386	degP	3.4.21.107	COG0265	Periplasmic serine endoprotease DegP
+WOR-3_metaspades_Bin_1-contigs_00795	CDS	1038	algA		COG0662	Alginate biosynthesis protein AlgA
+WOR-3_metaspades_Bin_1-contigs_00796	CDS	825	yciV	3.1.13.-	COG0613	5'-3' exoribonuclease
+WOR-3_metaspades_Bin_1-contigs_00797	CDS	1365	rlmCD	2.1.1.189	COG2265	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+WOR-3_metaspades_Bin_1-contigs_00798	CDS	627	nth_1	4.2.99.18	COG0177	Endonuclease III
+WOR-3_metaspades_Bin_1-contigs_00799	CDS	336	sigW_2		COG1595	ECF RNA polymerase sigma factor SigW
+WOR-3_metaspades_Bin_1-contigs_00800	CDS	213				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00801	CDS	768				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00802	CDS	1152	mshA_7	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+WOR-3_metaspades_Bin_1-contigs_00803	CDS	1143	mshA_8	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+WOR-3_metaspades_Bin_1-contigs_00804	CDS	1101				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00805	CDS	771				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00806	CDS	627	bshA	2.4.1.-	COG0438	N-acetyl-alpha-D-glucosaminyl L-malate synthase
+WOR-3_metaspades_Bin_1-contigs_00807	CDS	1419				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00808	CDS	1125				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00809	CDS	915				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00810	CDS	615				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00811	CDS	564				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00812	CDS	1191				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00813	CDS	2526	mutS		COG0249	DNA mismatch repair protein MutS
+WOR-3_metaspades_Bin_1-contigs_00814	CDS	1860	pcrA	3.6.4.12	COG0210	ATP-dependent DNA helicase PcrA
+WOR-3_metaspades_Bin_1-contigs_00815	CDS	1200	mrdB	2.4.1.129	COG0772	Peptidoglycan glycosyltransferase MrdB
+WOR-3_metaspades_Bin_1-contigs_00816	CDS	1209	der_2			GTPase Der
+WOR-3_metaspades_Bin_1-contigs_00817	CDS	576	plsY	2.3.1.275	COG0344	Glycerol-3-phosphate acyltransferase
+WOR-3_metaspades_Bin_1-contigs_00818	CDS	936	aptB	2.2.1.-	COG3958	Apulose-4-phosphate transketolase subunit B
+WOR-3_metaspades_Bin_1-contigs_00819	CDS	828	aptA	2.2.1.-	COG3959	Apulose-4-phosphate transketolase subunit A
+WOR-3_metaspades_Bin_1-contigs_00820	CDS	1065		5.1.1.20	COG4948	L-Ala-D/L-Glu epimerase
+WOR-3_metaspades_Bin_1-contigs_00821	CDS	453	pncC	3.5.1.42	COG1546	Nicotinamide-nucleotide amidohydrolase PncC
+WOR-3_metaspades_Bin_1-contigs_00822	CDS	195				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00823	CDS	1035	recA			Protein RecA
+WOR-3_metaspades_Bin_1-contigs_00824	CDS	1761				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00825	CDS	1281	tuaD	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase TuaD
+WOR-3_metaspades_Bin_1-contigs_00826	CDS	171				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00827	CDS	396				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00828	CDS	402				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00829	CDS	1188	aspC	2.6.1.1	COG0436	Aspartate aminotransferase
+WOR-3_metaspades_Bin_1-contigs_00830	CDS	1371				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00831	tRNA	74				tRNA-Glu(ttc)
+WOR-3_metaspades_Bin_1-contigs_00832	tRNA	73				tRNA-Lys(ttt)
+WOR-3_metaspades_Bin_1-contigs_00833	CDS	285				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00834	CDS	1122	mshA_9	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+WOR-3_metaspades_Bin_1-contigs_00835	CDS	702		2.4.2.-	COG2071	Putative glutamine amidotransferase
+WOR-3_metaspades_Bin_1-contigs_00836	CDS	729		2.5.1.41	COG1646	Geranylgeranylglyceryl phosphate synthase
+WOR-3_metaspades_Bin_1-contigs_00837	CDS	888	pstC		COG0573	Phosphate transport system permease protein PstC
+WOR-3_metaspades_Bin_1-contigs_00838	CDS	423	mgsA	4.2.3.3	COG1803	Methylglyoxal synthase
+WOR-3_metaspades_Bin_1-contigs_00839	CDS	792	btuF		COG0614	Vitamin B12-binding protein
+WOR-3_metaspades_Bin_1-contigs_00840	CDS	828				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00841	CDS	969	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+WOR-3_metaspades_Bin_1-contigs_00842	CDS	618				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00843	tRNA	74				tRNA-Gln(ctg)
+WOR-3_metaspades_Bin_1-contigs_00844	tRNA	74				tRNA-Met(cat)
+WOR-3_metaspades_Bin_1-contigs_00845	CDS	654				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00846	CDS	1002	lapB			Lipopolysaccharide assembly protein B
+WOR-3_metaspades_Bin_1-contigs_00847	CDS	1449	gatB	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+WOR-3_metaspades_Bin_1-contigs_00848	CDS	705				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00849	CDS	861	era			GTPase Era
+WOR-3_metaspades_Bin_1-contigs_00850	CDS	876				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00851	CDS	2040	glyS	6.1.1.14	COG0751	Glycine--tRNA ligase beta subunit
+WOR-3_metaspades_Bin_1-contigs_00852	CDS	228				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00853	CDS	144				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00854	CDS	1332	ftsH_1	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+WOR-3_metaspades_Bin_1-contigs_00855	CDS	576				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00856	CDS	1281				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00857	CDS	822	ykoC			Putative HMP/thiamine permease protein YkoC
+WOR-3_metaspades_Bin_1-contigs_00858	CDS	1752	ykoD	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+WOR-3_metaspades_Bin_1-contigs_00859	CDS	798	hcaB	1.3.1.87		3-phenylpropionate-dihydrodiol/cinnamic acid-dihydrodiol dehydrogenase
+WOR-3_metaspades_Bin_1-contigs_00860	CDS	3105	swrC		COG0841	Swarming motility protein SwrC
+WOR-3_metaspades_Bin_1-contigs_00861	CDS	1041	ribD		COG0117	Riboflavin biosynthesis protein RibD
+WOR-3_metaspades_Bin_1-contigs_00862	CDS	591	polC	2.7.7.7	COG2176	DNA polymerase III PolC-type
+WOR-3_metaspades_Bin_1-contigs_00863	CDS	2826				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00864	CDS	741	cdaA	2.7.7.85	COG1624	Cyclic di-AMP synthase CdaA
+WOR-3_metaspades_Bin_1-contigs_00865	CDS	594		3.6.1.66	COG0127	dITP/XTP pyrophosphatase
+WOR-3_metaspades_Bin_1-contigs_00866	CDS	423				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00867	CDS	567	mreB		COG1077	Cell shape-determining protein MreB
+WOR-3_metaspades_Bin_1-contigs_00868	CDS	849				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00869	CDS	150				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00870	CDS	720				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00871	CDS	969				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00872	CDS	228				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00873	CDS	1620				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00874	CDS	981				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00875	CDS	2097				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00876	CDS	351				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00877	CDS	477				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00878	CDS	1146				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00879	CDS	1134	cutD_2	1.97.1.-		Choline trimethylamine-lyase activating enzyme
+WOR-3_metaspades_Bin_1-contigs_00880	CDS	1101				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00881	CDS	1215	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+WOR-3_metaspades_Bin_1-contigs_00882	CDS	3354	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+WOR-3_metaspades_Bin_1-contigs_00883	tRNA	76				tRNA-Cys(gca)
+WOR-3_metaspades_Bin_1-contigs_00884	CDS	1137		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+WOR-3_metaspades_Bin_1-contigs_00885	CDS	882				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00886	CDS	336				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00887	CDS	3165	rapA	3.6.4.-		RNA polymerase-associated protein RapA
+WOR-3_metaspades_Bin_1-contigs_00888	CDS	438				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00889	CDS	378	iscU		COG0822	Iron-sulfur cluster assembly scaffold protein IscU
+WOR-3_metaspades_Bin_1-contigs_00890	CDS	738	rnz	3.1.26.11	COG1234	Ribonuclease Z
+WOR-3_metaspades_Bin_1-contigs_00891	CDS	678				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00892	CDS	645				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00893	CDS	975	accA	2.1.3.15	COG0825	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+WOR-3_metaspades_Bin_1-contigs_00894	CDS	507				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00895	tRNA	90				tRNA-Ser(gga)
+WOR-3_metaspades_Bin_1-contigs_00896	CDS	675	gph_2	3.1.3.18	COG0546	Phosphoglycolate phosphatase
+WOR-3_metaspades_Bin_1-contigs_00897	CDS	465	mcsA		COG3880	Protein-arginine kinase activator protein
+WOR-3_metaspades_Bin_1-contigs_00898	CDS	195				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00899	CDS	2070	btuB_2			Vitamin B12 transporter BtuB
+WOR-3_metaspades_Bin_1-contigs_00900	CDS	486				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00901	CDS	192	rpmI		COG0291	50S ribosomal protein L35
+WOR-3_metaspades_Bin_1-contigs_00902	CDS	555	infC			Translation initiation factor IF-3
+WOR-3_metaspades_Bin_1-contigs_00903	CDS	1773	thrS	6.1.1.3	COG0441	Threonine--tRNA ligase 1
+WOR-3_metaspades_Bin_1-contigs_00904	tRNA	77				tRNA-Val(gac)
+WOR-3_metaspades_Bin_1-contigs_00905	tRNA	72				tRNA-Gly(ccc)
+WOR-3_metaspades_Bin_1-contigs_00906	CDS	381				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00907	CDS	828				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00908	CDS	1173	undec1A	4.1.1.-		Cysteine/Cysteine sulfinic acid decarboxylase
+WOR-3_metaspades_Bin_1-contigs_00909	CDS	1098	tdh	1.1.1.103	COG1063	L-threonine 3-dehydrogenase
+WOR-3_metaspades_Bin_1-contigs_00910	CDS	672				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00911	CDS	519				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00912	CDS	1293				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00913	CDS	519				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00914	CDS	1230	ftsA		COG0849	Cell division protein FtsA
+WOR-3_metaspades_Bin_1-contigs_00915	CDS	840	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+WOR-3_metaspades_Bin_1-contigs_00916	CDS	1350	murC	6.3.2.8	COG0773	UDP-N-acetylmuramate--L-alanine ligase
+WOR-3_metaspades_Bin_1-contigs_00917	CDS	1035	murG	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+WOR-3_metaspades_Bin_1-contigs_00918	CDS	1077	ftsW	2.4.1.129	COG0772	putative peptidoglycan glycosyltransferase FtsW
+WOR-3_metaspades_Bin_1-contigs_00919	CDS	1071	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+WOR-3_metaspades_Bin_1-contigs_00920	CDS	1479		3.4.24.-	COG0612	putative zinc protease
+WOR-3_metaspades_Bin_1-contigs_00921	CDS	2106				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00922	CDS	882	fmt	2.1.2.9	COG0223	Methionyl-tRNA formyltransferase
+WOR-3_metaspades_Bin_1-contigs_00923	CDS	522	nusG		COG0250	Transcription termination/antitermination protein NusG
+WOR-3_metaspades_Bin_1-contigs_00924	CDS	429	rplK		COG0080	50S ribosomal protein L11
+WOR-3_metaspades_Bin_1-contigs_00925	CDS	678	rplA		COG0081	50S ribosomal protein L1
+WOR-3_metaspades_Bin_1-contigs_00926	CDS	525	rplJ		COG0244	50S ribosomal protein L10
+WOR-3_metaspades_Bin_1-contigs_00927	CDS	393	rplL			50S ribosomal protein L7/L12
+WOR-3_metaspades_Bin_1-contigs_00928	CDS	726	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+WOR-3_metaspades_Bin_1-contigs_00929	CDS	1179				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00930	CDS	504				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00931	CDS	237				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00932	CDS	864	xerC		COG4974	Tyrosine recombinase XerC
+WOR-3_metaspades_Bin_1-contigs_00933	CDS	1083	moaA_3			GTP 3',8-cyclase
+WOR-3_metaspades_Bin_1-contigs_00934	CDS	966				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00935	CDS	1101	kamA_2	5.4.3.2		L-lysine 2,3-aminomutase
+WOR-3_metaspades_Bin_1-contigs_00936	CDS	855	lipA2	2.8.1.8	COG0320	Lipoyl synthase 2
+WOR-3_metaspades_Bin_1-contigs_00937	CDS	1524	hutH	4.3.1.3	COG2986	Histidine ammonia-lyase
+WOR-3_metaspades_Bin_1-contigs_00938	CDS	1716	surA_2	5.2.1.8		Chaperone SurA
+WOR-3_metaspades_Bin_1-contigs_00939	tRNA	77				tRNA-Arg(tcg)
+WOR-3_metaspades_Bin_1-contigs_00940	CDS	909	wbbL_2	2.4.1.289	COG1216	N-acetylglucosaminyl-diphospho-decaprenol L-rhamnosyltransferase
+WOR-3_metaspades_Bin_1-contigs_00941	CDS	360	radA			DNA repair protein RadA
+WOR-3_metaspades_Bin_1-contigs_00942	CDS	531				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00943	tRNA	76				tRNA-Pro(ggg)
+WOR-3_metaspades_Bin_1-contigs_00944	CDS	312				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00945	CDS	1101				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00946	CDS	417				Single-stranded DNA-binding protein
+WOR-3_metaspades_Bin_1-contigs_00947	CDS	300	rpsF		COG0360	30S ribosomal protein S6
+WOR-3_metaspades_Bin_1-contigs_00948	CDS	420				Single-stranded DNA-binding protein
+WOR-3_metaspades_Bin_1-contigs_00949	CDS	201	rpsR		COG0238	30S ribosomal protein S18
+WOR-3_metaspades_Bin_1-contigs_00950	CDS	453	rplI		COG0359	50S ribosomal protein L9
+WOR-3_metaspades_Bin_1-contigs_00951	CDS	489			COG1259	putative protein
+WOR-3_metaspades_Bin_1-contigs_00952	CDS	2406	clpC		COG0542	Negative regulator of genetic competence ClpC/MecB
+WOR-3_metaspades_Bin_1-contigs_00953	CDS	1398	purF	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+WOR-3_metaspades_Bin_1-contigs_00954	CDS	786	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+WOR-3_metaspades_Bin_1-contigs_00955	CDS	438				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00956	CDS	561				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00957	CDS	438	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+WOR-3_metaspades_Bin_1-contigs_00958	CDS	1236	htpX	3.4.24.-		Protease HtpX
+WOR-3_metaspades_Bin_1-contigs_00959	CDS	867				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00960	CDS	489				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00961	CDS	642	lipM	2.3.1.181	COG0095	Octanoyltransferase LipM
+WOR-3_metaspades_Bin_1-contigs_00962	tRNA	90				tRNA-Ser(cga)
+WOR-3_metaspades_Bin_1-contigs_00963	CDS	1266				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00964	CDS	1074				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00965	CDS	768	rsrIM	2.1.1.72		Modification methylase RsrI
+WOR-3_metaspades_Bin_1-contigs_00966	CDS	171				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00967	CDS	1323	dnaC	3.6.4.12	COG0305	Replicative DNA helicase
+WOR-3_metaspades_Bin_1-contigs_00968	CDS	741	mlaE		COG0767	Intermembrane phospholipid transport system permease protein MlaE
+WOR-3_metaspades_Bin_1-contigs_00969	CDS	729	mkl		COG1127	putative ribonucleotide transport ATP-binding protein mkl
+WOR-3_metaspades_Bin_1-contigs_00970	CDS	2097				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00971	CDS	951				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00972	CDS	1425	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+WOR-3_metaspades_Bin_1-contigs_00973	CDS	1704	aspS	6.1.1.23	COG0173	Aspartate--tRNA(Asp/Asn) ligase
+WOR-3_metaspades_Bin_1-contigs_00974	CDS	561				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00975	CDS	846	ispH	1.17.7.4	COG0761	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+WOR-3_metaspades_Bin_1-contigs_00976	CDS	945	moaA_4			GTP 3',8-cyclase
+WOR-3_metaspades_Bin_1-contigs_00977	CDS	477	pgpA	3.1.3.27	COG1267	Phosphatidylglycerophosphatase A
+WOR-3_metaspades_Bin_1-contigs_00978	CDS	1968	metG	6.1.1.10	COG0073	Methionine--tRNA ligase
+WOR-3_metaspades_Bin_1-contigs_00979	CDS	564	yhdE	3.6.1.9	COG0424	dTTP/UTP pyrophosphatase
+WOR-3_metaspades_Bin_1-contigs_00980	CDS	1302				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00981	CDS	612	rnfG	7.2.1.2	COG4659	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit G
+WOR-3_metaspades_Bin_1-contigs_00982	CDS	657	cmk	2.7.4.25	COG0283	Cytidylate kinase
+WOR-3_metaspades_Bin_1-contigs_00983	CDS	807				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00984	CDS	681	entB	6.3.2.14	COG1535	Enterobactin synthase component B
+WOR-3_metaspades_Bin_1-contigs_00985	CDS	903	trxB_3	1.8.1.9		Thioredoxin reductase
+WOR-3_metaspades_Bin_1-contigs_00986	CDS	954	rlmN	2.1.1.192		Dual-specificity RNA methyltransferase RlmN
+WOR-3_metaspades_Bin_1-contigs_00987	CDS	1341		1.1.1.38		NAD-dependent malic enzyme
+WOR-3_metaspades_Bin_1-contigs_00988	CDS	879				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00989	CDS	870	citE	4.1.3.6	COG2301	Citrate lyase subunit beta
+WOR-3_metaspades_Bin_1-contigs_00990	CDS	243				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00991	CDS	363				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00992	CDS	204				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00993	CDS	2310	speE	2.5.1.16		Polyamine aminopropyltransferase
+WOR-3_metaspades_Bin_1-contigs_00994	CDS	1032				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00995	CDS	1146	macA		COG0845	Macrolide export protein MacA
+WOR-3_metaspades_Bin_1-contigs_00996	CDS	1293	glnA	6.3.1.2	COG0174	Glutamine synthetase
+WOR-3_metaspades_Bin_1-contigs_00997	CDS	972		1.1.1.-		Putative 2-hydroxyacid dehydrogenase
+WOR-3_metaspades_Bin_1-contigs_00998	CDS	597				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_00999	CDS	201	cspB			Cold shock protein CspB
+WOR-3_metaspades_Bin_1-contigs_01000	CDS	1272	asnS	6.1.1.22		Asparagine--tRNA ligase
+WOR-3_metaspades_Bin_1-contigs_01001	CDS	2340				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_01002	CDS	1125				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_01003	CDS	333				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_01004	CDS	1185		2.6.1.1		Aspartate aminotransferase
+WOR-3_metaspades_Bin_1-contigs_01005	CDS	840	prfB			Peptide chain release factor 2
+WOR-3_metaspades_Bin_1-contigs_01006	CDS	594	tolQ_3			Tol-Pal system protein TolQ
+WOR-3_metaspades_Bin_1-contigs_01007	CDS	234				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_01008	CDS	1605	actP		COG4147	Cation/acetate symporter ActP
+WOR-3_metaspades_Bin_1-contigs_01009	CDS	1248	rho	3.6.4.-	COG1158	Transcription termination factor Rho
+WOR-3_metaspades_Bin_1-contigs_01010	CDS	2055	nrdD	1.1.98.6	COG1328	Anaerobic ribonucleoside-triphosphate reductase
+WOR-3_metaspades_Bin_1-contigs_01011	CDS	843	miaA	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+WOR-3_metaspades_Bin_1-contigs_01012	CDS	861	fabD	2.3.1.39		Malonyl CoA-acyl carrier protein transacylase
+WOR-3_metaspades_Bin_1-contigs_01013	CDS	1848	ftsH_2	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+WOR-3_metaspades_Bin_1-contigs_01014	CDS	642	nth_2	4.2.99.18	COG0177	Endonuclease III
+WOR-3_metaspades_Bin_1-contigs_01015	CDS	972				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_01016	CDS	1677				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_01017	CDS	1317				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_01018	CDS	1164	pgk/tpi_2		COG0126	Bifunctional PGK/TIM
+WOR-3_metaspades_Bin_1-contigs_01019	CDS	786				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_01020	CDS	939				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_01021	CDS	633				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_01022	CDS	996	gap	1.2.1.12	COG0057	Glyceraldehyde-3-phosphate dehydrogenase
+WOR-3_metaspades_Bin_1-contigs_01023	CDS	543				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_01024	CDS	657	phoU		COG0704	Phosphate-specific transport system accessory protein PhoU 
+WOR-3_metaspades_Bin_1-contigs_01025	CDS	753	pstB3	7.3.2.1	COG1117	Phosphate import ATP-binding protein PstB 3
+WOR-3_metaspades_Bin_1-contigs_01026	CDS	849	pstA1		COG0581	Phosphate transport system permease protein PstA 1
+WOR-3_metaspades_Bin_1-contigs_01027	CDS	4092				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_01028	CDS	1308	prsA	5.2.1.8		Foldase protein PrsA
+WOR-3_metaspades_Bin_1-contigs_01029	CDS	447				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_01030	CDS	486	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+WOR-3_metaspades_Bin_1-contigs_01031	CDS	1125				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_01032	CDS	2604	cpoB_6			Cell division coordinator CpoB
+WOR-3_metaspades_Bin_1-contigs_01033	CDS	207				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_01034	CDS	3345	malT			HTH-type transcriptional regulator MalT
+WOR-3_metaspades_Bin_1-contigs_01035	CDS	1905	gyrB	5.6.2.2	COG0187	DNA gyrase subunit B
+WOR-3_metaspades_Bin_1-contigs_01036	CDS	804				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_01037	CDS	1236		3.4.24.-	COG0612	putative zinc protease
+WOR-3_metaspades_Bin_1-contigs_01038	CDS	1092				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_01039	CDS	1332	dnaA_2		COG0593	Chromosomal replication initiator protein DnaA
+WOR-3_metaspades_Bin_1-contigs_01040	CDS	636				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_01041	CDS	705	rph	2.7.7.56	COG0689	Ribonuclease PH
+WOR-3_metaspades_Bin_1-contigs_01042	CDS	1122	fbp	3.1.3.11	COG1980	Fructose-1,6-bisphosphate aldolase/phosphatase
+WOR-3_metaspades_Bin_1-contigs_01043	CDS	426	gcvH		COG0509	Glycine cleavage system H protein
+WOR-3_metaspades_Bin_1-contigs_01044	CDS	273	hup			DNA-binding protein HU
+WOR-3_metaspades_Bin_1-contigs_01045	CDS	432				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_01046	CDS	504				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_01047	CDS	237				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_01048	CDS	183				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_01049	CDS	792				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_01050	CDS	402				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_01051	CDS	261				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_01052	CDS	159				Rubredoxin
+WOR-3_metaspades_Bin_1-contigs_01053	CDS	1200	fprA	1.-.-.-	COG0426	Nitric oxide reductase
+WOR-3_metaspades_Bin_1-contigs_01054	CDS	417				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_01055	CDS	333	napF			Ferredoxin-type protein NapF
+WOR-3_metaspades_Bin_1-contigs_01056	CDS	375				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_01057	CDS	153				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_01058	CDS	1710	ptsI	2.7.3.9	COG1080	Phosphoenolpyruvate-protein phosphotransferase
+WOR-3_metaspades_Bin_1-contigs_01059	CDS	477				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_01060	CDS	819	punA	2.4.2.1	COG0005	Purine nucleoside phosphorylase 1
+WOR-3_metaspades_Bin_1-contigs_01061	CDS	915	hmuU		COG0609	Hemin transport system permease protein HmuU
+WOR-3_metaspades_Bin_1-contigs_01062	CDS	978	trpS	6.1.1.2	COG0180	Tryptophan--tRNA ligase
+WOR-3_metaspades_Bin_1-contigs_01063	CDS	543	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+WOR-3_metaspades_Bin_1-contigs_01064	CDS	270				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_01065	CDS	477	ruvC	3.1.22.4	COG0817	Crossover junction endodeoxyribonuclease RuvC
+WOR-3_metaspades_Bin_1-contigs_01066	CDS	750			COG0217	putative transcriptional regulatory protein
+WOR-3_metaspades_Bin_1-contigs_01067	CDS	168				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_01068	CDS	627				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_01069	CDS	363				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_01070	CDS	723				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_01071	CDS	195				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_01072	CDS	399				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_01073	CDS	984				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_01074	CDS	471				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_01075	CDS	294				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_01076	CDS	336				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_01077	CDS	720	cpoB_7			Cell division coordinator CpoB
+WOR-3_metaspades_Bin_1-contigs_01078	CDS	108				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_01079	CDS	933				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_01080	CDS	564				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_01081	CDS	1890	yoaA	3.6.4.12	COG1199	putative ATP-dependent DNA helicase YoaA
+WOR-3_metaspades_Bin_1-contigs_01082	CDS	768	nadE	6.3.1.5	COG0171	NH(3)-dependent NAD(+) synthetase
+WOR-3_metaspades_Bin_1-contigs_01083	CDS	459				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_01084	CDS	1125	wecB	5.1.3.14	COG0381	UDP-N-acetylglucosamine 2-epimerase
+WOR-3_metaspades_Bin_1-contigs_01085	CDS	1275	macB	3.6.3.-	COG0577	Macrolide export ATP-binding/permease protein MacB
+WOR-3_metaspades_Bin_1-contigs_01086	CDS	1128				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_01087	CDS	1779				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_01088	tRNA	78				tRNA-Asp(gtc)
+WOR-3_metaspades_Bin_1-contigs_01089	CDS	624				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_01090	CDS	363				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_01091	CDS	855				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_01092	CDS	621				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_01093	CDS	1299	murJ_3		COG0728	putative lipid II flippase MurJ
+WOR-3_metaspades_Bin_1-contigs_01094	CDS	111				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_01095	CDS	651	rsmG	2.1.1.170		Ribosomal RNA small subunit methyltransferase G
+WOR-3_metaspades_Bin_1-contigs_01096	CDS	381				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_01097	CDS	408				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_01098	CDS	267				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_01099	CDS	1446	murE	6.3.2.13	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+WOR-3_metaspades_Bin_1-contigs_01100	CDS	975	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+WOR-3_metaspades_Bin_1-contigs_01101	CDS	159				hypothetical protein
+WOR-3_metaspades_Bin_1-contigs_01102	CDS	1122				hypothetical protein
