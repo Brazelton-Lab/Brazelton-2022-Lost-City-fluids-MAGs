@@ -1,0 +1,1146 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+Natronincolaceae_metaspades_Bin_2_1-contigs_00001	CDS	510	engB		COG0218	putative GTP-binding protein EngB
+Natronincolaceae_metaspades_Bin_2_1-contigs_00002	CDS	666				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00003	CDS	429	pyrI		COG1781	Aspartate carbamoyltransferase regulatory chain
+Natronincolaceae_metaspades_Bin_2_1-contigs_00004	CDS	930	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00005	CDS	330	ftsH3	3.4.24.-		ATP-dependent zinc metalloprotease FtsH 3
+Natronincolaceae_metaspades_Bin_2_1-contigs_00006	CDS	831	panB	2.1.2.11	COG0413	3-methyl-2-oxobutanoate hydroxymethyltransferase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00007	CDS	273	flhB_1		COG1377	Flagellar biosynthetic protein FlhB
+Natronincolaceae_metaspades_Bin_2_1-contigs_00008	CDS	2568				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00009	CDS	447				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00010	CDS	996	prfB			Peptide chain release factor 2
+Natronincolaceae_metaspades_Bin_2_1-contigs_00011	CDS	2679	secA		COG0653	Protein translocase subunit SecA
+Natronincolaceae_metaspades_Bin_2_1-contigs_00012	CDS	591				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00013	CDS	537	hpf			Ribosome hibernation promotion factor
+Natronincolaceae_metaspades_Bin_2_1-contigs_00014	CDS	486				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00015	CDS	393	fliS		COG1516	Flagellar secretion chaperone FliS
+Natronincolaceae_metaspades_Bin_2_1-contigs_00016	CDS	1599	fliD		COG1345	Flagellar hook-associated protein 2
+Natronincolaceae_metaspades_Bin_2_1-contigs_00017	CDS	123				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00018	CDS	228				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00019	CDS	381	immR		COG1396	HTH-type transcriptional regulator ImmR
+Natronincolaceae_metaspades_Bin_2_1-contigs_00020	CDS	348				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00021	CDS	516				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00022	CDS	390				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00023	CDS	300				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00024	CDS	240				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00025	CDS	174				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00026	CDS	1794	hndC	1.12.1.3	COG1145	NADP-reducing hydrogenase subunit HndC
+Natronincolaceae_metaspades_Bin_2_1-contigs_00027	CDS	1758	hndD	1.12.1.3	COG3383	NADP-reducing hydrogenase subunit HndD
+Natronincolaceae_metaspades_Bin_2_1-contigs_00028	CDS	855				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00029	CDS	1518				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00030	CDS	1536				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00031	CDS	831	rbn	3.1.26.11		Ribonuclease BN
+Natronincolaceae_metaspades_Bin_2_1-contigs_00032	CDS	2046	ycf3			Photosystem I assembly protein Ycf3
+Natronincolaceae_metaspades_Bin_2_1-contigs_00033	CDS	567				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00034	CDS	1350	yeeO_1		COG0534	putative FMN/FAD exporter YeeO
+Natronincolaceae_metaspades_Bin_2_1-contigs_00035	CDS	291	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00036	CDS	177				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00037	CDS	702	rnc	3.1.26.3		Ribonuclease 3
+Natronincolaceae_metaspades_Bin_2_1-contigs_00038	CDS	3579	smc		COG1196	Chromosome partition protein Smc
+Natronincolaceae_metaspades_Bin_2_1-contigs_00039	CDS	939	ftsY		COG0552	Signal recognition particle receptor FtsY
+Natronincolaceae_metaspades_Bin_2_1-contigs_00040	CDS	2034	copA	7.2.2.8	COG2217	Copper-exporting P-type ATPase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00041	CDS	414				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00042	CDS	597				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00043	CDS	543	grdC	1.21.4.2		Glycine/sarcosine/betaine reductase complex component C subunit beta
+Natronincolaceae_metaspades_Bin_2_1-contigs_00044	CDS	1194	grdD	1.21.4.2		Glycine/sarcosine/betaine reductase complex component C subunit alpha
+Natronincolaceae_metaspades_Bin_2_1-contigs_00045	CDS	660				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00046	CDS	198				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00047	CDS	1011	tmpC		COG1744	Membrane lipoprotein TmpC
+Natronincolaceae_metaspades_Bin_2_1-contigs_00048	CDS	1539	mglA_1	7.5.2.11	COG1129	Galactose/methyl galactoside import ATP-binding protein MglA
+Natronincolaceae_metaspades_Bin_2_1-contigs_00049	CDS	1146				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00050	CDS	984				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00051	CDS	159				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00052	CDS	873				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00053	CDS	1458	rnj	3.1.-.-		Ribonuclease J
+Natronincolaceae_metaspades_Bin_2_1-contigs_00054	CDS	1335	ugpB		COG1653	sn-glycerol-3-phosphate-binding periplasmic protein UgpB
+Natronincolaceae_metaspades_Bin_2_1-contigs_00055	CDS	825	araQ		COG0395	L-arabinose transport system permease protein AraQ
+Natronincolaceae_metaspades_Bin_2_1-contigs_00056	CDS	966	lacF			Lactose transport system permease protein LacF
+Natronincolaceae_metaspades_Bin_2_1-contigs_00057	CDS	1107	ugpC	7.6.2.10	COG3839	sn-glycerol-3-phosphate import ATP-binding protein UgpC
+Natronincolaceae_metaspades_Bin_2_1-contigs_00058	CDS	531	pgsA_1	2.7.8.5		CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00059	CDS	684	queE	4.3.99.3		7-carboxy-7-deazaguanine synthase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00060	CDS	2109	nrdD	1.1.98.6	COG1328	Anaerobic ribonucleoside-triphosphate reductase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00061	CDS	861	murI	5.1.1.3		Glutamate racemase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00062	CDS	1317	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00063	CDS	1335			COG2239	Magnesium transporter MgtE
+Natronincolaceae_metaspades_Bin_2_1-contigs_00064	CDS	1110	mrdB	2.4.1.129	COG0772	Peptidoglycan glycosyltransferase MrdB
+Natronincolaceae_metaspades_Bin_2_1-contigs_00065	CDS	150				Small, acid-soluble spore protein beta
+Natronincolaceae_metaspades_Bin_2_1-contigs_00066	CDS	495	carD_1		COG1329	RNA polymerase-binding transcription factor CarD
+Natronincolaceae_metaspades_Bin_2_1-contigs_00067	CDS	396				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00068	CDS	423	radA	3.6.4.-	COG1066	DNA repair protein RadA
+Natronincolaceae_metaspades_Bin_2_1-contigs_00069	CDS	369				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00070	CDS	1350	ktrB		COG0168	Ktr system potassium uptake protein B
+Natronincolaceae_metaspades_Bin_2_1-contigs_00071	CDS	648	ktrA		COG0569	Ktr system potassium uptake protein A
+Natronincolaceae_metaspades_Bin_2_1-contigs_00072	CDS	801	aviRb	2.1.1.208		23S rRNA (uridine(2479)-2'-O)-methyltransferase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00073	CDS	1020	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+Natronincolaceae_metaspades_Bin_2_1-contigs_00074	CDS	1005				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00075	CDS	1164	ykuR	3.5.1.47	COG1473	N-acetyldiaminopimelate deacetylase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00076	CDS	1269	gltP		COG1301	Proton/glutamate-aspartate symporter
+Natronincolaceae_metaspades_Bin_2_1-contigs_00077	CDS	483				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00078	CDS	1827	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+Natronincolaceae_metaspades_Bin_2_1-contigs_00079	CDS	1347	glmM	5.4.2.10	COG1109	Phosphoglucosamine mutase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00080	CDS	543	porC	1.2.7.1	COG1014	Pyruvate synthase subunit PorC
+Natronincolaceae_metaspades_Bin_2_1-contigs_00081	CDS	747	korB	1.2.7.3	COG1013	2-oxoglutarate oxidoreductase subunit KorB
+Natronincolaceae_metaspades_Bin_2_1-contigs_00082	CDS	1062	padG	1.2.1.58		NADH-dependent phenylglyoxylate dehydrogenase subunit alpha
+Natronincolaceae_metaspades_Bin_2_1-contigs_00083	CDS	732				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00084	CDS	351				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00085	CDS	429				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00086	CDS	1140				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00087	CDS	999				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00088	CDS	147				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00089	CDS	2088				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00090	CDS	2439	clpC		COG0542	Negative regulator of genetic competence ClpC/MecB
+Natronincolaceae_metaspades_Bin_2_1-contigs_00091	CDS	1038	mcsB	2.7.14.1		Protein-arginine kinase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00092	CDS	516	mcsA		COG3880	Protein-arginine kinase activator protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00093	CDS	2070	fus			Elongation factor G
+Natronincolaceae_metaspades_Bin_2_1-contigs_00094	CDS	783	fliR		COG1684	Flagellar biosynthetic protein FliR
+Natronincolaceae_metaspades_Bin_2_1-contigs_00095	CDS	1086	flhB_2		COG1377	Flagellar biosynthetic protein FlhB
+Natronincolaceae_metaspades_Bin_2_1-contigs_00096	CDS	2028	flhA		COG1298	Flagellar biosynthesis protein FlhA
+Natronincolaceae_metaspades_Bin_2_1-contigs_00097	CDS	1146	flhF		COG1419	Flagellar biosynthesis protein FlhF
+Natronincolaceae_metaspades_Bin_2_1-contigs_00098	CDS	894	ylxH		COG0455	Flagellum site-determining protein YlxH
+Natronincolaceae_metaspades_Bin_2_1-contigs_00099	CDS	651	ycgR			Flagellar brake protein YcgR
+Natronincolaceae_metaspades_Bin_2_1-contigs_00100	CDS	1083	cheB	3.1.1.61	COG2201	Protein-glutamate methylesterase/protein-glutamine glutaminase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00101	CDS	2064	cheA	2.7.13.3	COG0643	Chemotaxis protein CheA
+Natronincolaceae_metaspades_Bin_2_1-contigs_00102	CDS	450	cheW_1		COG0835	Chemotaxis protein CheW
+Natronincolaceae_metaspades_Bin_2_1-contigs_00103	CDS	621	cheC	3.-.-.-	COG1776	CheY-P phosphatase CheC
+Natronincolaceae_metaspades_Bin_2_1-contigs_00104	CDS	489	cheD	3.5.1.44	COG1871	Chemoreceptor glutamine deamidase CheD
+Natronincolaceae_metaspades_Bin_2_1-contigs_00105	CDS	726	sigD		COG1191	RNA polymerase sigma-D factor
+Natronincolaceae_metaspades_Bin_2_1-contigs_00106	CDS	1620				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00107	CDS	345				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00108	CDS	429				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00109	CDS	504				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00110	CDS	702	rpsB			30S ribosomal protein S2
+Natronincolaceae_metaspades_Bin_2_1-contigs_00111	CDS	648	tsf			Elongation factor Ts
+Natronincolaceae_metaspades_Bin_2_1-contigs_00112	CDS	711	pyrH	2.7.4.22	COG0528	Uridylate kinase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00113	CDS	558	frr		COG0233	Ribosome-recycling factor
+Natronincolaceae_metaspades_Bin_2_1-contigs_00114	CDS	600				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00115	CDS	1278	nagZ	3.2.1.52		Beta-hexosaminidase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00116	CDS	957	selD	2.7.9.3	COG0709	Selenide, water dikinase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00117	CDS	1350	alsT		COG1115	Amino-acid carrier protein AlsT
+Natronincolaceae_metaspades_Bin_2_1-contigs_00118	CDS	1416	selA	2.9.1.1	COG1921	L-seryl-tRNA(Sec) selenium transferase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00119	CDS	1908	selB		COG3276	Selenocysteine-specific elongation factor
+Natronincolaceae_metaspades_Bin_2_1-contigs_00120	CDS	690	walR_1		COG0745	Transcriptional regulatory protein WalR
+Natronincolaceae_metaspades_Bin_2_1-contigs_00121	CDS	1386	rcsC	2.7.13.3		Sensor histidine kinase RcsC
+Natronincolaceae_metaspades_Bin_2_1-contigs_00122	CDS	276				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00123	CDS	213				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00124	CDS	645				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00125	CDS	348				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00126	CDS	1335	ffh		COG0541	Signal recognition particle protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00127	CDS	246	rpsP		COG0228	30S ribosomal protein S16
+Natronincolaceae_metaspades_Bin_2_1-contigs_00128	CDS	231				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00129	CDS	510	rimM			Ribosome maturation factor RimM
+Natronincolaceae_metaspades_Bin_2_1-contigs_00130	CDS	729	trmD	2.1.1.228		tRNA (guanine-N(1)-)-methyltransferase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00131	CDS	351	rplS		COG0335	50S ribosomal protein L19
+Natronincolaceae_metaspades_Bin_2_1-contigs_00132	CDS	852	rbgA		COG1161	Ribosome biogenesis GTPase A
+Natronincolaceae_metaspades_Bin_2_1-contigs_00133	CDS	636	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+Natronincolaceae_metaspades_Bin_2_1-contigs_00134	CDS	348				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00135	CDS	1278	eam	5.4.3.9	COG1509	Glutamate 2,3-aminomutase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00136	CDS	795				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00137	CDS	1095				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00138	CDS	2079	topA	5.6.2.1		DNA topoisomerase 1
+Natronincolaceae_metaspades_Bin_2_1-contigs_00139	CDS	381				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00140	CDS	1260	tmcAL	6.3.4.-	COG1323	tRNA(Met) cytidine acetate ligase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00141	CDS	1197	ackA	2.7.2.1	COG0282	Acetate kinase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00142	CDS	537				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00143	CDS	180	rpmF		COG0333	50S ribosomal protein L32
+Natronincolaceae_metaspades_Bin_2_1-contigs_00144	CDS	564	fapR		COG2050	Transcription factor FapR
+Natronincolaceae_metaspades_Bin_2_1-contigs_00145	CDS	282				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00146	CDS	255				putative glutaredoxin
+Natronincolaceae_metaspades_Bin_2_1-contigs_00147	CDS	381				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00148	CDS	711	ytrB		COG1131	ABC transporter ATP-binding protein YtrB
+Natronincolaceae_metaspades_Bin_2_1-contigs_00149	CDS	714				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00150	CDS	723				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00151	CDS	1158	rlmL		COG0116	Ribosomal RNA large subunit methyltransferase K/L
+Natronincolaceae_metaspades_Bin_2_1-contigs_00152	CDS	1053	rocR		COG3829	Arginine utilization regulatory protein RocR
+Natronincolaceae_metaspades_Bin_2_1-contigs_00153	CDS	1038	kdd	1.4.1.11		L-erythro-3,5-diaminohexanoate dehydrogenase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00154	CDS	1248	kamA	5.4.3.2		L-lysine 2,3-aminomutase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00155	CDS	1041				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00156	CDS	1644	mutS2_1	3.1.-.-		Endonuclease MutS2
+Natronincolaceae_metaspades_Bin_2_1-contigs_00157	CDS	1557	kamD	5.4.3.3		Lysine 5,6-aminomutase alpha subunit
+Natronincolaceae_metaspades_Bin_2_1-contigs_00158	CDS	756		5.4.3.3	COG5012	Lysine 5,6-aminomutase beta subunit
+Natronincolaceae_metaspades_Bin_2_1-contigs_00159	CDS	1302				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00160	CDS	465				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00161	CDS	1419	tilS	6.3.4.19	COG0037	tRNA(Ile)-lysidine synthase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00162	CDS	2025	ftsH	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+Natronincolaceae_metaspades_Bin_2_1-contigs_00163	CDS	189				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00164	CDS	378	bhbA	5.4.99.2		Methylmalonyl-CoA mutase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00165	CDS	1029	mutB	5.4.99.2	COG1884	Methylmalonyl-CoA mutase large subunit
+Natronincolaceae_metaspades_Bin_2_1-contigs_00166	CDS	399	scpA_1	5.4.99.2	COG1884	Methylmalonyl-CoA mutase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00167	CDS	963		3.6.-.-	COG1703	putative GTPase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00168	CDS	402	epi	5.1.99.-	COG0346	Ethylmalonyl-CoA/methylmalonyl-CoA epimerase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00169	CDS	1548	pccB	6.4.1.3	COG4799	Propionyl-CoA carboxylase beta chain
+Natronincolaceae_metaspades_Bin_2_1-contigs_00170	CDS	399				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00171	CDS	393	gcdC	7.2.4.5	COG0511	Glutaconyl-CoA decarboxylase subunit gamma
+Natronincolaceae_metaspades_Bin_2_1-contigs_00172	CDS	1239	gcdB	7.2.4.5	COG1883	Glutaconyl-CoA decarboxylase subunit beta
+Natronincolaceae_metaspades_Bin_2_1-contigs_00173	CDS	981	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+Natronincolaceae_metaspades_Bin_2_1-contigs_00174	CDS	258				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00175	CDS	1107	mnmA	2.8.1.13		tRNA-specific 2-thiouridylase MnmA
+Natronincolaceae_metaspades_Bin_2_1-contigs_00176	CDS	1590	hutH	4.3.1.3	COG2986	Histidine ammonia-lyase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00177	CDS	1032	ltaE	4.1.2.48	COG2008	Low specificity L-threonine aldolase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00178	CDS	1488				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00179	CDS	393				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00180	CDS	1053	dcsG	6.3.3.5		Cycloserine biosynthesis protein DcsG
+Natronincolaceae_metaspades_Bin_2_1-contigs_00181	CDS	447				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00182	CDS	1536	gpmI	5.4.2.12	COG0696	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00183	CDS	747	tpiA	5.3.1.1	COG0149	Triosephosphate isomerase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00184	CDS	1200	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00185	CDS	1011	gap	1.2.1.12		Glyceraldehyde-3-phosphate dehydrogenase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00186	CDS	840	cggR		COG2390	Central glycolytic genes regulator
+Natronincolaceae_metaspades_Bin_2_1-contigs_00187	CDS	357	rplT		COG0292	50S ribosomal protein L20
+Natronincolaceae_metaspades_Bin_2_1-contigs_00188	CDS	195	rpmI			50S ribosomal protein L35
+Natronincolaceae_metaspades_Bin_2_1-contigs_00189	CDS	462	infC			Translation initiation factor IF-3
+Natronincolaceae_metaspades_Bin_2_1-contigs_00190	CDS	204				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00191	CDS	192				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00192	CDS	2787				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00193	CDS	1275	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00194	CDS	450	tadA	3.5.4.33	COG0590	tRNA-specific adenosine deaminase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00195	CDS	717	pstB	7.3.2.1		Phosphate import ATP-binding protein PstB
+Natronincolaceae_metaspades_Bin_2_1-contigs_00196	CDS	756	fetB		COG0390	putative iron export permease protein FetB
+Natronincolaceae_metaspades_Bin_2_1-contigs_00197	CDS	1398				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00198	CDS	978	cuyA	4.4.1.25		L-cysteate sulfo-lyase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00199	CDS	414				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00200	CDS	183				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00201	CDS	1545	xylB	2.7.1.17	COG1070	Xylulose kinase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00202	CDS	441				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00203	CDS	1449	trkH		COG0168	Trk system potassium uptake protein TrkH
+Natronincolaceae_metaspades_Bin_2_1-contigs_00204	CDS	1407	trkA		COG0569	Trk system potassium uptake protein TrkA
+Natronincolaceae_metaspades_Bin_2_1-contigs_00205	CDS	1446				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00206	CDS	717	ycdX	3.1.3.-	COG1387	putative phosphatase YcdX
+Natronincolaceae_metaspades_Bin_2_1-contigs_00207	CDS	153				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00208	CDS	1218	lysC	2.7.2.4		Aspartokinase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00209	CDS	1155	apu_1		COG0366	Amylopullulanase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00210	CDS	786	apu_2		COG0366	Amylopullulanase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00211	CDS	1374				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00212	CDS	2451	cdr	1.8.1.14		Coenzyme A disulfide reductase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00213	CDS	1404	mleN		COG1757	Malate-2H(+)/Na(+)-lactate antiporter
+Natronincolaceae_metaspades_Bin_2_1-contigs_00214	CDS	651	phoU		COG0704	Phosphate-specific transport system accessory protein PhoU 
+Natronincolaceae_metaspades_Bin_2_1-contigs_00215	CDS	753	pstB3	7.3.2.1	COG1117	Phosphate import ATP-binding protein PstB 3
+Natronincolaceae_metaspades_Bin_2_1-contigs_00216	CDS	846				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00217	CDS	969				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00218	CDS	900	pstS			Phosphate-binding protein PstS
+Natronincolaceae_metaspades_Bin_2_1-contigs_00219	CDS	1128	ugtP	2.4.1.315	COG0707	Processive diacylglycerol beta-glucosyltransferase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00220	CDS	843	cntI			Pseudopaline exporter CntI
+Natronincolaceae_metaspades_Bin_2_1-contigs_00221	CDS	1161				Sodium-lithium/proton antiporter
+Natronincolaceae_metaspades_Bin_2_1-contigs_00222	CDS	1359				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00223	CDS	1314	egtA	6.3.2.2		Glutamate--cysteine ligase EgtA
+Natronincolaceae_metaspades_Bin_2_1-contigs_00224	CDS	1344	yeeO_2		COG0534	putative FMN/FAD exporter YeeO
+Natronincolaceae_metaspades_Bin_2_1-contigs_00225	CDS	549				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00226	CDS	1440	clsA	2.7.8.-	COG1502	Major cardiolipin synthase ClsA
+Natronincolaceae_metaspades_Bin_2_1-contigs_00227	CDS	1152				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00228	CDS	1329		1.2.7.1	COG0674	Pyruvate:ferredoxin oxidoreductase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00229	CDS	207				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00230	CDS	168				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00231	CDS	165			COG1773	Rubredoxin
+Natronincolaceae_metaspades_Bin_2_1-contigs_00232	CDS	414	perR		COG0735	Peroxide-responsive repressor PerR
+Natronincolaceae_metaspades_Bin_2_1-contigs_00233	CDS	402	rlmH_1	2.1.1.177	COG1576	Ribosomal RNA large subunit methyltransferase H
+Natronincolaceae_metaspades_Bin_2_1-contigs_00234	CDS	456	rlmH_2	2.1.1.177	COG1576	Ribosomal RNA large subunit methyltransferase H
+Natronincolaceae_metaspades_Bin_2_1-contigs_00235	CDS	1302				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00236	CDS	858	yycJ	3.-.-.-	COG1235	Putative metallo-hydrolase YycJ
+Natronincolaceae_metaspades_Bin_2_1-contigs_00237	CDS	1251	murAB	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 2
+Natronincolaceae_metaspades_Bin_2_1-contigs_00238	CDS	867				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00239	CDS	1425				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00240	CDS	585				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00241	CDS	1794	walK	2.7.13.3		Sensor protein kinase WalK
+Natronincolaceae_metaspades_Bin_2_1-contigs_00242	CDS	342	walR_2		COG0745	Transcriptional regulatory protein WalR
+Natronincolaceae_metaspades_Bin_2_1-contigs_00243	CDS	216				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00244	CDS	213				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00245	CDS	1458	cobQ			Cobyric acid synthase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00246	CDS	912	cobD		COG1270	Cobalamin biosynthesis protein CobD
+Natronincolaceae_metaspades_Bin_2_1-contigs_00247	CDS	216				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00248	CDS	252				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00249	CDS	870	ispE	2.7.1.148	COG1947	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00250	CDS	96				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00251	CDS	957	arcC1	2.7.2.2		Carbamate kinase 1
+Natronincolaceae_metaspades_Bin_2_1-contigs_00252	CDS	984	argF	2.1.3.3	COG0078	Ornithine carbamoyltransferase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00253	CDS	1224	arcA	3.5.3.6		Arginine deiminase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00254	CDS	693				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00255	CDS	954	PSD2	4.1.1.65		Phosphatidylserine decarboxylase proenzyme 2
+Natronincolaceae_metaspades_Bin_2_1-contigs_00256	CDS	369				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00257	CDS	867	hexR		COG1737	HTH-type transcriptional regulator HexR
+Natronincolaceae_metaspades_Bin_2_1-contigs_00258	CDS	444				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00259	CDS	366	aroH	5.4.99.5	COG4401	Chorismate mutase AroH
+Natronincolaceae_metaspades_Bin_2_1-contigs_00260	CDS	666	cmk	2.7.4.25	COG0283	Cytidylate kinase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00261	CDS	843	ispH	1.17.7.4	COG0761	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00262	CDS	1359	pnp_1	2.7.7.8		Polyribonucleotide nucleotidyltransferase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00263	CDS	774	cheR	2.1.1.80		Chemotaxis protein methyltransferase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00264	CDS	1047	ysdC_1	3.4.11.-	COG1363	Putative aminopeptidase YsdC
+Natronincolaceae_metaspades_Bin_2_1-contigs_00265	CDS	1041	ysdC_2	3.4.11.-	COG1363	Putative aminopeptidase YsdC
+Natronincolaceae_metaspades_Bin_2_1-contigs_00266	CDS	1008	ysdC_3	3.4.11.-	COG1363	Putative aminopeptidase YsdC
+Natronincolaceae_metaspades_Bin_2_1-contigs_00267	CDS	264				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00268	CDS	1194		2.6.1.1		Aspartate aminotransferase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00269	CDS	1437	purB	4.3.2.2		Adenylosuccinate lyase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00270	CDS	1299	asnS	6.1.1.22		Asparagine--tRNA ligase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00271	CDS	1191		2.6.1.1	COG0436	Aspartate/prephenate aminotransferase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00272	CDS	1332	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00273	CDS	363	yccF		COG3304	Inner membrane protein YccF
+Natronincolaceae_metaspades_Bin_2_1-contigs_00274	CDS	2577				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00275	CDS	777				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00276	CDS	999	trpS	6.1.1.2	COG0180	Tryptophan--tRNA ligase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00277	CDS	153				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00278	CDS	567	ygcP		COG1954	putative protein YgcP
+Natronincolaceae_metaspades_Bin_2_1-contigs_00279	CDS	261				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00280	CDS	1452				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00281	CDS	1059				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00282	CDS	1608	mglA_2	7.5.2.11	COG1129	Galactose/methyl galactoside import ATP-binding protein MglA
+Natronincolaceae_metaspades_Bin_2_1-contigs_00283	CDS	1158				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00284	CDS	915				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00285	CDS	2016	gdpP	3.1.4.59	COG3887	Cyclic-di-AMP phosphodiesterase GdpP
+Natronincolaceae_metaspades_Bin_2_1-contigs_00286	CDS	453	rplI			50S ribosomal protein L9
+Natronincolaceae_metaspades_Bin_2_1-contigs_00287	CDS	1344	dnaC	3.6.4.12	COG0305	Replicative DNA helicase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00288	CDS	207				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00289	CDS	1287	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00290	CDS	972	dnaA_1			Chromosomal replication initiator protein DnaA
+Natronincolaceae_metaspades_Bin_2_1-contigs_00291	CDS	1062				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00292	CDS	1074				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00293	CDS	1017	mreB_1		COG1077	Cell shape-determining protein MreB
+Natronincolaceae_metaspades_Bin_2_1-contigs_00294	CDS	1392	oadA	7.2.4.2	COG0511	Oxaloacetate decarboxylase alpha chain
+Natronincolaceae_metaspades_Bin_2_1-contigs_00295	CDS	480				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00296	CDS	705	rluB	5.4.99.22	COG1187	Ribosomal large subunit pseudouridine synthase B
+Natronincolaceae_metaspades_Bin_2_1-contigs_00297	CDS	261				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00298	CDS	1284	dinB	2.7.7.7	COG0389	DNA polymerase IV
+Natronincolaceae_metaspades_Bin_2_1-contigs_00299	CDS	762				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00300	CDS	1227	macB	3.6.3.-	COG0577	Macrolide export ATP-binding/permease protein MacB
+Natronincolaceae_metaspades_Bin_2_1-contigs_00301	CDS	690	yknY_1	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+Natronincolaceae_metaspades_Bin_2_1-contigs_00302	CDS	1260	yknX		COG0845	Putative efflux system component YknX
+Natronincolaceae_metaspades_Bin_2_1-contigs_00303	CDS	402				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00304	CDS	162				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00305	CDS	540	puuR			HTH-type transcriptional regulator PuuR
+Natronincolaceae_metaspades_Bin_2_1-contigs_00306	CDS	423	speH	4.1.1.50	COG1586	S-adenosylmethionine decarboxylase proenzyme
+Natronincolaceae_metaspades_Bin_2_1-contigs_00307	CDS	855	speE	2.5.1.16	COG0421	Polyamine aminopropyltransferase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00308	CDS	849	speB	3.5.3.11	COG0010	Agmatinase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00309	CDS	561	scpB		COG1386	Segregation and condensation protein B
+Natronincolaceae_metaspades_Bin_2_1-contigs_00310	CDS	261				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00311	CDS	729	tupB			Tungstate uptake system permease protein TupB
+Natronincolaceae_metaspades_Bin_2_1-contigs_00312	CDS	738	scpA_2		COG1354	Segregation and condensation protein A
+Natronincolaceae_metaspades_Bin_2_1-contigs_00313	CDS	627				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00314	CDS	2613		2.7.7.-	COG0517	A-adding tRNA nucleotidyltransferase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00315	CDS	267				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00316	CDS	1113	glgD		COG0448	Glycogen biosynthesis protein GlgD
+Natronincolaceae_metaspades_Bin_2_1-contigs_00317	CDS	1425	glgA	2.4.1.21	COG0297	Glycogen synthase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00318	CDS	2463	glgP_1	2.4.1.1	COG0058	Glycogen phosphorylase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00319	CDS	963	tagU_1	2.7.8.-	COG1316	Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+Natronincolaceae_metaspades_Bin_2_1-contigs_00320	CDS	513				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00321	CDS	639	sigH		COG1595	RNA polymerase sigma-H factor
+Natronincolaceae_metaspades_Bin_2_1-contigs_00322	CDS	510	yacP		COG3688	putative protein YacP
+Natronincolaceae_metaspades_Bin_2_1-contigs_00323	CDS	738		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00324	CDS	759	thyX	2.1.1.148		Flavin-dependent thymidylate synthase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00325	CDS	384				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00326	CDS	189				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00327	CDS	432	mrnC	3.1.26.-	COG1939	Mini-ribonuclease 3
+Natronincolaceae_metaspades_Bin_2_1-contigs_00328	CDS	579				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00329	CDS	333				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00330	CDS	327				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00331	CDS	1839				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00332	CDS	366				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00333	CDS	981	rmd	1.1.1.281		GDP-6-deoxy-D-mannose reductase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00334	CDS	1206	pglE	2.6.1.34	COG0399	UDP-N-acetylbacillosamine transaminase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00335	CDS	1593	metG	6.1.1.10		Methionine--tRNA ligase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00336	CDS	771	ycfH	3.1.-.-	COG0084	putative metal-dependent hydrolase YcfH
+Natronincolaceae_metaspades_Bin_2_1-contigs_00337	CDS	1095		3.1.4.-	COG2206	Cyclic di-GMP phosphodiesterase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00338	CDS	1041				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00339	CDS	537	rnmV	3.1.26.8	COG1658	Ribonuclease M5
+Natronincolaceae_metaspades_Bin_2_1-contigs_00340	CDS	870	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+Natronincolaceae_metaspades_Bin_2_1-contigs_00341	CDS	156				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00342	CDS	1116	pepT	3.4.11.4	COG2195	Peptidase T
+Natronincolaceae_metaspades_Bin_2_1-contigs_00343	CDS	1467	speA_1	4.1.1.19	COG1982	Arginine decarboxylase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00344	CDS	954				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00345	CDS	828				DegV domain-containing protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00346	CDS	141				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00347	CDS	1386	rpoN		COG1508	RNA polymerase sigma-54 factor
+Natronincolaceae_metaspades_Bin_2_1-contigs_00348	CDS	867				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00349	CDS	1008		5.1.1.4	COG3938	Proline racemase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00350	CDS	474	prdA_1	1.21.4.1		D-proline reductase proprotein PrdA
+Natronincolaceae_metaspades_Bin_2_1-contigs_00351	CDS	759	prdA_2	1.21.4.1		D-proline reductase proprotein PrdA
+Natronincolaceae_metaspades_Bin_2_1-contigs_00352	CDS	453	prdB	1.21.4.1		D-proline reductase subunit gamma
+Natronincolaceae_metaspades_Bin_2_1-contigs_00353	CDS	267				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00354	CDS	1878	prdA_3	1.21.4.1		D-proline reductase proprotein PrdA
+Natronincolaceae_metaspades_Bin_2_1-contigs_00355	CDS	1173	rsxC	7.-.-.-		Ion-translocating oxidoreductase complex subunit C
+Natronincolaceae_metaspades_Bin_2_1-contigs_00356	CDS	1770	norR_1			Anaerobic nitric oxide reductase transcription regulator NorR
+Natronincolaceae_metaspades_Bin_2_1-contigs_00357	CDS	246	proS	6.1.1.15		Proline--tRNA ligase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00358	CDS	366				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00359	CDS	669				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00360	CDS	540	pgsA_2	2.7.8.5		CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00361	CDS	348	rimO_1	2.8.4.4	COG0621	Ribosomal protein S12 methylthiotransferase RimO
+Natronincolaceae_metaspades_Bin_2_1-contigs_00362	CDS	573	rimO_2	2.8.4.4	COG0621	Ribosomal protein S12 methylthiotransferase RimO
+Natronincolaceae_metaspades_Bin_2_1-contigs_00363	CDS	144				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00364	CDS	2331	spoIIIE		COG1674	DNA translocase SpoIIIE
+Natronincolaceae_metaspades_Bin_2_1-contigs_00365	CDS	1242		3.4.24.-	COG0612	putative zinc protease
+Natronincolaceae_metaspades_Bin_2_1-contigs_00366	CDS	2112	pnp_2	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00367	CDS	264	rpsO			30S ribosomal protein S15
+Natronincolaceae_metaspades_Bin_2_1-contigs_00368	CDS	924	ribF			Bifunctional riboflavin kinase/FMN adenylyltransferase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00369	CDS	888	truB	5.4.99.25	COG0130	tRNA pseudouridine synthase B
+Natronincolaceae_metaspades_Bin_2_1-contigs_00370	CDS	1005	nrnA	3.1.-.-	COG0618	Bifunctional oligoribonuclease and PAP phosphatase NrnA
+Natronincolaceae_metaspades_Bin_2_1-contigs_00371	CDS	402	rbfA			Ribosome-binding factor A
+Natronincolaceae_metaspades_Bin_2_1-contigs_00372	CDS	2043	infB			Translation initiation factor IF-2
+Natronincolaceae_metaspades_Bin_2_1-contigs_00373	CDS	306	rplGA		COG1358	putative ribosomal protein YlxQ
+Natronincolaceae_metaspades_Bin_2_1-contigs_00374	CDS	270				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00375	CDS	1074	nusA		COG0195	Transcription termination/antitermination protein NusA
+Natronincolaceae_metaspades_Bin_2_1-contigs_00376	CDS	465	rimP		COG0779	Ribosome maturation factor RimP
+Natronincolaceae_metaspades_Bin_2_1-contigs_00377	CDS	2364	rtpR	1.17.4.2		Adenosylcobalamin-dependent ribonucleoside-triphosphate reductase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00378	CDS	4332	polC	2.7.7.7	COG2176	DNA polymerase III PolC-type
+Natronincolaceae_metaspades_Bin_2_1-contigs_00379	CDS	1047	ispG	1.17.7.3	COG0821	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)
+Natronincolaceae_metaspades_Bin_2_1-contigs_00380	CDS	459				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00381	CDS	324				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00382	CDS	402				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00383	CDS	1005	rasP	3.4.24.-	COG0750	Regulator of sigma-W protease RasP
+Natronincolaceae_metaspades_Bin_2_1-contigs_00384	CDS	1146	dxr	1.1.1.267	COG0743	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00385	CDS	510				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00386	CDS	204				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00387	CDS	2640	valS	6.1.1.9	COG0525	Valine--tRNA ligase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00388	CDS	564				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00389	CDS	849	cvfB			Conserved virulence factor B
+Natronincolaceae_metaspades_Bin_2_1-contigs_00390	CDS	621				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00391	CDS	1170	mgl	4.4.1.11	COG0626	L-methionine gamma-lyase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00392	CDS	1005				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00393	CDS	279				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00394	CDS	1272				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00395	CDS	738				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00396	CDS	1557	ybiT_1		COG0488	putative ABC transporter ATP-binding protein YbiT
+Natronincolaceae_metaspades_Bin_2_1-contigs_00397	CDS	1779				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00398	CDS	1683	fhs	6.3.4.3	COG2759	Formate--tetrahydrofolate ligase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00399	CDS	945	whiA		COG1481	putative cell division protein WhiA
+Natronincolaceae_metaspades_Bin_2_1-contigs_00400	CDS	684				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00401	CDS	687	yknY_2	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+Natronincolaceae_metaspades_Bin_2_1-contigs_00402	CDS	1203	yknZ		COG0577	putative ABC transporter permease YknZ
+Natronincolaceae_metaspades_Bin_2_1-contigs_00403	tRNA	77				tRNA-Arg(acg)
+Natronincolaceae_metaspades_Bin_2_1-contigs_00404	tRNA	74				tRNA-Cys(gca)
+Natronincolaceae_metaspades_Bin_2_1-contigs_00405	CDS	888	era			GTPase Era
+Natronincolaceae_metaspades_Bin_2_1-contigs_00406	CDS	426	cdd	3.5.4.5	COG0295	Cytidine deaminase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00407	CDS	1134	yerB			Putative lipoprotein YerB
+Natronincolaceae_metaspades_Bin_2_1-contigs_00408	CDS	630				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00409	CDS	699				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00410	CDS	513	ybeY	3.1.-.-		Endoribonuclease YbeY
+Natronincolaceae_metaspades_Bin_2_1-contigs_00411	CDS	2112	pgpH	3.1.4.59		Cyclic-di-AMP phosphodiesterase PgpH
+Natronincolaceae_metaspades_Bin_2_1-contigs_00412	CDS	969			COG1702	PhoH-like protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00413	CDS	312				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00414	CDS	180				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00415	CDS	444				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00416	CDS	708				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00417	CDS	201				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00418	CDS	306				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00419	CDS	1767	aspS	6.1.1.12		Aspartate--tRNA ligase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00420	CDS	1269	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00421	CDS	150				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00422	CDS	369	ytrA_1		COG1725	HTH-type transcriptional repressor YtrA
+Natronincolaceae_metaspades_Bin_2_1-contigs_00423	CDS	840	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+Natronincolaceae_metaspades_Bin_2_1-contigs_00424	CDS	1245	nadB	1.4.3.16	COG0029	L-aspartate oxidase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00425	CDS	738				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00426	CDS	573				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00427	CDS	669				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00428	CDS	435				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00429	CDS	744				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00430	CDS	564	sigW_1		COG1595	ECF RNA polymerase sigma factor SigW
+Natronincolaceae_metaspades_Bin_2_1-contigs_00431	CDS	1284	comM		COG0606	Competence protein ComM
+Natronincolaceae_metaspades_Bin_2_1-contigs_00432	CDS	450	def	3.5.1.88	COG0242	Peptide deformylase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00433	CDS	2394	priA	3.6.4.-		primosomal protein N'
+Natronincolaceae_metaspades_Bin_2_1-contigs_00434	CDS	915				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00435	CDS	1503	malQ	2.4.1.25	COG1640	4-alpha-glucanotransferase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00436	CDS	1536	glgP_2	2.4.1.1	COG0058	Glycogen phosphorylase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00437	CDS	2073	fusA		COG0480	Elongation factor G
+Natronincolaceae_metaspades_Bin_2_1-contigs_00438	CDS	471	rpsG			30S ribosomal protein S7
+Natronincolaceae_metaspades_Bin_2_1-contigs_00439	CDS	1125	xylH		COG4214	Xylose transport system permease protein XylH
+Natronincolaceae_metaspades_Bin_2_1-contigs_00440	CDS	1668				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00441	CDS	1647	hcp	1.7.99.1	COG1151	Hydroxylamine reductase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00442	CDS	759	rsxB_1	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+Natronincolaceae_metaspades_Bin_2_1-contigs_00443	CDS	690				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00444	CDS	1014				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00445	CDS	753	exoA	3.1.11.2	COG0708	Exodeoxyribonuclease
+Natronincolaceae_metaspades_Bin_2_1-contigs_00446	CDS	1410	orfC		COG3391	Antigen Lp49
+Natronincolaceae_metaspades_Bin_2_1-contigs_00447	CDS	222				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00448	CDS	753				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00449	CDS	474				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00450	CDS	1212				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00451	CDS	126				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00452	CDS	279				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00453	CDS	669				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00454	CDS	1050				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00455	CDS	918				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00456	CDS	429				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00457	CDS	1788	yheI	3.6.3.-	COG1132	putative multidrug resistance ABC transporter ATP-binding/permease protein YheI
+Natronincolaceae_metaspades_Bin_2_1-contigs_00458	CDS	1782			COG1132	putative ABC transporter ATP-binding protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00459	CDS	921	rluD	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+Natronincolaceae_metaspades_Bin_2_1-contigs_00460	CDS	807	nadK	2.7.1.23		NAD kinase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00461	CDS	1245	rsxB_2	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+Natronincolaceae_metaspades_Bin_2_1-contigs_00462	CDS	495				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00463	tRNA	76				tRNA-Val(gac)
+Natronincolaceae_metaspades_Bin_2_1-contigs_00464	CDS	705	dapH	2.3.1.89	COG2171	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00465	CDS	723	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00466	CDS	873	dapA	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00467	CDS	1017	asd	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00468	CDS	312	ykvT		COG3773	putative protein YkvT
+Natronincolaceae_metaspades_Bin_2_1-contigs_00469	CDS	1632	appA_1			Oligopeptide-binding protein AppA
+Natronincolaceae_metaspades_Bin_2_1-contigs_00470	CDS	588	mltC	4.2.2.-		Membrane-bound lytic murein transglycosylase C
+Natronincolaceae_metaspades_Bin_2_1-contigs_00471	CDS	597	coaE	2.7.1.24		Dephospho-CoA kinase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00472	CDS	2781	polA	2.7.7.7		DNA polymerase I
+Natronincolaceae_metaspades_Bin_2_1-contigs_00473	CDS	762			COG2968	26 kDa periplasmic immunogenic protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00474	CDS	1257				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00475	CDS	597	sigW_2		COG1595	ECF RNA polymerase sigma factor SigW
+Natronincolaceae_metaspades_Bin_2_1-contigs_00476	tRNA	87				tRNA-Leu(caa)
+Natronincolaceae_metaspades_Bin_2_1-contigs_00477	CDS	426	mamB			Magnetosome protein MamB
+Natronincolaceae_metaspades_Bin_2_1-contigs_00478	CDS	651	degU		COG2197	Transcriptional regulatory protein DegU
+Natronincolaceae_metaspades_Bin_2_1-contigs_00479	CDS	1152	degS	2.7.13.3		Signal transduction histidine-protein kinase/phosphatase DegS
+Natronincolaceae_metaspades_Bin_2_1-contigs_00480	CDS	450	cheW_2		COG0835	Chemotaxis protein CheW
+Natronincolaceae_metaspades_Bin_2_1-contigs_00481	CDS	171				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00482	CDS	147				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00483	CDS	270				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00484	CDS	204				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00485	CDS	390	ytrA_2		COG1725	HTH-type transcriptional repressor YtrA
+Natronincolaceae_metaspades_Bin_2_1-contigs_00486	CDS	255	grxC		COG0695	Glutaredoxin 3
+Natronincolaceae_metaspades_Bin_2_1-contigs_00487	CDS	609	pspB	3.1.3.3	COG0406	Putative phosphoserine phosphatase 2
+Natronincolaceae_metaspades_Bin_2_1-contigs_00488	CDS	240				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00489	CDS	3432	addB	3.1.-.-	COG3857	ATP-dependent helicase/deoxyribonuclease subunit B
+Natronincolaceae_metaspades_Bin_2_1-contigs_00490	CDS	1077	bshA	2.4.1.-	COG0438	N-acetyl-alpha-D-glucosaminyl L-malate synthase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00491	CDS	1599				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00492	CDS	540				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00493	CDS	477				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00494	CDS	351	ndoA	3.1.27.-	COG2337	Endoribonuclease EndoA
+Natronincolaceae_metaspades_Bin_2_1-contigs_00495	CDS	276	ndoAI		COG0864	Antitoxin EndoAI
+Natronincolaceae_metaspades_Bin_2_1-contigs_00496	CDS	1191	alr1	5.1.1.1	COG0787	Alanine racemase 1
+Natronincolaceae_metaspades_Bin_2_1-contigs_00497	CDS	384	acpS	2.7.8.7	COG0736	Holo-[acyl-carrier-protein] synthase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00498	CDS	315				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00499	CDS	243				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00500	CDS	114				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00501	CDS	1125	aroB	4.2.3.4	COG0337	3-dehydroquinate synthase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00502	CDS	1026	ilvE	2.6.1.42		putative branched-chain-amino-acid aminotransferase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00503	CDS	246				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00504	CDS	1374	bioB_1	2.8.1.6		Biotin synthase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00505	CDS	1329	bioB_2	2.8.1.6		Biotin synthase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00506	CDS	1218	der			GTPase Der
+Natronincolaceae_metaspades_Bin_2_1-contigs_00507	CDS	1038	potA	7.6.2.11		Spermidine/putrescine import ATP-binding protein PotA
+Natronincolaceae_metaspades_Bin_2_1-contigs_00508	CDS	2172				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00509	CDS	141				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00510	CDS	975	oppF		COG4608	Oligopeptide transport ATP-binding protein OppF
+Natronincolaceae_metaspades_Bin_2_1-contigs_00511	CDS	981	oppD		COG0444	Oligopeptide transport ATP-binding protein OppD
+Natronincolaceae_metaspades_Bin_2_1-contigs_00512	CDS	1164				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00513	CDS	969	dppB_1		COG0601	Dipeptide transport system permease protein DppB
+Natronincolaceae_metaspades_Bin_2_1-contigs_00514	CDS	201				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00515	CDS	144				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00516	CDS	240				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00517	CDS	99				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00518	CDS	489				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00519	CDS	696				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00520	CDS	1152	sufS	2.8.1.7	COG0520	Cysteine desulfurase SufS
+Natronincolaceae_metaspades_Bin_2_1-contigs_00521	CDS	258	spo0J		COG1475	Stage 0 sporulation protein J
+Natronincolaceae_metaspades_Bin_2_1-contigs_00522	CDS	1413				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00523	CDS	591				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00524	CDS	204				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00525	CDS	1290				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00526	CDS	273				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00527	CDS	204				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00528	CDS	1119	ftsW	2.4.1.129	COG0772	putative peptidoglycan glycosyltransferase FtsW
+Natronincolaceae_metaspades_Bin_2_1-contigs_00529	CDS	1362	murD	6.3.2.9		UDP-N-acetylmuramoylalanine--D-glutamate ligase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00530	CDS	993	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00531	CDS	1395	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00532	CDS	1527	murE	6.3.2.13	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00533	CDS	2163	spoVD		COG0768	Stage V sporulation protein D
+Natronincolaceae_metaspades_Bin_2_1-contigs_00534	CDS	507				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00535	CDS	936	rsmH	2.1.1.199		Ribosomal RNA small subunit methyltransferase H
+Natronincolaceae_metaspades_Bin_2_1-contigs_00536	CDS	432	mraZ			Transcriptional regulator MraZ
+Natronincolaceae_metaspades_Bin_2_1-contigs_00537	CDS	747	lgt	2.5.1.145	COG0682	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00538	CDS	249				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00539	CDS	1095	ychF		COG0012	Ribosome-binding ATPase YchF
+Natronincolaceae_metaspades_Bin_2_1-contigs_00540	CDS	2121				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00541	CDS	672	deoC	4.1.2.4	COG0274	Deoxyribose-phosphate aldolase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00542	CDS	576	pduL	2.3.1.222	COG4869	Phosphate propanoyltransferase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00543	CDS	582	betI			HTH-type transcriptional regulator BetI
+Natronincolaceae_metaspades_Bin_2_1-contigs_00544	CDS	843				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00545	CDS	1236				L-lactate transporter
+Natronincolaceae_metaspades_Bin_2_1-contigs_00546	CDS	804				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00547	CDS	690				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00548	CDS	930	fba	4.1.2.13		Fructose-bisphosphate aldolase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00549	CDS	516				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00550	CDS	774				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00551	CDS	852				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00552	CDS	876	comEC		COG0658	ComE operon protein 3
+Natronincolaceae_metaspades_Bin_2_1-contigs_00553	CDS	1218	ctpB	3.4.21.102	COG0793	Carboxy-terminal processing protease CtpB
+Natronincolaceae_metaspades_Bin_2_1-contigs_00554	CDS	213				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00555	CDS	639				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00556	CDS	2403	metH	2.1.1.13	COG0646	Methionine synthase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00557	CDS	2376	mutS2_2	3.1.-.-		Endonuclease MutS2
+Natronincolaceae_metaspades_Bin_2_1-contigs_00558	CDS	453				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00559	CDS	585				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00560	CDS	1701	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00561	CDS	1131				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00562	CDS	1071	murG	2.4.1.227		UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00563	CDS	1434				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00564	CDS	666	lnrL	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+Natronincolaceae_metaspades_Bin_2_1-contigs_00565	CDS	1239				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00566	CDS	1062				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00567	CDS	117				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00568	CDS	735	guaD	3.5.4.3	COG0402	Guanine deaminase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00569	CDS	264	dadD	3.5.4.31		5'-deoxyadenosine deaminase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00570	CDS	360		3.1.4.-	COG3437	Cyclic di-GMP phosphodiesterase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00571	CDS	717				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00572	CDS	1230	btuF			Vitamin B12-binding protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00573	CDS	1083	hmuU_1		COG0609	Hemin transport system permease protein HmuU
+Natronincolaceae_metaspades_Bin_2_1-contigs_00574	CDS	762	fepC		COG1120	Ferric enterobactin transport ATP-binding protein FepC
+Natronincolaceae_metaspades_Bin_2_1-contigs_00575	CDS	1713	mggB	3.1.3.-	COG0737	Mannosylglucosyl-3-phosphoglycerate phosphatase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00576	CDS	1053	typA_1		COG1217	GTP-binding protein TypA/BipA 
+Natronincolaceae_metaspades_Bin_2_1-contigs_00577	CDS	816	typA_2		COG1217	GTP-binding protein TypA/BipA
+Natronincolaceae_metaspades_Bin_2_1-contigs_00578	CDS	471	trmL	2.1.1.207	COG0219	tRNA (cytidine(34)-2'-O)-methyltransferase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00579	CDS	1803				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00580	CDS	822	yfmS		COG0840	Putative sensory transducer protein YfmS
+Natronincolaceae_metaspades_Bin_2_1-contigs_00581	CDS	372				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00582	CDS	948	trxB	1.8.1.9		Thioredoxin reductase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00583	CDS	318	trxA		COG0526	Thioredoxin
+Natronincolaceae_metaspades_Bin_2_1-contigs_00584	CDS	1287	grdE	1.21.4.2		Glycine reductase complex component B subunits alpha and beta
+Natronincolaceae_metaspades_Bin_2_1-contigs_00585	CDS	132	grdA1	1.21.4.2		Glycine/sarcosine/betaine reductase complex component A1
+Natronincolaceae_metaspades_Bin_2_1-contigs_00586	CDS	330	grdA	1.21.4.2		Glycine/sarcosine/betaine reductase complex component A
+Natronincolaceae_metaspades_Bin_2_1-contigs_00587	CDS	399	flgB		COG1815	Flagellar basal body rod protein FlgB
+Natronincolaceae_metaspades_Bin_2_1-contigs_00588	CDS	444	flgC		COG1558	Flagellar basal-body rod protein FlgC
+Natronincolaceae_metaspades_Bin_2_1-contigs_00589	CDS	306	fliE			Flagellar hook-basal body complex protein FliE
+Natronincolaceae_metaspades_Bin_2_1-contigs_00590	CDS	1545				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00591	CDS	993	fliG		COG1536	Flagellar motor switch protein FliG
+Natronincolaceae_metaspades_Bin_2_1-contigs_00592	CDS	801				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00593	CDS	1317	yscN	7.1.2.2		putative ATP synthase YscN
+Natronincolaceae_metaspades_Bin_2_1-contigs_00594	CDS	453				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00595	CDS	1248				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00596	CDS	1419				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00597	CDS	357				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00598	CDS	375				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00599	CDS	1362	flgE		COG1749	Flagellar hook protein FlgE
+Natronincolaceae_metaspades_Bin_2_1-contigs_00600	CDS	210	swrD		COG1582	Swarming motility protein SwrD
+Natronincolaceae_metaspades_Bin_2_1-contigs_00601	CDS	792	pomA		COG1291	Chemotaxis protein PomA
+Natronincolaceae_metaspades_Bin_2_1-contigs_00602	CDS	750	motB		COG1360	Motility protein B
+Natronincolaceae_metaspades_Bin_2_1-contigs_00603	CDS	420				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00604	CDS	1014	fliM		COG1868	Flagellar motor switch protein FliM
+Natronincolaceae_metaspades_Bin_2_1-contigs_00605	CDS	1122				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00606	CDS	363	cheY		COG0784	Chemotaxis protein CheY
+Natronincolaceae_metaspades_Bin_2_1-contigs_00607	CDS	2796	mrdA	3.4.16.4		Peptidoglycan D,D-transpeptidase MrdA
+Natronincolaceae_metaspades_Bin_2_1-contigs_00608	CDS	501				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00609	CDS	852	mreC		COG1792	Cell shape-determining protein MreC
+Natronincolaceae_metaspades_Bin_2_1-contigs_00610	CDS	1032	mreB_2		COG1077	Cell shape-determining protein MreB
+Natronincolaceae_metaspades_Bin_2_1-contigs_00611	CDS	723				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00612	CDS	249				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00613	CDS	510				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00614	CDS	993	ansA	3.5.1.1	COG0252	L-asparaginase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00615	CDS	1437				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00616	CDS	189				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00617	CDS	1071	aroC	4.2.3.5		Chorismate synthase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00618	CDS	1281	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00619	CDS	684			COG2200	putative signaling protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00620	CDS	969	uvrB		COG0556	UvrABC system protein B
+Natronincolaceae_metaspades_Bin_2_1-contigs_00621	CDS	1224				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00622	CDS	264	crh		COG1925	HPr-like protein Crh
+Natronincolaceae_metaspades_Bin_2_1-contigs_00623	CDS	1944				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00624	CDS	393				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00625	CDS	384				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00626	CDS	201	cspA		COG1278	Cold shock protein CspA
+Natronincolaceae_metaspades_Bin_2_1-contigs_00627	CDS	1656	cshA	3.6.4.13		DEAD-box ATP-dependent RNA helicase CshA
+Natronincolaceae_metaspades_Bin_2_1-contigs_00628	CDS	927	tagU_2	2.7.8.-		Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+Natronincolaceae_metaspades_Bin_2_1-contigs_00629	CDS	465				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00630	CDS	492	ruvC	3.1.22.4	COG0817	Crossover junction endodeoxyribonuclease RuvC
+Natronincolaceae_metaspades_Bin_2_1-contigs_00631	CDS	585	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+Natronincolaceae_metaspades_Bin_2_1-contigs_00632	CDS	1020	ruvB_1	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+Natronincolaceae_metaspades_Bin_2_1-contigs_00633	CDS	1674				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00634	CDS	1026	queA	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00635	CDS	1113	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00636	CDS	264	yajC		COG1862	Sec translocon accessory complex subunit YajC
+Natronincolaceae_metaspades_Bin_2_1-contigs_00637	CDS	306				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00638	CDS	153				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00639	CDS	132				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00640	CDS	1167	moaA_1			GTP 3',8-cyclase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00641	CDS	513	yrdA		COG0663	Protein YrdA
+Natronincolaceae_metaspades_Bin_2_1-contigs_00642	CDS	1254	secDF		COG0341	Protein translocase subunit SecDF
+Natronincolaceae_metaspades_Bin_2_1-contigs_00643	CDS	900	secF		COG0341	Protein translocase subunit SecF
+Natronincolaceae_metaspades_Bin_2_1-contigs_00644	CDS	2514				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00645	CDS	513	apt	2.4.2.7	COG0503	Adenine phosphoribosyltransferase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00646	CDS	2190	relA	2.7.6.5	COG0317	GTP pyrophosphokinase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00647	CDS	279				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00648	CDS	1371	spuC	2.6.1.113	COG0161	Putrescine--pyruvate aminotransferase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00649	CDS	813	kce	2.3.1.247	COG3246	3-keto-5-aminohexanoate cleavage enzyme
+Natronincolaceae_metaspades_Bin_2_1-contigs_00650	CDS	660	atoD	2.8.3.8	COG1788	Acetate CoA-transferase subunit alpha
+Natronincolaceae_metaspades_Bin_2_1-contigs_00651	CDS	663	ctfB	2.8.3.9		Butyrate--acetoacetate CoA-transferase subunit B
+Natronincolaceae_metaspades_Bin_2_1-contigs_00652	CDS	687	ftsE		COG2884	Cell division ATP-binding protein FtsE
+Natronincolaceae_metaspades_Bin_2_1-contigs_00653	CDS	897	ftsX		COG2177	Cell division protein FtsX
+Natronincolaceae_metaspades_Bin_2_1-contigs_00654	CDS	1632				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00655	CDS	861				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00656	CDS	807				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00657	CDS	1938	pknD	2.7.11.1		Serine/threonine-protein kinase PknD
+Natronincolaceae_metaspades_Bin_2_1-contigs_00658	CDS	1233				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00659	CDS	423				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00660	CDS	1098	ddl	6.3.2.4		D-alanine--D-alanine ligase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00661	CDS	681				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00662	CDS	183	rpmD			50S ribosomal protein L30
+Natronincolaceae_metaspades_Bin_2_1-contigs_00663	CDS	510	rpsE		COG0098	30S ribosomal protein S5
+Natronincolaceae_metaspades_Bin_2_1-contigs_00664	CDS	369	rplR		COG0256	50S ribosomal protein L18
+Natronincolaceae_metaspades_Bin_2_1-contigs_00665	CDS	540	rplF			50S ribosomal protein L6
+Natronincolaceae_metaspades_Bin_2_1-contigs_00666	CDS	399	rpsH			30S ribosomal protein S8
+Natronincolaceae_metaspades_Bin_2_1-contigs_00667	CDS	186	rpsZ			30S ribosomal protein S14 type Z
+Natronincolaceae_metaspades_Bin_2_1-contigs_00668	CDS	540	rplE		COG0094	50S ribosomal protein L5
+Natronincolaceae_metaspades_Bin_2_1-contigs_00669	CDS	312	rplX		COG0198	50S ribosomal protein L24
+Natronincolaceae_metaspades_Bin_2_1-contigs_00670	CDS	369	rplN			50S ribosomal protein L14
+Natronincolaceae_metaspades_Bin_2_1-contigs_00671	CDS	255	rpsQ			30S ribosomal protein S17
+Natronincolaceae_metaspades_Bin_2_1-contigs_00672	CDS	204	rpmC		COG0255	50S ribosomal protein L29
+Natronincolaceae_metaspades_Bin_2_1-contigs_00673	CDS	444	rplP		COG0197	50S ribosomal protein L16
+Natronincolaceae_metaspades_Bin_2_1-contigs_00674	CDS	720	rpsC		COG0092	30S ribosomal protein S3
+Natronincolaceae_metaspades_Bin_2_1-contigs_00675	CDS	837	yciV	3.1.13.-	COG0613	5'-3' exoribonuclease
+Natronincolaceae_metaspades_Bin_2_1-contigs_00676	CDS	261	spoVS		COG2359	Stage V sporulation protein S
+Natronincolaceae_metaspades_Bin_2_1-contigs_00677	CDS	1530	rny	3.1.-.-	COG1418	Ribonuclease Y
+Natronincolaceae_metaspades_Bin_2_1-contigs_00678	CDS	213				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00679	CDS	747	est	3.1.1.1	COG1647	Carboxylesterase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00680	CDS	1737	pgcA	5.4.2.2		Phosphoglucomutase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00681	CDS	1191	metK	2.5.1.6		S-adenosylmethionine synthase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00682	CDS	2217	recD2	3.6.4.12	COG0507	ATP-dependent RecD-like DNA helicase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00683	CDS	705	livF		COG0410	High-affinity branched-chain amino acid transport ATP-binding protein LivF
+Natronincolaceae_metaspades_Bin_2_1-contigs_00684	CDS	690				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00685	CDS	411				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00686	CDS	345				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00687	CDS	207				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00688	CDS	498				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00689	CDS	1434		2.7.7.-	COG0617	CC-adding tRNA nucleotidyltransferase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00690	CDS	243				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00691	CDS	756	yfiC	2.1.1.223		tRNA1(Val) (adenine(37)-N6)-methyltransferase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00692	CDS	879				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00693	CDS	990				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00694	CDS	330	darA		COG3870	Cyclic di-AMP receptor A
+Natronincolaceae_metaspades_Bin_2_1-contigs_00695	CDS	636	tmk	2.7.4.9	COG0125	Thymidylate kinase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00696	CDS	1482	speA_2	4.1.1.19	COG1982	Arginine decarboxylase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00697	CDS	186				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00698	CDS	1071	mltG	4.2.2.-		Endolytic murein transglycosylase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00699	CDS	792	aspS2	6.1.1.23	COG0017	Aspartate--tRNA(Asp/Asn) ligase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00700	CDS	324	GATC	6.3.5.-		Glutamyl-tRNA(Gln) amidotransferase subunit C, chloroplastic/mitochondrial
+Natronincolaceae_metaspades_Bin_2_1-contigs_00701	CDS	1458	gatA	6.3.5.7		Glutamyl-tRNA(Gln) amidotransferase subunit A
+Natronincolaceae_metaspades_Bin_2_1-contigs_00702	CDS	1431	gatB	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+Natronincolaceae_metaspades_Bin_2_1-contigs_00703	CDS	168				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00704	CDS	747	recO		COG1381	DNA repair protein RecO
+Natronincolaceae_metaspades_Bin_2_1-contigs_00705	CDS	450				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00706	CDS	1389	glyQS	6.1.1.14		Glycine--tRNA ligase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00707	CDS	834	yqfL	2.7.11.32	COG1806	Putative pyruvate, phosphate dikinase regulatory protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00708	CDS	2616	ppdK	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00709	CDS	1014				Deoxyguanosinetriphosphate triphosphohydrolase-like protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00710	CDS	1812	dnaG	2.7.7.-	COG0358	DNA primase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00711	CDS	135				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00712	CDS	450	IMPDH	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00713	CDS	507				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00714	CDS	267				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00715	CDS	306	mrpG		COG1320	Na(+)/H(+) antiporter subunit G
+Natronincolaceae_metaspades_Bin_2_1-contigs_00716	CDS	237				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00717	CDS	300				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00718	CDS	423	mrpB		COG2111	Na(+)/H(+) antiporter subunit B
+Natronincolaceae_metaspades_Bin_2_1-contigs_00719	CDS	381	mrpC		COG1006	Na(+)/H(+) antiporter subunit C
+Natronincolaceae_metaspades_Bin_2_1-contigs_00720	CDS	1479	mnhD1		COG0651	Na(+)/H(+) antiporter subunit D1
+Natronincolaceae_metaspades_Bin_2_1-contigs_00721	CDS	1269		1.18.1.2		Ferredoxin--NADP reductase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00722	CDS	1461	lhgD	1.1.5.-		L-2-hydroxyglutarate dehydrogenase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00723	CDS	1743				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00724	CDS	414				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00725	CDS	561	ogt	2.1.1.63		Methylated-DNA--protein-cysteine methyltransferase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00726	CDS	306	pfp	2.7.1.90	COG0205	Pyrophosphate--fructose 6-phosphate 1-phosphotransferase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00727	CDS	804	dppA	3.4.11.-	COG2362	D-aminopeptidase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00728	CDS	1083			COG0391	Gluconeogenesis factor
+Natronincolaceae_metaspades_Bin_2_1-contigs_00729	CDS	852	yvcJ		COG1660	Nucleotide-binding protein YvcJ
+Natronincolaceae_metaspades_Bin_2_1-contigs_00730	CDS	912	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00731	CDS	420				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00732	CDS	414				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00733	tRNA	76				tRNA-Arg(tct)
+Natronincolaceae_metaspades_Bin_2_1-contigs_00734	CDS	468		3.1.4.-		Putative metallophosphoesterase MG207 
+Natronincolaceae_metaspades_Bin_2_1-contigs_00735	CDS	609		3.6.1.66	COG0127	dITP/XTP pyrophosphatase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00736	CDS	759	rph	2.7.7.56	COG0689	Ribonuclease PH
+Natronincolaceae_metaspades_Bin_2_1-contigs_00737	CDS	177				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00738	CDS	2103				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00739	CDS	984				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00740	CDS	639				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00741	CDS	1773	feoB		COG0370	Fe(2+) transporter FeoB
+Natronincolaceae_metaspades_Bin_2_1-contigs_00742	CDS	213				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00743	CDS	714				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00744	CDS	1989	mcpA		COG0840	Methyl-accepting chemotaxis protein McpA
+Natronincolaceae_metaspades_Bin_2_1-contigs_00745	CDS	1995	ligA	6.5.1.2		DNA ligase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00746	CDS	2172	pcrA	3.6.4.12	COG0210	ATP-dependent DNA helicase PcrA
+Natronincolaceae_metaspades_Bin_2_1-contigs_00747	CDS	267				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00748	CDS	804				L-lactate transporter
+Natronincolaceae_metaspades_Bin_2_1-contigs_00749	CDS	1632		3.1.-.-	COG1236	Ribonuclease
+Natronincolaceae_metaspades_Bin_2_1-contigs_00750	CDS	297	fur		COG0735	Ferric uptake regulation protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00751	CDS	1671	rnjA	3.1.-.-	COG0595	Ribonuclease J1
+Natronincolaceae_metaspades_Bin_2_1-contigs_00752	CDS	381				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00753	CDS	657	trmR	2.1.1.-	COG4122	tRNA 5-hydroxyuridine methyltransferase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00754	CDS	1233				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00755	CDS	633	udk	2.7.1.48		Uridine kinase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00756	CDS	756	map	3.4.11.18	COG0024	Methionine aminopeptidase 1
+Natronincolaceae_metaspades_Bin_2_1-contigs_00757	CDS	285				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00758	CDS	219	infA		COG0361	Translation initiation factor IF-1
+Natronincolaceae_metaspades_Bin_2_1-contigs_00759	CDS	114	rpmJ		COG0257	50S ribosomal protein L36
+Natronincolaceae_metaspades_Bin_2_1-contigs_00760	CDS	369	rpsM		COG0099	30S ribosomal protein S13
+Natronincolaceae_metaspades_Bin_2_1-contigs_00761	CDS	396	rpsK			30S ribosomal protein S11
+Natronincolaceae_metaspades_Bin_2_1-contigs_00762	CDS	252	rpsD_1		COG0522	30S ribosomal protein S4
+Natronincolaceae_metaspades_Bin_2_1-contigs_00763	CDS	369	rpsD_2		COG0522	30S ribosomal protein S4
+Natronincolaceae_metaspades_Bin_2_1-contigs_00764	CDS	948	rpoA	2.7.7.6	COG0202	DNA-directed RNA polymerase subunit alpha
+Natronincolaceae_metaspades_Bin_2_1-contigs_00765	CDS	342	rplQ			50S ribosomal protein L17
+Natronincolaceae_metaspades_Bin_2_1-contigs_00766	CDS	846	ecfA1	7.-.-.-		Energy-coupling factor transporter ATP-binding protein EcfA1
+Natronincolaceae_metaspades_Bin_2_1-contigs_00767	CDS	864	ecfA2	3.6.3.-	COG1122	Energy-coupling factor transporter ATP-binding protein EcfA2
+Natronincolaceae_metaspades_Bin_2_1-contigs_00768	CDS	789	ecfT		COG0619	Energy-coupling factor transporter transmembrane protein EcfT
+Natronincolaceae_metaspades_Bin_2_1-contigs_00769	CDS	738	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+Natronincolaceae_metaspades_Bin_2_1-contigs_00770	CDS	429	rplM		COG0102	50S ribosomal protein L13
+Natronincolaceae_metaspades_Bin_2_1-contigs_00771	CDS	393	rpsI		COG0103	30S ribosomal protein S9
+Natronincolaceae_metaspades_Bin_2_1-contigs_00772	CDS	1707	recN		COG0497	DNA repair protein RecN
+Natronincolaceae_metaspades_Bin_2_1-contigs_00773	CDS	813	tlyA	2.1.1.226	COG1189	16S/23S rRNA (cytidine-2'-O)-methyltransferase TlyA
+Natronincolaceae_metaspades_Bin_2_1-contigs_00774	CDS	1956	dxs	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00775	CDS	582				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00776	CDS	1488	mrpD		COG0651	Na(+)/H(+) antiporter subunit D
+Natronincolaceae_metaspades_Bin_2_1-contigs_00777	CDS	1854	ndhB	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+Natronincolaceae_metaspades_Bin_2_1-contigs_00778	CDS	522				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00779	CDS	885	xerD			Tyrosine recombinase XerD
+Natronincolaceae_metaspades_Bin_2_1-contigs_00780	CDS	1176	deoB	5.4.2.7	COG1015	Phosphopentomutase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00781	CDS	819	punA_1	2.4.2.1	COG0005	Purine nucleoside phosphorylase 1
+Natronincolaceae_metaspades_Bin_2_1-contigs_00782	CDS	828	punA_2	2.4.2.1	COG0005	Purine nucleoside phosphorylase 1
+Natronincolaceae_metaspades_Bin_2_1-contigs_00783	CDS	1326	pdp	2.4.2.2		Pyrimidine-nucleoside phosphorylase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00784	CDS	243				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00785	CDS	252				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00786	CDS	1713	rsxB_3	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+Natronincolaceae_metaspades_Bin_2_1-contigs_00787	CDS	1170				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00788	CDS	1470	rsxB_4	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+Natronincolaceae_metaspades_Bin_2_1-contigs_00789	CDS	636	nadD_1	2.7.7.18	COG1057	putative nicotinate-nucleotide adenylyltransferase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00790	CDS	1005				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00791	CDS	366	rsfS		COG0799	Ribosomal silencing factor RsfS
+Natronincolaceae_metaspades_Bin_2_1-contigs_00792	CDS	2472	leuS	6.1.1.4		Leucine--tRNA ligase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00793	CDS	639	dauR		COG2964	Transcriptional regulator DauR
+Natronincolaceae_metaspades_Bin_2_1-contigs_00794	CDS	1032	apbE	2.7.1.180	COG1477	FAD:protein FMN transferase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00795	CDS	516	btuR	2.5.1.17	COG2109	Corrinoid adenosyltransferase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00796	CDS	399	ndk	2.7.4.6		Nucleoside diphosphate kinase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00797	CDS	174				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00798	CDS	288				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00799	CDS	234	rpsR			30S ribosomal protein S18
+Natronincolaceae_metaspades_Bin_2_1-contigs_00800	CDS	432				Single-stranded DNA-binding protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00801	CDS	279	rpsF		COG0360	30S ribosomal protein S6
+Natronincolaceae_metaspades_Bin_2_1-contigs_00802	CDS	549	chrA			Chromate transport protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00803	CDS	522				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00804	CDS	1272	clpX		COG1219	ATP-dependent Clp protease ATP-binding subunit ClpX
+Natronincolaceae_metaspades_Bin_2_1-contigs_00805	CDS	585	clpP	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+Natronincolaceae_metaspades_Bin_2_1-contigs_00806	CDS	1287	tig	5.2.1.8	COG0544	Trigger factor
+Natronincolaceae_metaspades_Bin_2_1-contigs_00807	CDS	1161				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00808	CDS	354				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00809	CDS	174				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00810	CDS	990	ccpA		COG1609	Catabolite control protein A
+Natronincolaceae_metaspades_Bin_2_1-contigs_00811	CDS	1431				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00812	CDS	846	moaA_2			GTP 3',8-cyclase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00813	CDS	738	glpQ	3.1.4.46	COG0584	Glycerophosphodiester phosphodiesterase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00814	CDS	852	rsmI	2.1.1.198	COG0313	Ribosomal RNA small subunit methyltransferase I
+Natronincolaceae_metaspades_Bin_2_1-contigs_00815	CDS	4440				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00816	CDS	735				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00817	CDS	1509				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00818	CDS	1023				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00819	CDS	183				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00820	CDS	648	yigZ		COG1739	IMPACT family member YigZ
+Natronincolaceae_metaspades_Bin_2_1-contigs_00821	CDS	807				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00822	CDS	687		7.6.2.-	COG1131	Multidrug efflux system ATP-binding protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00823	CDS	456				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00824	CDS	1731				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00825	CDS	954				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00826	CDS	741				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00827	CDS	738	sigI			RNA polymerase sigma factor SigI
+Natronincolaceae_metaspades_Bin_2_1-contigs_00828	CDS	5310				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00829	CDS	1455	ybiT_2		COG0488	putative ABC transporter ATP-binding protein YbiT
+Natronincolaceae_metaspades_Bin_2_1-contigs_00830	CDS	303				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00831	CDS	1695	appA_2			Oligopeptide-binding protein AppA
+Natronincolaceae_metaspades_Bin_2_1-contigs_00832	CDS	963	dppB_2		COG0601	Dipeptide transport system permease protein DppB
+Natronincolaceae_metaspades_Bin_2_1-contigs_00833	CDS	915	dppC		COG1173	Dipeptide transport system permease protein DppC
+Natronincolaceae_metaspades_Bin_2_1-contigs_00834	CDS	327	cas2	3.1.-.-	COG1343	CRISPR-associated endoribonuclease Cas2
+Natronincolaceae_metaspades_Bin_2_1-contigs_00835	CDS	1005	cas1	3.1.-.-	COG1518	CRISPR-associated endonuclease Cas1
+Natronincolaceae_metaspades_Bin_2_1-contigs_00836	CDS	1302				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00837	CDS	732	cas6	3.1.-.-	COG5551	CRISPR-associated endoribonuclease Cas6
+Natronincolaceae_metaspades_Bin_2_1-contigs_00838	CDS	1125				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00839	CDS	1065	csm4		COG1567	CRISPR system Cms protein Csm4
+Natronincolaceae_metaspades_Bin_2_1-contigs_00840	CDS	690	csm3	3.1.-.-	COG1337	CRISPR system Cms endoribonuclease Csm3
+Natronincolaceae_metaspades_Bin_2_1-contigs_00841	CDS	384				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00842	CDS	2445		3.1.-.-	COG1353	CRISPR system single-strand-specific deoxyribonuclease Cas10/Csm1 (subtype III-A)
+Natronincolaceae_metaspades_Bin_2_1-contigs_00843	CDS	471				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00844	CDS	177				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00845	CDS	1023	hutU	4.2.1.49	COG2987	Urocanate hydratase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00846	CDS	897		2.1.2.5	COG3643	Glutamate formimidoyltransferase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00847	CDS	1266	hutI_1	3.5.2.7	COG1228	Imidazolonepropionase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00848	CDS	717	bchB	1.3.7.7		Light-independent protochlorophyllide reductase subunit B
+Natronincolaceae_metaspades_Bin_2_1-contigs_00849	CDS	1188			COG0614	putative protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00850	CDS	1074			COG0609	putative ABC transporter permease protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00851	CDS	1161			COG0614	putative protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00852	CDS	1035				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00853	CDS	768	ssuC		COG0600	Putative aliphatic sulfonates transport permease protein SsuC
+Natronincolaceae_metaspades_Bin_2_1-contigs_00854	CDS	708	nrtD	7.3.2.4	COG1116	Nitrate import ATP-binding protein NrtD
+	repeat_region	175				
+Natronincolaceae_metaspades_Bin_2_1-contigs_00855	CDS	1065	hmuU_2		COG0609	Hemin transport system permease protein HmuU
+Natronincolaceae_metaspades_Bin_2_1-contigs_00856	CDS	1251				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00857	CDS	696	ureG			Urease accessory protein UreG
+Natronincolaceae_metaspades_Bin_2_1-contigs_00858	CDS	1023				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00859	CDS	651				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00860	CDS	702				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00861	CDS	759				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00862	CDS	888				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00863	CDS	618	ykoE		COG4721	Putative HMP/thiamine permease protein YkoE
+Natronincolaceae_metaspades_Bin_2_1-contigs_00864	CDS	552				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00865	CDS	387	nadE_1	6.3.5.1		Glutamine-dependent NAD(+) synthetase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00866	CDS	558				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00867	CDS	387				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00868	CDS	237				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00869	CDS	912				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00870	CDS	252				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00871	CDS	279	rnfB	7.2.1.2	COG2878	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit B
+Natronincolaceae_metaspades_Bin_2_1-contigs_00872	CDS	549				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00873	CDS	1332	adeP		COG2252	Adenine permease AdeP
+Natronincolaceae_metaspades_Bin_2_1-contigs_00874	CDS	765	guaA_1	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+Natronincolaceae_metaspades_Bin_2_1-contigs_00875	CDS	792	guaA_2	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+Natronincolaceae_metaspades_Bin_2_1-contigs_00876	CDS	1608	spoVB		COG2244	Stage V sporulation protein B
+Natronincolaceae_metaspades_Bin_2_1-contigs_00877	CDS	549	spoVT		COG2002	Stage V sporulation protein T
+Natronincolaceae_metaspades_Bin_2_1-contigs_00878	CDS	960	prsA	5.2.1.8		Foldase protein PrsA
+Natronincolaceae_metaspades_Bin_2_1-contigs_00879	CDS	3510	mfd	3.6.4.-		Transcription-repair-coupling factor
+Natronincolaceae_metaspades_Bin_2_1-contigs_00880	CDS	552				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00881	CDS	255				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00882	CDS	2631	alaS	6.1.1.7		Alanine--tRNA ligase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00883	CDS	432	yhhT		COG0628	Putative transport protein YhhT
+Natronincolaceae_metaspades_Bin_2_1-contigs_00884	CDS	360	rplL			50S ribosomal protein L7/L12
+Natronincolaceae_metaspades_Bin_2_1-contigs_00885	CDS	507	rplJ		COG0244	50S ribosomal protein L10
+Natronincolaceae_metaspades_Bin_2_1-contigs_00886	CDS	702	rplA			50S ribosomal protein L1
+Natronincolaceae_metaspades_Bin_2_1-contigs_00887	CDS	426	rplK		COG0080	50S ribosomal protein L11
+Natronincolaceae_metaspades_Bin_2_1-contigs_00888	CDS	519	nusG		COG0250	Transcription termination/antitermination protein NusG
+Natronincolaceae_metaspades_Bin_2_1-contigs_00889	CDS	216	secE			Protein translocase subunit SecE
+Natronincolaceae_metaspades_Bin_2_1-contigs_00890	CDS	150	rpmG2			50S ribosomal protein L33 2
+Natronincolaceae_metaspades_Bin_2_1-contigs_00891	CDS	1890	glgB	2.4.1.18		1,4-alpha-glucan branching enzyme GlgB
+Natronincolaceae_metaspades_Bin_2_1-contigs_00892	CDS	873	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+Natronincolaceae_metaspades_Bin_2_1-contigs_00893	CDS	582	pdxT	4.3.3.6		Pyridoxal 5'-phosphate synthase subunit PdxT
+Natronincolaceae_metaspades_Bin_2_1-contigs_00894	CDS	702				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00895	CDS	777	sigA		COG0568	RNA polymerase sigma factor SigA
+Natronincolaceae_metaspades_Bin_2_1-contigs_00896	CDS	471	msrAB		COG0225	Peptide methionine sulfoxide reductase MsrA/MsrB
+Natronincolaceae_metaspades_Bin_2_1-contigs_00897	CDS	300				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00898	CDS	693	dipZ		COG0785	Protein DipZ
+Natronincolaceae_metaspades_Bin_2_1-contigs_00899	CDS	861				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00900	CDS	186				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00901	CDS	108				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00902	CDS	138				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00903	CDS	507				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00904	CDS	1284	chuW	2.1.1.342		Anaerobilin synthase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00905	CDS	816	fpuC	7.2.2.-	COG1120	Petrobactin import ATP-binding protein FpuC
+Natronincolaceae_metaspades_Bin_2_1-contigs_00906	CDS	1032	hmuU_3		COG0609	Hemin transport system permease protein HmuU
+Natronincolaceae_metaspades_Bin_2_1-contigs_00907	CDS	1029				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00908	CDS	378				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00909	CDS	696				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00910	CDS	1098				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00911	CDS	1524				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00912	CDS	1035	yqeN		COG1466	putative protein YqeN
+Natronincolaceae_metaspades_Bin_2_1-contigs_00913	CDS	264	rpsT		COG0268	30S ribosomal protein S20
+Natronincolaceae_metaspades_Bin_2_1-contigs_00914	CDS	357				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00915	CDS	261				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00916	CDS	1809	lepA	3.6.5.-	COG0481	Elongation factor 4
+Natronincolaceae_metaspades_Bin_2_1-contigs_00917	CDS	606				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00918	CDS	258				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00919	CDS	378				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00920	CDS	1104				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00921	CDS	2751	recF_1			DNA replication and repair protein RecF
+Natronincolaceae_metaspades_Bin_2_1-contigs_00922	CDS	288				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00923	CDS	828	cdaA	2.7.7.85	COG1624	Cyclic di-AMP synthase CdaA
+Natronincolaceae_metaspades_Bin_2_1-contigs_00924	CDS	1257				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00925	CDS	1719	norR_2			Anaerobic nitric oxide reductase transcription regulator NorR
+Natronincolaceae_metaspades_Bin_2_1-contigs_00926	CDS	723	buk2_1	2.7.2.7	COG3426	Butyrate kinase 2
+Natronincolaceae_metaspades_Bin_2_1-contigs_00927	CDS	174	buk2_2	2.7.2.7	COG3426	putative butyrate kinase 2
+Natronincolaceae_metaspades_Bin_2_1-contigs_00928	CDS	189	buk2_3	2.7.2.7	COG3426	Butyrate kinase 2
+Natronincolaceae_metaspades_Bin_2_1-contigs_00929	CDS	912	pta	2.3.1.8	COG0280	Phosphate acetyltransferase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00930	CDS	1077	buk2_4	2.7.2.7	COG3426	Butyrate kinase 2
+Natronincolaceae_metaspades_Bin_2_1-contigs_00931	CDS	1029	hrcA		COG1420	Heat-inducible transcription repressor HrcA
+Natronincolaceae_metaspades_Bin_2_1-contigs_00932	CDS	645	grpE			Protein GrpE
+Natronincolaceae_metaspades_Bin_2_1-contigs_00933	CDS	1848	dnaK		COG0443	Chaperone protein DnaK
+Natronincolaceae_metaspades_Bin_2_1-contigs_00934	CDS	1128	dnaJ		COG0484	Chaperone protein DnaJ
+Natronincolaceae_metaspades_Bin_2_1-contigs_00935	CDS	948	prmA	2.1.1.-	COG2264	Ribosomal protein L11 methyltransferase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00936	CDS	1305	mtaB	2.8.4.5	COG0621	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB
+Natronincolaceae_metaspades_Bin_2_1-contigs_00937	CDS	345		3.9.1.-	COG0537	Purine nucleoside phosphoramidase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00938	CDS	108				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00939	CDS	180				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00940	CDS	231				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00941	CDS	618		3.1.3.-	COG5663	Nucleotidase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00942	CDS	183	rpsU		COG0828	30S ribosomal protein S21
+Natronincolaceae_metaspades_Bin_2_1-contigs_00943	CDS	447	yqeY		COG1610	putative protein YqeY
+Natronincolaceae_metaspades_Bin_2_1-contigs_00944	CDS	1278				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00945	CDS	969				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00946	CDS	582				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00947	CDS	1374				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00948	CDS	1296				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00949	CDS	165				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00950	CDS	288				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00951	CDS	477				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00952	CDS	186	baiN_1	1.3.1.114	COG2081	3-dehydro-bile acid delta(4,6)-reductase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00953	CDS	1230	glyA	2.1.2.1	COG0112	Serine hydroxymethyltransferase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00954	CDS	168				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00955	CDS	318				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00956	CDS	144				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00957	CDS	1050	ord	1.4.1.12	COG3804	2,4-diaminopentanoate dehydrogenase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00958	CDS	312	ortA	2.3.1.263		2-amino-4-ketopentanoate thiolase alpha subunit
+Natronincolaceae_metaspades_Bin_2_1-contigs_00959	CDS	1416	ortB	2.3.1.263		2-amino-4-ketopentanoate thiolase beta subunit
+Natronincolaceae_metaspades_Bin_2_1-contigs_00960	CDS	366	oraS	5.4.3.5		D-ornithine 4,5-aminomutase subunit alpha
+Natronincolaceae_metaspades_Bin_2_1-contigs_00961	CDS	930	baiN_2	1.3.1.114	COG2081	3-dehydro-bile acid delta(4,6)-reductase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00962	CDS	1095				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00963	CDS	1290				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00964	CDS	4908	nadD_2	2.7.7.18		nicotinate-nucleotide adenylyltransferase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00965	CDS	138				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00966	CDS	789				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00967	CDS	561				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00968	CDS	2346				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00969	CDS	633				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00970	CDS	444				Flavodoxin
+Natronincolaceae_metaspades_Bin_2_1-contigs_00971	CDS	1344				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00972	CDS	543	yajL	3.1.2.-	COG0693	Protein/nucleic acid deglycase 3
+Natronincolaceae_metaspades_Bin_2_1-contigs_00973	CDS	393				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00974	CDS	678	nth	4.2.99.18	COG0177	Endonuclease III
+Natronincolaceae_metaspades_Bin_2_1-contigs_00975	CDS	2049	ftsA			Cell division protein FtsA
+Natronincolaceae_metaspades_Bin_2_1-contigs_00976	CDS	1410	nhaC		COG1757	Na(+)/H(+) antiporter NhaC
+Natronincolaceae_metaspades_Bin_2_1-contigs_00977	CDS	3471	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+Natronincolaceae_metaspades_Bin_2_1-contigs_00978	CDS	192				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00979	CDS	960	pfkA	2.7.1.11		ATP-dependent 6-phosphofructokinase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00980	CDS	1755	pyk	2.7.1.40		Pyruvate kinase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00981	CDS	669	ung	3.2.2.27	COG0692	Uracil-DNA glycosylase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00982	CDS	396				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00983	CDS	1011				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00984	CDS	1329				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00985	CDS	1359	rlmCD	2.1.1.189	COG2265	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+Natronincolaceae_metaspades_Bin_2_1-contigs_00986	CDS	597				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00987	CDS	585				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00988	CDS	3642				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00989	CDS	237				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00990	CDS	636				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00991	CDS	3465				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00992	CDS	2514				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00993	CDS	2070				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00994	CDS	378				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00995	CDS	1572	hutI_2	3.5.2.7		Imidazolonepropionase
+Natronincolaceae_metaspades_Bin_2_1-contigs_00996	CDS	984	lplA	6.3.1.20	COG0095	Lipoate-protein ligase A
+Natronincolaceae_metaspades_Bin_2_1-contigs_00997	CDS	1086	pdhA	1.2.4.1		Pyruvate dehydrogenase E1 component subunit alpha
+Natronincolaceae_metaspades_Bin_2_1-contigs_00998	CDS	429				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_00999	CDS	687				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_01000	CDS	1695	ruvB_2	3.6.4.12		Holliday junction ATP-dependent DNA helicase RuvB
+Natronincolaceae_metaspades_Bin_2_1-contigs_01001	CDS	345			COG0718	Nucleoid-associated protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_01002	CDS	600	recR		COG0353	Recombination protein RecR
+Natronincolaceae_metaspades_Bin_2_1-contigs_01003	CDS	132				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_01004	CDS	834	mneS		COG0053	Manganese efflux system protein MneS
+Natronincolaceae_metaspades_Bin_2_1-contigs_01005	CDS	1107	carA	2.8.3.23	COG4670	Caffeate CoA-transferase
+Natronincolaceae_metaspades_Bin_2_1-contigs_01006	CDS	1284				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_01007	CDS	741	fabG2	1.-.-.-		putative oxidoreductase
+Natronincolaceae_metaspades_Bin_2_1-contigs_01008	CDS	417	phaJ	4.2.1.119	COG2030	(R)-specific enoyl-CoA hydratase
+Natronincolaceae_metaspades_Bin_2_1-contigs_01009	CDS	1140	bcd	1.3.8.1	COG1960	Acyl-CoA dehydrogenase, short-chain specific
+Natronincolaceae_metaspades_Bin_2_1-contigs_01010	CDS	783	carD_2	1.3.1.108	COG2086	Caffeyl-CoA reductase-Etf complex subunit CarD
+Natronincolaceae_metaspades_Bin_2_1-contigs_01011	CDS	1017	carE	1.3.1.108	COG2025	Caffeyl-CoA reductase-Etf complex subunit CarE
+Natronincolaceae_metaspades_Bin_2_1-contigs_01012	CDS	771	coaX	2.7.1.33	COG1521	Type III pantothenate kinase
+Natronincolaceae_metaspades_Bin_2_1-contigs_01013	CDS	987	dusB	1.3.1.-	COG0042	tRNA-dihydrouridine synthase B
+Natronincolaceae_metaspades_Bin_2_1-contigs_01014	CDS	477	greA		COG0782	Transcription elongation factor GreA
+Natronincolaceae_metaspades_Bin_2_1-contigs_01015	CDS	951	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+Natronincolaceae_metaspades_Bin_2_1-contigs_01016	CDS	1377	glmU		COG1207	Bifunctional protein GlmU
+Natronincolaceae_metaspades_Bin_2_1-contigs_01017	CDS	309	spoVG		COG2088	Putative septation protein SpoVG
+Natronincolaceae_metaspades_Bin_2_1-contigs_01018	CDS	828	purR		COG0503	Pur operon repressor
+Natronincolaceae_metaspades_Bin_2_1-contigs_01019	CDS	1068				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_01020	CDS	1218	cadA_1	3.6.3.3		Cadmium-transporting ATPase
+Natronincolaceae_metaspades_Bin_2_1-contigs_01021	CDS	933	cadA_2	3.6.3.3		putative cadmium-transporting ATPase
+Natronincolaceae_metaspades_Bin_2_1-contigs_01022	CDS	357	ziaR			Transcriptional repressor SmtB 
+Natronincolaceae_metaspades_Bin_2_1-contigs_01023	CDS	1695	glnS	6.1.1.18	COG0008	Glutamine--tRNA ligase
+Natronincolaceae_metaspades_Bin_2_1-contigs_01024	CDS	651	drdA	4.1.2.-		5-deoxy-D-ribulose 1-phosphate aldolase
+Natronincolaceae_metaspades_Bin_2_1-contigs_01025	CDS	774		2.4.2.44	COG0005	S-methyl-5'-thioinosine phosphorylase
+Natronincolaceae_metaspades_Bin_2_1-contigs_01026	CDS	1041	mtnA	5.3.1.23	COG0182	Methylthioribose-1-phosphate isomerase
+Natronincolaceae_metaspades_Bin_2_1-contigs_01027	CDS	1287	mtaD	3.5.4.28	COG0402	5-methylthioadenosine/S-adenosylhomocysteine deaminase
+Natronincolaceae_metaspades_Bin_2_1-contigs_01028	CDS	1149				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_01029	CDS	246				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_01030	CDS	654				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_01031	CDS	300	yhbY		COG1534	RNA-binding protein YhbY
+Natronincolaceae_metaspades_Bin_2_1-contigs_01032	CDS	1311	obg	3.6.5.-	COG0536	GTPase Obg
+Natronincolaceae_metaspades_Bin_2_1-contigs_01033	tRNA	87				tRNA-Leu(gag)
+Natronincolaceae_metaspades_Bin_2_1-contigs_01034	CDS	135				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_01035	CDS	126				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_01036	CDS	726				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_01037	CDS	336				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_01038	CDS	432	spoIIAB	2.7.11.1		Anti-sigma F factor
+Natronincolaceae_metaspades_Bin_2_1-contigs_01039	CDS	216				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_01040	CDS	930	glpK	2.7.1.30	COG0554	Glycerol kinase
+Natronincolaceae_metaspades_Bin_2_1-contigs_01041	CDS	582				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_01042	CDS	2649	mutS		COG0249	DNA mismatch repair protein MutS
+Natronincolaceae_metaspades_Bin_2_1-contigs_01043	CDS	561	tag	3.2.2.20	COG2818	DNA-3-methyladenine glycosylase 1
+Natronincolaceae_metaspades_Bin_2_1-contigs_01044	CDS	318				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_01045	CDS	258				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_01046	CDS	1056	mutL			DNA mismatch repair protein MutL
+Natronincolaceae_metaspades_Bin_2_1-contigs_01047	CDS	237	hfq		COG1923	RNA-binding protein Hfq
+Natronincolaceae_metaspades_Bin_2_1-contigs_01048	CDS	1269				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_01049	CDS	630	lexA	3.4.21.88	COG1974	LexA repressor
+Natronincolaceae_metaspades_Bin_2_1-contigs_01050	CDS	891	xerC			Tyrosine recombinase XerC
+Natronincolaceae_metaspades_Bin_2_1-contigs_01051	CDS	1038				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_01052	CDS	996				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_01053	CDS	207				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_01054	CDS	513	hisC	2.6.1.9		Histidinol-phosphate aminotransferase
+Natronincolaceae_metaspades_Bin_2_1-contigs_01055	CDS	96				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_01056	CDS	615				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_01057	CDS	843	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+Natronincolaceae_metaspades_Bin_2_1-contigs_01058	CDS	300				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_01059	CDS	957	glcK	2.7.1.2	COG1940	Glucokinase
+Natronincolaceae_metaspades_Bin_2_1-contigs_01060	CDS	927	hprK	2.7.11.-	COG1493	HPr kinase/phosphorylase
+Natronincolaceae_metaspades_Bin_2_1-contigs_01061	CDS	231				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_01062	CDS	282	rpmA			50S ribosomal protein L27
+Natronincolaceae_metaspades_Bin_2_1-contigs_01063	CDS	336				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_01064	CDS	312	rplU		COG0261	50S ribosomal protein L21
+Natronincolaceae_metaspades_Bin_2_1-contigs_01065	CDS	1458	rng	3.1.26.-	COG1530	Ribonuclease G
+Natronincolaceae_metaspades_Bin_2_1-contigs_01066	CDS	729				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_01067	CDS	1836				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_01068	CDS	336				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_01069	CDS	741				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_01070	CDS	186				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_01071	CDS	603				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_01072	CDS	417				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_01073	CDS	339				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_01074	CDS	453	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+Natronincolaceae_metaspades_Bin_2_1-contigs_01075	CDS	714	tsaB		COG1214	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+Natronincolaceae_metaspades_Bin_2_1-contigs_01076	CDS	1035	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+Natronincolaceae_metaspades_Bin_2_1-contigs_01077	CDS	585	bioY		COG1268	Biotin transporter BioY
+Natronincolaceae_metaspades_Bin_2_1-contigs_01078	CDS	1920	ettA		COG0488	Energy-dependent translational throttle protein EttA
+Natronincolaceae_metaspades_Bin_2_1-contigs_01079	CDS	642	rex1		COG2344	Redox-sensing transcriptional repressor Rex 1
+Natronincolaceae_metaspades_Bin_2_1-contigs_01080	CDS	435				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_01081	CDS	171			COG1145	Ferredoxin
+Natronincolaceae_metaspades_Bin_2_1-contigs_01082	CDS	819				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_01083	CDS	1254		1.4.1.2		NAD-specific glutamate dehydrogenase
+Natronincolaceae_metaspades_Bin_2_1-contigs_01084	CDS	762				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_01085	CDS	267				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_01086	CDS	348				putative protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_01087	CDS	426	nusB		COG0781	Transcription antitermination protein NusB
+Natronincolaceae_metaspades_Bin_2_1-contigs_01088	CDS	852	folD		COG0190	Bifunctional protein FolD protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_01089	CDS	1212	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+Natronincolaceae_metaspades_Bin_2_1-contigs_01090	CDS	237	xseB	3.1.11.6		Exodeoxyribonuclease 7 small subunit
+Natronincolaceae_metaspades_Bin_2_1-contigs_01091	CDS	912		2.5.1.10		Farnesyl diphosphate synthase
+Natronincolaceae_metaspades_Bin_2_1-contigs_01092	CDS	450				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_01093	CDS	924	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+Natronincolaceae_metaspades_Bin_2_1-contigs_01094	CDS	1299	pyrC	3.5.2.3	COG0044	Dihydroorotase
+Natronincolaceae_metaspades_Bin_2_1-contigs_01095	CDS	333				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_01096	CDS	240				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_01097	CDS	2634	mtgA	2.4.1.129		Biosynthetic peptidoglycan transglycosylase
+Natronincolaceae_metaspades_Bin_2_1-contigs_01098	CDS	1215	tyrS	6.1.1.1	COG0162	Tyrosine--tRNA ligase
+Natronincolaceae_metaspades_Bin_2_1-contigs_01099	CDS	462	yunB			Sporulation protein YunB
+Natronincolaceae_metaspades_Bin_2_1-contigs_01100	CDS	1260	hflX		COG2262	GTPase HflX
+Natronincolaceae_metaspades_Bin_2_1-contigs_01101	CDS	441				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_01102	CDS	393	yccU		COG1832	putative protein YccU
+Natronincolaceae_metaspades_Bin_2_1-contigs_01103	CDS	789	nadE_2	6.3.1.5	COG0171	NH(3)-dependent NAD(+) synthetase
+Natronincolaceae_metaspades_Bin_2_1-contigs_01104	CDS	714	pmpR		COG0217	Transcriptional regulatory protein PmpR
+Natronincolaceae_metaspades_Bin_2_1-contigs_01105	CDS	1125	yhgF		COG2183	Protein YhgF
+Natronincolaceae_metaspades_Bin_2_1-contigs_01106	CDS	459				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_01107	CDS	483				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_01108	CDS	1086				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_01109	CDS	732	tagA	2.4.1.187	COG1922	N-acetylglucosaminyldiphosphoundecaprenol N-acetyl-beta-D-mannosaminyltransferase
+Natronincolaceae_metaspades_Bin_2_1-contigs_01110	CDS	864				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_01111	CDS	819	aptA	2.2.1.-	COG3959	Apulose-4-phosphate transketolase subunit A
+Natronincolaceae_metaspades_Bin_2_1-contigs_01112	CDS	942	aptB	2.2.1.-	COG3958	Apulose-4-phosphate transketolase subunit B
+Natronincolaceae_metaspades_Bin_2_1-contigs_01113	CDS	231				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_01114	CDS	627				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_01115	CDS	1332	rsmB	2.1.1.176	COG0144	Ribosomal RNA small subunit methyltransferase B
+Natronincolaceae_metaspades_Bin_2_1-contigs_01116	CDS	1050	rlmN	2.1.1.192		putative dual-specificity RNA methyltransferase RlmN
+Natronincolaceae_metaspades_Bin_2_1-contigs_01117	CDS	726	prpC	3.1.3.16	COG0631	Protein phosphatase PrpC
+Natronincolaceae_metaspades_Bin_2_1-contigs_01118	CDS	1911	prkC	2.7.11.1	COG0515	Serine/threonine-protein kinase PrkC
+Natronincolaceae_metaspades_Bin_2_1-contigs_01119	CDS	882	rsgA	3.6.1.-	COG1162	Small ribosomal subunit biogenesis GTPase RsgA
+Natronincolaceae_metaspades_Bin_2_1-contigs_01120	CDS	648	rpe	5.1.3.1		Ribulose-phosphate 3-epimerase
+Natronincolaceae_metaspades_Bin_2_1-contigs_01121	CDS	636	thiN	2.7.6.2	COG1564	Thiamine pyrophosphokinase
+Natronincolaceae_metaspades_Bin_2_1-contigs_01122	CDS	192	rpmB		COG0227	50S ribosomal protein L28
+Natronincolaceae_metaspades_Bin_2_1-contigs_01123	CDS	426				putative protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_01124	CDS	1611				putative protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_01125	CDS	2049	recG	3.6.4.12		ATP-dependent DNA helicase RecG
+Natronincolaceae_metaspades_Bin_2_1-contigs_01126	CDS	273				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_01127	CDS	273				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_01128	CDS	306				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_01129	CDS	561	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+Natronincolaceae_metaspades_Bin_2_1-contigs_01130	CDS	495	coaD	2.7.7.3	COG0669	Phosphopantetheine adenylyltransferase
+Natronincolaceae_metaspades_Bin_2_1-contigs_01131	CDS	447			COG3599	putative protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_01132	CDS	2427	gyrA	5.6.2.2	COG0188	DNA gyrase subunit A
+Natronincolaceae_metaspades_Bin_2_1-contigs_01133	CDS	1911	gyrB	5.6.2.2	COG0187	DNA gyrase subunit B
+Natronincolaceae_metaspades_Bin_2_1-contigs_01134	CDS	1101	recF_2		COG1195	DNA replication and repair protein RecF
+Natronincolaceae_metaspades_Bin_2_1-contigs_01135	CDS	207				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_01136	CDS	1107	dnaN		COG0592	Beta sliding clamp
+Natronincolaceae_metaspades_Bin_2_1-contigs_01137	CDS	1350	dnaA_2		COG0593	Chromosomal replication initiator protein DnaA
+Natronincolaceae_metaspades_Bin_2_1-contigs_01138	CDS	135	rpmH		COG0230	50S ribosomal protein L34
+Natronincolaceae_metaspades_Bin_2_1-contigs_01139	CDS	336	rnpA	3.1.26.5	COG0594	Ribonuclease P protein component
+Natronincolaceae_metaspades_Bin_2_1-contigs_01140	CDS	222	yidD		COG0759	Putative membrane protein insertion efficiency factor
+Natronincolaceae_metaspades_Bin_2_1-contigs_01141	CDS	669	yidC2		COG0706	Membrane protein insertase YidC 2
+Natronincolaceae_metaspades_Bin_2_1-contigs_01142	CDS	621				hypothetical protein
+Natronincolaceae_metaspades_Bin_2_1-contigs_01143	CDS	1386	mnmE	3.6.-.-	COG0486	tRNA modification GTPase MnmE
+Natronincolaceae_metaspades_Bin_2_1-contigs_01144	CDS	1884	mnmG			tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG

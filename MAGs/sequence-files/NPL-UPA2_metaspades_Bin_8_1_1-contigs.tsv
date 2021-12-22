@@ -1,0 +1,735 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00001	CDS	1116	ribD		COG0117	Riboflavin biosynthesis protein RibD
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00002	CDS	645	ribE	2.5.1.9	COG0307	Riboflavin synthase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00003	CDS	1203	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00004	CDS	1254	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00005	CDS	1305	aspS2	6.1.1.23	COG0017	Aspartate--tRNA(Asp/Asn) ligase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00006	CDS	978			COG1702	PhoH-like protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00007	CDS	396	rpsK			30S ribosomal protein S11
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00008	CDS	369	rpsM		COG0099	30S ribosomal protein S13
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00009	CDS	114	rpmJ		COG0257	50S ribosomal protein L36
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00010	CDS	219	infA		COG0361	Translation initiation factor IF-1
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00011	CDS	747	map	3.4.11.18	COG0024	Methionine aminopeptidase 1
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00012	CDS	654	adk	2.7.4.3		Adenylate kinase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00013	CDS	372	secY		COG0201	Protein translocase subunit SecY
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00014	CDS	444				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00015	CDS	240				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00016	CDS	117				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00017	CDS	1266				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00018	CDS	747	cysE	2.3.1.30		Serine acetyltransferase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00019	CDS	474	ywlE	3.9.1.2	COG0394	Protein-arginine-phosphatase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00020	CDS	450	ywlF	5.3.1.-	COG0698	Putative sugar phosphate isomerase YwlF
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00021	CDS	444				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00022	CDS	1245	glyA	2.1.2.1	COG0112	Serine hydroxymethyltransferase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00023	CDS	495				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00024	CDS	450	nrdR		COG1327	Transcriptional repressor NrdR
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00025	CDS	2418	nrdD	1.1.98.6	COG1328	Anaerobic ribonucleoside-triphosphate reductase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00026	CDS	282				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00027	CDS	726	queE_1	4.3.99.3		7-carboxy-7-deazaguanine synthase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00028	CDS	555				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00029	CDS	1281	mggS	2.4.1.-		Mannosylglucosylglycerate synthase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00030	CDS	771	kdsB	2.7.7.38	COG1212	3-deoxy-manno-octulosonate cytidylyltransferase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00031	CDS	945				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00032	CDS	939	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00033	CDS	102				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00034	CDS	534	def	3.5.1.88	COG0242	Peptide deformylase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00035	CDS	753				putative ABC transporter ATP-binding protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00036	CDS	1224				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00037	CDS	534	hrb		COG1773	High molecular weight rubredoxin
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00038	CDS	990	ilvC	1.1.1.382		Ketol-acid reductoisomerase (NAD(+))
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00039	CDS	1521	leuA	2.3.3.13	COG0119	2-isopropylmalate synthase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00040	CDS	690				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00041	CDS	468	phoU		COG0704	Phosphate-specific transport system accessory protein PhoU 
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00042	CDS	177				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00043	tRNA	75				tRNA-Phe(gaa)
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00044	tRNA	73				tRNA-Thr(cgt)
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00045	CDS	291				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00046	CDS	1266	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00047	CDS	249	ydiB	1.1.1.282	COG0169	Quinate/shikimate dehydrogenase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00048	CDS	837	comC			Type 4 prepilin-like proteins leader peptide-processing enzyme
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00049	CDS	1185	aroC	4.2.3.5	COG0082	Chorismate synthase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00050	CDS	510	aroK	2.7.1.71	COG0703	Shikimate kinase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00051	CDS	534				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00052	tRNA	76				tRNA-Arg(tct)
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00053	CDS	1251				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00054	CDS	537	cobO	2.5.1.17		Corrinoid adenosyltransferase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00055	CDS	1467	gltX1	6.1.1.17	COG0008	Glutamate--tRNA ligase 1
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00056	CDS	1161	larC	4.99.1.12		Pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel insertion protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00057	CDS	1017	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00058	CDS	1224	ctpB	3.4.21.102	COG0793	Carboxy-terminal processing protease CtpB
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00059	CDS	618				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00060	CDS	1335				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00061	CDS	318				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00062	CDS	1134	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00063	CDS	648				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00064	CDS	1131	lpxK	2.7.1.130	COG1663	Tetraacyldisaccharide 4'-kinase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00065	CDS	468				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00066	CDS	996	trpS	6.1.1.2	COG0180	Tryptophan--tRNA ligase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00067	CDS	762	scpA		COG1354	Segregation and condensation protein A
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00068	CDS	573	scpB			Segregation and condensation protein B
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00069	CDS	1110	pheA			Bifunctional chorismate mutase/prephenate dehydratase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00070	CDS	1086	hisC	2.6.1.9	COG0079	Histidinol-phosphate aminotransferase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00071	CDS	474				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00072	CDS	423				Single-stranded DNA-binding protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00073	CDS	270				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00074	CDS	444	rplI		COG0359	50S ribosomal protein L9
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00075	CDS	1365	dnaC	3.6.4.12	COG0305	Replicative DNA helicase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00076	CDS	783	mlaE		COG0767	Intermembrane phospholipid transport system permease protein MlaE
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00077	CDS	744	mkl		COG1127	putative ribonucleotide transport ATP-binding protein mkl
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00078	CDS	858				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00079	CDS	1362	radA	3.6.4.-	COG1066	DNA repair protein RadA
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00080	CDS	3120				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00081	CDS	543	rsxG	7.-.-.-		Ion-translocating oxidoreductase complex subunit G
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00082	CDS	753	recO		COG1381	DNA repair protein RecO
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00083	CDS	966	thiL_1	2.7.4.16	COG0611	Thiamine-monophosphate kinase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00084	CDS	822	dnaJ			Chaperone protein DnaJ
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00085	CDS	567	mtnA	5.3.1.23	COG0182	Methylthioribose-1-phosphate isomerase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00086	CDS	255				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00087	tRNA	76				tRNA-Asn(gtt)
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00088	CDS	345	recR		COG0353	Recombination protein RecR
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00089	CDS	873	ilvE	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00090	CDS	1821	uvrC		COG0322	UvrABC system protein C
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00091	CDS	306	ogt	2.1.1.63	COG0350	Methylated-DNA--protein-cysteine methyltransferase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00092	CDS	150				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00093	CDS	1596	pyrG	6.3.4.2		CTP synthase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00094	CDS	831				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00095	CDS	384				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00096	CDS	120				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00097	CDS	2046	recG	3.6.4.12		ATP-dependent DNA helicase RecG
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00098	CDS	681	rplY			50S ribosomal protein L25
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00099	CDS	1413	folC	6.3.2.12	COG0285	Dihydrofolate synthase/folylpolyglutamate synthase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00100	CDS	1521	murE	6.3.2.13	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00101	CDS	1374	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00102	CDS	1455	PSK	2.7.1.47	COG1070	D-ribulose kinase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00103	CDS	243				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00104	CDS	597	gmk	2.7.4.8	COG0194	Guanylate kinase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00105	CDS	723				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00106	CDS	684	murC	6.3.2.8		UDP-N-acetylmuramate--L-alanine ligase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00107	CDS	903	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00108	CDS	1284	bzaF	4.1.99.23	COG0422	5-hydroxybenzimidazole synthase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00109	CDS	900	RBKS	2.7.1.15		Ribokinase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00110	CDS	951				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00111	CDS	405				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00112	CDS	1152				Deoxyguanosinetriphosphate triphosphohydrolase-like protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00113	CDS	900	btuF		COG0614	Vitamin B12-binding protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00114	CDS	1026	hmuU		COG0609	Hemin transport system permease protein HmuU
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00115	CDS	840	yusV		COG1120	putative siderophore transport system ATP-binding protein YusV
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00116	CDS	750				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00117	CDS	2172	metE	2.1.1.14	COG0620	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00118	CDS	738	thyX	2.1.1.148		Flavin-dependent thymidylate synthase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00119	CDS	651				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00120	tRNA	73				tRNA-Arg(ccg)
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00121	CDS	738	cobS	2.7.8.26	COG0368	Adenosylcobinamide-GDP ribazoletransferase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00122	CDS	1443	rpoN		COG1508	RNA polymerase sigma-54 factor
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00123	CDS	987	nrnA	3.1.-.-	COG0618	Bifunctional oligoribonuclease and PAP phosphatase NrnA
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00124	CDS	348	rbfA			Ribosome-binding factor A
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00125	CDS	282				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00126	CDS	1932	infB			Translation initiation factor IF-2
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00127	CDS	723	nusA			Transcription termination/antitermination protein NusA
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00128	CDS	1377				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00129	CDS	1986	priA	3.6.4.-		primosomal protein N'
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00130	CDS	945		5.1.3.2	COG1088	UDP-glucose 4-epimerase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00131	CDS	948	rfbB	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00132	CDS	1002	rffG	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase 2
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00133	CDS	1299	tuaD	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase TuaD
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00134	CDS	2097	lptD			LPS-assembly protein LptD
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00135	CDS	966	glcK	2.7.1.2	COG1940	Glucokinase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00136	CDS	1248		2.3.3.3		Citrate (Re)-synthase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00137	CDS	1578	serA	1.1.1.95	COG0111	D-3-phosphoglycerate dehydrogenase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00138	CDS	678		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00139	CDS	306				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00140	CDS	231				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00141	CDS	318				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00142	CDS	399				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00143	CDS	174				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00144	CDS	678				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00145	CDS	279	mfd	3.6.4.-		Transcription-repair-coupling factor
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00146	CDS	990	prfB			Peptide chain release factor 2
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00147	CDS	966	sppA	3.4.21.-	COG0616	Putative signal peptide peptidase SppA
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00148	CDS	600				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00149	CDS	630	tmk	2.7.4.9	COG0125	Thymidylate kinase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00150	CDS	1203				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00151	CDS	894				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00152	rRNA	108				5S ribosomal RNA
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00153	CDS	318				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00154	CDS	762	lgt	2.5.1.145	COG0682	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00155	CDS	1032	hflK		COG0330	Modulator of FtsH protease HflK
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00156	CDS	813				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00157	CDS	126				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00158	CDS	165				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00159	CDS	300	zraR		COG2204	Transcriptional regulatory protein ZraR
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00160	CDS	336				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00161	CDS	726				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00162	CDS	291	lptB	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00163	CDS	465	fruA		COG1299	PTS system fructose-specific EIIABC component
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00164	CDS	279				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00165	CDS	1752	ptsI_1	2.7.3.9	COG1080	Phosphoenolpyruvate-protein phosphotransferase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00166	CDS	1062				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00167	CDS	747	cugP	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00168	CDS	1146	metK	2.5.1.6		S-adenosylmethionine synthase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00169	CDS	1257	ahcY	3.3.1.1	COG0499	Adenosylhomocysteinase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00170	CDS	543	rplE			50S ribosomal protein L5
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00171	CDS	186	rpsN1		COG0199	30S ribosomal protein S14
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00172	CDS	399	rpsH		COG0096	30S ribosomal protein S8
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00173	CDS	549	rplF			50S ribosomal protein L6
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00174	CDS	429	rplR			50S ribosomal protein L18
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00175	CDS	492	rpsE			30S ribosomal protein S5
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00176	CDS	486	rplO			50S ribosomal protein L15
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00177	CDS	231				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00178	CDS	483	clpQ	3.4.21.-	COG5405	ATP-dependent protease subunit ClpQ
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00179	CDS	2265	pflB	2.3.1.54		Formate acetyltransferase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00180	CDS	726	pflA	1.97.1.4	COG1180	Pyruvate formate-lyase 1-activating enzyme
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00181	tRNA	75				tRNA-Ala(ggc)
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00182	CDS	798	lpxI	3.6.1.54	COG3494	UDP-2,3-diacylglucosamine pyrophosphatase LpxI
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00183	CDS	795	lpxA	2.3.1.129		Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00184	CDS	1359	lpxC	3.5.1.108		UDP-3-O-acyl-N-acetylglucosamine deacetylase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00185	CDS	564				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00186	CDS	1071				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00187	CDS	210				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00188	CDS	663				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00189	CDS	651				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00190	CDS	249				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00191	CDS	396				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00192	CDS	1557	nnr		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00193	CDS	369	sipV	3.4.21.89	COG0681	Signal peptidase I V
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00194	CDS	498				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00195	CDS	546				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00196	CDS	870	speE	2.5.1.16		Polyamine aminopropyltransferase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00197	CDS	96				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00198	CDS	231				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00199	CDS	144				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00200	CDS	1053				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00201	CDS	342			COG0718	Nucleoid-associated protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00202	CDS	384	ddl	6.3.2.4		D-alanine--D-alanine ligase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00203	CDS	816	ftsQ			Cell division protein FtsQ
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00204	CDS	609				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00205	CDS	540				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00206	CDS	1143	epsF		COG1459	Type II secretion system protein F
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00207	CDS	441				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00208	CDS	921				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00209	CDS	1104				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00210	CDS	435	rplM		COG0102	50S ribosomal protein L13
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00211	CDS	309				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00212	CDS	1266				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00213	CDS	585				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00214	CDS	117				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00215	CDS	402	ptsI_2	2.7.3.9	COG1080	Phosphoenolpyruvate-protein phosphotransferase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00216	CDS	2466	leuS	6.1.1.4		Leucine--tRNA ligase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00217	CDS	591				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00218	CDS	384	iscU		COG0822	Iron-sulfur cluster assembly scaffold protein IscU
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00219	CDS	324	trxA			Thioredoxin
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00220	CDS	933	cysK1	2.5.1.47	COG0031	O-acetylserine sulfhydrylase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00221	CDS	1209				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00222	CDS	813				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00223	CDS	276	cysO		COG1977	Sulfur carrier protein CysO
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00224	CDS	225				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00225	CDS	585	bioB_1	2.8.1.6		Biotin synthase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00226	CDS	399	bioB_2	2.8.1.6		Biotin synthase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00227	CDS	1218	bioF	2.3.1.47		8-amino-7-oxononanoate synthase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00228	CDS	423	bioC	2.1.1.197		Malonyl-[acyl-carrier protein] O-methyltransferase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00229	CDS	327				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00230	CDS	219				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00231	CDS	1035				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00232	CDS	252				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00233	CDS	576	fbiB	6.3.2.34		Bifunctional F420 biosynthesis protein FbiB
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00234	CDS	516	rutB	3.5.1.110	COG1335	Peroxyureidoacrylate/ureidoacrylate amidohydrolase RutB
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00235	CDS	843				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00236	CDS	816	rplB		COG0090	50S ribosomal protein L2
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00237	CDS	285	rpsS			30S ribosomal protein S19
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00238	CDS	393	rplV		COG0091	50S ribosomal protein L22
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00239	CDS	699	rpsC		COG0092	30S ribosomal protein S3
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00240	CDS	408	rplP		COG0197	50S ribosomal protein L16
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00241	CDS	195	rpmC		COG0255	50S ribosomal protein L29
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00242	CDS	261	rpsQ		COG0186	30S ribosomal protein S17
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00243	CDS	369	rplN		COG0093	50S ribosomal protein L14
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00244	CDS	327	rplX		COG0198	50S ribosomal protein L24
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00245	CDS	804				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00246	CDS	750	uppS	2.5.1.31	COG0020	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00247	CDS	171				Ferredoxin
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00248	CDS	480	fldA		COG0655	Flavodoxin
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00249	CDS	903				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00250	CDS	453	nudC	3.6.1.22		NADH pyrophosphatase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00251	CDS	1317	hflX		COG2262	GTPase HflX
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00252	CDS	228	hfq			RNA-binding protein Hfq
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00253	CDS	942	miaA	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00254	CDS	357				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00255	CDS	621				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00256	CDS	330	cutA		COG1324	Divalent-cation tolerance protein CutA
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00257	CDS	300	hypE_1	4.2.1.-		Carbamoyl dehydratase HypE
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00258	CDS	732	hypE_2	4.2.1.-		Carbamoyl dehydratase HypE
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00259	CDS	1089	hypD		COG0409	Hydrogenase maturation factor HypD
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00260	CDS	222	hypC		COG0298	Hydrogenase maturation factor HypC
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00261	CDS	2355	hypF	6.2.-.-	COG0068	Carbamoyltransferase HypF
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00262	CDS	243	hypA			Hydrogenase maturation factor HypA
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00263	CDS	483	hycI	3.4.23.51	COG0680	Hydrogenase 3 maturation protease
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00264	CDS	513	ndhI	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00265	CDS	330	mrpG		COG1320	Na(+)/H(+) antiporter subunit G
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00266	CDS	258				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00267	CDS	489	mrpE		COG1863	Na(+)/H(+) antiporter subunit E
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00268	CDS	1533	mrpD		COG0651	Na(+)/H(+) antiporter subunit D
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00269	CDS	351	mnhC1		COG1006	Na(+)/H(+) antiporter subunit C1
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00270	CDS	513				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00271	CDS	537	mnhA1		COG1009	Na(+)/H(+) antiporter subunit A1
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00272	CDS	1929	ndhB	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00273	CDS	1398	mrpA		COG1009	Na(+)/H(+) antiporter subunit A
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00274	CDS	1179	hycE_1		COG3261	Formate hydrogenlyase subunit 5
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00275	CDS	480	hycE_2		COG3261	Formate hydrogenlyase subunit 5
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00276	CDS	474	hycG		COG3260	Formate hydrogenlyase subunit 7
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00277	CDS	1209	ilvB	2.2.1.6	COG0028	Acetolactate synthase large subunit
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00278	CDS	480	ilvH	2.2.1.6	COG0440	Acetolactate synthase small subunit
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00279	CDS	939			COG0366	Beta/alpha-amylase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00280	CDS	636	fchA	3.5.4.9	COG3404	Methenyltetrahydrofolate cyclohydrolase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00281	CDS	915	folD		COG0190	Bifunctional protein FolD protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00282	CDS	663				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00283	CDS	873	yitJ		COG0646	Bifunctional homocysteine S-methyltransferase/5,10-methylenetetrahydrofolate reductase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00284	CDS	1377	lpd	1.8.1.4	COG1249	Dihydrolipoyl dehydrogenase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00285	CDS	705				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00286	CDS	939				IS110 family transposase ISBth13
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00287	CDS	1176	epsD	2.4.-.-		Putative glycosyltransferase EpsD
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00288	CDS	615	argE	3.5.1.16	COG0624	Acetylornithine deacetylase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00289	CDS	510	ndk	2.7.4.6	COG0105	Nucleoside diphosphate kinase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00290	CDS	1269	dmdA	4.2.1.85		2,3-dimethylmalate dehydratase large subunit
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00291	CDS	759	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00292	CDS	1908				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00293	CDS	915	spo0J		COG1475	Stage 0 sporulation protein J
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00294	CDS	762	soj	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00295	CDS	462				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00296	CDS	1338				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00297	CDS	723	rsmG	2.1.1.-	COG0357	Ribosomal RNA small subunit methyltransferase G
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00298	CDS	1389	mnmE	3.6.-.-	COG0486	tRNA modification GTPase MnmE
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00299	CDS	1878	yidC			Membrane protein insertase YidC
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00300	CDS	552	rnpA	3.1.26.5		Ribonuclease P protein component
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00301	CDS	135	rpmH		COG0230	50S ribosomal protein L34
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00302	CDS	603	plsC	2.3.1.-	COG0204	1-acyl-sn-glycerol-3-phosphate acyltransferase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00303	CDS	843	ispH	1.17.7.4	COG0761	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00304	CDS	1707	rpsA		COG0539	30S ribosomal protein S1
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00305	CDS	1779	recJ	3.1.-.-	COG0608	Single-stranded-DNA-specific exonuclease RecJ
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00306	CDS	561	folE	3.5.4.16	COG0302	GTP cyclohydrolase 1
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00307	CDS	168				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00308	CDS	144				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00309	CDS	951	dapA_1	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00310	CDS	783	thi4	2.4.2.59		Thiamine thiazole synthase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00311	CDS	405				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00312	CDS	90				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00313	CDS	567	polC	2.7.7.7	COG2176	DNA polymerase III PolC-type
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00314	CDS	1041	secA		COG0653	Protein translocase subunit SecA
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00315	CDS	1452				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00316	CDS	1101				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00317	CDS	411	hisI	3.5.4.19		Phosphoribosyl-AMP cyclohydrolase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00318	CDS	891		2.3.1.265	COG1560	Phosphatidylinositol mannoside acyltransferase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00319	CDS	1125	ugtP	2.4.1.315	COG0707	Processive diacylglycerol beta-glucosyltransferase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00320	CDS	897	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00321	CDS	585				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00322	CDS	954	fldI	3.6.1.-		(R)-phenyllactate dehydratase activator
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00323	CDS	714				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00324	CDS	975	yrbG		COG0530	Inner membrane protein YrbG
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00325	CDS	819	mutM	3.2.2.23	COG0266	Formamidopyrimidine-DNA glycosylase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00326	CDS	807				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00327	CDS	1569	tkt	2.2.1.1		Transketolase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00328	CDS	651				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00329	CDS	666	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00330	CDS	375	rplS		COG0335	50S ribosomal protein L19
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00331	CDS	759	trmD	2.1.1.228		tRNA (guanine-N(1)-)-methyltransferase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00332	CDS	1725	ctpC	3.6.3.-	COG2217	Manganese-exporting P-type ATPase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00333	CDS	426				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00334	CDS	372	cbpA			Curved DNA-binding protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00335	CDS	522				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00336	CDS	714	znuB		COG1108	High-affinity zinc uptake system membrane protein ZnuB
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00337	CDS	240				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00338	CDS	921	hldD	5.1.3.20	COG0451	ADP-L-glycero-D-manno-heptose-6-epimerase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00339	CDS	882				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00340	CDS	303				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00341	CDS	711				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00342	CDS	411				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00343	CDS	204				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00344	CDS	576		3.2.2.-	COG2094	Putative 3-methyladenine DNA glycosylase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00345	CDS	375				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00346	CDS	483				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00347	CDS	981	mdtA			Multidrug resistance protein MdtA
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00348	CDS	774				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00349	CDS	1491	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00350	CDS	312				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00351	CDS	756	pgk/tpi		COG0126	Bifunctional PGK/TIM
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00352	CDS	399	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00353	CDS	1929				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00354	CDS	615				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00355	CDS	318				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00356	CDS	600				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00357	CDS	816				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00358	CDS	1152	ftsZ			Cell division protein FtsZ
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00359	CDS	1239	ftsA		COG0849	Cell division protein FtsA
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00360	CDS	1926	copA	7.2.2.8	COG2217	Copper-exporting P-type ATPase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00361	CDS	831				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00362	CDS	996	thiI	2.8.1.4		tRNA sulfurtransferase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00363	CDS	102				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00364	CDS	657	yqaB	3.1.3.-	COG0637	Fructose-1-phosphate phosphatase YqaB
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00365	tRNA	73				tRNA-Gln(ctg)
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00366	CDS	4176				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00367	CDS	189				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00368	CDS	1224				L-lactate transporter
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00369	CDS	306				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00370	CDS	243				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00371	CDS	951	rluD	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00372	CDS	801				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00373	CDS	375				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00374	CDS	525	act	3.-.-.-		Methanol dehydrogenase activator
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00375	CDS	1095	pdxA2	1.1.1.409	COG1995	D-erythronate 4-phosphate dehydrogenase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00376	CDS	375				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00377	CDS	609				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00378	tRNA	85				tRNA-Leu(cag)
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00379	CDS	456	smpB		COG0691	SsrA-binding protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00380	CDS	399				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00381	CDS	1434	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00382	CDS	588	apu			Amylopullulanase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00383	CDS	207	hisG	2.4.2.17		ATP phosphoribosyltransferase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00384	CDS	924	ispE	2.7.1.148	COG1947	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00385	CDS	402	spoVG		COG2088	Putative septation protein SpoVG
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00386	CDS	735	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00387	CDS	390	dksA			RNA polymerase-binding transcription factor DksA
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00388	CDS	465	lspA	3.4.23.36	COG0597	Lipoprotein signal peptidase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00389	CDS	957	accA	2.1.3.15	COG0825	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00390	CDS	1704	epsE		COG2804	Type II secretion system protein E
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00391	CDS	990	yqeN		COG1466	putative protein YqeN
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00392	CDS	507				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00393	CDS	969	cpoB			Cell division coordinator CpoB
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00394	CDS	744	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00395	CDS	1032	asd	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00396	CDS	135				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00397	CDS	318				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00398	CDS	675				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00399	CDS	2310				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00400	CDS	729				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00401	CDS	993				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00402	CDS	2025				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00403	CDS	1176	alaC	2.6.1.2	COG0436	Glutamate-pyruvate aminotransferase AlaC
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00404	CDS	231	dlaT	2.3.1.12	COG0508	Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00405	CDS	924	lipA	2.8.1.8	COG0320	Lipoyl synthase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00406	CDS	723	lipB	2.3.1.181	COG0321	Octanoyltransferase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00407	CDS	1665	argS	6.1.1.19		Arginine--tRNA ligase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00408	CDS	408	rsfS		COG0799	Ribosomal silencing factor RsfS
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00409	CDS	588	nadD	2.7.7.18	COG1057	Nicotinate-nucleotide adenylyltransferase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00410	CDS	1257	proA	1.2.1.41	COG0014	Gamma-glutamyl phosphate reductase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00411	CDS	1128	proB	2.7.2.11		Glutamate 5-kinase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00412	CDS	267	rpmA		COG0211	50S ribosomal protein L27
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00413	CDS	318	rplU		COG0261	50S ribosomal protein L21
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00414	CDS	1536	rng	3.1.26.-	COG1530	Ribonuclease G
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00415	CDS	519				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00416	CDS	132				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00417	CDS	204				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00418	CDS	483			COG1259	putative protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00419	tRNA	73				tRNA-Gly(ccc)
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00420	CDS	1128				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00421	CDS	441	queF	1.7.1.13	COG0780	NADPH-dependent 7-cyano-7-deazaguanine reductase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00422	CDS	681	queC	6.3.4.20	COG0603	7-cyano-7-deazaguanine synthase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00423	CDS	654	queE_2	4.3.99.3		7-carboxy-7-deazaguanine synthase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00424	CDS	534	rho	3.6.4.-	COG1158	Transcription termination factor Rho
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00425	CDS	804	btuD	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00426	CDS	195				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00427	CDS	585				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00428	CDS	540	kdsC	3.1.3.45	COG1778	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00429	CDS	438	kdsA	2.5.1.55	COG2877	2-dehydro-3-deoxyphosphooctonate aldolase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00430	CDS	291				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00431	CDS	309				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00432	CDS	1140	tagO	2.7.8.33	COG0472	putative undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00433	CDS	957	arnA			Bifunctional polymyxin resistance protein ArnA
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00434	CDS	159				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00435	CDS	120				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00436	CDS	474	rimI	2.3.1.266	COG0456	[Ribosomal protein S18]-alanine N-acetyltransferase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00437	CDS	696	tsaB		COG1214	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00438	CDS	465	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00439	CDS	774				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00440	CDS	1533	tilS	6.3.4.19	COG0037	tRNA(Ile)-lysidine synthase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00441	CDS	1926	ftsH	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00442	CDS	894	folP	2.5.1.15	COG0294	Dihydropteroate synthase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00443	CDS	471	rpsG			30S ribosomal protein S7
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00444	CDS	372	rpsL			30S ribosomal protein S12
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00445	CDS	7443	rpoC	2.7.7.6		DNA-directed RNA polymerase subunit beta'
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00446	CDS	1572	cimA	2.3.1.182	COG0119	(R)-citramalate synthase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00447	CDS	1218	lysC	2.7.2.4	COG0527	Aspartate kinase Ask_LysC
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00448	CDS	711				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00449	CDS	1041	recA		COG0468	Protein RecA
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00450	CDS	564	pabA	2.6.1.85	COG0512	Aminodeoxychorismate/anthranilate synthase component 2
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00451	CDS	1830	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00452	CDS	345	kdsD	5.3.1.13	COG0517	Arabinose 5-phosphate isomerase KdsD
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00453	CDS	1194	argG	6.3.4.5		Argininosuccinate synthase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00454	CDS	1251	lysA	4.1.1.20	COG0019	Diaminopimelate decarboxylase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00455	CDS	825	dapF	5.1.1.7	COG0253	Diaminopimelate epimerase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00456	CDS	1059	dapA_2	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00457	CDS	795	dapB	1.17.1.8		4-hydroxy-tetrahydrodipicolinate reductase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00458	CDS	1164	dapL	2.6.1.83	COG0436	LL-diaminopimelate aminotransferase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00459	CDS	492	folK	2.7.6.3	COG0801	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00460	CDS	402			COG1259	putative protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00461	CDS	405				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00462	CDS	819	panC	6.3.2.1	COG0414	Pantothenate synthetase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00463	CDS	486	ispF	4.6.1.12	COG0245	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00464	CDS	729	ispD	2.7.7.60	COG1211	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00465	CDS	621	ntpD			V-type sodium ATPase subunit D
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00466	CDS	897	lpxP	2.3.1.242	COG1560	Lipid A biosynthesis palmitoleoyltransferase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00467	CDS	291				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00468	CDS	759				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00469	CDS	1167	cotSA	2.4.-.-	COG0438	Spore coat protein SA
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00470	CDS	627	COQ3	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00471	CDS	111				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00472	CDS	750	cmoM	2.1.1.-		tRNA 5-carboxymethoxyuridine methyltransferase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00473	CDS	999				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00474	CDS	1236				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00475	CDS	1032				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00476	CDS	156				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00477	CDS	1209				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00478	CDS	306				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00479	CDS	1206	argD	2.6.1.11	COG4992	Acetylornithine aminotransferase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00480	CDS	867	argB	2.7.2.8	COG0548	Acetylglutamate kinase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00481	CDS	171				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00482	CDS	942		2.5.1.10		Farnesyl diphosphate synthase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00483	CDS	297	xseB	3.1.11.6		Exodeoxyribonuclease 7 small subunit
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00484	CDS	1218	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00485	CDS	798	ymdB	3.1.4.16	COG1692	2',3'-cyclic-nucleotide 2'-phosphodiesterase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00486	CDS	192	rny	3.1.-.-	COG1418	Ribonuclease Y
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00487	CDS	1476	gatA	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00488	CDS	195	rpmB		COG0227	50S ribosomal protein L28
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00489	CDS	2001	smc		COG1196	Chromosome partition protein Smc
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00490	CDS	657	surA	5.2.1.8		Chaperone SurA
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00491	CDS	294				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00492	CDS	831	rnfB	7.2.1.2	COG2878	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit B
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00493	CDS	615	rnfA	7.2.1.2	COG4657	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit A
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00494	CDS	630	rnfE	7.2.1.2	COG4660	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit E
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00495	CDS	1680	spoVD		COG0768	Stage V sporulation protein D
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00496	CDS	324	ftsL_1			Cell division protein FtsL
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00497	CDS	927	rsmH	2.1.1.199		Ribosomal RNA small subunit methyltransferase H
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00498	CDS	450	mraZ			Transcriptional regulator MraZ
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00499	CDS	408			COG0328	Bifunctional protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00500	CDS	729				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00501	CDS	708	aroD	4.2.1.10	COG0710	3-dehydroquinate dehydratase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00502	CDS	870	tvaII	3.2.1.135		Neopullulanase 2
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00503	CDS	756	rluB	5.4.99.22	COG1187	Ribosomal large subunit pseudouridine synthase B
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00504	CDS	1164				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00505	tRNA	76				tRNA-Arg(tcg)
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00506	tRNA	74				tRNA-Lys(ctt)
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00507	tRNA	83				tRNA-Leu(tag)
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00508	tRNA	72				tRNA-Gly(gcc)
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00509	CDS	1317	tig	5.2.1.8	COG0544	Trigger factor
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00510	CDS	624	clpP	3.4.21.92		ATP-dependent Clp protease proteolytic subunit
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00511	CDS	2346	lon1	3.4.21.53	COG0466	Lon protease 1
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00512	CDS	282				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00513	CDS	654				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00514	CDS	270	rpsO			30S ribosomal protein S15
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00515	CDS	930	ribF		COG0196	Bifunctional riboflavin kinase/FMN adenylyltransferase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00516	CDS	246	truB	5.4.99.25		tRNA pseudouridine synthase B
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00517	CDS	429				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00518	CDS	801				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00519	CDS	480				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00520	CDS	1194		2.6.1.1		Aspartate aminotransferase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00521	CDS	450	dut	3.6.1.23	COG0756	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00522	CDS	1962	pnp	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00523	CDS	615				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00524	CDS	330				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00525	CDS	369				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00526	CDS	723				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00527	CDS	489				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00528	CDS	591				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00529	CDS	504				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00530	CDS	243				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00531	CDS	1695	feoB		COG0370	Fe(2+) transporter FeoB
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00532	CDS	1008				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00533	CDS	660	yknY	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00534	CDS	834	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00535	CDS	1134	garK	2.7.1.165	COG1929	Glycerate 2-kinase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00536	CDS	606	coaE	2.7.1.24	COG0237	Dephospho-CoA kinase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00537	CDS	678				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00538	CDS	627	polA	2.7.7.7		DNA polymerase I
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00539	CDS	654	nth	4.2.99.18	COG0177	Endonuclease III
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00540	CDS	231	bioK	2.6.1.105	COG0161	L-Lysine--8-amino-7-oxononanoate transaminase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00541	CDS	702				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00542	CDS	1674	murJ		COG0728	putative lipid II flippase MurJ
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00543	CDS	939	valS	6.1.1.9		Valine--tRNA ligase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00544	CDS	2028	uvrB			UvrABC system protein B
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00545	CDS	987	macB	3.6.3.-	COG0577	Macrolide export ATP-binding/permease protein MacB
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00546	CDS	924	nqo8	7.1.1.-	COG1005	NADH-quinone oxidoreductase subunit 8
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00547	CDS	201	rex		COG2344	Redox-sensing transcriptional repressor Rex
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00548	CDS	561	dnaA		COG0593	Chromosomal replication initiator protein DnaA
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00549	CDS	1119	dnaN		COG0592	Beta sliding clamp
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00550	CDS	303				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00551	CDS	531				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00552	CDS	549				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00553	CDS	1209	apgM_1			2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00554	CDS	1062	thrC	4.2.3.1	COG0498	Threonine synthase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00555	CDS	711	hom	1.1.1.3	COG0460	Homoserine dehydrogenase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00556	CDS	288	gatC	6.3.5.-		Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit C
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00557	CDS	738	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00558	CDS	600	pgsA	2.7.8.5		CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00559	CDS	714	cinA		COG1058	CinA-like protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00560	CDS	597	thpR	3.1.4.58		RNA 2',3'-cyclic phosphodiesterase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00561	CDS	99				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00562	CDS	1410	der_1		COG1160	GTPase Der
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00563	CDS	801	trpA	4.2.1.20	COG0159	Tryptophan synthase alpha chain
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00564	CDS	1302	trpB	4.2.1.20	COG0133	Tryptophan synthase beta chain
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00565	CDS	615	trpF	5.3.1.24	COG0135	N-(5'-phosphoribosyl)anthranilate isomerase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00566	CDS	807	trpC	4.1.1.48		Indole-3-glycerol phosphate synthase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00567	CDS	1506	trpE	4.1.3.27	COG0147	Anthranilate synthase component 1
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00568	CDS	1101				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00569	CDS	627				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00570	CDS	1809	lepA	3.6.5.-	COG0481	Elongation factor 4
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00571	CDS	288				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00572	CDS	750				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00573	CDS	1200	argJ		COG1364	Arginine biosynthesis bifunctional protein ArgJ
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00574	CDS	1044	argC	1.2.1.38	COG0002	N-acetyl-gamma-glutamyl-phosphate reductase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00575	CDS	1554	lnt	2.3.1.269	COG0815	Apolipoprotein N-acyltransferase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00576	CDS	1128	alr1	5.1.1.1	COG0787	Alanine racemase 1
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00577	CDS	981	mdh	1.1.1.37		Malate dehydrogenase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00578	CDS	234				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00579	CDS	159				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00580	CDS	1479	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00581	CDS	1503	rssB_1			Regulator of RpoS
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00582	CDS	1167	trpD	2.4.2.18	COG0547	Anthranilate phosphoribosyltransferase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00583	CDS	636	purN	2.1.2.2	COG0299	Phosphoribosylglycinamide formyltransferase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00584	CDS	996	thiL_2	2.7.4.16		Thiamine-monophosphate kinase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00585	CDS	534				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00586	CDS	735	korB	1.2.7.3	COG1013	2-oxoglutarate oxidoreductase subunit KorB
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00587	CDS	1053	korA	1.2.7.3	COG0674	2-oxoglutarate oxidoreductase subunit KorA
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00588	CDS	2316	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase subunit PurL
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00589	CDS	837	purQ	6.3.5.3		Phosphoribosylformylglycinamidine synthase subunit PurQ
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00590	CDS	195	rpsU		COG0828	30S ribosomal protein S21
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00591	CDS	1206	apgM_2			2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00592	CDS	339				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00593	CDS	1161		1.-.-.-	COG0516	putative oxidoreductase/MSMEI_1564
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00594	CDS	258				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00595	CDS	756				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00596	CDS	1530	comM		COG0606	Competence protein ComM
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00597	CDS	1410	trkG		COG0168	Trk system potassium uptake protein TrkG
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00598	CDS	276				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00599	CDS	1737	xpsE		COG2804	Type II secretion system protein E
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00600	CDS	795	zraS	2.7.13.3		Sensor protein ZraS
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00601	CDS	480				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00602	CDS	855				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00603	CDS	1455	sctC			Type 3 secretion system secretin
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00604	CDS	465				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00605	CDS	975				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00606	CDS	558	pth	3.1.1.29		Peptidyl-tRNA hydrolase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00607	CDS	1095	ychF		COG0012	Ribosome-binding ATPase YchF
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00608	CDS	306	rpsF		COG0360	30S ribosomal protein S6
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00609	CDS	921	xerD			Tyrosine recombinase XerD
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00610	CDS	2085	topA	5.6.2.1		DNA topoisomerase 1
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00611	CDS	1092	pilT		COG2805	Twitching mobility protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00612	CDS	312				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00613	CDS	918	ruvB	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00614	CDS	1188				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00615	CDS	996				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00616	CDS	510	waaA	2.4.99.12	COG1519	3-deoxy-D-manno-octulosonic acid transferase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00617	CDS	222				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00618	CDS	1065	yfhA		COG0609	putative siderophore transport system permease protein YfhA
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00619	CDS	987				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00620	CDS	780	yclP	7.2.2.-	COG4604	Petrobactin import ATP-binding protein YclP
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00621	CDS	1062	leuB	1.1.1.85	COG0473	3-isopropylmalate dehydrogenase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00622	CDS	1290	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00623	CDS	1125	glnA	6.3.1.2	COG0174	Glutamine synthetase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00624	CDS	933	prsA2	5.2.1.8	COG0760	Foldase protein PrsA 2
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00625	CDS	570				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00626	CDS	450	wecA	2.7.8.40		UDP-N-acetylgalactosamine-undecaprenyl-phosphate N-acetylgalactosaminephosphotransferase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00627	CDS	1779	fusA		COG0480	Elongation factor G
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00628	CDS	1203	tuf		COG0050	Elongation factor Tu
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00629	CDS	150	rpmG		COG0267	50S ribosomal protein L33
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00630	tRNA	74				tRNA-Trp(cca)
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00631	CDS	198	secE			Protein translocase subunit SecE
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00632	CDS	546	nusG		COG0250	Transcription termination/antitermination protein NusG
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00633	CDS	426	rplK		COG0080	50S ribosomal protein L11
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00634	CDS	705	rplA			50S ribosomal protein L1
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00635	CDS	519	rplJ		COG0244	50S ribosomal protein L10
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00636	CDS	2412	clpC		COG0542	Negative regulator of genetic competence ClpC/MecB
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00637	CDS	465				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00638	CDS	1209	der_2			GTPase Der
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00639	CDS	2637	adhE		COG1012	Aldehyde-alcohol dehydrogenase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00640	CDS	264				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00641	CDS	189				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00642	CDS	657				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00643	CDS	927				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00644	CDS	1992	asnB	6.3.5.4	COG0367	Asparagine synthetase [glutamine-hydrolyzing] 1
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00645	CDS	162				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00646	CDS	1377	atoC_1		COG2204	Regulatory protein AtoC
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00647	CDS	1743	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00648	CDS	345		3.9.1.-	COG0537	Purine nucleoside phosphoramidase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00649	CDS	729				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00650	CDS	864				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00651	CDS	1569	purH		COG0138	Bifunctional purine biosynthesis protein PurH
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00652	CDS	705	purM	6.3.3.1		Phosphoribosylformylglycinamidine cyclo-ligase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00653	CDS	117				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00654	CDS	966	pknD	2.7.11.1		Serine/threonine-protein kinase PknD
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00655	CDS	1380			COG2239	Magnesium transporter MgtE
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00656	CDS	654				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00657	CDS	1293				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00658	CDS	453	ybeY	3.1.-.-		Endoribonuclease YbeY
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00659	CDS	204				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00660	tRNA	74				tRNA-Met(cat)
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00661	CDS	264	ftsL_2			Cell division protein FtsL
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00662	CDS	1296	eno	4.2.1.11		Enolase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00663	CDS	621	gloC	3.1.2.6	COG0491	Hydroxyacylglutathione hydrolase GloC
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00664	CDS	903				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00665	CDS	777	glpG	3.4.21.105		Rhomboid protease GlpG
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00666	CDS	1026	gutB	1.1.1.-	COG1063	Sorbitol dehydrogenase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00667	CDS	324				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00668	CDS	1080	mnmA	2.8.1.13		tRNA-specific 2-thiouridylase MnmA
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00669	CDS	687	lepB	3.4.21.89	COG0681	Signal peptidase I
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00670	CDS	948	fda	4.1.2.13	COG0191	Fructose-bisphosphate aldolase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00671	CDS	1218	pfp	2.7.1.90	COG0205	Pyrophosphate--fructose 6-phosphate 1-phosphotransferase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00672	CDS	1167	dhaT	1.1.1.202	COG1454	1,3-propanediol dehydrogenase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00673	CDS	1431	gltD	1.4.1.13	COG0493	Glutamate synthase [NADPH] small chain
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00674	CDS	825			COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit 
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00675	CDS	1422	rpoD			RNA polymerase sigma factor RpoD
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00676	CDS	1089				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00677	CDS	1341	atoC_2		COG2204	Regulatory protein AtoC
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00678	CDS	1929	lapB			Lipopolysaccharide assembly protein B
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00679	CDS	990				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00680	CDS	1905	sasA_3	2.7.-.-		Adaptive-response sensory-kinase SasA
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00681	CDS	174				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00682	CDS	1263	rssB_2			Regulator of RpoS
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00683	CDS	222				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00684	CDS	1761	dnaG	2.7.7.-	COG0358	DNA primase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00685	CDS	444	yqeY		COG1610	putative protein YqeY
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00686	CDS	1509	metG	6.1.1.10		Methionine--tRNA ligase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00687	CDS	345				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00688	CDS	861				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00689	CDS	267				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00690	CDS	807	nadX	1.4.1.21	COG1712	L-aspartate dehydrogenase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00691	CDS	354	panD	4.1.1.11	COG0853	Aspartate 1-decarboxylase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00692	CDS	621	hisB_1	3.1.3.15		Histidine biosynthesis bifunctional protein HisB
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00693	CDS	381				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00694	CDS	789				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00695	CDS	495				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00696	CDS	273				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00697	CDS	1266	murAA	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 1
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00698	CDS	1224	hisD	1.1.1.23		Histidinol dehydrogenase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00699	CDS	600	hisB_2	4.2.1.19	COG0131	Imidazoleglycerol-phosphate dehydratase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00700	CDS	729	hisA	5.3.1.16	COG0106	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00701	CDS	690		2.4.1.54		Undecaprenyl-phosphate mannosyltransferase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00702	CDS	642	pcm	2.1.1.77	COG2518	Protein-L-isoaspartate O-methyltransferase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00703	CDS	177				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00704	CDS	396				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00705	CDS	1545				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00706	CDS	864				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00707	CDS	1716	glgP	2.4.1.1	COG0058	Glycogen phosphorylase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00708	CDS	228	murD	6.3.2.9		UDP-N-acetylmuramoylalanine--D-glutamate ligase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00709	CDS	183	aroA'	2.2.1.10		2-amino-3,7-dideoxy-D-threo-hept-6-ulosonate synthase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00710	CDS	993	griH	4.1.99.20	COG1465	3-amino-4-hydroxybenzoic acid synthase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00711	CDS	915	tyrC	1.3.1.43		Cyclohexadienyl dehydrogenase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00712	CDS	1296	aroA1	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase 1
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00713	CDS	588				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00714	CDS	867	prfA		COG0216	Peptide chain release factor 1
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00715	CDS	426	infC			Translation initiation factor IF-3
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00716	CDS	198	rpmI			50S ribosomal protein L35
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00717	CDS	372	rplT			50S ribosomal protein L20
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00718	CDS	1326				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00719	CDS	1281				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00720	CDS	198	rpmE		COG0254	50S ribosomal protein L31
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00721	CDS	501	DmdB	4.2.1.85		2,3-dimethylmalate dehydratase small subunit
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00722	CDS	1266	leuC	4.2.1.33	COG0065	3-isopropylmalate dehydratase large subunit
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00723	CDS	783	mrdA	3.4.16.4	COG0768	Peptidoglycan D,D-transpeptidase MrdA
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00724	CDS	450	efp		COG0231	Elongation factor P
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00725	CDS	480	accB		COG0511	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00726	CDS	588				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00727	CDS	1083	thiE	2.5.1.3		Thiamine-phosphate synthase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00728	CDS	1146				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00729	CDS	192				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00730	CDS	438	sigA_1		COG0568	RNA polymerase sigma factor SigA
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00731	CDS	234	sigA_2		COG0568	RNA polymerase sigma factor SigA
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00732	CDS	324	lpxD	2.3.1.-	COG1044	UDP-3-O-acylglucosamine N-acyltransferase
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00733	CDS	861				hypothetical protein
+NPL-UPA2_metaspades_Bin_8_1_1-contigs_00734	CDS	234				hypothetical protein

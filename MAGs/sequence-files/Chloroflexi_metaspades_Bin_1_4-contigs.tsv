@@ -1,0 +1,332 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+Chloroflexi_metaspades_Bin_1_4-contigs_00001	CDS	1644	gatB	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+Chloroflexi_metaspades_Bin_1_4-contigs_00002	CDS	1125	dnaN_1			Beta sliding clamp
+Chloroflexi_metaspades_Bin_1_4-contigs_00003	CDS	1362	dnaA_1		COG0593	Chromosomal replication initiator protein DnaA
+Chloroflexi_metaspades_Bin_1_4-contigs_00004	CDS	1227	sigA		COG0568	RNA polymerase sigma factor SigA
+Chloroflexi_metaspades_Bin_1_4-contigs_00005	tRNA	73				tRNA-Phe(gaa)
+Chloroflexi_metaspades_Bin_1_4-contigs_00006	tRNA	75				tRNA-Val(tac)
+Chloroflexi_metaspades_Bin_1_4-contigs_00007	tRNA	84				tRNA-Leu(gag)
+Chloroflexi_metaspades_Bin_1_4-contigs_00008	CDS	507				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00009	CDS	612		5.4.99.-	COG0564	putative RNA pseudouridine synthase
+Chloroflexi_metaspades_Bin_1_4-contigs_00010	tRNA	75				tRNA-Val(gac)
+Chloroflexi_metaspades_Bin_1_4-contigs_00011	tRNA	75				tRNA-Ile(tat)
+Chloroflexi_metaspades_Bin_1_4-contigs_00012	CDS	1941	ftsH	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+Chloroflexi_metaspades_Bin_1_4-contigs_00013	CDS	1068	rpsA		COG0539	30S ribosomal protein S1
+Chloroflexi_metaspades_Bin_1_4-contigs_00014	CDS	630				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00015	CDS	2538	gyrA	5.6.2.2	COG0188	DNA gyrase subunit A
+Chloroflexi_metaspades_Bin_1_4-contigs_00016	CDS	519	COQ5	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+Chloroflexi_metaspades_Bin_1_4-contigs_00017	CDS	396				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00018	CDS	210				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00019	CDS	1221				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00020	CDS	1641	groL_1			60 kDa chaperonin
+Chloroflexi_metaspades_Bin_1_4-contigs_00021	CDS	126				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00022	CDS	723	pyrH	2.7.4.22	COG0528	Uridylate kinase
+Chloroflexi_metaspades_Bin_1_4-contigs_00023	CDS	630	tmk	2.7.4.9	COG0125	Thymidylate kinase
+Chloroflexi_metaspades_Bin_1_4-contigs_00024	CDS	1656	glcA		COG1620	Glycolate permease GlcA
+Chloroflexi_metaspades_Bin_1_4-contigs_00025	CDS	1176				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00026	CDS	1206	fni	5.3.3.2		Isopentenyl-diphosphate delta-isomerase
+Chloroflexi_metaspades_Bin_1_4-contigs_00027	CDS	354				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00028	CDS	1191				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00029	CDS	474				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00030	CDS	738	yebC		COG0217	putative transcriptional regulatory protein YebC
+Chloroflexi_metaspades_Bin_1_4-contigs_00031	CDS	489	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+Chloroflexi_metaspades_Bin_1_4-contigs_00032	CDS	1194				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00033	CDS	1011	gap	1.2.1.12		Glyceraldehyde-3-phosphate dehydrogenase
+Chloroflexi_metaspades_Bin_1_4-contigs_00034	CDS	324	ftsW	2.4.1.129	COG0772	putative peptidoglycan glycosyltransferase FtsW
+Chloroflexi_metaspades_Bin_1_4-contigs_00035	CDS	1113	murG	2.4.1.227		UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+Chloroflexi_metaspades_Bin_1_4-contigs_00036	CDS	1629	gltX1	6.1.1.17	COG0008	Glutamate--tRNA ligase 1
+Chloroflexi_metaspades_Bin_1_4-contigs_00037	CDS	951	xerD		COG4974	Tyrosine recombinase XerD
+Chloroflexi_metaspades_Bin_1_4-contigs_00038	CDS	705	uppS	2.5.1.-	COG0020	Isoprenyl transferase
+Chloroflexi_metaspades_Bin_1_4-contigs_00039	CDS	279				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00040	CDS	1620	pyrG_1	6.3.4.2		CTP synthase
+Chloroflexi_metaspades_Bin_1_4-contigs_00041	CDS	456	rplI		COG0359	50S ribosomal protein L9
+Chloroflexi_metaspades_Bin_1_4-contigs_00042	CDS	1221				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00043	CDS	576				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00044	CDS	282				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00045	CDS	894				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00046	CDS	717				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00047	CDS	1227	arnC	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+Chloroflexi_metaspades_Bin_1_4-contigs_00048	CDS	1218		2.4.1.11	COG0438	Glycogen synthase
+Chloroflexi_metaspades_Bin_1_4-contigs_00049	tRNA	74				tRNA-Gln(ttg)
+Chloroflexi_metaspades_Bin_1_4-contigs_00050	CDS	1122	dnaX	2.7.7.7	COG2812	DNA polymerase III subunit tau
+Chloroflexi_metaspades_Bin_1_4-contigs_00051	CDS	276				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00052	CDS	204				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00053	CDS	1086				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00054	CDS	384				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00055	CDS	2430	cshB	3.6.4.13		DEAD-box ATP-dependent RNA helicase CshB
+Chloroflexi_metaspades_Bin_1_4-contigs_00056	tRNA	75				tRNA-Arg(gcg)
+Chloroflexi_metaspades_Bin_1_4-contigs_00057	tRNA	85				tRNA-Ser(gct)
+Chloroflexi_metaspades_Bin_1_4-contigs_00058	tRNA	75				tRNA-Ile(gat)
+Chloroflexi_metaspades_Bin_1_4-contigs_00059	CDS	1389				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00060	tRNA	74				tRNA-Ala(tgc)
+Chloroflexi_metaspades_Bin_1_4-contigs_00061	CDS	1293	htrA			Putative serine protease HtrA
+Chloroflexi_metaspades_Bin_1_4-contigs_00062	CDS	432	iscU		COG0822	Iron-sulfur cluster assembly scaffold protein IscU
+Chloroflexi_metaspades_Bin_1_4-contigs_00063	CDS	1263	iscS	2.8.1.7		Cysteine desulfurase IscS
+Chloroflexi_metaspades_Bin_1_4-contigs_00064	CDS	747	queE	4.3.99.3		7-carboxy-7-deazaguanine synthase
+Chloroflexi_metaspades_Bin_1_4-contigs_00065	CDS	1224				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00066	CDS	597	dnaA_2			Chromosomal replication initiator protein DnaA
+Chloroflexi_metaspades_Bin_1_4-contigs_00067	CDS	1983	pnp_1	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+Chloroflexi_metaspades_Bin_1_4-contigs_00068	CDS	198	pnp_2	2.7.7.8		Polyribonucleotide nucleotidyltransferase
+Chloroflexi_metaspades_Bin_1_4-contigs_00069	CDS	1458				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00070	CDS	432				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00071	CDS	2016				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00072	CDS	201				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00073	CDS	2130				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00074	CDS	231				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00075	tRNA	74				tRNA-Gln(ctg)
+Chloroflexi_metaspades_Bin_1_4-contigs_00076	CDS	915	ftsX		COG2177	Cell division protein FtsX
+Chloroflexi_metaspades_Bin_1_4-contigs_00077	CDS	681	ftsE		COG2884	Cell division ATP-binding protein FtsE
+Chloroflexi_metaspades_Bin_1_4-contigs_00078	CDS	1068	prfB			Peptide chain release factor 2
+Chloroflexi_metaspades_Bin_1_4-contigs_00079	tRNA	73				tRNA-Thr(cgt)
+Chloroflexi_metaspades_Bin_1_4-contigs_00080	tRNA	71				tRNA-Gly(ccc)
+Chloroflexi_metaspades_Bin_1_4-contigs_00081	CDS	411	ftsL			Cell division protein FtsL
+Chloroflexi_metaspades_Bin_1_4-contigs_00082	CDS	99				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00083	CDS	1854	lepA	3.6.5.-	COG0481	Elongation factor 4
+Chloroflexi_metaspades_Bin_1_4-contigs_00084	CDS	1698	murJ			lipid II flippase MurJ
+Chloroflexi_metaspades_Bin_1_4-contigs_00085	CDS	459			COG0328	Bifunctional protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00086	CDS	1149	recJ	3.1.-.-	COG0608	Single-stranded-DNA-specific exonuclease RecJ
+Chloroflexi_metaspades_Bin_1_4-contigs_00087	CDS	1038	pgk/tpi		COG0126	Bifunctional PGK/TIM
+Chloroflexi_metaspades_Bin_1_4-contigs_00088	CDS	1302				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00089	CDS	972	murK	2.7.1.-	COG2971	N-acetylmuramic acid/N-acetylglucosamine kinase
+Chloroflexi_metaspades_Bin_1_4-contigs_00090	CDS	942	mnmA_1	2.8.1.13		tRNA-specific 2-thiouridylase MnmA
+Chloroflexi_metaspades_Bin_1_4-contigs_00091	CDS	1221	glmU			Bifunctional protein GlmU
+Chloroflexi_metaspades_Bin_1_4-contigs_00092	CDS	2370	leuS	6.1.1.4		Leucine--tRNA ligase
+Chloroflexi_metaspades_Bin_1_4-contigs_00093	CDS	753	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+Chloroflexi_metaspades_Bin_1_4-contigs_00094	CDS	1440	metG	6.1.1.10	COG0143	Methionine--tRNA ligase
+Chloroflexi_metaspades_Bin_1_4-contigs_00095	CDS	717	rsmI	2.1.1.198	COG0313	Ribosomal RNA small subunit methyltransferase I
+Chloroflexi_metaspades_Bin_1_4-contigs_00096	CDS	1026	yhhT		COG0628	Putative transport protein YhhT
+Chloroflexi_metaspades_Bin_1_4-contigs_00097	CDS	1263		3.4.24.-	COG0612	putative zinc protease
+Chloroflexi_metaspades_Bin_1_4-contigs_00098	CDS	324				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00099	CDS	210				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00100	CDS	195	secE			Protein translocase subunit SecE
+Chloroflexi_metaspades_Bin_1_4-contigs_00101	CDS	1983	gyrB	5.6.2.2	COG0187	DNA gyrase subunit B
+Chloroflexi_metaspades_Bin_1_4-contigs_00102	CDS	1200	tufA		COG0050	Elongation factor Tu
+Chloroflexi_metaspades_Bin_1_4-contigs_00103	CDS	255				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00104	CDS	2121	fusA		COG0480	Elongation factor G
+Chloroflexi_metaspades_Bin_1_4-contigs_00105	CDS	507	rpsG		COG0049	30S ribosomal protein S7
+Chloroflexi_metaspades_Bin_1_4-contigs_00106	CDS	414	rpsL		COG0048	30S ribosomal protein S12
+Chloroflexi_metaspades_Bin_1_4-contigs_00107	CDS	732				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00108	CDS	1032				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00109	CDS	1719				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00110	CDS	1065	pilT_1		COG2805	Twitching mobility protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00111	CDS	159	ruvC	3.1.22.4		Crossover junction endodeoxyribonuclease RuvC
+Chloroflexi_metaspades_Bin_1_4-contigs_00112	CDS	210				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00113	CDS	1905	pbpG		COG0744	Penicillin-binding protein 2D
+Chloroflexi_metaspades_Bin_1_4-contigs_00114	CDS	1137	dnaN_2			Beta sliding clamp
+Chloroflexi_metaspades_Bin_1_4-contigs_00115	CDS	1344	dnaA_3		COG0593	Chromosomal replication initiator protein DnaA
+Chloroflexi_metaspades_Bin_1_4-contigs_00116	CDS	360	rnpA	3.1.26.5		Ribonuclease P protein component
+Chloroflexi_metaspades_Bin_1_4-contigs_00117	CDS	228	yidD		COG0759	Putative membrane protein insertion efficiency factor
+Chloroflexi_metaspades_Bin_1_4-contigs_00118	CDS	768	yidC2		COG0706	Membrane protein insertase YidC 2
+Chloroflexi_metaspades_Bin_1_4-contigs_00119	CDS	459				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00120	CDS	1803				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00121	CDS	645				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00122	CDS	363				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00123	CDS	1119	rasP	3.4.24.-	COG0750	Regulator of sigma-W protease RasP
+Chloroflexi_metaspades_Bin_1_4-contigs_00124	CDS	1281	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+Chloroflexi_metaspades_Bin_1_4-contigs_00125	rRNA	469				16S ribosomal RNA (partial)
+Chloroflexi_metaspades_Bin_1_4-contigs_00126	CDS	495				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00127	CDS	483	pgsA	2.7.8.5		CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+Chloroflexi_metaspades_Bin_1_4-contigs_00128	CDS	891				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00129	CDS	720				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00130	CDS	1095	ftsA_1			Cell division protein FtsA
+Chloroflexi_metaspades_Bin_1_4-contigs_00131	CDS	555				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00132	CDS	519				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00133	CDS	336				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00134	CDS	1731				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00135	CDS	1071	pilT_2		COG2805	Twitching mobility protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00136	CDS	1206	gspF		COG1459	Putative type II secretion system protein F
+Chloroflexi_metaspades_Bin_1_4-contigs_00137	CDS	816	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+Chloroflexi_metaspades_Bin_1_4-contigs_00138	CDS	3657	rpoC	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit beta'
+Chloroflexi_metaspades_Bin_1_4-contigs_00139	CDS	2211	spoIIIE		COG1674	DNA translocase SpoIIIE
+Chloroflexi_metaspades_Bin_1_4-contigs_00140	CDS	1044	recA		COG0468	Protein RecA
+Chloroflexi_metaspades_Bin_1_4-contigs_00141	CDS	198	rpsR			30S ribosomal protein S18
+Chloroflexi_metaspades_Bin_1_4-contigs_00142	CDS	1803				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00143	CDS	759				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00144	CDS	1740	argS_1	6.1.1.19	COG0018	Arginine--tRNA ligase
+Chloroflexi_metaspades_Bin_1_4-contigs_00145	CDS	168	pyrG_2	6.3.4.2	COG0504	CTP synthase
+Chloroflexi_metaspades_Bin_1_4-contigs_00146	CDS	918	gtaB	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+Chloroflexi_metaspades_Bin_1_4-contigs_00147	tRNA	86				tRNA-Leu(cag)
+Chloroflexi_metaspades_Bin_1_4-contigs_00148	CDS	1047	ldhA	1.1.1.28	COG1052	D-lactate dehydrogenase
+Chloroflexi_metaspades_Bin_1_4-contigs_00149	CDS	1170				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00150	CDS	678				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00151	CDS	3207	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+Chloroflexi_metaspades_Bin_1_4-contigs_00152	CDS	1014	trpS2	6.1.1.2	COG0180	Tryptophan--tRNA ligase 2
+Chloroflexi_metaspades_Bin_1_4-contigs_00153	tRNA	87				tRNA-Leu(taa)
+Chloroflexi_metaspades_Bin_1_4-contigs_00154	tRNA	73				tRNA-Cys(gca)
+Chloroflexi_metaspades_Bin_1_4-contigs_00155	CDS	1524	infB			Translation initiation factor IF-2
+Chloroflexi_metaspades_Bin_1_4-contigs_00156	CDS	462				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00157	CDS	819	racE	5.1.1.3	COG0796	Glutamate racemase 1
+Chloroflexi_metaspades_Bin_1_4-contigs_00158	CDS	3255	rapA	3.6.4.-		RNA polymerase-associated protein RapA
+Chloroflexi_metaspades_Bin_1_4-contigs_00159	CDS	471				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00160	CDS	1752	argS_2	6.1.1.19	COG0018	Arginine--tRNA ligase
+Chloroflexi_metaspades_Bin_1_4-contigs_00161	CDS	1101	mnmA_2	2.8.1.13	COG0482	tRNA-specific 2-thiouridylase MnmA
+Chloroflexi_metaspades_Bin_1_4-contigs_00162	CDS	768	tpiA	5.3.1.1	COG0149	Triosephosphate isomerase
+Chloroflexi_metaspades_Bin_1_4-contigs_00163	CDS	753	map	3.4.11.18	COG0024	Methionine aminopeptidase 1
+Chloroflexi_metaspades_Bin_1_4-contigs_00164	CDS	657	adk_1	2.7.4.3		Adenylate kinase
+Chloroflexi_metaspades_Bin_1_4-contigs_00165	CDS	1281	secY		COG0201	Protein translocase subunit SecY
+Chloroflexi_metaspades_Bin_1_4-contigs_00166	CDS	807				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00167	CDS	648	rplC			50S ribosomal protein L3
+Chloroflexi_metaspades_Bin_1_4-contigs_00168	CDS	546	prsW	3.4.-.-	COG2339	Protease PrsW
+Chloroflexi_metaspades_Bin_1_4-contigs_00169	CDS	198				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00170	CDS	429				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00171	tRNA	83				tRNA-Leu(tag)
+Chloroflexi_metaspades_Bin_1_4-contigs_00172	CDS	1086				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00173	CDS	1071	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+Chloroflexi_metaspades_Bin_1_4-contigs_00174	CDS	990				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00175	CDS	1107	mrdB	2.4.1.129	COG0772	Peptidoglycan glycosyltransferase MrdB
+Chloroflexi_metaspades_Bin_1_4-contigs_00176	CDS	186	rpsZ		COG0199	30S ribosomal protein S14 type Z
+Chloroflexi_metaspades_Bin_1_4-contigs_00177	CDS	558	rplE			50S ribosomal protein L5
+Chloroflexi_metaspades_Bin_1_4-contigs_00178	CDS	321				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00179	CDS	369	rplN		COG0093	50S ribosomal protein L14
+Chloroflexi_metaspades_Bin_1_4-contigs_00180	CDS	156				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00181	CDS	1245				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00182	CDS	498	greA		COG0782	Transcription elongation factor GreA
+Chloroflexi_metaspades_Bin_1_4-contigs_00183	CDS	438	folP	2.5.1.15	COG0294	Dihydropteroate synthase
+Chloroflexi_metaspades_Bin_1_4-contigs_00184	CDS	2562				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00185	CDS	1224				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00186	CDS	924				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00187	CDS	1557	yheS		COG0488	putative ABC transporter ATP-binding protein YheS
+Chloroflexi_metaspades_Bin_1_4-contigs_00188	CDS	249				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00189	CDS	156				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00190	CDS	204				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00191	CDS	1044				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00192	CDS	321	rplU		COG0261	50S ribosomal protein L21
+Chloroflexi_metaspades_Bin_1_4-contigs_00193	CDS	639	recR		COG0353	Recombination protein RecR
+Chloroflexi_metaspades_Bin_1_4-contigs_00194	CDS	1380	dnaC	3.6.4.12	COG0305	Replicative DNA helicase
+Chloroflexi_metaspades_Bin_1_4-contigs_00195	CDS	375				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00196	tRNA	73				tRNA-Arg(tcg)
+Chloroflexi_metaspades_Bin_1_4-contigs_00197	CDS	180				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00198	CDS	2106	valS	6.1.1.9	COG0525	Valine--tRNA ligase
+Chloroflexi_metaspades_Bin_1_4-contigs_00199	CDS	1161	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+Chloroflexi_metaspades_Bin_1_4-contigs_00200	tRNA	76				tRNA-Glu(ttc)
+Chloroflexi_metaspades_Bin_1_4-contigs_00201	CDS	846	recG	3.6.4.12		ATP-dependent DNA helicase RecG
+Chloroflexi_metaspades_Bin_1_4-contigs_00202	CDS	2883	dbpA	3.6.4.13		ATP-dependent RNA helicase DbpA
+Chloroflexi_metaspades_Bin_1_4-contigs_00203	CDS	1176				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00204	CDS	219				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00205	CDS	621				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00206	CDS	1161		2.4.1.337	COG0438	Alpha-monoglucosyldiacylglycerol synthase
+Chloroflexi_metaspades_Bin_1_4-contigs_00207	CDS	255				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00208	CDS	411	rtcB	6.5.1.-	COG1690	RNA-splicing ligase RtcB
+Chloroflexi_metaspades_Bin_1_4-contigs_00209	CDS	357				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00210	CDS	525				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00211	CDS	579	epsE		COG2804	Type II secretion system protein E
+Chloroflexi_metaspades_Bin_1_4-contigs_00212	CDS	1032	ruvB	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+Chloroflexi_metaspades_Bin_1_4-contigs_00213	CDS	942	polA	2.7.7.7		DNA polymerase I
+Chloroflexi_metaspades_Bin_1_4-contigs_00214	CDS	1185	walK	2.7.13.3		Sensor protein kinase WalK
+Chloroflexi_metaspades_Bin_1_4-contigs_00215	CDS	372	arlR		COG0745	Response regulator ArlR
+Chloroflexi_metaspades_Bin_1_4-contigs_00216	CDS	375	phoB		COG0745	Phosphate regulon transcriptional regulatory protein PhoB
+Chloroflexi_metaspades_Bin_1_4-contigs_00217	CDS	987	yqeN		COG1466	putative protein YqeN
+Chloroflexi_metaspades_Bin_1_4-contigs_00218	CDS	267	rpsT		COG0268	30S ribosomal protein S20
+Chloroflexi_metaspades_Bin_1_4-contigs_00219	CDS	570	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+Chloroflexi_metaspades_Bin_1_4-contigs_00220	CDS	225				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00221	CDS	366				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00222	CDS	222				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00223	CDS	1977				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00224	CDS	996				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00225	CDS	243	rpmE		COG0254	50S ribosomal protein L31
+Chloroflexi_metaspades_Bin_1_4-contigs_00226	CDS	735	prfA		COG0216	Peptide chain release factor 1
+Chloroflexi_metaspades_Bin_1_4-contigs_00227	CDS	1437				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00228	CDS	1629	groL_2			60 kDa chaperonin
+Chloroflexi_metaspades_Bin_1_4-contigs_00229	CDS	531				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00230	tRNA	87				tRNA-Ser(gga)
+Chloroflexi_metaspades_Bin_1_4-contigs_00231	tRNA	75				tRNA-Arg(tct)
+Chloroflexi_metaspades_Bin_1_4-contigs_00232	tRNA	72				tRNA-His(gtg)
+Chloroflexi_metaspades_Bin_1_4-contigs_00233	tRNA	75				tRNA-Arg(cct)
+Chloroflexi_metaspades_Bin_1_4-contigs_00234	CDS	690				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00235	CDS	204	scoF		COG1278	Cold shock protein ScoF
+Chloroflexi_metaspades_Bin_1_4-contigs_00236	CDS	1260	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+Chloroflexi_metaspades_Bin_1_4-contigs_00237	CDS	420	rarA		COG2256	Replication-associated recombination protein A
+Chloroflexi_metaspades_Bin_1_4-contigs_00238	CDS	873				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00239	tRNA	74				tRNA-Trp(cca)
+Chloroflexi_metaspades_Bin_1_4-contigs_00240	CDS	483				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00241	CDS	702				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00242	CDS	1002				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00243	CDS	1347	yeeO		COG0534	putative FMN/FAD exporter YeeO
+Chloroflexi_metaspades_Bin_1_4-contigs_00244	tRNA	85				tRNA-Leu(caa)
+Chloroflexi_metaspades_Bin_1_4-contigs_00245	CDS	768	soj	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+Chloroflexi_metaspades_Bin_1_4-contigs_00246	CDS	888	spo0J		COG1475	Stage 0 sporulation protein J
+Chloroflexi_metaspades_Bin_1_4-contigs_00247	CDS	684	pth	3.1.1.29		Peptidyl-tRNA hydrolase
+Chloroflexi_metaspades_Bin_1_4-contigs_00248	CDS	2298	topA	5.6.2.1		DNA topoisomerase 1
+Chloroflexi_metaspades_Bin_1_4-contigs_00249	CDS	558	sipT	3.4.21.89	COG0681	Signal peptidase I T
+Chloroflexi_metaspades_Bin_1_4-contigs_00250	CDS	1314	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+Chloroflexi_metaspades_Bin_1_4-contigs_00251	CDS	339		3.9.1.-	COG0537	Purine nucleoside phosphoramidase
+Chloroflexi_metaspades_Bin_1_4-contigs_00252	CDS	243				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00253	CDS	450	ybeY	3.1.-.-	COG0319	Endoribonuclease YbeY
+Chloroflexi_metaspades_Bin_1_4-contigs_00254	CDS	1296	ftsA_2		COG0849	Cell division protein FtsA
+Chloroflexi_metaspades_Bin_1_4-contigs_00255	CDS	948	ftsZ_1			Cell division protein FtsZ
+Chloroflexi_metaspades_Bin_1_4-contigs_00256	CDS	225				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00257	CDS	612	rpsD		COG0522	30S ribosomal protein S4
+Chloroflexi_metaspades_Bin_1_4-contigs_00258	CDS	786	rpoA	2.7.7.6	COG0202	DNA-directed RNA polymerase subunit alpha
+Chloroflexi_metaspades_Bin_1_4-contigs_00259	CDS	360	rplQ			50S ribosomal protein L17
+Chloroflexi_metaspades_Bin_1_4-contigs_00260	CDS	351	rplM		COG0102	50S ribosomal protein L13
+Chloroflexi_metaspades_Bin_1_4-contigs_00261	CDS	600				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00262	CDS	267				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00263	CDS	210				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00264	CDS	264				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00265	CDS	1296				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00266	CDS	1050	rpoS			RNA polymerase sigma factor RpoS
+Chloroflexi_metaspades_Bin_1_4-contigs_00267	CDS	894	secF		COG0341	Protein translocase subunit SecF
+Chloroflexi_metaspades_Bin_1_4-contigs_00268	CDS	1350	secDF		COG0341	Protein translocase subunit SecDF
+Chloroflexi_metaspades_Bin_1_4-contigs_00269	CDS	525				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00270	CDS	1719	secA		COG0653	Protein translocase subunit SecA
+Chloroflexi_metaspades_Bin_1_4-contigs_00271	CDS	1287	ftsA_3		COG0849	Cell division protein FtsA
+Chloroflexi_metaspades_Bin_1_4-contigs_00272	CDS	1176	ftsZ_2			Cell division protein FtsZ
+Chloroflexi_metaspades_Bin_1_4-contigs_00273	CDS	1065	mreB_1		COG1077	Cell shape-determining protein MreB
+Chloroflexi_metaspades_Bin_1_4-contigs_00274	CDS	1497	gatA	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+Chloroflexi_metaspades_Bin_1_4-contigs_00275	CDS	525				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00276	tRNA	76				tRNA-Asp(gtc)
+Chloroflexi_metaspades_Bin_1_4-contigs_00277	CDS	897				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00278	CDS	903	comEC		COG0658	ComE operon protein 3
+Chloroflexi_metaspades_Bin_1_4-contigs_00279	CDS	1071	adk_2	2.7.4.3		Adenylate kinase
+Chloroflexi_metaspades_Bin_1_4-contigs_00280	CDS	204				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00281	CDS	738				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00282	CDS	504	sigW		COG1595	ECF RNA polymerase sigma factor SigW
+Chloroflexi_metaspades_Bin_1_4-contigs_00283	CDS	630				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00284	CDS	534				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00285	CDS	105				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00286	CDS	2712	clpB1		COG0542	Chaperone protein ClpB 1
+Chloroflexi_metaspades_Bin_1_4-contigs_00287	CDS	2052				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00288	CDS	729				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00289	CDS	237				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00290	CDS	465				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00291	CDS	3045	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+Chloroflexi_metaspades_Bin_1_4-contigs_00292	CDS	747	recO		COG1381	DNA repair protein RecO
+Chloroflexi_metaspades_Bin_1_4-contigs_00293	CDS	1662				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00294	CDS	1332	glyQS	6.1.1.14	COG0423	Glycine--tRNA ligase
+Chloroflexi_metaspades_Bin_1_4-contigs_00295	CDS	276				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00296	CDS	240				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00297	CDS	966	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+Chloroflexi_metaspades_Bin_1_4-contigs_00298	CDS	396				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00299	CDS	309				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00300	tRNA	72				tRNA-Lys(ttt)
+Chloroflexi_metaspades_Bin_1_4-contigs_00301	CDS	969				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00302	CDS	1950	dnaK		COG0443	Chaperone protein DnaK
+Chloroflexi_metaspades_Bin_1_4-contigs_00303	CDS	495	grpE		COG0576	Protein GrpE
+Chloroflexi_metaspades_Bin_1_4-contigs_00304	CDS	558	frr		COG0233	Ribosome-recycling factor
+Chloroflexi_metaspades_Bin_1_4-contigs_00305	CDS	945				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00306	CDS	285	gatC	6.3.5.-	COG0721	Glutamyl-tRNA(Gln) amidotransferase subunit C
+Chloroflexi_metaspades_Bin_1_4-contigs_00307	CDS	1014	mreB_2		COG1077	Cell shape-determining protein MreB
+Chloroflexi_metaspades_Bin_1_4-contigs_00308	CDS	579	murA	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+Chloroflexi_metaspades_Bin_1_4-contigs_00309	CDS	3003				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00310	CDS	822				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00311	CDS	1260				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00312	CDS	2079	ligA	6.5.1.2		DNA ligase
+Chloroflexi_metaspades_Bin_1_4-contigs_00313	CDS	405				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00314	CDS	588				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00315	CDS	522				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00316	CDS	555				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00317	CDS	783	comC			Type 4 prepilin-like proteins leader peptide-processing enzyme
+Chloroflexi_metaspades_Bin_1_4-contigs_00318	CDS	441				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00319	CDS	318				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00320	CDS	237				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00321	CDS	408	rplP		COG0197	50S ribosomal protein L16
+Chloroflexi_metaspades_Bin_1_4-contigs_00322	CDS	666	rpsC		COG0092	30S ribosomal protein S3
+Chloroflexi_metaspades_Bin_1_4-contigs_00323	CDS	2148	pnp_3	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+Chloroflexi_metaspades_Bin_1_4-contigs_00324	CDS	441	smpB			SsrA-binding protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00325	tmRNA	424	ssrA			transfer-messenger RNA, SsrA
+Chloroflexi_metaspades_Bin_1_4-contigs_00326	CDS	291				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00327	CDS	555	infC			Translation initiation factor IF-3
+Chloroflexi_metaspades_Bin_1_4-contigs_00328	CDS	195				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00329	CDS	348	rplT		COG0292	50S ribosomal protein L20
+Chloroflexi_metaspades_Bin_1_4-contigs_00330	CDS	1011				hypothetical protein
+Chloroflexi_metaspades_Bin_1_4-contigs_00331	CDS	213				hypothetical protein

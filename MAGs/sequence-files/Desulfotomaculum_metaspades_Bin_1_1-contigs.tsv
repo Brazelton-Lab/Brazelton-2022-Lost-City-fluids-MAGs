@@ -1,0 +1,1604 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00001	CDS	1113	pglA	2.4.1.290		N,N'-diacetylbacillosaminyl-diphospho-undecaprenol alpha-1,3-N-acetylgalactosaminyltransferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00002	CDS	300				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00003	CDS	462				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00004	CDS	309				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00005	CDS	108				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00006	CDS	180				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00007	CDS	552				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00008	CDS	813	phnPP_1	3.1.4.57	COG0613	Phosphoribosyl 1,2-cyclic phosphate 1,2-diphosphodiesterase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00009	CDS	1083				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00010	CDS	978	fliM		COG1868	Flagellar motor switch protein FliM
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00011	CDS	366	cheY		COG0784	Chemotaxis protein CheY
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00012	CDS	633	cheC	3.-.-.-	COG1776	CheY-P phosphatase CheC
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00013	CDS	768	cheR	2.1.1.80		Chemotaxis protein methyltransferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00014	CDS	486	cheD	3.5.1.44	COG1871	Chemoreceptor glutamine deamidase CheD
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00015	CDS	780	flgG_1		COG4786	Flagellar basal-body rod protein FlgG
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00016	CDS	768	flgG_2		COG4786	Flagellar basal-body rod protein FlgG
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00017	CDS	786	fliA		COG1191	RNA polymerase sigma factor FliA
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00018	CDS	765				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00019	CDS	888	ylxH		COG0455	Flagellum site-determining protein YlxH
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00020	CDS	1377	ftsY			Signal recognition particle receptor FtsY
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00021	CDS	2079	flhA		COG1298	Flagellar biosynthesis protein FlhA
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00022	CDS	1086	flhB_1		COG1377	Flagellar biosynthetic protein FlhB
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00023	CDS	738	fliR		COG1684	Flagellar biosynthetic protein FliR
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00024	CDS	270	spaQ		COG4794	Surface presentation of antigens protein SpaQ
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00025	CDS	765	fliP		COG1338	Flagellar biosynthetic protein FliP
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00026	CDS	375				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00027	CDS	444				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00028	CDS	459				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00029	CDS	3789	addB	3.1.-.-	COG3857	ATP-dependent helicase/deoxyribonuclease subunit B
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00030	CDS	1383		1.-.-.-	COG0277	putative FAD-linked oxidoreductase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00031	CDS	1260	dctM_1		COG1593	C4-dicarboxylate TRAP transporter large permease protein DctM
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00032	CDS	504				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00033	CDS	1011			COG1638	putative protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00034	CDS	1308	lutA			Lactate utilization protein A
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00035	CDS	1269	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00036	CDS	633				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00037	CDS	1614	purH		COG0138	Bifunctional purine biosynthesis protein PurH
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00038	CDS	1506	atpA	7.1.2.2	COG0056	ATP synthase subunit alpha
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00039	CDS	186				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00040	CDS	138				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00041	CDS	4578				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00042	CDS	762				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00043	CDS	180				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00044	CDS	135				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00045	CDS	624	agrB	3.4.-.-		Accessory gene regulator protein B
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00046	CDS	345				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00047	CDS	1092				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00048	CDS	333				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00049	CDS	267	rpsT		COG0268	30S ribosomal protein S20
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00050	CDS	1071	yqeN		COG1466	putative protein YqeN
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00051	CDS	2439	comEC		COG0658	ComE operon protein 3
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00052	CDS	672				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00053	CDS	393	rpsI		COG0103	30S ribosomal protein S9
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00054	CDS	438	rplM		COG0102	50S ribosomal protein L13
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00055	CDS	765	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00056	CDS	804	ecfT		COG0619	Energy-coupling factor transporter transmembrane protein EcfT
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00057	CDS	867	ecfA2	3.6.3.-	COG1122	Energy-coupling factor transporter ATP-binding protein EcfA2
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00058	CDS	861	ecfA1	7.-.-.-	COG1122	Energy-coupling factor transporter ATP-binding protein EcfA1
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00059	CDS	345	rplQ		COG0203	50S ribosomal protein L17
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00060	CDS	948	rpoA	2.7.7.6	COG0202	DNA-directed RNA polymerase subunit alpha
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00061	CDS	627	rpsD		COG0522	30S ribosomal protein S4
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00062	CDS	390	rpsK			30S ribosomal protein S11
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00063	CDS	372	rpsM		COG0099	30S ribosomal protein S13
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00064	CDS	219	infA		COG0361	Translation initiation factor IF-1
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00065	CDS	273				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00066	CDS	747	map	3.4.11.18	COG0024	Methionine aminopeptidase 1
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00067	CDS	1260	secY		COG0201	Protein translocase subunit SecY
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00068	CDS	441	rplO			50S ribosomal protein L15
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00069	CDS	222				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00070	CDS	501	rpsE		COG0098	30S ribosomal protein S5
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00071	CDS	369	rplR			50S ribosomal protein L18
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00072	CDS	540	rplF			50S ribosomal protein L6
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00073	CDS	399	rpsH		COG0096	30S ribosomal protein S8
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00074	CDS	186	rpsN1		COG0199	30S ribosomal protein S14
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00075	CDS	546	rplE			50S ribosomal protein L5
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00076	CDS	318	rplX			50S ribosomal protein L24
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00077	CDS	369	rplN			50S ribosomal protein L14
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00078	CDS	264	rpsQ			30S ribosomal protein S17
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00079	CDS	204	rpmC			50S ribosomal protein L29
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00080	CDS	435	rplP		COG0197	50S ribosomal protein L16
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00081	CDS	696	rpsC		COG0092	30S ribosomal protein S3
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00082	CDS	342	rplV		COG0091	50S ribosomal protein L22
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00083	CDS	285	rpsS			30S ribosomal protein S19
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00084	CDS	828	rplB			50S ribosomal protein L2
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00085	CDS	288	rplW		COG0089	50S ribosomal protein L23
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00086	CDS	627	rplD			50S ribosomal protein L4
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00087	CDS	627	rplC		COG0087	50S ribosomal protein L3
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00088	CDS	309	rpsJ		COG0051	30S ribosomal protein S10
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00089	CDS	1203	tuf		COG0050	Elongation factor Tu
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00090	CDS	2073	fusA		COG0480	Elongation factor G
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00091	CDS	471	rpsG			30S ribosomal protein S7
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00092	CDS	375	rpsL		COG0048	30S ribosomal protein S12
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00093	CDS	288				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00094	CDS	237	rplGB		COG1358	Ribosome-associated protein L7Ae-like protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00095	CDS	3453	rpoC	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit beta'
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00096	CDS	3432	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00097	CDS	375	rplL			50S ribosomal protein L7/L12
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00098	CDS	540	rplJ			50S ribosomal protein L10
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00099	CDS	687	rplA			50S ribosomal protein L1
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00100	CDS	429	rplK		COG0080	50S ribosomal protein L11
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00101	CDS	531	nusG		COG0250	Transcription termination/antitermination protein NusG
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00102	CDS	294	secE			Protein translocase subunit SecE
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00103	tRNA	77				tRNA-Met(cat)
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00104	CDS	720	livF		COG0410	High-affinity branched-chain amino acid transport ATP-binding protein LivF
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00105	CDS	780	lptB	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00106	CDS	927				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00107	CDS	870	livH		COG0559	High-affinity branched-chain amino acid transport system permease protein LivH
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00108	tRNA	86				tRNA-Tyr(gta)
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00109	tRNA	76				tRNA-Thr(tgt)
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00110	CDS	249				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00111	CDS	660	sigH		COG1595	RNA polymerase sigma-H factor
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00112	CDS	510	yacP		COG3688	putative protein YacP
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00113	CDS	750		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00114	CDS	735	thyX_1	2.1.1.148		Flavin-dependent thymidylate synthase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00115	CDS	414	mrnC	3.1.26.-	COG1939	Mini-ribonuclease 3
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00116	CDS	1497	cysS	6.1.1.16		Cysteine--tRNA ligase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00117	CDS	732	cysE	2.3.1.30	COG1045	Serine acetyltransferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00118	CDS	1509	gltX	6.1.1.17		Glutamate--tRNA ligase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00119	CDS	501	ispF	4.6.1.12	COG0245	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00120	CDS	714	ispD	2.7.7.60	COG1211	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00121	CDS	1188				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00122	CDS	477	carD		COG1329	RNA polymerase-binding transcription factor CarD
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00123	CDS	1107	disA	2.7.7.85	COG1623	DNA integrity scanning protein DisA
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00124	CDS	1356	radA	3.6.4.-	COG1066	DNA repair protein RadA
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00125	CDS	2475	clpC		COG0542	Negative regulator of genetic competence ClpC/MecB
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00126	CDS	1050	mcsB	2.7.14.1	COG3869	Protein-arginine kinase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00127	CDS	498	mcsA		COG3880	Protein-arginine kinase activator protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00128	CDS	483	ctsr			Transcriptional regulator CtsR
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00129	tRNA	76				tRNA-Asn(gtt)
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00130	CDS	465				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00131	CDS	282				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00132	CDS	750	sfp	2.7.8.7	COG2091	4'-phosphopantetheinyl transferase Sfp
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00133	CDS	1050				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00134	CDS	4221				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00135	CDS	735	pikAV	3.1.2.-		Thioesterase PikA5
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00136	CDS	6372	dltA	6.2.1.54		D-alanine--D-alanyl carrier protein ligase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00137	CDS	1155	dhaT	1.1.1.202	COG1454	1,3-propanediol dehydrogenase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00138	CDS	1401	yhdG		COG0531	putative amino acid permease YhdG
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00139	CDS	1347	gabT	2.6.1.19	COG0160	4-aminobutyrate aminotransferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00140	CDS	1233				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00141	CDS	570	pdxT	4.3.3.6	COG0311	Pyridoxal 5'-phosphate synthase subunit PdxT
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00142	CDS	885	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00143	CDS	2445	gyrA	5.6.2.2	COG0188	DNA gyrase subunit A
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00144	CDS	1926	gyrB	5.6.2.2	COG0187	DNA gyrase subunit B
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00145	CDS	237				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00146	CDS	1131	recF		COG1195	DNA replication and repair protein RecF
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00147	CDS	219				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00148	CDS	1203	dnaN		COG0592	Beta sliding clamp
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00149	CDS	1329	dnaA		COG0593	Chromosomal replication initiator protein DnaA
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00150	CDS	138	rpmH		COG0230	50S ribosomal protein L34
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00151	CDS	387	rnpA	3.1.26.5		Ribonuclease P protein component
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00152	CDS	210	yidD		COG0759	Putative membrane protein insertion efficiency factor
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00153	CDS	666	yidC2		COG0706	Membrane protein insertase YidC 2
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00154	CDS	621				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00155	CDS	1377	mnmE	3.6.-.-	COG0486	tRNA modification GTPase MnmE
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00156	CDS	1929	mnmG			tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00157	CDS	897	nfo	3.1.21.2		endonuclease 4
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00158	CDS	1083	msmX	7.5.2.-	COG3839	Oligosaccharides import ATP-binding protein MsmX
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00159	CDS	897	ycjP		COG0395	Inner membrane ABC transporter permease protein YcjP
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00160	CDS	888	melD		COG1175	Melibiose/raffinose/stachyose import permease protein MelD
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00161	CDS	1371				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00162	CDS	993	rbsR		COG1609	Ribose operon repressor
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00163	CDS	840				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00164	CDS	630	yceC		COG2310	Stress response protein SCP2
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00165	CDS	582	yceD		COG2310	General stress protein 16U
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00166	CDS	942	yrbG		COG0530	Inner membrane protein YrbG
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00167	CDS	447	IMPDH_1	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00168	CDS	366				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00169	CDS	459	secB			Protein-export protein SecB
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00170	CDS	246				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00171	CDS	516				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00172	CDS	2826	uvrA			UvrABC system protein A
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00173	CDS	1152				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00174	CDS	303				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00175	CDS	189				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00176	CDS	765	helY	3.6.4.-	COG4581	putative helicase HelY
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00177	CDS	1578				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00178	CDS	555				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00179	CDS	675	hisG	2.4.2.17	COG0040	ATP phosphoribosyltransferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00180	CDS	1287	hisD	1.1.1.23		Histidinol dehydrogenase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00181	CDS	1083	hisC	2.6.1.9	COG0079	Histidinol-phosphate aminotransferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00182	CDS	588	hisB	4.2.1.19		Imidazoleglycerol-phosphate dehydratase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00183	CDS	564				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00184	CDS	615	hisH	4.3.2.10	COG0118	Imidazole glycerol phosphate synthase subunit HisH
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00185	CDS	753	hisA	5.3.1.16	COG0106	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00186	CDS	759	hisF	4.3.2.10	COG0107	Imidazole glycerol phosphate synthase subunit HisF
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00187	CDS	732	hisI	3.5.4.19		Histidine biosynthesis bifunctional protein HisIE
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00188	CDS	1404	rsxB_1	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00189	CDS	216				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00190	CDS	189				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00191	CDS	249	purS	6.3.5.3	COG1828	Phosphoribosylformylglycinamidine synthase subunit PurS
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00192	CDS	705	purQ	6.3.5.3	COG0047	Phosphoribosylformylglycinamidine synthase subunit PurQ
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00193	CDS	2244	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase subunit PurL
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00194	CDS	1491	purF_1	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00195	CDS	1146				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00196	CDS	213				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00197	CDS	228				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00198	CDS	1047	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00199	CDS	636	purN	2.1.2.2	COG0299	Phosphoribosylglycinamide formyltransferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00200	CDS	138				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00201	CDS	648	adk	2.7.4.3		Adenylate kinase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00202	CDS	1410	gltD_1	1.4.1.13	COG0493	Glutamate synthase [NADPH] small chain
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00203	CDS	849			COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit 
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00204	CDS	1647				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00205	CDS	873	htpX	3.4.24.-	COG0501	Protease HtpX
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00206	CDS	486				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00207	CDS	240				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00208	CDS	462				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00209	CDS	852	degV		COG1307	Protein DegV
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00210	CDS	165				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00211	CDS	363				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00212	CDS	246	csrA			Translational regulator CsrA
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00213	CDS	441	fliW		COG1699	Flagellar assembly factor FliW
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00214	CDS	360				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00215	CDS	996	flgL		COG1344	Flagellar hook-associated protein 3
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00216	CDS	3177				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00217	CDS	3972				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00218	CDS	441				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00219	CDS	1047				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00220	CDS	1371	ntpJ			Potassium/sodium uptake protein NtpJ
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00221	CDS	381				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00222	CDS	1509	malQ	2.4.1.25	COG1640	4-alpha-glucanotransferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00223	CDS	2466	glgP_1	2.4.1.1	COG0058	Glycogen phosphorylase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00224	CDS	1962	apu		COG0366	Amylopullulanase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00225	CDS	2466	glgP_2	2.4.1.1	COG0058	Glycogen phosphorylase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00226	CDS	1419	glgA	2.4.1.21	COG0297	Glycogen synthase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00227	CDS	1164	glgD		COG0448	Glycogen biosynthesis protein GlgD
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00228	CDS	1269	glgC	2.7.7.27	COG0448	Glucose-1-phosphate adenylyltransferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00229	CDS	1899	glgB	2.4.1.18		1,4-alpha-glucan branching enzyme GlgB
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00230	CDS	261				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00231	CDS	969				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00232	CDS	579	ecdB	2.5.1.129	COG0163	putative UbiX-like flavin prenyltransferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00233	CDS	777	recO		COG1381	DNA repair protein RecO
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00234	CDS	870	glyQ	6.1.1.14	COG0752	Glycine--tRNA ligase alpha subunit
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00235	CDS	2127	glyS	6.1.1.14	COG0751	Glycine--tRNA ligase beta subunit
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00236	CDS	837	yqfL	2.7.11.32	COG1806	Putative pyruvate, phosphate dikinase regulatory protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00237	CDS	2673	ppdK	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00238	CDS	606	pnpB	1.6.5.6		p-benzoquinone reductase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00239	CDS	1023				Deoxyguanosinetriphosphate triphosphohydrolase-like protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00240	CDS	1863	dnaG	2.7.7.-		DNA primase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00241	CDS	1122	sigA_1		COG0568	RNA polymerase sigma factor SigA
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00242	tRNA	76				tRNA-Met(cat)
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00243	tRNA	76				tRNA-Glu(ttc)
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00244	tRNA	76				tRNA-Val(tac)
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00245	CDS	195				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00246	CDS	267				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00247	CDS	705	trmK	2.1.1.217	COG2384	tRNA (adenine(22)-N(1))-methyltransferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00248	CDS	819			COG0327	GTP cyclohydrolase 1 type 2 
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00249	CDS	1290	tig	5.2.1.8	COG0544	Trigger factor
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00250	CDS	591	clpP	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00251	CDS	1263	clpX		COG1219	ATP-dependent Clp protease ATP-binding subunit ClpX
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00252	CDS	1713	lon2	3.4.21.53	COG1067	Lon protease 2
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00253	CDS	2394	lon1	3.4.21.53	COG0466	Lon protease 1
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00254	CDS	588	engB		COG0218	putative GTP-binding protein EngB
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00255	CDS	2082	deaD	3.6.4.13		ATP-dependent RNA helicase DeaD
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00256	CDS	792	cwlS	3.4.19.11	COG0791	D-gamma-glutamyl-meso-diaminopimelic acid endopeptidase CwlS
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00257	CDS	489	rnhA	3.1.26.4	COG0328	Ribonuclease HI
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00258	CDS	693	ssuB	3.6.3.-	COG1116	Aliphatic sulfonates import ATP-binding protein SsuB
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00259	CDS	1188	aroC	4.2.3.5	COG0082	Chorismate synthase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00260	CDS	534	aroK	2.7.1.71	COG0703	Shikimate kinase 1
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00261	CDS	189				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00262	CDS	249				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00263	CDS	1113	aroB	4.2.3.4	COG0337	3-dehydroquinate synthase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00264	CDS	1086				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00265	CDS	1932	nadE_1	6.3.5.1	COG0171	Glutamine-dependent NAD(+) synthetase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00266	CDS	1170				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00267	CDS	1383				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00268	CDS	1128	stiP	3.4.22.-		Cysteine protease StiP
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00269	CDS	798				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00270	CDS	387	rsxB_2	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00271	CDS	717	fixK		COG0664	Nitrogen fixation regulation protein FixK
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00272	CDS	414				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00273	CDS	369				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00274	CDS	984	trpS	6.1.1.2	COG0180	Tryptophan--tRNA ligase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00275	CDS	630				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00276	CDS	2634		2.7.7.-	COG0517	A-adding tRNA nucleotidyltransferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00277	CDS	1320	lysA	4.1.1.20	COG0019	Diaminopimelate decarboxylase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00278	CDS	1098	purF_2	2.4.2.14		Amidophosphoribosyltransferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00279	CDS	378				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00280	CDS	192				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00281	CDS	1335	glnA	6.3.1.2	COG0174	Glutamine synthetase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00282	CDS	588	pdtaR		COG3707	putative transcriptional regulatory protein pdtaR
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00283	CDS	123				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00284	CDS	231				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00285	CDS	291				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00286	CDS	504	folK	2.7.6.3	COG0801	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00287	CDS	411				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00288	CDS	327				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00289	CDS	2085	recG	3.6.4.12		ATP-dependent DNA helicase RecG
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00290	CDS	210				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00291	CDS	192	rpmB		COG0227	50S ribosomal protein L28
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00292	CDS	468	ribH	2.5.1.78	COG0054	6,7-dimethyl-8-ribityllumazine synthase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00293	CDS	1203	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00294	CDS	333				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00295	CDS	117				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00296	CDS	576	ribE	2.5.1.9	COG0307	Riboflavin synthase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00297	CDS	723	rsmG	2.1.1.-	COG0357	Ribosomal RNA small subunit methyltransferase G
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00298	CDS	831	soj	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00299	CDS	885	spo0J		COG1475	Stage 0 sporulation protein J
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00300	CDS	681	ydfK		COG1811	putative membrane protein YdfK
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00301	CDS	630			COG1926	Putative phosphoribosyl transferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00302	CDS	294				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00303	CDS	1857	sasA	2.7.-.-		Adaptive-response sensory-kinase SasA
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00304	CDS	570	regX3		COG0745	Sensory transduction protein regX3
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00305	CDS	132				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00306	CDS	246				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00307	CDS	1746				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00308	CDS	195				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00309	CDS	861				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00310	CDS	936	lnrL_1	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00311	CDS	1215				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00312	CDS	696				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00313	CDS	1548	ald	1.2.99.10		4,4'-diapolycopene aldehyde oxidase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00314	CDS	2697				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00315	CDS	876				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00316	CDS	1344	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00317	CDS	276				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00318	CDS	582				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00319	CDS	441				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00320	CDS	1830	typA		COG1217	GTP-binding protein TypA/BipA
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00321	CDS	597	azoR	1.7.1.17		FMN-dependent NADH-azoreductase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00322	CDS	627				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00323	CDS	531				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00324	CDS	318				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00325	CDS	684				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00326	CDS	1077	yhcG	3.1.-.-	COG4804	Putative nuclease YhcG
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00327	CDS	1164				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00328	CDS	177				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00329	CDS	435				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00330	CDS	1371				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00331	tRNA	83				tRNA-Leu(gag)
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00332	CDS	543	slt	4.2.2.-	COG0741	Soluble lytic murein transglycosylase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00333	CDS	612	coaE	2.7.1.24	COG0237	Dephospho-CoA kinase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00334	tRNA	87				tRNA-Leu(caa)
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00335	CDS	639				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00336	CDS	600	algU		COG1595	RNA polymerase sigma-H factor
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00337	CDS	1188				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00338	CDS	276				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00339	CDS	249				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00340	CDS	489				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00341	CDS	360				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00342	CDS	360				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00343	CDS	234				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00344	CDS	1155	mdtA			Multidrug resistance protein MdtA
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00345	CDS	2379				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00346	CDS	714	lolD	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00347	CDS	930				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00348	CDS	156				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00349	CDS	1056	pseI	2.5.1.97	COG2089	Pseudaminic acid synthase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00350	CDS	189				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00351	CDS	228				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00352	CDS	654				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00353	CDS	684	fmt	2.1.2.9		Methionyl-tRNA formyltransferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00354	CDS	555				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00355	CDS	342				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00356	CDS	294				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00357	CDS	1005				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00358	CDS	327				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00359	CDS	219				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00360	CDS	927	cysK1	2.5.1.47	COG0031	O-acetylserine sulfhydrylase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00361	CDS	1515	leuA	2.3.3.13	COG0119	2-isopropylmalate synthase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00362	CDS	1002	ilvC	1.1.1.382		Ketol-acid reductoisomerase (NAD(+))
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00363	CDS	510	ilvH	2.2.1.6	COG0440	Acetolactate synthase small subunit
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00364	CDS	351				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00365	CDS	309				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00366	CDS	1662	ilvB	2.2.1.6	COG0028	Acetolactate synthase large subunit
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00367	CDS	1662	ilvD	4.2.1.9	COG0129	Dihydroxy-acid dehydratase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00368	CDS	1182	metK	2.5.1.6		S-adenosylmethionine synthase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00369	CDS	1197				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00370	CDS	225				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00371	CDS	225				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00372	CDS	183				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00373	CDS	423				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00374	CDS	2034				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00375	CDS	1236	gltD_2	1.4.1.13	COG0493	Glutamate synthase [NADPH] small chain
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00376	CDS	450				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00377	CDS	219				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00378	CDS	522				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00379	CDS	210	arnB_1	2.6.1.87	COG0399	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00380	CDS	540	arnB_2	2.6.1.87		UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00381	CDS	657	wzxC		COG2244	Lipopolysaccharide biosynthesis protein WzxC
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00382	CDS	507				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00383	CDS	312				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00384	CDS	933	dacF	3.4.16.4	COG1686	D-alanyl-D-alanine carboxypeptidase DacF
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00385	tRNA	75				tRNA-Val(gac)
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00386	CDS	243				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00387	CDS	261				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00388	CDS	912	pyrK		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00389	CDS	429				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00390	CDS	435				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00391	CDS	951	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00392	CDS	738	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00393	CDS	579	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00394	CDS	1842	feoB		COG0370	Fe(2+) transporter FeoB
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00395	CDS	1128				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00396	CDS	1305		2.8.3.-	COG0427	Butyryl-CoA:acetate CoA-transferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00397	CDS	501				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00398	CDS	681				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00399	CDS	534				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00400	CDS	798				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00401	CDS	1104	ychF		COG0012	Ribosome-binding ATPase YchF
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00402	CDS	207				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00403	CDS	291				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00404	CDS	465	argA	2.3.1.1	COG1246	Amino-acid acetyltransferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00405	CDS	903				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00406	CDS	1338	anfK	1.18.6.1	COG2710	Nitrogenase iron-iron protein beta chain
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00407	CDS	1614	actP_1		COG4147	Cation/acetate symporter ActP
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00408	CDS	2265	pflB	2.3.1.54		Formate acetyltransferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00409	CDS	447				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00410	CDS	1158			COG4663	Lactate-binding periplasmic protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00411	CDS	522				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00412	CDS	1323	dctM_2		COG1593	C4-dicarboxylate TRAP transporter large permease protein DctM
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00413	CDS	747	pflA	1.97.1.4	COG1180	Pyruvate formate-lyase 1-activating enzyme
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00414	CDS	726				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00415	CDS	1608	actP_2		COG4147	Cation/acetate symporter ActP
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00416	CDS	231				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00417	CDS	834				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00418	CDS	546				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00419	CDS	1065	rffG	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase 2
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00420	CDS	1845	ftsA			Cell division protein FtsA
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00421	CDS	1959			COG2200	putative signaling protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00422	CDS	249				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00423	CDS	1038	mreB_1		COG1077	Cell shape-determining protein MreB
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00424	CDS	270	spoIIID			Stage III sporulation protein D
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00425	CDS	1005			COG2385	putative protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00426	CDS	414	atpC		COG0355	ATP synthase epsilon chain
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00427	CDS	1422	atpD	7.1.2.2	COG0055	ATP synthase subunit beta
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00428	CDS	891	atpG		COG0224	ATP synthase gamma chain
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00429	CDS	1779				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00430	CDS	987				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00431	CDS	1542				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00432	CDS	1683	cas4-cas1	3.1.-.-	COG1518	CRISPR-associated exonuclease Cas4/endonuclease Cas1 fusion
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00433	CDS	1140				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00434	CDS	1074				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00435	CDS	1086	mqnC	1.21.98.1	COG1060	Cyclic dehypoxanthine futalosine synthase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00436	CDS	858	mqnA	4.2.1.151	COG1427	Chorismate dehydratase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00437	CDS	867	ubiA	2.5.1.39	COG0382	4-hydroxybenzoate octaprenyltransferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00438	CDS	1452	ubiD	4.1.1.98	COG0043	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00439	CDS	837	phnJ	4.7.1.1	COG3627	Alpha-D-ribose 1-methylphosphonate 5-phosphate C-P lyase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00440	CDS	1125	phnI	2.7.8.37	COG3626	Alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase subunit PhnI
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00441	CDS	633				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00442	CDS	444				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00443	CDS	828	phnE_1		COG3639	Phosphate-import permease protein PhnE
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00444	CDS	786	phnE_2		COG3639	Phosphate-import permease protein PhnE
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00445	CDS	921	ftsH_1	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00446	CDS	1236	cinA		COG1058	Putative competence-damage inducible protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00447	CDS	237				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00448	CDS	1065	leuB	1.1.1.85	COG0473	3-isopropylmalate dehydrogenase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00449	CDS	504	DmdB_1	4.2.1.85		2,3-dimethylmalate dehydratase small subunit
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00450	CDS	510				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00451	CDS	267				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00452	CDS	153				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00453	CDS	258	zapA		COG3027	Cell division protein ZapA
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00454	CDS	2424	pheT	6.1.1.20		Phenylalanine--tRNA ligase beta subunit
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00455	CDS	189				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00456	CDS	1023	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00457	CDS	798	aviRb	2.1.1.208		23S rRNA (uridine(2479)-2'-O)-methyltransferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00458	CDS	654	ktrA		COG0569	Ktr system potassium uptake protein A
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00459	CDS	357	rplT		COG0292	50S ribosomal protein L20
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00460	CDS	192	rpmI		COG0291	50S ribosomal protein L35
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00461	CDS	477	infC			Translation initiation factor IF-3
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00462	CDS	687	ftsE		COG2884	Cell division ATP-binding protein FtsE
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00463	CDS	909	ftsX		COG2177	Cell division protein FtsX
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00464	CDS	1125				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00465	CDS	1155	ctpB	3.4.21.102	COG0793	Carboxy-terminal processing protease CtpB
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00466	CDS	1230	minJ		COG0265	Cell division topological determinant MinJ
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00467	CDS	564	udg	3.2.2.27	COG1573	Type-4 uracil-DNA glycosylase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00468	CDS	189				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00469	CDS	1272	murAA_1	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 1
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00470	CDS	909	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00471	CDS	1395	murC	6.3.2.8	COG0773	UDP-N-acetylmuramate--L-alanine ligase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00472	CDS	1113	murG	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00473	CDS	1104	ftsW	2.4.1.129	COG0772	putative peptidoglycan glycosyltransferase FtsW
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00474	CDS	1368	murD	6.3.2.9		UDP-N-acetylmuramoylalanine--D-glutamate ligase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00475	CDS	1014	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00476	CDS	1392	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00477	CDS	1443	murE	6.3.2.13	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00478	CDS	2130	spoVD_1		COG0768	Stage V sporulation protein D
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00479	CDS	501	ftsL_1			Cell division protein FtsL
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00480	CDS	936	rsmH	2.1.1.199		Ribosomal RNA small subunit methyltransferase H
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00481	CDS	423	mraZ			Transcriptional regulator MraZ
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00482	CDS	804	hisK	3.1.3.15	COG1387	Histidinol-phosphatase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00483	CDS	444	fur		COG0735	Ferric uptake regulation protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00484	CDS	1131	hhoB			Putative serine protease HhoB
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00485	CDS	1005		3.1.4.-	COG2206	Cyclic di-GMP phosphodiesterase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00486	CDS	2235	rsxB_3	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00487	CDS	1266		1.18.1.2		Ferredoxin--NADP reductase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00488	CDS	1887	aprA	1.8.99.2		Adenylylsulfate reductase subunit alpha
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00489	CDS	444	aprB			Adenylylsulfate reductase subunit beta
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00490	CDS	1173	sat	2.7.7.4	COG2046	Sulfate adenylyltransferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00491	CDS	870	sdhE	1.3.5.-	COG2048	8-methylmenaquinol:fumarate reductase membrane anchor subunit
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00492	CDS	585				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00493	CDS	840	prpC	3.1.3.16	COG0631	Protein phosphatase PrpC
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00494	CDS	756	yisK		COG0179	putative protein YisK
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00495	CDS	846				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00496	CDS	744	menG	2.1.1.163	COG2226	Demethylmenaquinone methyltransferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00497	CDS	252				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00498	CDS	201				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00499	CDS	3366	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00500	CDS	231	mtrB			Transcription attenuation protein MtrB
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00501	CDS	861	accD	2.1.3.15	COG0777	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00502	CDS	960	accA	2.1.3.15	COG0825	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00503	CDS	303				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00504	CDS	447	yrrK	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00505	CDS	687	thyX_2	2.1.1.148		Flavin-dependent thymidylate synthase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00506	CDS	471				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00507	CDS	321				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00508	CDS	543				IS3 family transposase IS120
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00509	CDS	957				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00510	CDS	261	spoVS		COG2359	Stage V sporulation protein S
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00511	CDS	780	ymdB	3.1.4.16	COG1692	2',3'-cyclic-nucleotide 2'-phosphodiesterase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00512	CDS	525				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00513	CDS	1542	rny	3.1.-.-	COG1418	Ribonuclease Y
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00514	CDS	1062	recA		COG0468	Protein RecA
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00515	CDS	1623	cshA	3.6.4.13	COG0513	DEAD-box ATP-dependent RNA helicase CshA
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00516	CDS	1572	cimA	2.3.1.182	COG0119	(R)-citramalate synthase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00517	CDS	771				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00518	CDS	849				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00519	CDS	843				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00520	CDS	891	pstC		COG0573	Phosphate transport system permease protein PstC
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00521	CDS	885	pstS1		COG0226	Phosphate-binding protein PstS 1
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00522	CDS	930	yitJ		COG0646	Bifunctional homocysteine S-methyltransferase/5,10-methylenetetrahydrofolate reductase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00523	CDS	666				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00524	CDS	153				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00525	CDS	1317	rho	3.6.4.-	COG1158	Transcription termination factor Rho
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00526	CDS	573				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00527	CDS	207	rpmE		COG0254	50S ribosomal protein L31
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00528	CDS	903				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00529	CDS	1065	prfA		COG0216	Peptide chain release factor 1
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00530	CDS	873	prmC	2.1.1.297	COG2890	Release factor glutamine methyltransferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00531	CDS	2196	cadA	3.6.3.3		Cadmium-transporting ATPase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00532	CDS	264				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00533	CDS	717				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00534	CDS	1689				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00535	CDS	1965				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00536	CDS	420				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00537	CDS	339				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00538	CDS	318				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00539	CDS	2814				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00540	CDS	1299				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00541	CDS	879	gtaB_1	2.7.7.9	COG1210	UTP--glucose-1-phosphate uridylyltransferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00542	CDS	1086	tagO_1	2.7.8.33	COG0472	putative undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00543	CDS	423	fabZ_1	4.2.1.59		3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00544	CDS	432				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00545	CDS	873	gtaB_2	2.7.7.9	COG1210	UTP--glucose-1-phosphate uridylyltransferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00546	CDS	1089	tagO_2	2.7.8.33	COG0472	putative undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00547	CDS	423	fabZ_2	4.2.1.59		3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00548	CDS	1101				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00549	CDS	1098				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00550	CDS	669				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00551	CDS	1452	sdcS_1			Sodium-dependent dicarboxylate transporter SdcS
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00552	CDS	846	phnPP_2	3.1.4.57	COG0613	Phosphoribosyl 1,2-cyclic phosphate 1,2-diphosphodiesterase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00553	CDS	1230	phnM	3.6.1.63	COG3454	Alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00554	CDS	714	phnL	2.7.8.37	COG4778	Alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase subunit PhnL
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00555	CDS	840	phnK		COG4107	Putative phosphonates utilization ATP-binding protein PhnK
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00556	CDS	690				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00557	CDS	1461	tldD	3.4.-.-	COG0312	Metalloprotease TldD
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00558	CDS	711				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00559	CDS	549				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00560	CDS	375				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00561	CDS	480				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00562	CDS	522				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00563	CDS	966	epsF		COG1459	Type II secretion system protein F
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00564	CDS	714				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00565	CDS	303				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00566	CDS	312				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00567	CDS	261				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00568	CDS	687	rpe	5.1.3.1		Ribulose-phosphate 3-epimerase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00569	CDS	876	rsgA	3.6.1.-	COG1162	Small ribosomal subunit biogenesis GTPase RsgA
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00570	CDS	1824	prkC	2.7.11.1	COG0515	Serine/threonine-protein kinase PrkC
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00571	CDS	1386	pbpA		COG0768	Penicillin-binding protein A
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00572	CDS	1182	rodA		COG0772	putative FtsW-like protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00573	CDS	1275	obg	3.6.5.-	COG0536	GTPase Obg
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00574	CDS	273	rpmA			50S ribosomal protein L27
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00575	CDS	354	rplU		COG0261	50S ribosomal protein L21
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00576	CDS	978				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00577	CDS	528				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00578	CDS	684				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00579	CDS	759	surE	3.1.3.5	COG0496	5'-nucleotidase SurE
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00580	CDS	561	folE	3.5.4.16	COG0302	GTP cyclohydrolase 1
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00581	CDS	747	queE	4.3.99.3		7-carboxy-7-deazaguanine synthase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00582	CDS	564				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00583	CDS	666	queC	6.3.4.20	COG0603	7-cyano-7-deazaguanine synthase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00584	CDS	759				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00585	CDS	915	lnrL_2	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00586	CDS	987			COG0330	putative protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00587	CDS	453				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00588	CDS	894				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00589	CDS	3228				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00590	CDS	1032				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00591	CDS	654				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00592	CDS	1212				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00593	CDS	510				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00594	CDS	99				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00595	CDS	1539	hsdM	2.1.1.72	COG0286	Type I restriction enzyme EcoKI M protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00596	CDS	1428				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00597	CDS	771	ycfH	3.1.-.-	COG0084	putative metal-dependent hydrolase YcfH
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00598	CDS	1551	metG	6.1.1.10		Methionine--tRNA ligase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00599	CDS	255				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00600	CDS	2334	speE	2.5.1.16		Polyamine aminopropyltransferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00601	CDS	1170				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00602	CDS	855	rsmI	2.1.1.198	COG0313	Ribosomal RNA small subunit methyltransferase I
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00603	CDS	327	yabA		COG4467	Initiation-control protein YabA
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00604	CDS	816				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00605	CDS	999				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00606	CDS	648	tmk_1	2.7.4.9	COG0125	Thymidylate kinase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00607	CDS	1458	speA	4.1.1.19	COG1982	Arginine decarboxylase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00608	CDS	306				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00609	CDS	1149	epsN	2.6.1.-	COG0399	Putative pyridoxal phosphate-dependent aminotransferase EpsN
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00610	CDS	663	epsM	2.3.1.-	COG0110	Putative acetyltransferase EpsM
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00611	CDS	468				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00612	CDS	267				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00613	CDS	594	epsL	2.-.-.-	COG2148	putative sugar transferase EpsL
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00614	CDS	360				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00615	CDS	306				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00616	CDS	183				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00617	CDS	309				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00618	CDS	1332	tuaD	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase TuaD
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00619	CDS	666				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00620	CDS	483	hndA	1.12.1.3	COG1905	NADP-reducing hydrogenase subunit HndA
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00621	CDS	1962	napA	1.9.6.1		Periplasmic nitrate reductase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00622	CDS	1950	ndhI	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00623	CDS	1407				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00624	CDS	204				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00625	CDS	2115				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00626	CDS	1269	dmdA	4.2.1.85		2,3-dimethylmalate dehydratase large subunit
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00627	CDS	1107				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00628	tRNA	88				tRNA-Leu(cag)
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00629	CDS	159				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00630	tRNA	75				tRNA-Gln(ttg)
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00631	tRNA	77				tRNA-Pro(tgg)
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00632	CDS	381				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00633	CDS	753	umpB_1			Na(+), Li(+), K(+)/H(+) antiporter subunit B
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00634	CDS	693	umpB_2			Na(+), Li(+), K(+)/H(+) antiporter subunit B
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00635	CDS	1440	bioB_1	2.8.1.6		Biotin synthase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00636	CDS	1503	thrC	4.2.3.1	COG0498	Threonine synthase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00637	CDS	735	cpdA	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00638	CDS	1128	alr1	5.1.1.1	COG0787	Alanine racemase 1
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00639	CDS	477				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00640	CDS	1428	yscN	7.1.2.2		putative ATP synthase YscN
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00641	CDS	717	atpE			V-type proton ATPase subunit E
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00642	CDS	1008	fliG		COG1536	Flagellar motor switch protein FliG
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00643	CDS	1164	fliF_1		COG1766	Flagellar M-ring protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00644	CDS	435	fliF_2		COG1766	Flagellar M-ring protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00645	CDS	312	fliE			Flagellar hook-basal body complex protein FliE
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00646	CDS	450	flgC		COG1558	Flagellar basal-body rod protein FlgC
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00647	CDS	402	flgB		COG1815	Flagellar basal body rod protein FlgB
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00648	CDS	1176	per	2.6.1.102	COG0399	GDP-perosamine synthase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00649	CDS	1311				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00650	CDS	363	yvyC		COG1334	putative protein YvyC
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00651	CDS	486				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00652	CDS	432	fliS		COG1516	Flagellar secretion chaperone FliS
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00653	CDS	819	fliD		COG1345	Flagellar hook-associated protein 2
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00654	CDS	3210	carB_1	6.3.5.5		Carbamoyl-phosphate synthase large chain
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00655	CDS	1068	carA	6.3.5.5	COG0505	Carbamoyl-phosphate synthase small chain
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00656	CDS	1278	pyrC	3.5.2.3	COG0044	Dihydroorotase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00657	CDS	939	pyrB	2.1.3.2		Aspartate carbamoyltransferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00658	CDS	555	pyrR			Bifunctional protein PyrR
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00659	CDS	996				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00660	CDS	492				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00661	CDS	255				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00662	CDS	693	degU		COG2197	Transcriptional regulatory protein DegU
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00663	CDS	1137	degS	2.7.13.3		Signal transduction histidine-protein kinase/phosphatase DegS
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00664	CDS	663				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00665	CDS	1401				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00666	CDS	207				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00667	CDS	303	rimP		COG0779	Ribosome maturation factor RimP
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00668	CDS	1104	nusA		COG0195	Transcription termination/antitermination protein NusA
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00669	CDS	285				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00670	CDS	339	rplGA		COG1358	putative ribosomal protein YlxQ
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00671	CDS	2340	infB			Translation initiation factor IF-2
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00672	CDS	348	rbfA			Ribosome-binding factor A
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00673	CDS	975	nrnA	3.1.-.-	COG0618	Bifunctional oligoribonuclease and PAP phosphatase NrnA
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00674	CDS	927	truB	5.4.99.25		tRNA pseudouridine synthase B
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00675	CDS	903				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00676	CDS	1614	nnr		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00677	CDS	375	acpS	2.7.8.7	COG0736	Holo-[acyl-carrier-protein] synthase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00678	CDS	780	ypdB		COG3279	Transcriptional regulatory protein YpdB
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00679	CDS	1356	ypdA	2.7.13.3	COG3275	Sensor histidine kinase YpdA
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00680	CDS	1788	ndhB_1	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00681	CDS	243				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00682	CDS	1491	ndhB_2	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00683	CDS	1503	mrpD		COG0651	Na(+)/H(+) antiporter subunit D
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00684	CDS	396				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00685	CDS	1035				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00686	CDS	381	mrpG		COG1320	Na(+)/H(+) antiporter subunit G
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00687	CDS	255				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00688	CDS	483	mnhE1		COG1863	Na(+)/H(+) antiporter subunit E1
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00689	CDS	1941	acsA	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00690	CDS	1035				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00691	CDS	1083	ilvK	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase 2
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00692	CDS	675	mtnX	3.1.3.87	COG4359	2-hydroxy-3-keto-5-methylthiopentenyl-1-phosphate phosphatase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00693	CDS	276				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00694	CDS	327				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00695	CDS	2226				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00696	CDS	1602				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00697	CDS	537				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00698	CDS	348				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00699	CDS	540	yajL	3.1.2.-	COG0693	Protein/nucleic acid deglycase 3
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00700	CDS	657	ppaX	3.6.1.1	COG0546	Pyrophosphatase PpaX
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00701	CDS	372	ziaR			Transcriptional repressor SmtB 
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00702	CDS	939	ribF		COG0196	Bifunctional riboflavin kinase/FMN adenylyltransferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00703	CDS	270	rpsO			30S ribosomal protein S15
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00704	CDS	2157	pnp	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00705	CDS	726	pgdA	3.5.1.104	COG0726	Peptidoglycan-N-acetylglucosamine deacetylase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00706	CDS	1272		3.4.24.-	COG0612	putative zinc protease
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00707	CDS	318				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00708	CDS	270	ylmC_1		COG1873	putative sporulation protein YlmC
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00709	CDS	798	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00710	CDS	894	dpaA	1.3.1.-		Dipicolinate synthase subunit A
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00711	CDS	591	dpaB	1.3.1.-	COG0452	Dipicolinate synthase subunit B
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00712	CDS	1026	asd	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00713	CDS	900	dapA	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00714	CDS	1668	rnjA	3.1.-.-	COG0595	Ribonuclease J1
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00715	CDS	1317	pdp	2.4.2.2	COG0213	Pyrimidine-nucleoside phosphorylase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00716	CDS	762				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00717	CDS	1209	deoB	5.4.2.7	COG1015	Phosphopentomutase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00718	CDS	300	spoIVA_1	3.6.1.3		Stage IV sporulation protein A
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00719	CDS	858	spoIVA_2	3.6.1.3		Stage IV sporulation protein A
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00720	CDS	282				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00721	CDS	99				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00722	CDS	162				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00723	CDS	1305	hom	1.1.1.3	COG0460	Homoserine dehydrogenase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00724	CDS	897	thrB	2.7.1.39	COG0083	Homoserine kinase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00725	CDS	1215	lysC	2.7.2.4		Aspartokinase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00726	CDS	381				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00727	CDS	369				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00728	CDS	879	IMPDH_2	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00729	CDS	1179		2.3.1.-		Putative pyridoxal phosphate-dependent acyltransferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00730	CDS	1041	tdh	1.1.1.103	COG1063	L-threonine 3-dehydrogenase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00731	CDS	540	hpt	2.4.2.8		Hypoxanthine-guanine phosphoribosyltransferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00732	CDS	1551	guaA	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00733	CDS	624		3.6.1.66	COG0127	dITP/XTP pyrophosphatase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00734	CDS	477				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00735	CDS	762	motB_1		COG1360	Motility protein B
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00736	CDS	804	comB	3.1.3.71	COG2045	putative 2-phosphosulfolactate phosphatase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00737	CDS	972	glpX	3.1.3.11	COG1494	Fructose-1,6-bisphosphatase class 2
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00738	CDS	879	mscS		COG0668	Small-conductance mechanosensitive channel
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00739	CDS	1083	pfp	2.7.1.90		Pyrophosphate--fructose 6-phosphate 1-phosphotransferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00740	tRNA	75				tRNA-Cys(gca)
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00741	tRNA	89				tRNA-Leu(taa)
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00742	tRNA	75				tRNA-Gly(gcc)
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00743	tRNA	76				tRNA-Phe(gaa)
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00744	tRNA	76				tRNA-Asp(gtc)
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00745	CDS	723	dsbD_1	1.8.1.8	COG4232	Thiol:disulfide interchange protein DsbD
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00746	CDS	237				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00747	CDS	192				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00748	CDS	582				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00749	CDS	282				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00750	CDS	150				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00751	CDS	786				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00752	CDS	2151	spoIIIE		COG1674	DNA translocase SpoIIIE
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00753	CDS	1662	bchB	1.3.7.7		Light-independent protochlorophyllide reductase subunit B
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00754	CDS	816	nifB	4.-.-.-	COG0535	FeMo cofactor biosynthesis protein NifB
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00755	CDS	420				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00756	CDS	267				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00757	CDS	1569	trpE	4.1.3.27	COG0147	Anthranilate synthase component 1
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00758	CDS	2679	alaS	6.1.1.7		Alanine--tRNA ligase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00759	CDS	291				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00760	CDS	1602	rsxB_4	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00761	CDS	792				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00762	CDS	192				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00763	CDS	741	fabG_1	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00764	CDS	2184	glgP_3	2.4.1.1	COG0058	Glycogen phosphorylase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00765	CDS	732	rpnA_1	3.1.21.-	COG5464	Recombination-promoting nuclease RpnA
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00766	CDS	882				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00767	CDS	1152	adhB	1.1.1.1		Alcohol dehydrogenase 2
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00768	CDS	1497	ald1	1.2.1.48		Long-chain-aldehyde dehydrogenase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00769	CDS	636	adhE_1		COG1012	Aldehyde-alcohol dehydrogenase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00770	CDS	525	adhE_2		COG1012	Aldehyde-alcohol dehydrogenase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00771	CDS	918	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00772	CDS	1578	nadB	1.4.3.16	COG0029	L-aspartate oxidase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00773	CDS	840	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00774	CDS	189				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00775	CDS	978	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00776	CDS	216				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00777	CDS	1692	ubiB	2.7.-.-	COG0661	putative protein kinase UbiB
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00778	CDS	633	lexA	3.4.21.88	COG1974	LexA repressor
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00779	CDS	1236	metZ	2.5.1.-		O-succinylhomoserine sulfhydrylase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00780	CDS	1221				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00781	CDS	576	rbr		COG1592	Rubrerythrin
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00782	CDS	234	acpP_1		COG0236	Acyl carrier protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00783	CDS	747	fabG_2	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00784	CDS	951	fabD	2.3.1.39	COG0331	Malonyl CoA-acyl carrier protein transacylase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00785	CDS	945		1.6.5.11	COG2070	NADH:quinone reductase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00786	CDS	966	fabH	2.3.1.180	COG0332	3-oxoacyl-[acyl-carrier-protein] synthase 3
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00787	CDS	999	plsX	2.3.1.274	COG0416	Phosphate acyltransferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00788	CDS	597	fapR		COG2050	Transcription factor FapR
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00789	CDS	684	phoU		COG0704	Phosphate-specific transport system accessory protein PhoU 
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00790	CDS	759	pstB3	7.3.2.1	COG1117	Phosphate import ATP-binding protein PstB 3
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00791	CDS	1359	phoR_1	2.7.13.3	COG0642	Alkaline phosphatase synthesis sensor protein PhoR
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00792	CDS	705	phoP		COG0745	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00793	CDS	810		1.10.3.-	COG1496	Polyphenol oxidase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00794	CDS	528	cutD	1.97.1.-		Choline trimethylamine-lyase activating enzyme
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00795	CDS	1950	nrdD	1.1.98.6	COG1328	Anaerobic ribonucleoside-triphosphate reductase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00796	CDS	480	nrdR		COG1327	Transcriptional repressor NrdR
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00797	CDS	1293	purB	4.3.2.2	COG0015	Adenylosuccinate lyase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00798	CDS	774				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00799	CDS	981				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00800	CDS	2181				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00801	CDS	564				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00802	CDS	498				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00803	CDS	1149	purK	6.3.4.18		N5-carboxyaminoimidazole ribonucleotide synthase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00804	CDS	429	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00805	CDS	1461	icd	1.1.1.42	COG0473	Isocitrate dehydrogenase [NADP]
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00806	CDS	903	arlS	2.7.13.3		Signal transduction histidine-protein kinase ArlS
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00807	CDS	414	yccU		COG1832	putative protein YccU
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00808	CDS	462	trmL	2.1.1.207	COG0219	tRNA (cytidine(34)-2'-O)-methyltransferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00809	CDS	1542	comM		COG0606	Competence protein ComM
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00810	CDS	1149	hcaT			putative 3-phenylpropionic acid transporter
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00811	CDS	492				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00812	CDS	243	hslR		COG1188	Heat shock protein 15
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00813	CDS	282	hupA			DNA-binding protein HU-alpha
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00814	CDS	852	mazG	3.6.1.8	COG1694	Nucleoside triphosphate pyrophosphohydrolase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00815	CDS	1827	ftsH_2	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00816	CDS	558	spoVT		COG2002	Stage V sporulation protein T
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00817	CDS	1032	cbf2	5.2.1.8	COG0760	Putative peptidyl-prolyl cis-trans isomerase Cbf2
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00818	CDS	3552	mfd	3.6.4.-		Transcription-repair-coupling factor
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00819	CDS	1128	proB	2.7.2.11		Glutamate 5-kinase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00820	CDS	522				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00821	CDS	222				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00822	CDS	2433	rsxB_5	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00823	CDS	1923	rsxB_6	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00824	CDS	3141	swrC		COG0841	Swarming motility protein SwrC
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00825	CDS	1110	macA_1		COG0845	Macrolide export protein MacA
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00826	CDS	339	mazF_1	3.1.27.-	COG2337	Endoribonuclease toxin MazF
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00827	CDS	237	mazE_1		COG2336	Antitoxin MazE
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00828	CDS	1383		1.-.-.-	COG0277	putative FAD-linked oxidoreductase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00829	CDS	279				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00830	CDS	1104				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00831	CDS	873				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00832	CDS	852				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00833	CDS	1185	mrdB	2.4.1.129	COG0772	Peptidoglycan glycosyltransferase MrdB
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00834	CDS	291	minE			Cell division topological specificity factor
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00835	CDS	795	minD		COG2894	Septum site-determining protein MinD
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00836	CDS	348	minC		COG0850	Septum site-determining protein MinC
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00837	CDS	1974	mrdA	3.4.16.4	COG0768	Peptidoglycan D,D-transpeptidase MrdA
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00838	CDS	501				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00839	CDS	861	mreC		COG1792	Cell shape-determining protein MreC
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00840	CDS	1032	mreB_2		COG1077	Cell shape-determining protein MreB
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00841	CDS	684				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00842	CDS	576	maf	3.6.1.9	COG0424	dTTP/UTP pyrophosphatase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00843	CDS	258				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00844	CDS	639	rex		COG2344	Redox-sensing transcriptional repressor Rex
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00845	CDS	1314	fpgS	6.3.2.17		Folylpolyglutamate synthase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00846	CDS	234				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00847	CDS	1017				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00848	CDS	588				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00849	CDS	1602				putative protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00850	CDS	849	dapF	5.1.1.7	COG0253	Diaminopimelate epimerase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00851	CDS	108				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00852	CDS	951				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00853	CDS	1107				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00854	CDS	1002				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00855	CDS	1437	pabB	2.6.1.85	COG0147	Aminodeoxychorismate synthase component 1
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00856	CDS	843	ilvE	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00857	CDS	1977	uvrC		COG0322	UvrABC system protein C
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00858	CDS	2826				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00859	CDS	480				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00860	CDS	1173	macA_2		COG0845	Macrolide export protein MacA
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00861	CDS	3129	mdtB			Multidrug resistance protein MdtB
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00862	CDS	294				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00863	CDS	1299				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00864	CDS	225				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00865	CDS	99				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00866	CDS	927	spoVK		COG0464	Stage V sporulation protein K
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00867	CDS	240	hfq		COG1923	RNA-binding protein Hfq
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00868	CDS	942	miaA	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00869	CDS	2115				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00870	CDS	1422	selA	2.9.1.1	COG1921	L-seryl-tRNA(Sec) selenium transferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00871	CDS	1923	selB		COG3276	Selenocysteine-specific elongation factor
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00872	CDS	225				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00873	CDS	381				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00874	CDS	768				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00875	CDS	1446				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00876	CDS	1035	mltG	4.2.2.-		Endolytic murein transglycosylase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00877	CDS	1218				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00878	CDS	333				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00879	CDS	294				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00880	CDS	462			COG0071	18 kDa heat shock protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00881	CDS	1695	spoVD_2		COG0768	Stage V sporulation protein D
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00882	CDS	234				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00883	CDS	306				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00884	CDS	228				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00885	CDS	177				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00886	CDS	135				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00887	CDS	558	queH	1.17.99.6	COG1636	Epoxyqueuosine reductase QueH
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00888	CDS	1080	ruvB	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00889	CDS	552	mntP		COG1971	putative manganese efflux pump MntP
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00890	CDS	1386	mepA		COG0534	Multidrug export protein MepA
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00891	CDS	1728		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00892	CDS	1761		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00893	CDS	1158	hybB		COG5557	putative Ni/Fe-hydrogenase 2 b-type cytochrome subunit
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00894	CDS	810	rsxB_7	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00895	CDS	1590	hndD_1	1.12.1.3	COG3383	NADP-reducing hydrogenase subunit HndD
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00896	CDS	342				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00897	CDS	423				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00898	CDS	492				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00899	CDS	1050	hflK		COG0330	Modulator of FtsH protease HflK
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00900	CDS	864	hflC		COG0330	Modulator of FtsH protease HflC
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00901	CDS	201				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00902	CDS	213				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00903	CDS	2661	adhE_3		COG1012	Aldehyde-alcohol dehydrogenase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00904	CDS	1245	der_1			GTPase Der
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00905	CDS	1056		1.8.-.-	COG0502	[FeFe] hydrogenase maturase subunit HydE
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00906	CDS	1041	bioF_1	2.3.1.47		8-amino-7-oxononanoate synthase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00907	CDS	936				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00908	CDS	1686	lcfB	6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00909	CDS	195				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00910	CDS	1083				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00911	CDS	189				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00912	CDS	288				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00913	CDS	165				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00914	CDS	258				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00915	CDS	657				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00916	CDS	1455	sdcS_2			Sodium-dependent dicarboxylate transporter SdcS
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00917	CDS	891	xerD			Tyrosine recombinase XerD
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00918	CDS	903				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00919	CDS	1614				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00920	CDS	1125				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00921	CDS	864				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00922	CDS	705	gpgS	2.4.1.266	COG0463	Glucosyl-3-phosphoglycerate synthase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00923	CDS	867				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00924	CDS	1131	pepT	3.4.11.4	COG2195	Peptidase T
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00925	CDS	1077				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00926	CDS	1206	argG	6.3.4.5	COG0137	Argininosuccinate synthase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00927	CDS	942	argF	2.1.3.3	COG0078	Ornithine carbamoyltransferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00928	CDS	3201	carB_2	6.3.5.5		Carbamoyl-phosphate synthase large chain
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00929	CDS	1194	argD	2.6.1.11	COG4992	Acetylornithine aminotransferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00930	CDS	891	argB	2.7.2.8	COG0548	Acetylglutamate kinase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00931	CDS	1221	argJ		COG1364	Arginine biosynthesis bifunctional protein ArgJ
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00932	CDS	1041	argC	1.2.1.38	COG0002	N-acetyl-gamma-glutamyl-phosphate reductase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00933	CDS	1017				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00934	CDS	1404				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00935	CDS	600				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00936	CDS	267	flhB_2		COG1377	Flagellar biosynthetic protein FlhB
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00937	CDS	750	comC			Type 4 prepilin-like proteins leader peptide-processing enzyme
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00938	CDS	1254	epsE		COG2804	Type II secretion system protein E
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00939	CDS	1083	pilT		COG2805	Twitching mobility protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00940	tRNA	76				tRNA-Ala(ggc)
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00941	CDS	2505	leuS	6.1.1.4		Leucine--tRNA ligase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00942	CDS	513				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00943	CDS	558				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00944	CDS	1065			COG3177	putative protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00945	CDS	192				Ferredoxin-3
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00946	CDS	798				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00947	CDS	1389				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00948	CDS	318	dsvC	1.8.99.5	COG2920	Sulfite reductase, dissimilatory-type subunit gamma
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00949	CDS	1431	cbiA	6.3.5.11	COG1797	Cobyrinate a,c-diamide synthase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00950	CDS	507				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00951	CDS	1179	dapX	2.6.1.-	COG0436	putative N-acetyl-LL-diaminopimelate aminotransferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00952	CDS	1185	dsvA		COG2221	Sulfite reductase, dissimilatory-type subunit alpha
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00953	CDS	1113	dsvB	1.8.99.5	COG2221	Sulfite reductase, dissimilatory-type subunit beta
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00954	CDS	207				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00955	CDS	1668	argS	6.1.1.19		Arginine--tRNA ligase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00956	CDS	180				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00957	CDS	1611	pyrG	6.3.4.2		CTP synthase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00958	CDS	936	sppA	3.4.21.-	COG0616	Putative signal peptide peptidase SppA
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00959	CDS	750				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00960	CDS	618				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00961	CDS	855	fba	4.1.2.13		Fructose-bisphosphate aldolase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00962	CDS	651	tal	2.2.1.2	COG0176	Transaldolase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00963	CDS	630	trpF	5.3.1.24	COG0135	N-(5'-phosphoribosyl)anthranilate isomerase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00964	CDS	1188	trpB_1	4.2.1.20	COG0133	Tryptophan synthase beta chain
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00965	CDS	381				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00966	CDS	300				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00967	CDS	789	trpA	4.2.1.20	COG0159	Tryptophan synthase alpha chain
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00968	CDS	249	mazE_2		COG2336	Antitoxin MazE
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00969	CDS	336				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00970	CDS	1473				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00971	CDS	483				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00972	CDS	363				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00973	CDS	453				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00974	CDS	666				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00975	CDS	2292				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00976	CDS	1437		3.4.21.-		putative CtpA-like serine protease
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00977	CDS	2610	polA	2.7.7.7		DNA polymerase I
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00978	CDS	852	mutM	3.2.2.23	COG0266	Formamidopyrimidine-DNA glycosylase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00979	CDS	675	ytaF			putative sporulation protein YtaF
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00980	CDS	348	ykvT		COG3773	putative protein YkvT
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00981	CDS	195				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00982	CDS	645				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00983	CDS	735	gatD	6.3.5.13		Lipid II isoglutaminyl synthase (glutamine-hydrolyzing) subunit GatD
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00984	CDS	1404	murT	6.3.5.13		Lipid II isoglutaminyl synthase (glutamine-hydrolyzing) subunit MurT
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00985	CDS	780	codY		COG4465	GTP-sensing transcriptional pleiotropic repressor CodY
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00986	CDS	1416	clpY		COG1220	ATP-dependent protease ATPase subunit ClpY
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00987	CDS	531	hslV	3.4.25.2	COG5405	ATP-dependent protease subunit HslV
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00988	CDS	891	xerC		COG4974	Tyrosine recombinase XerC
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00989	CDS	372				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00990	CDS	1320	trmFO	2.1.1.74	COG1206	Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00991	CDS	2154	topA	5.6.2.1		DNA topoisomerase 1
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00992	CDS	1122				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00993	CDS	261	tatA_1			Sec-independent protein translocase protein TatA
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00994	CDS	1185	mshA	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00995	CDS	273				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00996	CDS	2775				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00997	CDS	183				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00998	CDS	948	ddl	6.3.2.4	COG1181	D-alanine--D-alanine ligase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_00999	tRNA	76				tRNA-Trp(cca)
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01000	CDS	225				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01001	CDS	603				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01002	CDS	516				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01003	CDS	1791	pyk	2.7.1.40		Pyruvate kinase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01004	CDS	963	pfkA	2.7.1.11		ATP-dependent 6-phosphofructokinase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01005	CDS	378	ytrA_1		COG1725	HTH-type transcriptional repressor YtrA
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01006	CDS	867	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01007	CDS	684				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01008	CDS	1125				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01009	CDS	369				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01010	CDS	732	sbcD_1			Nuclease SbcCD subunit D
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01011	CDS	495	sbcD_2		COG0420	Nuclease SbcCD subunit D
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01012	CDS	786				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01013	CDS	156				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01014	CDS	480				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01015	CDS	240	spoVAD_1			Stage V sporulation protein AD
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01016	CDS	756	spoVAD_2			Stage V sporulation protein AD
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01017	CDS	354				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01018	CDS	1005	mggB	3.1.3.-	COG0737	Mannosylglucosyl-3-phosphoglycerate phosphatase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01019	CDS	546				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01020	CDS	570	dut	3.6.1.23		Deoxyuridine 5'-triphosphate nucleotidohydrolase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01021	CDS	426				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01022	CDS	150				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01023	CDS	396				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01024	CDS	345				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01025	CDS	429				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01026	CDS	762	spo0A			Stage 0 sporulation protein A
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01027	CDS	183				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01028	CDS	1116	yndE_1			Spore germination protein YndE
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01029	CDS	1860				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01030	CDS	1200	gerBC_1			Spore germination protein B3
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01031	CDS	234				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01032	CDS	198				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01033	CDS	699				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01034	CDS	240				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01035	CDS	366	folB	4.1.2.25	COG1539	Dihydroneopterin aldolase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01036	CDS	1197				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01037	CDS	1704	fhs	6.3.4.3	COG2759	Formate--tetrahydrofolate ligase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01038	CDS	387				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01039	CDS	114				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01040	CDS	1101	pseG	3.6.1.57	COG3980	UDP-2,4-diacetamido-2,4,6-trideoxy-beta-L-altropyranose hydrolase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01041	CDS	1725				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01042	CDS	726				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01043	CDS	495	ahcY_1	3.3.1.1	COG0499	Adenosylhomocysteinase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01044	CDS	765	ahcY_2	3.3.1.1	COG0499	Adenosylhomocysteinase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01045	CDS	426				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01046	CDS	378				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01047	CDS	1038	mtnA	5.3.1.23	COG0182	Methylthioribose-1-phosphate isomerase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01048	CDS	1077				IS200/IS605 family transposase ISMma22
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01049	CDS	1608				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01050	CDS	441				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01051	CDS	408				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01052	CDS	441				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01053	CDS	1149				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01054	CDS	1881				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01055	CDS	1989				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01056	CDS	720				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01057	CDS	1101				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01058	CDS	201				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01059	CDS	1257	fsr			Fosmidomycin resistance protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01060	CDS	1218	yjlD	1.6.99.-	COG1252	NADH dehydrogenase-like protein YjlD
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01061	CDS	198				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01062	CDS	774				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01063	CDS	120				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01064	CDS	1236	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01065	CDS	747	tpiA	5.3.1.1		Triosephosphate isomerase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01066	CDS	90				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01067	CDS	1542	gpmI	5.4.2.12	COG0696	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01068	CDS	1284	eno	4.2.1.11	COG0148	Enolase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01069	CDS	231	secG		COG1314	putative protein-export membrane protein SecG
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01070	CDS	921	ppaC	3.6.1.1	COG1227	Manganese-dependent inorganic pyrophosphatase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01071	CDS	468	smpB		COG0691	SsrA-binding protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01072	CDS	963				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01073	CDS	447	rplI		COG0359	50S ribosomal protein L9
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01074	CDS	1947	lon	3.4.21.53		Lon protease
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01075	CDS	1326	dnaC	3.6.4.12	COG0305	Replicative DNA helicase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01076	CDS	1389		1.18.1.2		Ferredoxin--NADP reductase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01077	CDS	1299	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01078	CDS	177				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01079	CDS	369				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01080	CDS	513				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01081	CDS	408				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01082	tRNA	76				tRNA-Lys(ttt)
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01083	CDS	657				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01084	CDS	150				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01085	CDS	1356	moaA			GTP 3',8-cyclase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01086	CDS	1290				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01087	CDS	582				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01088	CDS	1254	murAA_2	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 1
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01089	CDS	480	rlmH	2.1.1.177	COG1576	Ribosomal RNA large subunit methyltransferase H
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01090	CDS	345				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01091	CDS	312	yajC		COG1862	Sec translocon accessory complex subunit YajC
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01092	CDS	660				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01093	CDS	1242	secDF		COG0341	Protein translocase subunit SecDF
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01094	CDS	879	secF		COG0341	Protein translocase subunit SecF
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01095	CDS	1017	queA	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01096	CDS	297				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01097	CDS	2832	dinG	3.1.-.-		3'-5' exonuclease DinG
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01098	CDS	642	psd	4.1.1.65		Phosphatidylserine decarboxylase proenzyme
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01099	CDS	504				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01100	CDS	423				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01101	CDS	567				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01102	CDS	381				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01103	CDS	279				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01104	CDS	228				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01105	CDS	603				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01106	CDS	912				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01107	CDS	285				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01108	CDS	339				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01109	CDS	141	mazF_2	3.1.27.-	COG2337	Endoribonuclease toxin MazF
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01110	CDS	240	mazE_3		COG2336	Antitoxin MazE
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01111	CDS	555	sigX		COG1595	ECF RNA polymerase sigma factor SigX
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01112	CDS	1374	tolB			Tol-Pal system protein TolB
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01113	CDS	2370				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01114	CDS	936	lnrL_3	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01115	CDS	861				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01116	CDS	510	DmdB_2	4.2.1.85		2,3-dimethylmalate dehydratase small subunit
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01117	CDS	1254	leuC	4.2.1.33	COG0065	3-isopropylmalate dehydratase large subunit
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01118	CDS	1164	frbC_1	2.3.3.19		2-phosphonomethylmalate synthase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01119	CDS	861				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01120	CDS	1440	gatB	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01121	CDS	228				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01122	CDS	213				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01123	CDS	1461	gatA	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01124	CDS	288	gatC	6.3.5.-		Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit C
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01125	CDS	210				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01126	CDS	2034	ligA	6.5.1.2		DNA ligase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01127	CDS	408				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01128	CDS	1158				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01129	CDS	762				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01130	CDS	2256	ispH	1.17.7.4		4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01131	CDS	681	cmk	2.7.4.25	COG0283	Cytidylate kinase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01132	CDS	1290	aroA1	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase 1
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01133	CDS	1125				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01134	CDS	1023	aroF_1	2.5.1.54	COG2876	Phospho-2-dehydro-3-deoxyheptonate aldolase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01135	CDS	369				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01136	CDS	306				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01137	CDS	726	sigE_1		COG1191	RNA polymerase sigma-E factor
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01138	CDS	927	spoIIGA	3.4.23.-		Sporulation sigma-E factor-processing peptidase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01139	CDS	1035	aroF_2	2.5.1.54	COG2876	Phospho-2-dehydro-3-deoxyheptonate aldolase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01140	CDS	843	pheA			Bifunctional chorismate mutase/prephenate dehydratase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01141	CDS	156				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01142	CDS	1269	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01143	CDS	1812	aspS	6.1.1.12		Aspartate--tRNA ligase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01144	CDS	483	dsbD_2	1.8.1.8		Thiol:disulfide interchange protein DsbD
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01145	CDS	459	cymR			HTH-type transcriptional regulator CymR
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01146	CDS	1218	nifS	2.8.1.7	COG1104	Cysteine desulfurase NifS
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01147	CDS	366	iscU		COG0822	Iron-sulfur cluster assembly scaffold protein IscU
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01148	CDS	1050	mnmA	2.8.1.13		tRNA-specific 2-thiouridylase MnmA
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01149	CDS	546	scpB		COG1386	Segregation and condensation protein B
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01150	CDS	780	scpA		COG1354	Segregation and condensation protein A
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01151	CDS	813				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01152	CDS	3138	rapA	3.6.4.-		RNA polymerase-associated protein RapA
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01153	CDS	648	thiN	2.7.6.2	COG1564	Thiamine pyrophosphokinase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01154	CDS	138				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01155	CDS	804	murI	5.1.1.3	COG0796	Glutamate racemase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01156	CDS	585				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01157	CDS	228				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01158	CDS	420				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01159	CDS	225				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01160	CDS	711	ytrB		COG1131	ABC transporter ATP-binding protein YtrB
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01161	CDS	366	ytrA_2		COG1725	HTH-type transcriptional repressor YtrA
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01162	CDS	534	spmB			Spore maturation protein B
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01163	CDS	624	spmA		COG2715	Spore maturation protein A
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01164	CDS	429	ytfJ		COG3874	putative spore protein YtfJ
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01165	CDS	480				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01166	CDS	138				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01167	CDS	258				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01168	CDS	930	mdh	1.1.1.37	COG0039	Malate dehydrogenase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01169	CDS	1944				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01170	CDS	1029				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01171	CDS	1329	der_2			GTPase Der
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01172	CDS	591	plsY	2.3.1.275	COG0344	Glycerol-3-phosphate acyltransferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01173	CDS	1053	gpsA	1.1.1.94	COG0240	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01174	CDS	2367	bcsB			Cyclic di-GMP-binding protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01175	CDS	2316	bcsA	2.4.1.12	COG1215	Cellulose synthase catalytic subunit [UDP-forming]
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01176	CDS	1710	polX		COG1387	DNA polymerase/3'-5' exonuclease PolX
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01177	CDS	951				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01178	CDS	270				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01179	CDS	228				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01180	CDS	2367	mutS2	3.1.-.-		Endonuclease MutS2
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01181	CDS	171				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01182	CDS	1068				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01183	CDS	339				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01184	CDS	1281				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01185	CDS	168				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01186	CDS	1056	ftsZ		COG0206	Cell division protein FtsZ
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01187	CDS	351				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01188	CDS	720				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01189	CDS	723				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01190	CDS	798	ftsQ			Cell division protein FtsQ
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01191	CDS	495				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01192	CDS	276				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01193	CDS	243				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01194	CDS	1203				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01195	CDS	1608				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01196	CDS	504				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01197	CDS	615	tagU_1	2.7.8.-		Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01198	CDS	189				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01199	CDS	282				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01200	CDS	729	tagA_1	2.4.1.187	COG1922	N-acetylglucosaminyldiphosphoundecaprenol N-acetyl-beta-D-mannosaminyltransferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01201	CDS	414				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01202	CDS	279				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01203	CDS	501				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01204	CDS	873	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01205	CDS	282				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01206	CDS	462				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01207	CDS	1857				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01208	CDS	717	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01209	CDS	207				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01210	CDS	300				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01211	CDS	2784	ileS	6.1.1.5		Isoleucine--tRNA ligase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01212	CDS	390				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01213	CDS	255				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01214	CDS	531	divIVA		COG3599	Septum site-determining protein DivIVA
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01215	CDS	795				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01216	CDS	267				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01217	CDS	810	proC	1.5.1.2	COG0345	Pyrroline-5-carboxylate reductase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01218	CDS	423	sepF			Cell division protein SepF
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01219	CDS	669	yggS		COG0325	Pyridoxal phosphate homeostasis protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01220	CDS	1098	sigA_2			RNA polymerase sigma factor SigA
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01221	CDS	522				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01222	CDS	1995				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01223	CDS	180				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01224	CDS	2193				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01225	CDS	852				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01226	CDS	1848	mutS_1			DNA mismatch repair protein MutS
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01227	CDS	390	panD	4.1.1.11	COG0853	Aspartate 1-decarboxylase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01228	CDS	849	panC	6.3.2.1	COG0414	Pantothenate synthetase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01229	CDS	801	panB	2.1.2.11	COG0413	3-methyl-2-oxobutanoate hydroxymethyltransferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01230	CDS	882				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01231	CDS	1269		2.7.7.-	COG0617	A-adding tRNA nucleotidyltransferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01232	CDS	1752				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01233	CDS	435				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01234	CDS	426				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01235	CDS	828	cdaA	2.7.7.85	COG1624	Cyclic di-AMP synthase CdaA
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01236	CDS	933	cdaR		COG4856	CdaA regulatory protein CdaR
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01237	CDS	1356	glmM	5.4.2.10	COG1109	Phosphoglucosamine mutase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01238	CDS	1830	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01239	CDS	405	arsC	1.20.4.1		Glutaredoxin arsenate reductase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01240	CDS	1083				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01241	CDS	993	rpnA_2	3.1.21.-	COG5464	Recombination-promoting nuclease RpnA
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01242	CDS	390				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01243	CDS	135				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01244	CDS	1377	algC	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01245	CDS	729	dppA		COG0747	Periplasmic dipeptide transport protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01246	CDS	699				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01247	CDS	942				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01248	CDS	372				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01249	CDS	816				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01250	CDS	1341	pmbA	3.4.-.-	COG0312	Metalloprotease PmbA
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01251	CDS	441	yqhS	4.2.1.10	COG0757	3-dehydroquinate dehydratase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01252	CDS	1107	ypdF	3.4.11.-	COG0006	Aminopeptidase YpdF
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01253	CDS	300				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01254	CDS	639				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01255	CDS	1032				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01256	CDS	549				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01257	CDS	612				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01258	CDS	840				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01259	CDS	198				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01260	CDS	252				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01261	CDS	819	aptA	2.2.1.-	COG3959	Apulose-4-phosphate transketolase subunit A
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01262	CDS	942	aptB	2.2.1.-	COG3958	Apulose-4-phosphate transketolase subunit B
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01263	CDS	678				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01264	CDS	774	motB_2		COG1360	Motility protein B
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01265	CDS	513	cheW_1		COG0835	Chemotaxis protein CheW
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01266	CDS	2205	cheA	2.7.13.3	COG0643	Chemotaxis protein CheA
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01267	CDS	1041	cheB	3.1.1.61	COG2201	Protein-glutamate methylesterase/protein-glutamine glutaminase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01268	CDS	579				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01269	CDS	1590				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01270	CDS	2454				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01271	CDS	1086	gcvT	2.1.2.10	COG0404	Aminomethyltransferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01272	CDS	1308				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01273	CDS	2172				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01274	CDS	1053				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01275	CDS	303				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01276	CDS	507	fabZ_3	4.2.1.59		3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01277	CDS	321	acpP_2			Acyl carrier protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01278	CDS	750	fabG_3	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01279	CDS	2433				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01280	CDS	570				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01281	CDS	1812	lepA	3.6.5.-		Elongation factor 4
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01282	CDS	1176				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01283	CDS	792				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01284	CDS	948	acr3		COG0798	Arsenical-resistance protein Acr3
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01285	CDS	762	ssuC		COG0600	Putative aliphatic sulfonates transport permease protein SsuC
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01286	CDS	1005				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01287	CDS	345				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01288	CDS	4071				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01289	CDS	693				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01290	CDS	300				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01291	CDS	2646				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01292	CDS	1182				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01293	CDS	561	bioY		COG1268	Biotin transporter BioY
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01294	CDS	930	katA	1.11.1.6	COG0753	Catalase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01295	CDS	336				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01296	CDS	387				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01297	CDS	765	coaX	2.7.1.33	COG1521	Type III pantothenate kinase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01298	CDS	957	dusB	1.3.1.-	COG0042	tRNA-dihydrouridine synthase B
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01299	CDS	1059	pigE_1	2.6.1.-		Aminotransferase PigE
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01300	CDS	474	greA		COG0782	Transcription elongation factor GreA
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01301	CDS	1476	lysS	6.1.1.6		Lysine--tRNA ligase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01302	CDS	1917	pglF_1	4.2.1.135	COG1086	UDP-N-acetyl-alpha-D-glucosamine C6 dehydratase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01303	CDS	648				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01304	CDS	1134	rlmL	2.1.1.173	COG0116	Ribosomal RNA large subunit methyltransferase L
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01305	CDS	4116				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01306	CDS	2199	copA	7.2.2.8	COG2217	Copper-exporting P-type ATPase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01307	CDS	189				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01308	CDS	525				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01309	CDS	1473	yqiK		COG2268	Inner membrane protein YqiK
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01310	CDS	690			COG1842	Phage shock protein A 
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01311	CDS	912	sdhA	4.3.1.17		L-serine dehydratase, alpha chain
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01312	CDS	639	sdhB	4.3.1.17		L-serine dehydratase, beta chain
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01313	CDS	759	lgt	2.5.1.145	COG0682	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01314	CDS	300				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01315	CDS	324				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01316	CDS	729				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01317	CDS	903	ptxB			putative phosphite transport system-binding protein PtxB
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01318	CDS	780	phnC	7.3.2.1	COG3638	Phosphate-import ATP-binding protein PhnC
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01319	CDS	339				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01320	CDS	267				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01321	CDS	1224	trpB_2	4.2.1.20	COG0133	Tryptophan synthase beta chain
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01322	CDS	198				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01323	CDS	249	relG	3.1.-.-	COG2026	Toxin RelG
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01324	CDS	1647	groL_1		COG0459	60 kDa chaperonin
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01325	CDS	288	groS		COG0234	10 kDa chaperonin
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01326	CDS	738	mgtA	2.4.1.-	COG0438	GDP-mannose-dependent alpha-mannosyltransferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01327	CDS	294				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01328	CDS	1002				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01329	CDS	1830				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01330	CDS	897	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01331	CDS	471				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01332	CDS	2730	ctpF	3.6.3.-	COG0474	putative cation-transporting ATPase F
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01333	CDS	1848	asnO	6.3.5.4	COG0367	Asparagine synthetase [glutamine-hydrolyzing] 3
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01334	CDS	267	ndoAI		COG0864	Antitoxin EndoAI
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01335	CDS	351	ndoA	3.1.27.-	COG2337	Endoribonuclease EndoA
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01336	CDS	708		2.4.2.-	COG2071	Putative glutamine amidotransferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01337	CDS	414	spo0F	2.7.-.-	COG0784	Sporulation initiation phosphotransferase F
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01338	CDS	474	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01339	CDS	711	tsaB		COG1214	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01340	CDS	1020	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01341	CDS	594	yqgN		COG0212	putative protein YqgN
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01342	CDS	252	tatA_2			Sec-independent protein translocase protein TatA
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01343	CDS	807	tatC		COG0805	Sec-independent protein translocase protein TatC
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01344	CDS	1299				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01345	CDS	177				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01346	CDS	969	yndE_2			Spore germination protein YndE
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01347	CDS	1155	gerBC_2			Spore germination protein B3
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01348	CDS	2310	ponA		COG0744	Penicillin-binding protein 1A/1B
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01349	CDS	1236	tyrS	6.1.1.1	COG0162	Tyrosine--tRNA ligase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01350	CDS	636	yunB			Sporulation protein YunB
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01351	CDS	735	nadE_2	6.3.1.5	COG0171	NH(3)-dependent NAD(+) synthetase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01352	CDS	732			COG0217	putative transcriptional regulatory protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01353	CDS	1191	hemW		COG0635	Heme chaperone HemW
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01354	CDS	1038	hrcA		COG1420	Heat-inducible transcription repressor HrcA
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01355	CDS	1569	groL_2			60 kDa chaperonin
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01356	CDS	564	grpE		COG0576	Protein GrpE
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01357	CDS	1893	dnaK		COG0443	Chaperone protein DnaK
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01358	CDS	1140	dnaJ			Chaperone protein DnaJ
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01359	CDS	1317	mtaB	2.8.4.5	COG0621	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01360	CDS	345		3.9.1.-	COG0537	Purine nucleoside phosphoramidase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01361	CDS	177	rpsU		COG0828	30S ribosomal protein S21
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01362	CDS	288				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01363	CDS	1221				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01364	CDS	990			COG1702	PhoH-like protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01365	CDS	2127	pgpH	3.1.4.59		Cyclic-di-AMP phosphodiesterase PgpH
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01366	CDS	456	ybeY	3.1.-.-		Endoribonuclease YbeY
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01367	CDS	429	cdd	3.5.4.5	COG0295	Cytidine deaminase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01368	CDS	891	era			GTPase Era
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01369	CDS	597	yfiR			putative HTH-type transcriptional regulator YfiR
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01370	CDS	1200	srpA			Solvent efflux pump periplasmic linker SrpA
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01371	CDS	3108	mdtC			Multidrug resistance protein MdtC
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01372	CDS	348				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01373	CDS	1368		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01374	CDS	354				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01375	CDS	1014				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01376	CDS	1146	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01377	CDS	789				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01378	CDS	813				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01379	CDS	894	frbC_2	2.3.3.19		2-phosphonomethylmalate synthase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01380	CDS	1905	thrZ	6.1.1.3	COG0441	Threonine--tRNA ligase 2
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01381	CDS	918				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01382	CDS	1350	mgtE		COG2239	Magnesium transporter MgtE
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01383	CDS	480				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01384	CDS	981	bioB_2	2.8.1.6		Biotin synthase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01385	CDS	1356	bioK	2.6.1.105	COG0161	L-Lysine--8-amino-7-oxononanoate transaminase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01386	CDS	759	tam	2.1.1.144		Trans-aconitate 2-methyltransferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01387	CDS	774	bioH	3.1.1.85		Pimeloyl-[acyl-carrier protein] methyl ester esterase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01388	CDS	1191	bioF_2	2.3.1.47		8-amino-7-oxononanoate synthase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01389	CDS	705	bioD1	6.3.3.3	COG0132	ATP-dependent dethiobiotin synthetase BioD 1
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01390	CDS	438				Flavodoxin
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01391	CDS	438				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01392	CDS	567				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01393	CDS	228				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01394	CDS	2469	cugP	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01395	CDS	1038				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01396	CDS	855		2.4.1.11	COG0438	Glycogen synthase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01397	CDS	387		2.4.1.11	COG0438	Glycogen synthase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01398	CDS	1302	bzaA	4.1.99.23		5-hydroxybenzimidazole synthase BzaA
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01399	CDS	708				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01400	CDS	579	gppA	3.6.1.40		Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01401	CDS	720	tmk_2	2.7.4.9		Thymidylate kinase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01402	CDS	741	tmk_3	2.7.4.9		Thymidylate kinase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01403	CDS	1416	ppx	3.6.1.11	COG0248	Exopolyphosphatase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01404	CDS	195				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01405	CDS	723				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01406	CDS	399				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01407	CDS	387				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01408	CDS	822	flgG_3		COG4786	Flagellar basal-body rod protein FlgG
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01409	CDS	2022	ybiT		COG0488	putative ABC transporter ATP-binding protein YbiT
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01410	CDS	126				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01411	CDS	546	atpH_1		COG0712	ATP synthase subunit delta
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01412	CDS	537	atpF			ATP synthase subunit b
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01413	CDS	234	atpH_2			ATP synthase subunit c
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01414	CDS	759	atpB		COG0356	ATP synthase subunit a
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01415	CDS	417				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01416	CDS	297				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01417	CDS	1182	mnaA	5.1.3.14	COG0381	UDP-N-acetylglucosamine 2-epimerase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01418	CDS	309				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01419	CDS	255				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01420	CDS	423	tadA	3.5.4.33		tRNA-specific adenosine deaminase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01421	CDS	1242	glyA	2.1.2.1		Serine hydroxymethyltransferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01422	CDS	474	ywlF	5.3.1.-	COG0698	Putative sugar phosphate isomerase YwlF
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01423	CDS	462	ywlE	3.9.1.2	COG0394	Protein-arginine-phosphatase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01424	CDS	1086	ywlC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01425	CDS	249				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01426	CDS	171				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01427	CDS	234				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01428	CDS	354	ftsL_2			Cell division protein FtsL
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01429	CDS	408	yugI		COG1098	General stress protein 13
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01430	CDS	1875	spoIIE_1	3.1.3.16	COG2208	Stage II sporulation protein E
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01431	CDS	618	spoIIE_2	3.1.3.16	COG2208	Stage II sporulation protein E
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01432	CDS	1428	tilS	6.3.4.19	COG0037	tRNA(Ile)-lysidine synthase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01433	CDS	1911	ftsH_3	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01434	CDS	456	ndk	2.7.4.6		Nucleoside diphosphate kinase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01435	CDS	1434	rng	3.1.26.-	COG1530	Ribonuclease G
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01436	CDS	1341	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01437	CDS	402				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01438	CDS	2733	mutS_2		COG0249	DNA mismatch repair protein MutS
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01439	CDS	1674				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01440	CDS	1368				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01441	CDS	1842	mutL			DNA mismatch repair protein MutL
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01442	CDS	807	rsmJ	2.1.1.242		Ribosomal RNA small subunit methyltransferase J
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01443	CDS	126				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01444	CDS	621	spoIIM		COG1300	Stage II sporulation protein M
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01445	CDS	663				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01446	CDS	1182				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01447	CDS	294				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01448	CDS	351	phoR_2	2.7.13.3	COG0642	Alkaline phosphatase synthesis sensor protein PhoR
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01449	CDS	216				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01450	CDS	189	srrA		COG0745	Transcriptional regulatory protein SrrA
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01451	CDS	720				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01452	CDS	483				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01453	CDS	666	acuA	2.3.1.-		Acetoin utilization protein AcuA
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01454	CDS	1452	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01455	CDS	396				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01456	CDS	183				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01457	CDS	318				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01458	CDS	324	ytrH			Sporulation membrane protein YtrH
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01459	CDS	1254	eam	5.4.3.9	COG1509	Glutamate 2,3-aminomutase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01460	CDS	1923	pglF_2	4.2.1.135	COG1086	UDP-N-acetyl-alpha-D-glucosamine C6 dehydratase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01461	CDS	729	tagA_2	2.4.1.187	COG1922	N-acetylglucosaminyldiphosphoundecaprenol N-acetyl-beta-D-mannosaminyltransferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01462	CDS	282				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01463	CDS	300				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01464	CDS	1239	tagU_2	2.7.8.-		Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01465	CDS	183				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01466	CDS	288				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01467	CDS	336	glnB		COG0347	Nitrogen regulatory protein P-II
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01468	CDS	1359	nrgA			Ammonium transporter
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01469	CDS	984	prfB			Peptide chain release factor 2
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01470	CDS	2655	secA		COG0653	Protein translocase subunit SecA
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01471	CDS	531	hpf			Ribosome hibernation promotion factor
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01472	CDS	198	cspC		COG1278	Cold shock protein CspC
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01473	CDS	720	prs			Putative ribose-phosphate pyrophosphokinase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01474	CDS	99				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01475	CDS	603	sigE_2		COG1191	RNA polymerase sigma-E factor
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01476	CDS	1362				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01477	CDS	756				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01478	CDS	432				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01479	CDS	1050				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01480	CDS	858				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01481	CDS	195	rsxB_8	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01482	CDS	666				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01483	CDS	858		1.2.7.10	COG1013	Oxalate oxidoreductase subunit beta
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01484	CDS	1143	padG	1.2.1.58		NADH-dependent phenylglyoxylate dehydrogenase subunit alpha
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01485	CDS	585				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01486	CDS	558	frr		COG0233	Ribosome-recycling factor
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01487	CDS	726	pyrH	2.7.4.22	COG0528	Uridylate kinase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01488	CDS	654	tsf			Elongation factor Ts
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01489	CDS	723	rpsB		COG0052	30S ribosomal protein S2
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01490	CDS	387				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01491	CDS	237				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01492	CDS	540	mqnD	4.1.-.-	COG2107	1,4-dihydroxy-6-naphtoate synthase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01493	CDS	270				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01494	CDS	1158	mqnE	2.5.1.120	COG1060	Aminodeoxyfutalosine synthase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01495	CDS	750	ttcA	2.8.1.-	COG0037	tRNA-cytidine(32) 2-sulfurtransferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01496	CDS	1206				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01497	CDS	402	rsxB_9	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01498	CDS	765				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01499	CDS	1737				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01500	CDS	1248		3.1.4.-	COG2206	3'3'-cGAMP-specific phosphodiesterase 1
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01501	CDS	441				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01502	CDS	1056				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01503	CDS	981	gpr	3.4.24.78		Germination protease
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01504	CDS	576	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01505	CDS	483	coaD	2.7.7.3	COG0669	Phosphopantetheine adenylyltransferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01506	CDS	447				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01507	CDS	1053	pta	2.3.1.8	COG0280	Phosphate acetyltransferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01508	CDS	2106	pat	2.3.1.-	COG0454	Peptidyl-lysine N-acetyltransferase Pat
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01509	CDS	567				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01510	CDS	216				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01511	tRNA	97				tRNA-SeC(tca)
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01512	CDS	966	hepT	2.5.1.30	COG0142	Heptaprenyl diphosphate synthase component 2
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01513	CDS	573	sirC	1.3.1.76	COG1648	Precorrin-2 dehydrogenase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01514	CDS	1440	hemA	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01515	CDS	924	hemC	2.5.1.61	COG0181	Porphobilinogen deaminase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01516	CDS	1527	cysG	4.99.1.4		Siroheme synthase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01517	CDS	1176	mftC_1	2.-.-.-	COG0535	Putative mycofactocin radical SAM maturase MftC
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01518	CDS	987	hemB	4.2.1.24		Delta-aminolevulinic acid dehydratase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01519	CDS	993	mftC_2	2.-.-.-	COG0535	Putative mycofactocin radical SAM maturase MftC
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01520	CDS	462				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01521	CDS	510				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01522	CDS	267				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01523	CDS	444		3.1.-.-		Ribonuclease VapC49
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01524	CDS	1293	hemL	5.4.3.8	COG0001	Glutamate-1-semialdehyde 2,1-aminomutase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01525	CDS	1674	lutP		COG1620	L-lactate permease
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01526	CDS	597				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01527	CDS	438	cheW_2		COG0835	Chemotaxis protein CheW
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01528	CDS	249				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01529	CDS	1398	aspA	4.3.1.1	COG1027	Aspartate ammonia-lyase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01530	CDS	3543	smc		COG1196	Chromosome partition protein Smc
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01531	CDS	693	rnc	3.1.26.3	COG0571	Ribonuclease 3
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01532	CDS	1242	fabF	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01533	CDS	558	efp		COG0231	Elongation factor P
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01534	CDS	510				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01535	CDS	1710	cdr	1.8.1.14		Coenzyme A disulfide reductase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01536	CDS	1005				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01537	CDS	519	spoIIIAB			Stage III sporulation protein AB
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01538	CDS	201				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01539	CDS	390				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01540	CDS	1173	spoIIIAE			Stage III sporulation protein AE
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01541	CDS	618				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01542	CDS	654				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01543	CDS	573				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01544	CDS	1182	dapL	2.6.1.83	COG0436	LL-diaminopimelate aminotransferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01545	CDS	1197	aspC	2.6.1.1		Aspartate aminotransferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01546	CDS	879				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01547	CDS	276	remA		COG2052	Extracellular matrix regulatory protein A
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01548	CDS	624	gmk	2.7.4.8		Guanylate kinase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01549	CDS	195	rpoZ	2.7.7.6		DNA-directed RNA polymerase subunit omega
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01550	CDS	1206	coaBC		COG0452	Coenzyme A biosynthesis bifunctional protein CoaBC
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01551	CDS	2256	priA	3.6.4.-	COG1198	Primosomal protein N'
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01552	CDS	465	def	3.5.1.88	COG0242	Peptide deformylase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01553	CDS	2208				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01554	CDS	588	pknD	2.7.11.1		Serine/threonine-protein kinase PknD
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01555	CDS	1350	lapB			Lipopolysaccharide assembly protein B
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01556	CDS	810				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01557	CDS	1458	pgm	5.4.2.2	COG0033	Phosphoglucomutase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01558	CDS	2286				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01559	CDS	1563	murJ		COG0728	putative lipid II flippase MurJ
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01560	CDS	246	ylmC_2		COG1873	putative sporulation protein YlmC
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01561	CDS	1002				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01562	CDS	276				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01563	CDS	3765	addA	3.1.-.-	COG1074	ATP-dependent helicase/nuclease subunit A
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01564	CDS	1773	rqcH			Rqc2 RqcH
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01565	CDS	2832	yloB	7.2.2.10	COG0474	Calcium-transporting ATPase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01566	CDS	426	perR		COG0735	Peroxide-responsive repressor PerR
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01567	CDS	1614	hndD_2	1.12.1.3	COG3383	NADP-reducing hydrogenase subunit HndD
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01568	CDS	507	ftnA	1.16.3.2		Bacterial non-heme ferritin
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01569	CDS	1161	fprA	1.-.-.-	COG0426	Nitric oxide reductase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01570	CDS	336	norV			Anaerobic nitric oxide reductase flavorubredoxin
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01571	CDS	420				Bacteriohemerythrin
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01572	CDS	543	COQ7	1.14.99.60		5-demethoxyubiquinone hydroxylase, mitochondrial
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01573	CDS	405	dfx	1.15.1.2	COG2033	Desulfoferrodoxin
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01574	CDS	1392	pigE_2	2.6.1.-		Aminotransferase PigE
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01575	CDS	345				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01576	CDS	1356	ffh		COG0541	Signal recognition particle protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01577	CDS	300	rpsP		COG0228	30S ribosomal protein S16
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01578	CDS	228				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01579	CDS	414				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01580	CDS	516	rimM			Ribosome maturation factor RimM
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01581	CDS	783	trmD	2.1.1.228		tRNA (guanine-N(1)-)-methyltransferase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01582	CDS	345	rplS		COG0335	50S ribosomal protein L19
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01583	CDS	567	sipT	3.4.21.89	COG0681	Signal peptidase I T
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01584	CDS	912	rbgA		COG1161	Ribosome biogenesis GTPase A
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01585	CDS	825	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01586	CDS	390	yabJ	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01587	CDS	204				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01588	CDS	825	thiG	2.8.1.10	COG2022	Thiazole synthase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01589	CDS	1104	thiH	4.1.99.19	COG1060	2-iminoacetate synthase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01590	CDS	612				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01591	CDS	636	thiE	2.5.1.3	COG0352	Thiamine-phosphate synthase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01592	tRNA	77				tRNA-Arg(tct)
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01593	CDS	315				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01594	CDS	198	yabG_1	3.4.-.-		Sporulation-specific protease YabG
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01595	CDS	300	yabG_2	3.4.-.-		Sporulation-specific protease YabG
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01596	CDS	642				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01597	CDS	369				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01598	CDS	243				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01599	CDS	846	ispE	2.7.1.148	COG1947	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01600	CDS	690	rspR		COG1802	HTH-type transcriptional repressor RspR
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01601	CDS	756				hypothetical protein
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01602	CDS	282	spoVG			Putative septation protein SpoVG
+Desulfotomaculum_metaspades_Bin_1_1-contigs_01603	CDS	1368	glmU			Bifunctional protein GlmU
