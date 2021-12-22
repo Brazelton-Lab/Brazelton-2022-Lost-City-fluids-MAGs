@@ -1,0 +1,1402 @@
+##gff-version 3
+##feature-ontology http://song.cvs.sourceforge.net/viewvc/song/ontology/sofa.obo?revision=1.269
+##interproscan-version 5.50-84.0
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00001 1 54
+Patescibacteria_metaspades_Bin_5_4-contigs_00001	.	polypeptide	1	54	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00001;md5=76cb08e94951f457a57646661d25a70e
+Patescibacteria_metaspades_Bin_5_4-contigs_00001	CDD	protein_match	2	54	2.33562E-18	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00001 2 54;ID=match$1_2_54;signature_desc=DEDDh;Name=cd06127;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00001	Pfam	protein_match	2	54	1.2E-13	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00001 2 54;ID=match$2_2_54;signature_desc=Exonuclease;Name=PF00929;status=T;Dbxref="InterPro:IPR013520"
+Patescibacteria_metaspades_Bin_5_4-contigs_00001	Gene3D	protein_match	1	54	8.3E-15	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00001 1 54;ID=match$3_1_54;Name=G3DSA:3.30.420.10;status=T;Dbxref="InterPro:IPR036397"
+Patescibacteria_metaspades_Bin_5_4-contigs_00001	SUPERFAMILY	protein_match	2	54	8.6E-17	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00001 2 54;ID=match$4_2_54;Name=SSF53098;status=T;Dbxref="InterPro:IPR012337"
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00290 1 76
+Patescibacteria_metaspades_Bin_5_4-contigs_00290	.	polypeptide	1	76	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00290;md5=c796a35079aea3f3403ab043b2188b69
+Patescibacteria_metaspades_Bin_5_4-contigs_00290	PANTHER	protein_match	4	76	2.5E-15	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00290 4 76;ID=match$5_4_76;Name=PTHR30612;status=T;Dbxref="InterPro:IPR000185"
+Patescibacteria_metaspades_Bin_5_4-contigs_00290	SUPERFAMILY	protein_match	4	38	1.59E-6	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00290 4 38;ID=match$6_4_38;Name=SSF52540;status=T;Dbxref="InterPro:IPR027417"
+Patescibacteria_metaspades_Bin_5_4-contigs_00290	Pfam	protein_match	1	71	1.9E-19	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00290 1 71;ID=match$7_1_71;signature_desc=SecA DEAD-like domain;Name=PF07517;status=T;Dbxref="InterPro:IPR011115"
+Patescibacteria_metaspades_Bin_5_4-contigs_00290	Gene3D	protein_match	1	76	5.7E-21	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00290 1 76;ID=match$8_1_76;Name=G3DSA:3.40.50.300;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00290	ProSiteProfiles	protein_match	1	76	18.589	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00290 1 76;ID=match$9_1_76;signature_desc=SecA family profile.;Name=PS51196;status=T;Dbxref="InterPro:IPR014018"
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00308 1 437
+Patescibacteria_metaspades_Bin_5_4-contigs_00308	.	polypeptide	1	437	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00308;md5=3e447401431284494c414f613952143a
+Patescibacteria_metaspades_Bin_5_4-contigs_00308	Coils	protein_match	26	46	.	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00308 26 46;ID=match$10_26_46;Name=Coil;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00308	ProSiteProfiles	protein_match	1	22	6.0	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00308 1 22;ID=match$11_1_22;signature_desc=Prokaryotic membrane lipoprotein lipid attachment site profile.;Name=PS51257;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00308	MobiDBLite	protein_match	33	53	.	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00308 33 53;ID=match$12_33_53;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00454 1 234
+Patescibacteria_metaspades_Bin_5_4-contigs_00454	.	polypeptide	1	234	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00454;md5=c2f129696b99cdc6e2cf41125babf91f
+Patescibacteria_metaspades_Bin_5_4-contigs_00454	Gene3D	protein_match	1	232	4.8E-85	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00454 1 232;ID=match$13_1_232;Name=G3DSA:3.40.50.300;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00454	PANTHER	protein_match	1	231	7.9E-92	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00454 1 231;ID=match$14_1_231;Name=PTHR34383:SF1;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00454	PIRSF	protein_match	1	234	1.9E-98	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00454 1 234;ID=match$15_1_234;Name=PIRSF028756;status=T;Dbxref="InterPro:IPR016898"
+Patescibacteria_metaspades_Bin_5_4-contigs_00454	SUPERFAMILY	protein_match	17	198	2.57E-23	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00454 17 198;ID=match$16_17_198;Name=SSF52540;status=T;Dbxref="InterPro:IPR027417"
+Patescibacteria_metaspades_Bin_5_4-contigs_00454	PANTHER	protein_match	1	231	7.9E-92	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00454 1 231;ID=match$17_1_231;Name=PTHR34383;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00454	TIGRFAM	protein_match	1	212	1.5E-97	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00454 1 212;ID=match$18_1_212;signature_desc=PPK2_P_aer: polyphosphate kinase 2;Name=TIGR03707;status=T;Dbxref="InterPro:IPR022486"
+Patescibacteria_metaspades_Bin_5_4-contigs_00454	Pfam	protein_match	1	210	5.5E-87	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00454 1 210;ID=match$19_1_210;signature_desc=Polyphosphate kinase 2 (PPK2);Name=PF03976;status=T;Dbxref="InterPro:IPR022488"
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00202 1 76
+Patescibacteria_metaspades_Bin_5_4-contigs_00202	.	polypeptide	1	76	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00202;md5=a09d41ae09dcd4bb17626d09eca6fcd7
+Patescibacteria_metaspades_Bin_5_4-contigs_00202	Gene3D	protein_match	1	76	2.0E-7	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00202 1 76;ID=match$20_1_76;Name=G3DSA:3.30.2310.20;status=T;Dbxref="InterPro:IPR035093"
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00596 1 416
+Patescibacteria_metaspades_Bin_5_4-contigs_00596	.	polypeptide	1	416	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00596;md5=314269f3725699369432ff00f87a6714
+Patescibacteria_metaspades_Bin_5_4-contigs_00596	Pfam	protein_match	334	413	2.3E-9	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00596 334 413;ID=match$21_334_413;signature_desc=Secretion system C-terminal sorting domain;Name=PF18962;status=T;Dbxref="InterPro:IPR026444"
+Patescibacteria_metaspades_Bin_5_4-contigs_00596	TIGRFAM	protein_match	334	415	1.5E-6	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00596 334 415;ID=match$22_334_415;signature_desc=Por_Secre_tail: Por secretion system C-terminal sorting domain;Name=TIGR04183;status=T;Dbxref="InterPro:IPR026444"
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00584 1 50
+Patescibacteria_metaspades_Bin_5_4-contigs_00584	.	polypeptide	1	50	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00584;md5=296c42b02c2d7558b2e053869da6fa56
+Patescibacteria_metaspades_Bin_5_4-contigs_00584	Pfam	protein_match	3	41	5.3E-9	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00584 3 41;ID=match$23_3_41;signature_desc=Maf-like protein;Name=PF02545;status=T;Dbxref="InterPro:IPR003697"
+Patescibacteria_metaspades_Bin_5_4-contigs_00584	SUPERFAMILY	protein_match	2	46	1.96E-9	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00584 2 46;ID=match$24_2_46;Name=SSF52972;status=T;Dbxref="InterPro:IPR029001"
+Patescibacteria_metaspades_Bin_5_4-contigs_00584	Gene3D	protein_match	1	50	1.8E-10	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00584 1 50;ID=match$25_1_50;Name=G3DSA:3.90.950.10;status=T;Dbxref="InterPro:IPR029001"
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00353 1 73
+Patescibacteria_metaspades_Bin_5_4-contigs_00353	.	polypeptide	1	73	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00353;md5=a3fe9ad5c103c6691afb98ab1fbfe6fe
+Patescibacteria_metaspades_Bin_5_4-contigs_00353	Coils	protein_match	56	73	.	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00353 56 73;ID=match$26_56_73;Name=Coil;status=T
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00206 1 55
+Patescibacteria_metaspades_Bin_5_4-contigs_00206	.	polypeptide	1	55	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00206;md5=4c674021c235114d83e016424d6e88a0
+Patescibacteria_metaspades_Bin_5_4-contigs_00206	SUPERFAMILY	protein_match	1	27	1.46E-5	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00206 1 27;ID=match$27_1_27;Name=SSF88723;status=T;Dbxref="InterPro:IPR029060"
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00316 1 270
+Patescibacteria_metaspades_Bin_5_4-contigs_00316	.	polypeptide	1	270	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00316;md5=337a556a0ee60827915c77a6f6814276
+Patescibacteria_metaspades_Bin_5_4-contigs_00316	PANTHER	protein_match	71	259	1.5E-28	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00316 71 259;ID=match$28_71_259;Name=PTHR43019;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00316	MobiDBLite	protein_match	57	73	.	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00316 57 73;ID=match$29_57_73;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00316	Gene3D	protein_match	72	264	1.3E-38	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00316 72 264;ID=match$30_72_264;Name=G3DSA:2.40.10.120;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00316	PRINTS	protein_match	235	252	2.0E-8	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00316 235 252;ID=match$31_235_252;signature_desc=HtrA/DegQ protease family signature;Name=PR00834;status=T;Dbxref="InterPro:IPR001940"
+Patescibacteria_metaspades_Bin_5_4-contigs_00316	PRINTS	protein_match	119	131	2.0E-8	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00316 119 131;ID=match$31_119_131;signature_desc=HtrA/DegQ protease family signature;Name=PR00834;status=T;Dbxref="InterPro:IPR001940"
+Patescibacteria_metaspades_Bin_5_4-contigs_00316	PRINTS	protein_match	213	230	2.0E-8	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00316 213 230;ID=match$31_213_230;signature_desc=HtrA/DegQ protease family signature;Name=PR00834;status=T;Dbxref="InterPro:IPR001940"
+Patescibacteria_metaspades_Bin_5_4-contigs_00316	MobiDBLite	protein_match	41	56	.	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00316 41 56;ID=match$32_41_56;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00316	MobiDBLite	protein_match	41	75	.	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00316 41 75;ID=match$33_41_75;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00316	SUPERFAMILY	protein_match	75	259	1.29E-37	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00316 75 259;ID=match$34_75_259;Name=SSF50494;status=T;Dbxref="InterPro:IPR009003"
+Patescibacteria_metaspades_Bin_5_4-contigs_00316	Pfam	protein_match	110	242	2.7E-23	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00316 110 242;ID=match$35_110_242;signature_desc=Trypsin-like peptidase domain;Name=PF13365;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00316	ProSiteProfiles	protein_match	1	30	6.0	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00316 1 30;ID=match$36_1_30;signature_desc=Prokaryotic membrane lipoprotein lipid attachment site profile.;Name=PS51257;status=T
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00361 1 47
+Patescibacteria_metaspades_Bin_5_4-contigs_00361	.	polypeptide	1	47	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00361;md5=b72f2744693cf616f99323360e18a92c
+Patescibacteria_metaspades_Bin_5_4-contigs_00361	Gene3D	protein_match	1	46	1.7E-11	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00361 1 46;ID=match$37_1_46;Name=G3DSA:3.40.390.30;status=T;Dbxref="InterPro:IPR023091"
+Patescibacteria_metaspades_Bin_5_4-contigs_00361	Pfam	protein_match	4	40	2.6E-10	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00361 4 40;ID=match$38_4_40;signature_desc=Uncharacterized protein family UPF0054;Name=PF02130;status=T;Dbxref="InterPro:IPR002036"
+Patescibacteria_metaspades_Bin_5_4-contigs_00361	SUPERFAMILY	protein_match	3	41	2.25E-11	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00361 3 41;ID=match$39_3_41;Name=SSF55486;status=T
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00204 1 368
+Patescibacteria_metaspades_Bin_5_4-contigs_00204	.	polypeptide	1	368	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00204;md5=6ac5e8c8f8e9a2248e44b0c2e5b17494
+Patescibacteria_metaspades_Bin_5_4-contigs_00204	TIGRFAM	protein_match	294	367	1.3E-11	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00204 294 367;ID=match$40_294_367;signature_desc=Por_Secre_tail: Por secretion system C-terminal sorting domain;Name=TIGR04183;status=T;Dbxref="InterPro:IPR026444"
+Patescibacteria_metaspades_Bin_5_4-contigs_00204	Gene3D	protein_match	272	362	1.8E-5	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00204 272 362;ID=match$41_272_362;Name=G3DSA:2.60.40.3080;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00204	Pfam	protein_match	294	367	3.7E-12	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00204 294 367;ID=match$42_294_367;signature_desc=Secretion system C-terminal sorting domain;Name=PF18962;status=T;Dbxref="InterPro:IPR026444"
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00313 1 570
+Patescibacteria_metaspades_Bin_5_4-contigs_00313	.	polypeptide	1	570	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00313;md5=549cd17b07e79c945928bc588b006014
+Patescibacteria_metaspades_Bin_5_4-contigs_00313	Coils	protein_match	425	445	.	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00313 425 445;ID=match$43_425_445;Name=Coil;status=T
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00357 1 52
+Patescibacteria_metaspades_Bin_5_4-contigs_00357	.	polypeptide	1	52	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00357;md5=315354679209604f97fe1c9d806078f1
+Patescibacteria_metaspades_Bin_5_4-contigs_00357	Coils	protein_match	49	52	.	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00357 49 52;ID=match$44_49_52;Name=Coil;status=T
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00015 1 73
+Patescibacteria_metaspades_Bin_5_4-contigs_00015	.	polypeptide	1	73	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00015;md5=373822032ec646904f09a730240a48c1
+Patescibacteria_metaspades_Bin_5_4-contigs_00015	Coils	protein_match	20	40	.	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00015 20 40;ID=match$45_20_40;Name=Coil;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00015	SUPERFAMILY	protein_match	1	68	7.06E-9	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00015 1 68;ID=match$46_1_68;Name=SSF143437;status=T
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00442 1 61
+Patescibacteria_metaspades_Bin_5_4-contigs_00442	.	polypeptide	1	61	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00442;md5=660e7312d5faed6150cdbea6a61ebcd8
+Patescibacteria_metaspades_Bin_5_4-contigs_00442	Gene3D	protein_match	1	61	2.3E-13	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00442 1 61;ID=match$47_1_61;Name=G3DSA:1.25.40.10;status=T;Dbxref="InterPro:IPR011990"
+Patescibacteria_metaspades_Bin_5_4-contigs_00442	ProSiteProfiles	protein_match	1	48	16.2	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00442 1 48;ID=match$48_1_48;signature_desc=TPR repeat region circular profile.;Name=PS50293;status=T;Dbxref="InterPro:IPR013026"
+Patescibacteria_metaspades_Bin_5_4-contigs_00442	SUPERFAMILY	protein_match	2	59	5.69E-12	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00442 2 59;ID=match$49_2_59;Name=SSF48452;status=T;Dbxref="InterPro:IPR011990"
+Patescibacteria_metaspades_Bin_5_4-contigs_00442	Pfam	protein_match	4	52	3.3E-6	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00442 4 52;ID=match$50_4_52;signature_desc=Tetratricopeptide repeat;Name=PF14559;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00442	ProSiteProfiles	protein_match	1	14	5.31	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00442 1 14;ID=match$51_1_14;signature_desc=TPR repeat profile.;Name=PS50005;status=T;Dbxref="InterPro:IPR019734"
+Patescibacteria_metaspades_Bin_5_4-contigs_00442	ProSiteProfiles	protein_match	15	48	10.148	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00442 15 48;ID=match$52_15_48;signature_desc=TPR repeat profile.;Name=PS50005;status=T;Dbxref="InterPro:IPR019734"
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00515 1 60
+Patescibacteria_metaspades_Bin_5_4-contigs_00515	.	polypeptide	1	60	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00515;md5=1c9fed95f97d8ef8e4929c59e9978f26
+Patescibacteria_metaspades_Bin_5_4-contigs_00515	PANTHER	protein_match	1	60	2.3E-17	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00515 1 60;ID=match$53_1_60;Name=PTHR11070;status=T;Dbxref="InterPro:IPR000212"
+Patescibacteria_metaspades_Bin_5_4-contigs_00515	CDD	protein_match	2	60	1.12751E-29	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00515 2 60;ID=match$54_2_60;signature_desc=DEXQc_UvrD;Name=cd17932;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00515	Pfam	protein_match	1	60	1.8E-20	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00515 1 60;ID=match$55_1_60;signature_desc=UvrD/REP helicase N-terminal domain;Name=PF00580;status=T;Dbxref="InterPro:IPR034739"
+Patescibacteria_metaspades_Bin_5_4-contigs_00515	Gene3D	protein_match	1	60	1.2E-19	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00515 1 60;ID=match$56_1_60;Name=G3DSA:3.40.50.300;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00515	PANTHER	protein_match	1	60	2.3E-17	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00515 1 60;ID=match$57_1_60;Name=PTHR11070:SF7;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00515	SUPERFAMILY	protein_match	1	60	3.25E-16	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00515 1 60;ID=match$58_1_60;Name=SSF52540;status=T;Dbxref="InterPro:IPR027417"
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00429 1 47
+Patescibacteria_metaspades_Bin_5_4-contigs_00429	.	polypeptide	1	47	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00429;md5=68027808c944cbf412d0a33c10dbf526
+Patescibacteria_metaspades_Bin_5_4-contigs_00429	SUPERFAMILY	protein_match	2	47	1.36E-11	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00429 2 47;ID=match$59_2_47;Name=SSF69065;status=T;Dbxref="InterPro:IPR036389"
+Patescibacteria_metaspades_Bin_5_4-contigs_00429	ProSiteProfiles	protein_match	4	47	13.446	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00429 4 47;ID=match$60_4_47;signature_desc=Ribonuclease III family domain profile.;Name=PS50142;status=T;Dbxref="InterPro:IPR000999"
+Patescibacteria_metaspades_Bin_5_4-contigs_00429	Gene3D	protein_match	1	47	5.7E-10	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00429 1 47;ID=match$61_1_47;Name=G3DSA:1.10.1520.10;status=T;Dbxref="InterPro:IPR036389"
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00288 1 65
+Patescibacteria_metaspades_Bin_5_4-contigs_00288	.	polypeptide	1	65	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00288;md5=e5cc014a04057cc003d50a090590ca15
+Patescibacteria_metaspades_Bin_5_4-contigs_00288	ProSiteProfiles	protein_match	3	65	11.884	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00288 3 65;ID=match$62_3_65;signature_desc=HIT domain profile.;Name=PS51084;status=T;Dbxref="InterPro:IPR011146"
+Patescibacteria_metaspades_Bin_5_4-contigs_00288	SUPERFAMILY	protein_match	2	63	1.55E-19	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00288 2 63;ID=match$63_2_63;Name=SSF54197;status=T;Dbxref="InterPro:IPR036265"
+Patescibacteria_metaspades_Bin_5_4-contigs_00288	Gene3D	protein_match	1	65	1.4E-20	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00288 1 65;ID=match$64_1_65;Name=G3DSA:3.30.428.10;status=T;Dbxref="InterPro:IPR036265"
+Patescibacteria_metaspades_Bin_5_4-contigs_00288	Pfam	protein_match	2	63	5.4E-15	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00288 2 63;ID=match$65_2_63;signature_desc=Scavenger mRNA decapping enzyme C-term binding;Name=PF11969;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00288	PANTHER	protein_match	2	64	2.7E-21	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00288 2 64;ID=match$66_2_64;Name=PTHR23089;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00288	PRINTS	protein_match	3	19	3.3E-12	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00288 3 19;ID=match$67_3_19;signature_desc=Histidine triad family signature;Name=PR00332;status=T;Dbxref="InterPro:IPR001310"
+Patescibacteria_metaspades_Bin_5_4-contigs_00288	PRINTS	protein_match	24	42	3.3E-12	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00288 24 42;ID=match$67_24_42;signature_desc=Histidine triad family signature;Name=PR00332;status=T;Dbxref="InterPro:IPR001310"
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00469 1 76
+Patescibacteria_metaspades_Bin_5_4-contigs_00469	.	polypeptide	1	76	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00469;md5=5676c2c0111790a38574a67ad6da5b7a
+Patescibacteria_metaspades_Bin_5_4-contigs_00469	Coils	protein_match	8	28	.	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00469 8 28;ID=match$68_8_28;Name=Coil;status=T
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00517 1 59
+Patescibacteria_metaspades_Bin_5_4-contigs_00517	.	polypeptide	1	59	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00517;md5=8408f800a09314fc2688babfa768339c
+Patescibacteria_metaspades_Bin_5_4-contigs_00517	Gene3D	protein_match	25	59	7.4E-9	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00517 25 59;ID=match$69_25_59;Name=G3DSA:3.90.199.10;status=T;Dbxref="InterPro:IPR013758"
+Patescibacteria_metaspades_Bin_5_4-contigs_00517	SUPERFAMILY	protein_match	19	59	3.66E-8	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00517 19 59;ID=match$70_19_59;Name=SSF56719;status=T;Dbxref="InterPro:IPR013760"
+Patescibacteria_metaspades_Bin_5_4-contigs_00517	MobiDBLite	protein_match	1	22	.	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00517 1 22;ID=match$71_1_22;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00110 1 63
+Patescibacteria_metaspades_Bin_5_4-contigs_00110	.	polypeptide	1	63	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00110;md5=7bed55cb7615e0058b5c70fa514a33bc
+Patescibacteria_metaspades_Bin_5_4-contigs_00110	SUPERFAMILY	protein_match	10	63	4.97E-5	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00110 10 63;ID=match$72_10_63;Name=SSF56655;status=T
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00605 1 360
+Patescibacteria_metaspades_Bin_5_4-contigs_00605	.	polypeptide	1	360	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00605;md5=ebf399dcc8fc12250828f7a584023cf5
+Patescibacteria_metaspades_Bin_5_4-contigs_00605	Gene3D	protein_match	1	360	9.3E-133	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00605 1 360;ID=match$73_1_360;Name=G3DSA:3.40.50.12170;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00605	PIRSF	protein_match	1	360	2.5E-93	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00605 1 360;ID=match$74_1_360;Name=PIRSF016719;status=T;Dbxref="InterPro:IPR008302"
+Patescibacteria_metaspades_Bin_5_4-contigs_00605	Pfam	protein_match	7	359	4.1E-121	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00605 7 359;ID=match$75_7_359;signature_desc=Protein of unknown function (DUF1343);Name=PF07075;status=T;Dbxref="InterPro:IPR008302"
+Patescibacteria_metaspades_Bin_5_4-contigs_00605	PANTHER	protein_match	2	359	5.2E-89	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00605 2 359;ID=match$76_2_359;Name=PTHR42915;status=T;Dbxref="InterPro:IPR008302"
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00378 1 123
+Patescibacteria_metaspades_Bin_5_4-contigs_00378	.	polypeptide	1	123	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00378;md5=8b92ec9705cdaf889a054c6b0934c6ed
+Patescibacteria_metaspades_Bin_5_4-contigs_00378	Coils	protein_match	21	41	.	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00378 21 41;ID=match$77_21_41;Name=Coil;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00378	Coils	protein_match	87	107	.	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00378 87 107;ID=match$78_87_107;Name=Coil;status=T
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00200 1 90
+Patescibacteria_metaspades_Bin_5_4-contigs_00200	.	polypeptide	1	90	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00200;md5=5e9cc238aa19c115295cdd11c5e038dc
+Patescibacteria_metaspades_Bin_5_4-contigs_00200	Coils	protein_match	2	22	.	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00200 2 22;ID=match$79_2_22;Name=Coil;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00200	Coils	protein_match	40	64	.	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00200 40 64;ID=match$80_40_64;Name=Coil;status=T
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00179 1 60
+Patescibacteria_metaspades_Bin_5_4-contigs_00179	.	polypeptide	1	60	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00179;md5=bff3ae4e24a5dc2d0d4f8c07f95b6602
+Patescibacteria_metaspades_Bin_5_4-contigs_00179	Coils	protein_match	6	26	.	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00179 6 26;ID=match$81_6_26;Name=Coil;status=T
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00163 1 353
+Patescibacteria_metaspades_Bin_5_4-contigs_00163	.	polypeptide	1	353	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00163;md5=5f5811aa7f216845a9a450306c7b52d5
+Patescibacteria_metaspades_Bin_5_4-contigs_00163	Pfam	protein_match	35	349	2.5E-101	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00163 35 349;ID=match$82_35_349;signature_desc=Protein of unknown function (DUF3810);Name=PF12725;status=T;Dbxref="InterPro:IPR024294"
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00658 1 53
+Patescibacteria_metaspades_Bin_5_4-contigs_00658	.	polypeptide	1	53	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00658;md5=223885b4b9a1a0ad71623382f7410e3b
+Patescibacteria_metaspades_Bin_5_4-contigs_00658	Coils	protein_match	33	53	.	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00658 33 53;ID=match$83_33_53;Name=Coil;status=T
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00300 1 69
+Patescibacteria_metaspades_Bin_5_4-contigs_00300	.	polypeptide	1	69	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00300;md5=ca217c338dfeff05233a8327fe8ed8dd
+Patescibacteria_metaspades_Bin_5_4-contigs_00300	ProSiteProfiles	protein_match	1	19	5.0	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00300 1 19;ID=match$84_1_19;signature_desc=Prokaryotic membrane lipoprotein lipid attachment site profile.;Name=PS51257;status=T
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00335 1 185
+Patescibacteria_metaspades_Bin_5_4-contigs_00335	.	polypeptide	1	185	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00335;md5=e41badfc5789271eedc64d7e633fa85a
+Patescibacteria_metaspades_Bin_5_4-contigs_00335	Coils	protein_match	29	49	.	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00335 29 49;ID=match$85_29_49;Name=Coil;status=T
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00043 1 43
+Patescibacteria_metaspades_Bin_5_4-contigs_00043	.	polypeptide	1	43	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00043;md5=d09c1e71b11edc954dec0bdba3d4c381
+Patescibacteria_metaspades_Bin_5_4-contigs_00043	Gene3D	protein_match	1	43	3.3E-12	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00043 1 43;ID=match$86_1_43;Name=G3DSA:1.10.240.10;status=T
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00667 1 90
+Patescibacteria_metaspades_Bin_5_4-contigs_00667	.	polypeptide	1	90	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00667;md5=7e3c587113aadab298599553f1b863c8
+Patescibacteria_metaspades_Bin_5_4-contigs_00667	TIGRFAM	protein_match	7	52	3.7E-5	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00667 7 52;ID=match$87_7_52;signature_desc=phd_fam: prevent-host-death family protein;Name=TIGR01552;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00667	Coils	protein_match	45	65	.	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00667 45 65;ID=match$88_45_65;Name=Coil;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00667	SUPERFAMILY	protein_match	5	57	5.23E-6	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00667 5 57;ID=match$89_5_57;Name=SSF143120;status=T;Dbxref="InterPro:IPR036165"
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00181 1 132
+Patescibacteria_metaspades_Bin_5_4-contigs_00181	.	polypeptide	1	132	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00181;md5=4e02558b0791680873b99ff9c0002db5
+Patescibacteria_metaspades_Bin_5_4-contigs_00181	Coils	protein_match	61	91	.	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00181 61 91;ID=match$90_61_91;Name=Coil;status=T
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00572 1 80
+Patescibacteria_metaspades_Bin_5_4-contigs_00572	.	polypeptide	1	80	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00572;md5=a7487e6a227cc0007775ef1c2f992e7a
+Patescibacteria_metaspades_Bin_5_4-contigs_00572	Gene3D	protein_match	3	80	4.5E-10	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00572 3 80;ID=match$91_3_80;Name=G3DSA:3.80.30.30;status=T
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00203 1 218
+Patescibacteria_metaspades_Bin_5_4-contigs_00203	.	polypeptide	1	218	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00203;md5=c9f4702a1633dcf1bb3eec62a4f6bbc0
+Patescibacteria_metaspades_Bin_5_4-contigs_00203	Pfam	protein_match	11	185	9.9E-14	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00203 11 185;ID=match$92_11_185;signature_desc=Calcineurin-like phosphoesterase;Name=PF00149;status=T;Dbxref="InterPro:IPR004843"
+Patescibacteria_metaspades_Bin_5_4-contigs_00203	PANTHER	protein_match	8	217	2.4E-69	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00203 8 217;ID=match$93_8_217;Name=PTHR12905;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00203	SUPERFAMILY	protein_match	11	207	3.66E-39	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00203 11 207;ID=match$94_11_207;Name=SSF56300;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00203	CDD	protein_match	12	201	1.39569E-56	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00203 12 201;ID=match$95_12_201;signature_desc=MPP_239FB;Name=cd07379;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00203	Gene3D	protein_match	2	218	4.7E-84	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00203 2 218;ID=match$96_2_218;Name=G3DSA:3.60.21.10;status=T;Dbxref="InterPro:IPR029052"
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00457 1 272
+Patescibacteria_metaspades_Bin_5_4-contigs_00457	.	polypeptide	1	272	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00457;md5=93db07f758d17369af6e6c05337d6dea
+Patescibacteria_metaspades_Bin_5_4-contigs_00457	Pfam	protein_match	15	267	3.3E-59	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00457 15 267;ID=match$97_15_267;signature_desc=DAHP synthetase I family;Name=PF00793;status=T;Dbxref="InterPro:IPR006218"
+Patescibacteria_metaspades_Bin_5_4-contigs_00457	PANTHER	protein_match	11	269	3.6E-104	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00457 11 269;ID=match$98_11_269;Name=PTHR21057;status=T;Dbxref="InterPro:IPR006269"
+Patescibacteria_metaspades_Bin_5_4-contigs_00457	TIGRFAM	protein_match	16	269	1.7E-115	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00457 16 269;ID=match$99_16_269;signature_desc=KDO8P_synth: 3-deoxy-8-phosphooctulonate synthase;Name=TIGR01362;status=T;Dbxref="InterPro:IPR006269"
+Patescibacteria_metaspades_Bin_5_4-contigs_00457	SUPERFAMILY	protein_match	7	269	8.06E-96	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00457 7 269;ID=match$100_7_269;Name=SSF51569;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00457	Gene3D	protein_match	1	271	4.4E-96	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00457 1 271;ID=match$101_1_271;Name=G3DSA:3.20.20.70;status=T;Dbxref="InterPro:IPR013785"
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00455 1 184
+Patescibacteria_metaspades_Bin_5_4-contigs_00455	.	polypeptide	1	184	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00455;md5=b020f705a5d89e244464f7aa0ab7a2f2
+Patescibacteria_metaspades_Bin_5_4-contigs_00455	Pfam	protein_match	4	181	1.1E-11	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00455 4 181;ID=match$102_4_181;signature_desc=Domain of unknown function (DUF4411);Name=PF14367;status=T;Dbxref="InterPro:IPR016541"
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00403 1 72
+Patescibacteria_metaspades_Bin_5_4-contigs_00403	.	polypeptide	1	72	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00403;md5=03f5ce8aba39f76ec18a9900693f6e4d
+Patescibacteria_metaspades_Bin_5_4-contigs_00403	Pfam	protein_match	1	39	1.4E-10	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00403 1 39;ID=match$103_1_39;signature_desc=DNA polymerase III, delta subunit;Name=PF13177;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00403	PANTHER	protein_match	1	70	5.7E-23	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00403 1 70;ID=match$104_1_70;Name=PTHR11669:SF0;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00403	Gene3D	protein_match	41	72	1.1E-7	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00403 41 72;ID=match$105_41_72;Name=G3DSA:1.10.8.60;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00403	SUPERFAMILY	protein_match	2	69	6.81E-19	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00403 2 69;ID=match$106_2_69;Name=SSF52540;status=T;Dbxref="InterPro:IPR027417"
+Patescibacteria_metaspades_Bin_5_4-contigs_00403	PANTHER	protein_match	1	70	5.7E-23	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00403 1 70;ID=match$107_1_70;Name=PTHR11669;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00403	Gene3D	protein_match	1	38	3.1E-11	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00403 1 38;ID=match$108_1_38;Name=G3DSA:3.40.50.300;status=T
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00385 1 60
+Patescibacteria_metaspades_Bin_5_4-contigs_00385	.	polypeptide	1	60	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00385;md5=2f502291bef243c011f4a0514c7fa55e
+Patescibacteria_metaspades_Bin_5_4-contigs_00385	Gene3D	protein_match	9	57	3.9E-5	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00385 9 57;ID=match$109_9_57;Name=G3DSA:1.10.1220.10;status=T;Dbxref="InterPro:IPR013321"
+Patescibacteria_metaspades_Bin_5_4-contigs_00385	Pfam	protein_match	11	54	5.3E-7	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00385 11 54;ID=match$110_11_54;signature_desc=RelB antitoxin;Name=PF04221;status=T;Dbxref="InterPro:IPR007337"
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00221 1 135
+Patescibacteria_metaspades_Bin_5_4-contigs_00221	.	polypeptide	1	135	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00221;md5=eaa4f0d1bcdb31f9c7c0f0b460a4baca
+Patescibacteria_metaspades_Bin_5_4-contigs_00221	Gene3D	protein_match	1	108	1.5E-12	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00221 1 108;ID=match$111_1_108;Name=G3DSA:1.20.58.340;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00221	PANTHER	protein_match	3	135	1.0E-13	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00221 3 135;ID=match$112_3_135;Name=PTHR46494;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00221	SUPERFAMILY	protein_match	2	107	1.31E-12	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00221 2 107;ID=match$113_2_107;Name=SSF143865;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00221	Pfam	protein_match	1	135	8.7E-22	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00221 1 135;ID=match$114_1_135;signature_desc=CorA-like Mg2+ transporter protein;Name=PF01544;status=T;Dbxref="InterPro:IPR002523"
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00280 1 56
+Patescibacteria_metaspades_Bin_5_4-contigs_00280	.	polypeptide	1	56	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00280;md5=74aebaa73dc939d6e020ef017f26d31a
+Patescibacteria_metaspades_Bin_5_4-contigs_00280	PRINTS	protein_match	44	56	6.8E-14	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00280 44 56;ID=match$115_44_56;signature_desc=ATP synthase gamma subunit signature;Name=PR00126;status=T;Dbxref="InterPro:IPR000131"
+Patescibacteria_metaspades_Bin_5_4-contigs_00280	PRINTS	protein_match	13	32	6.8E-14	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00280 13 32;ID=match$115_13_32;signature_desc=ATP synthase gamma subunit signature;Name=PR00126;status=T;Dbxref="InterPro:IPR000131"
+Patescibacteria_metaspades_Bin_5_4-contigs_00280	PANTHER	protein_match	5	56	4.3E-13	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00280 5 56;ID=match$116_5_56;Name=PTHR11693;status=T;Dbxref="InterPro:IPR000131"
+Patescibacteria_metaspades_Bin_5_4-contigs_00280	PANTHER	protein_match	5	56	4.3E-13	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00280 5 56;ID=match$117_5_56;Name=PTHR11693:SF22;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00280	SUPERFAMILY	protein_match	3	56	2.26E-21	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00280 3 56;ID=match$118_3_56;Name=SSF52943;status=T;Dbxref="InterPro:IPR035968"
+Patescibacteria_metaspades_Bin_5_4-contigs_00280	Gene3D	protein_match	1	56	1.4E-20	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00280 1 56;ID=match$119_1_56;Name=G3DSA:1.10.287.80;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00280	Pfam	protein_match	3	56	5.1E-22	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00280 3 56;ID=match$120_3_56;signature_desc=ATP synthase;Name=PF00231;status=T;Dbxref="InterPro:IPR000131"
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00356 1 113
+Patescibacteria_metaspades_Bin_5_4-contigs_00356	.	polypeptide	1	113	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00356;md5=153a1e6d68220d8620c66ce30fefbf06
+Patescibacteria_metaspades_Bin_5_4-contigs_00356	Coils	protein_match	1	21	.	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00356 1 21;ID=match$121_1_21;Name=Coil;status=T
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00456 1 385
+Patescibacteria_metaspades_Bin_5_4-contigs_00456	.	polypeptide	1	385	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00456;md5=3aad2e7dc0ae319ea27b19fe2889ad88
+Patescibacteria_metaspades_Bin_5_4-contigs_00456	Coils	protein_match	314	334	.	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00456 314 334;ID=match$122_314_334;Name=Coil;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00456	Pfam	protein_match	185	252	2.1E-6	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00456 185 252;ID=match$123_185_252;signature_desc=IrrE N-terminal-like domain;Name=PF06114;status=T;Dbxref="InterPro:IPR010359"
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00241 1 122
+Patescibacteria_metaspades_Bin_5_4-contigs_00241	.	polypeptide	1	122	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00241;md5=cc5a889267e0374ecab68be94fb83213
+Patescibacteria_metaspades_Bin_5_4-contigs_00241	Coils	protein_match	1	21	.	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00241 1 21;ID=match$124_1_21;Name=Coil;status=T
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00333 1 64
+Patescibacteria_metaspades_Bin_5_4-contigs_00333	.	polypeptide	1	64	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00333;md5=21dea291a67a1e2179d9e252f1c176b5
+Patescibacteria_metaspades_Bin_5_4-contigs_00333	Gene3D	protein_match	1	64	2.2E-8	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00333 1 64;ID=match$125_1_64;Name=G3DSA:1.10.340.30;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00333	PANTHER	protein_match	3	64	5.0E-12	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00333 3 64;ID=match$126_3_64;Name=PTHR10359;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00333	SUPERFAMILY	protein_match	14	64	8.64E-11	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00333 14 64;ID=match$127_14_64;Name=SSF48150;status=T;Dbxref="InterPro:IPR011257"
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00087 1 99
+Patescibacteria_metaspades_Bin_5_4-contigs_00087	.	polypeptide	1	99	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00087;md5=c9ad71f8519d8c7035c082fa8963d162
+Patescibacteria_metaspades_Bin_5_4-contigs_00087	SUPERFAMILY	protein_match	8	74	1.58E-8	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00087 8 74;ID=match$128_8_74;Name=SSF46785;status=T;Dbxref="InterPro:IPR036390"
+Patescibacteria_metaspades_Bin_5_4-contigs_00087	SMART	protein_match	4	80	0.0075	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00087 4 80;ID=match$129_4_80;Name=SM00418;status=T;Dbxref="InterPro:IPR001845"
+Patescibacteria_metaspades_Bin_5_4-contigs_00087	Gene3D	protein_match	1	82	1.5E-7	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00087 1 82;ID=match$130_1_82;Name=G3DSA:1.10.10.10;status=T;Dbxref="InterPro:IPR036388"
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00552 1 86
+Patescibacteria_metaspades_Bin_5_4-contigs_00552	.	polypeptide	1	86	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00552;md5=dadce779c5343e3ec6c9ef3196286e39
+Patescibacteria_metaspades_Bin_5_4-contigs_00552	SUPERFAMILY	protein_match	2	64	1.59E-9	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00552 2 64;ID=match$131_2_64;Name=SSF55681;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00552	Gene3D	protein_match	1	83	4.2E-6	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00552 1 83;ID=match$132_1_83;Name=G3DSA:3.30.930.10;status=T
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00201 1 76
+Patescibacteria_metaspades_Bin_5_4-contigs_00201	.	polypeptide	1	76	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00201;md5=d63cbd93738816aa5c51f2789c524d31
+Patescibacteria_metaspades_Bin_5_4-contigs_00201	Pfam	protein_match	4	73	1.4E-16	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00201 4 73;ID=match$133_4_73;signature_desc=MnmE helical domain;Name=PF12631;status=T;Dbxref="InterPro:IPR025867"
+Patescibacteria_metaspades_Bin_5_4-contigs_00201	Gene3D	protein_match	1	76	1.6E-19	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00201 1 76;ID=match$134_1_76;Name=G3DSA:1.20.120.430;status=T;Dbxref="InterPro:IPR027368"
+Patescibacteria_metaspades_Bin_5_4-contigs_00201	SUPERFAMILY	protein_match	3	76	1.7E-17	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00201 3 76;ID=match$135_3_76;Name=SSF116878;status=T
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00488 1 80
+Patescibacteria_metaspades_Bin_5_4-contigs_00488	.	polypeptide	1	80	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00488;md5=d446f9d116509a8e41a26de69653d25f
+Patescibacteria_metaspades_Bin_5_4-contigs_00488	Gene3D	protein_match	1	78	8.1E-18	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00488 1 78;ID=match$136_1_78;Name=G3DSA:3.40.50.410;status=T;Dbxref="InterPro:IPR036465"
+Patescibacteria_metaspades_Bin_5_4-contigs_00488	SUPERFAMILY	protein_match	1	71	2.23E-13	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00488 1 71;ID=match$137_1_71;Name=SSF53300;status=T;Dbxref="InterPro:IPR036465"
+Patescibacteria_metaspades_Bin_5_4-contigs_00488	Pfam	protein_match	1	71	3.9E-12	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00488 1 71;ID=match$138_1_71;signature_desc=von Willebrand factor type A domain;Name=PF13519;status=T;Dbxref="InterPro:IPR002035"
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00398 1 195
+Patescibacteria_metaspades_Bin_5_4-contigs_00398	.	polypeptide	1	195	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00398;md5=042d1fa6958ba2d3829d1e6d960d2005
+Patescibacteria_metaspades_Bin_5_4-contigs_00398	Coils	protein_match	12	80	.	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00398 12 80;ID=match$139_12_80;Name=Coil;status=T
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00452 1 625
+Patescibacteria_metaspades_Bin_5_4-contigs_00452	.	polypeptide	1	625	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00452;md5=79a8b294541f6f4278e07a39637af296
+Patescibacteria_metaspades_Bin_5_4-contigs_00452	PANTHER	protein_match	3	624	2.1E-133	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00452 3 624;ID=match$140_3_624;Name=PTHR11528;status=T;Dbxref="InterPro:IPR001404"
+Patescibacteria_metaspades_Bin_5_4-contigs_00452	Pfam	protein_match	220	596	1.3E-41	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00452 220 596;ID=match$141_220_596;signature_desc=Hsp90 protein;Name=PF00183;status=T;Dbxref="InterPro:IPR001404"
+Patescibacteria_metaspades_Bin_5_4-contigs_00452	SUPERFAMILY	protein_match	2	206	1.07E-54	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00452 2 206;ID=match$142_2_206;Name=SSF55874;status=T;Dbxref="InterPro:IPR036890"
+Patescibacteria_metaspades_Bin_5_4-contigs_00452	CDD	protein_match	11	198	1.11943E-67	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00452 11 198;ID=match$143_11_198;signature_desc=HATPase_Hsp90-like;Name=cd16927;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00452	Gene3D	protein_match	232	365	5.9E-35	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00452 232 365;ID=match$144_232_365;Name=G3DSA:3.30.230.80;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00452	Gene3D	protein_match	367	483	2.4E-8	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00452 367 483;ID=match$145_367_483;Name=G3DSA:3.40.50.12450;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00452	ProSitePatterns	protein_match	22	31	.	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00452 22 31;ID=match$146_22_31;signature_desc=Heat shock hsp90 proteins family signature.;Name=PS00298;status=T;Dbxref="InterPro:IPR019805"
+Patescibacteria_metaspades_Bin_5_4-contigs_00452	SUPERFAMILY	protein_match	234	485	1.21E-58	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00452 234 485;ID=match$147_234_485;Name=SSF54211;status=T;Dbxref="InterPro:IPR020568"
+Patescibacteria_metaspades_Bin_5_4-contigs_00452	PRINTS	protein_match	23	45	1.2E-37	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00452 23 45;ID=match$148_23_45;signature_desc=90kDa heat shock protein signature;Name=PR00775;status=T;Dbxref="InterPro:IPR020575"
+Patescibacteria_metaspades_Bin_5_4-contigs_00452	PRINTS	protein_match	115	137	1.2E-37	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00452 115 137;ID=match$148_115_137;signature_desc=90kDa heat shock protein signature;Name=PR00775;status=T;Dbxref="InterPro:IPR020575"
+Patescibacteria_metaspades_Bin_5_4-contigs_00452	PRINTS	protein_match	184	202	1.2E-37	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00452 184 202;ID=match$148_184_202;signature_desc=90kDa heat shock protein signature;Name=PR00775;status=T;Dbxref="InterPro:IPR020575"
+Patescibacteria_metaspades_Bin_5_4-contigs_00452	PRINTS	protein_match	71	88	1.2E-37	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00452 71 88;ID=match$148_71_88;signature_desc=90kDa heat shock protein signature;Name=PR00775;status=T;Dbxref="InterPro:IPR020575"
+Patescibacteria_metaspades_Bin_5_4-contigs_00452	PRINTS	protein_match	166	183	1.2E-37	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00452 166 183;ID=match$148_166_183;signature_desc=90kDa heat shock protein signature;Name=PR00775;status=T;Dbxref="InterPro:IPR020575"
+Patescibacteria_metaspades_Bin_5_4-contigs_00452	PRINTS	protein_match	89	106	1.2E-37	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00452 89 106;ID=match$148_89_106;signature_desc=90kDa heat shock protein signature;Name=PR00775;status=T;Dbxref="InterPro:IPR020575"
+Patescibacteria_metaspades_Bin_5_4-contigs_00452	PIRSF	protein_match	1	625	1.8E-146	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00452 1 625;ID=match$149_1_625;Name=PIRSF002583;status=T;Dbxref="InterPro:IPR001404"
+Patescibacteria_metaspades_Bin_5_4-contigs_00452	Gene3D	protein_match	493	625	5.6E-5	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00452 493 625;ID=match$150_493_625;Name=G3DSA:1.20.120.790;status=T;Dbxref="InterPro:IPR037196"
+Patescibacteria_metaspades_Bin_5_4-contigs_00452	PANTHER	protein_match	3	624	2.1E-133	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00452 3 624;ID=match$151_3_624;Name=PTHR11528:SF97;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00452	Gene3D	protein_match	2	222	3.9E-57	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00452 2 222;ID=match$152_2_222;Name=G3DSA:3.30.565.10;status=T;Dbxref="InterPro:IPR036890"
+Patescibacteria_metaspades_Bin_5_4-contigs_00452	Pfam	protein_match	26	151	5.9E-12	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00452 26 151;ID=match$153_26_151;signature_desc=Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase;Name=PF13589;status=T
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00505 1 54
+Patescibacteria_metaspades_Bin_5_4-contigs_00505	.	polypeptide	1	54	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00505;md5=8db9a3231ef8f145cec293ce9159d4d3
+Patescibacteria_metaspades_Bin_5_4-contigs_00505	Coils	protein_match	4	24	.	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00505 4 24;ID=match$154_4_24;Name=Coil;status=T
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00324 1 51
+Patescibacteria_metaspades_Bin_5_4-contigs_00324	.	polypeptide	1	51	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00324;md5=4751542e2f0d0457090b30eb5da1673f
+Patescibacteria_metaspades_Bin_5_4-contigs_00324	Coils	protein_match	22	42	.	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00324 22 42;ID=match$155_22_42;Name=Coil;status=T
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00453 1 264
+Patescibacteria_metaspades_Bin_5_4-contigs_00453	.	polypeptide	1	264	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00453;md5=bbc41f7c61d5495cb9a7a3ce162e65e2
+Patescibacteria_metaspades_Bin_5_4-contigs_00453	PANTHER	protein_match	28	260	6.6E-92	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00453 28 260;ID=match$156_28_260;Name=PTHR34383;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00453	PANTHER	protein_match	28	260	6.6E-92	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00453 28 260;ID=match$157_28_260;Name=PTHR34383:SF1;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00453	SUPERFAMILY	protein_match	68	256	9.35E-23	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00453 68 256;ID=match$158_68_256;Name=SSF52540;status=T;Dbxref="InterPro:IPR027417"
+Patescibacteria_metaspades_Bin_5_4-contigs_00453	Pfam	protein_match	40	260	2.2E-87	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00453 40 260;ID=match$159_40_260;signature_desc=Polyphosphate kinase 2 (PPK2);Name=PF03976;status=T;Dbxref="InterPro:IPR022488"
+Patescibacteria_metaspades_Bin_5_4-contigs_00453	TIGRFAM	protein_match	41	260	4.8E-96	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00453 41 260;ID=match$160_41_260;signature_desc=PPK2_P_aer: polyphosphate kinase 2;Name=TIGR03707;status=T;Dbxref="InterPro:IPR022486"
+Patescibacteria_metaspades_Bin_5_4-contigs_00453	PIRSF	protein_match	3	263	3.7E-98	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00453 3 263;ID=match$161_3_263;Name=PIRSF028756;status=T;Dbxref="InterPro:IPR016898"
+Patescibacteria_metaspades_Bin_5_4-contigs_00453	Gene3D	protein_match	2	264	3.4E-83	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00453 2 264;ID=match$162_2_264;Name=G3DSA:3.40.50.300;status=T
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00317 1 162
+Patescibacteria_metaspades_Bin_5_4-contigs_00317	.	polypeptide	1	162	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00317;md5=790fbeb2b0ab5e552ed2ba74c5fe118f
+Patescibacteria_metaspades_Bin_5_4-contigs_00317	Pfam	protein_match	55	162	1.1E-29	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00317 55 162;ID=match$163_55_162;signature_desc=Staphylococcal nuclease homologue;Name=PF00565;status=T;Dbxref="InterPro:IPR016071"
+Patescibacteria_metaspades_Bin_5_4-contigs_00317	PANTHER	protein_match	26	161	8.4E-22	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00317 26 161;ID=match$164_26_161;Name=PTHR12302:SF3;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00317	ProSiteProfiles	protein_match	1	20	6.0	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00317 1 20;ID=match$165_1_20;signature_desc=Prokaryotic membrane lipoprotein lipid attachment site profile.;Name=PS51257;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00317	PANTHER	protein_match	26	161	8.4E-22	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00317 26 161;ID=match$166_26_161;Name=PTHR12302;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00317	ProSiteProfiles	protein_match	35	162	32.408	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00317 35 162;ID=match$167_35_162;signature_desc=Thermonuclease domain profile.;Name=PS50830;status=T;Dbxref="InterPro:IPR016071"
+Patescibacteria_metaspades_Bin_5_4-contigs_00317	Gene3D	protein_match	25	162	2.9E-48	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00317 25 162;ID=match$168_25_162;Name=G3DSA:2.40.50.90;status=T;Dbxref="InterPro:IPR035437"
+Patescibacteria_metaspades_Bin_5_4-contigs_00317	SUPERFAMILY	protein_match	36	161	1.96E-33	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00317 36 161;ID=match$169_36_161;Name=SSF50199;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00317	SMART	protein_match	31	162	6.0E-29	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00317 31 162;ID=match$170_31_162;Name=SM00318;status=T;Dbxref="InterPro:IPR016071"
+Patescibacteria_metaspades_Bin_5_4-contigs_00317	ProSitePatterns	protein_match	103	113	.	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00317 103 113;ID=match$171_103_113;signature_desc=Thermonuclease family signature 2.;Name=PS01284;status=T;Dbxref="InterPro:IPR002071"
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00611 1 57
+Patescibacteria_metaspades_Bin_5_4-contigs_00611	.	polypeptide	1	57	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00611;md5=deb1adc0144dddd0daba8bd4cbf6208c
+Patescibacteria_metaspades_Bin_5_4-contigs_00611	ProSiteProfiles	protein_match	1	18	6.0	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00611 1 18;ID=match$172_1_18;signature_desc=Prokaryotic membrane lipoprotein lipid attachment site profile.;Name=PS51257;status=T
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00142 1 79
+Patescibacteria_metaspades_Bin_5_4-contigs_00142	.	polypeptide	1	79	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00142;md5=0bf596cdfa8abd38df540988f624e1b7
+Patescibacteria_metaspades_Bin_5_4-contigs_00142	Coils	protein_match	33	53	.	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00142 33 53;ID=match$173_33_53;Name=Coil;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00142	SUPERFAMILY	protein_match	14	78	9.68E-5	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00142 14 78;ID=match$174_14_78;Name=SSF69754;status=T;Dbxref="InterPro:IPR036567"
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00189 1 85
+Patescibacteria_metaspades_Bin_5_4-contigs_00189	.	polypeptide	1	85	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00189;md5=c92fef492a231925937d8412d3cb5d3c
+Patescibacteria_metaspades_Bin_5_4-contigs_00189	Coils	protein_match	18	80	.	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00189 18 80;ID=match$175_18_80;Name=Coil;status=T
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00540 1 61
+Patescibacteria_metaspades_Bin_5_4-contigs_00540	.	polypeptide	1	61	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00540;md5=6f773ce140aa7c189fec24ac2e045d4e
+Patescibacteria_metaspades_Bin_5_4-contigs_00540	Coils	protein_match	60	61	.	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00540 60 61;ID=match$176_60_61;Name=Coil;status=T
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00285 1 70
+Patescibacteria_metaspades_Bin_5_4-contigs_00285	.	polypeptide	1	70	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00285;md5=2b4d6b492b6141bfda0f31d96c67b78e
+Patescibacteria_metaspades_Bin_5_4-contigs_00285	Gene3D	protein_match	2	70	4.6E-14	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00285 2 70;ID=match$177_2_70;Name=G3DSA:3.40.50.620;status=T;Dbxref="InterPro:IPR014729"
+Patescibacteria_metaspades_Bin_5_4-contigs_00285	PANTHER	protein_match	2	70	1.9E-19	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00285 2 70;ID=match$178_2_70;Name=PTHR42780;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00285	Pfam	protein_match	2	67	1.6E-16	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00285 2 67;ID=match$179_2_67;signature_desc=tRNA synthetases class I (I, L, M and V);Name=PF00133;status=T;Dbxref="InterPro:IPR002300"
+Patescibacteria_metaspades_Bin_5_4-contigs_00285	PANTHER	protein_match	2	70	1.9E-19	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00285 2 70;ID=match$180_2_70;Name=PTHR42780:SF1;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00285	SUPERFAMILY	protein_match	4	68	2.11E-10	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00285 4 68;ID=match$181_4_68;Name=SSF52374;status=T
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00315 1 206
+Patescibacteria_metaspades_Bin_5_4-contigs_00315	.	polypeptide	1	206	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00315;md5=80a375038475805679fe2b744bdf475b
+Patescibacteria_metaspades_Bin_5_4-contigs_00315	SUPERFAMILY	protein_match	53	160	3.14E-5	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00315 53 160;ID=match$182_53_160;Name=SSF103088;status=T;Dbxref="InterPro:IPR036737"
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00428 1 91
+Patescibacteria_metaspades_Bin_5_4-contigs_00428	.	polypeptide	1	91	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00428;md5=e67da7a98d7fba2692532a30f4a90876
+Patescibacteria_metaspades_Bin_5_4-contigs_00428	SUPERFAMILY	protein_match	12	91	6.93E-15	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00428 12 91;ID=match$183_12_91;Name=SSF48013;status=T;Dbxref="InterPro:IPR035926"
+Patescibacteria_metaspades_Bin_5_4-contigs_00428	Pfam	protein_match	11	91	1.6E-14	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00428 11 91;ID=match$184_11_91;signature_desc=NusB family;Name=PF01029;status=T;Dbxref="InterPro:IPR006027"
+Patescibacteria_metaspades_Bin_5_4-contigs_00428	Gene3D	protein_match	1	91	9.4E-17	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00428 1 91;ID=match$185_1_91;Name=G3DSA:1.10.940.10;status=T;Dbxref="InterPro:IPR035926"
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00310 1 496
+Patescibacteria_metaspades_Bin_5_4-contigs_00310	.	polypeptide	1	496	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00310;md5=a05a272adaeccec18d8e84a6fc5024fb
+Patescibacteria_metaspades_Bin_5_4-contigs_00310	SUPERFAMILY	protein_match	4	206	1.31E-7	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00310 4 206;ID=match$186_4_206;Name=SSF52490;status=T;Dbxref="InterPro:IPR036525"
+Patescibacteria_metaspades_Bin_5_4-contigs_00310	Gene3D	protein_match	80	269	8.6E-6	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00310 80 269;ID=match$187_80_269;Name=G3DSA:3.40.50.1440;status=T;Dbxref="InterPro:IPR036525"
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00586 1 248
+Patescibacteria_metaspades_Bin_5_4-contigs_00586	.	polypeptide	1	248	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00586;md5=b0fd45495cddb2a478b5b8bb382d3ccd
+Patescibacteria_metaspades_Bin_5_4-contigs_00586	SUPERFAMILY	protein_match	20	241	1.88E-15	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00586 20 241;ID=match$188_20_241;Name=SSF143422;status=T;Dbxref="InterPro:IPR036515"
+Patescibacteria_metaspades_Bin_5_4-contigs_00586	SMART	protein_match	21	237	8.7E-13	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00586 21 237;ID=match$189_21_237;Name=SM01321;status=T;Dbxref="InterPro:IPR002686"
+Patescibacteria_metaspades_Bin_5_4-contigs_00586	MobiDBLite	protein_match	103	160	.	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00586 103 160;ID=match$190_103_160;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00586	Gene3D	protein_match	14	129	2.0E-13	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00586 14 129;ID=match$191_14_129;Name=G3DSA:3.30.70.1290;status=T;Dbxref="InterPro:IPR036515"
+Patescibacteria_metaspades_Bin_5_4-contigs_00586	Gene3D	protein_match	159	246	4.0E-12	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00586 159 246;ID=match$191_159_246;Name=G3DSA:3.30.70.1290;status=T;Dbxref="InterPro:IPR036515"
+Patescibacteria_metaspades_Bin_5_4-contigs_00586	PANTHER	protein_match	5	239	1.0E-18	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00586 5 239;ID=match$192_5_239;Name=PTHR36966;status=T
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00587 1 202
+Patescibacteria_metaspades_Bin_5_4-contigs_00587	.	polypeptide	1	202	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00587;md5=3fa4d67d4f007e7ebadff248b6a99d8f
+Patescibacteria_metaspades_Bin_5_4-contigs_00587	Pfam	protein_match	21	188	7.5E-17	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00587 21 188;ID=match$193_21_188;signature_desc=Type I restriction modification DNA specificity domain;Name=PF01420;status=T;Dbxref="InterPro:IPR000055"
+Patescibacteria_metaspades_Bin_5_4-contigs_00587	SUPERFAMILY	protein_match	17	201	2.94E-35	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00587 17 201;ID=match$194_17_201;Name=SSF116734;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00587	PANTHER	protein_match	22	202	2.7E-29	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00587 22 202;ID=match$195_22_202;Name=PTHR30408:SF12;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00587	PANTHER	protein_match	22	202	2.7E-29	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00587 22 202;ID=match$196_22_202;Name=PTHR30408;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00587	Gene3D	protein_match	5	201	1.2E-38	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00587 5 201;ID=match$197_5_201;Name=G3DSA:3.90.220.20;status=T
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00093 1 70
+Patescibacteria_metaspades_Bin_5_4-contigs_00093	.	polypeptide	1	70	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00093;md5=56af3d6b6954a7f24f68feb495d47f16
+Patescibacteria_metaspades_Bin_5_4-contigs_00093	Coils	protein_match	10	30	.	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00093 10 30;ID=match$198_10_30;Name=Coil;status=T
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00250 1 104
+Patescibacteria_metaspades_Bin_5_4-contigs_00250	.	polypeptide	1	104	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00250;md5=f7b796bf3476fbcf89001a5381da9e8f
+Patescibacteria_metaspades_Bin_5_4-contigs_00250	MobiDBLite	protein_match	38	81	.	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00250 38 81;ID=match$199_38_81;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00250	Coils	protein_match	4	97	.	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00250 4 97;ID=match$200_4_97;Name=Coil;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00250	MobiDBLite	protein_match	55	81	.	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00250 55 81;ID=match$201_55_81;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00250	MobiDBLite	protein_match	39	54	.	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00250 39 54;ID=match$202_39_54;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00268 1 68
+Patescibacteria_metaspades_Bin_5_4-contigs_00268	.	polypeptide	1	68	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00268;md5=99855eb29ce543a66670872cba742f6c
+Patescibacteria_metaspades_Bin_5_4-contigs_00268	Coils	protein_match	68	68	.	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00268 68 68;ID=match$203_68_68;Name=Coil;status=T
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00529 1 79
+Patescibacteria_metaspades_Bin_5_4-contigs_00529	.	polypeptide	1	79	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00529;md5=7832aa482cdba3f4594e207e4712bc3d
+Patescibacteria_metaspades_Bin_5_4-contigs_00529	Coils	protein_match	75	79	.	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00529 75 79;ID=match$204_75_79;Name=Coil;status=T
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00314 1 166
+Patescibacteria_metaspades_Bin_5_4-contigs_00314	.	polypeptide	1	166	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00314;md5=6719b06812d752ba33288bb360a07de1
+Patescibacteria_metaspades_Bin_5_4-contigs_00314	ProSiteProfiles	protein_match	1	28	5.0	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00314 1 28;ID=match$205_1_28;signature_desc=Prokaryotic membrane lipoprotein lipid attachment site profile.;Name=PS51257;status=T
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00079 1 43
+Patescibacteria_metaspades_Bin_5_4-contigs_00079	.	polypeptide	1	43	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00079;md5=a5c283b0cc57f07df86a3b8c0270412a
+Patescibacteria_metaspades_Bin_5_4-contigs_00079	Coils	protein_match	14	41	.	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00079 14 41;ID=match$206_14_41;Name=Coil;status=T
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00312 1 443
+Patescibacteria_metaspades_Bin_5_4-contigs_00312	.	polypeptide	1	443	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00312;md5=2406ec35c3dd073a75b12512f4250c08
+Patescibacteria_metaspades_Bin_5_4-contigs_00312	MobiDBLite	protein_match	272	324	.	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00312 272 324;ID=match$207_272_324;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00312	MobiDBLite	protein_match	288	324	.	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00312 288 324;ID=match$208_288_324;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00312	Coils	protein_match	159	179	.	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00312 159 179;ID=match$209_159_179;Name=Coil;status=T
+Patescibacteria_metaspades_Bin_5_4-contigs_00312	Coils	protein_match	284	318	.	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00312 284 318;ID=match$210_284_318;Name=Coil;status=T
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00564 1 108
+Patescibacteria_metaspades_Bin_5_4-contigs_00564	.	polypeptide	1	108	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00564;md5=7104038e8b4099456327d08ead08f7bc
+Patescibacteria_metaspades_Bin_5_4-contigs_00564	MobiDBLite	protein_match	1	20	.	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00564 1 20;ID=match$211_1_20;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00595 1 252
+Patescibacteria_metaspades_Bin_5_4-contigs_00595	.	polypeptide	1	252	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00595;md5=b7297ee172aba980a2ac8116be5c23c2
+Patescibacteria_metaspades_Bin_5_4-contigs_00595	ProSiteProfiles	protein_match	1	20	7.0	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00595 1 20;ID=match$212_1_20;signature_desc=Prokaryotic membrane lipoprotein lipid attachment site profile.;Name=PS51257;status=T
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00612 1 89
+Patescibacteria_metaspades_Bin_5_4-contigs_00612	.	polypeptide	1	89	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00612;md5=a4a6439fcb88fc65629e79fd45783693
+Patescibacteria_metaspades_Bin_5_4-contigs_00612	Coils	protein_match	63	85	.	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00612 63 85;ID=match$213_63_85;Name=Coil;status=T
+##sequence-region Patescibacteria_metaspades_Bin_5_4-contigs_00113 1 58
+Patescibacteria_metaspades_Bin_5_4-contigs_00113	.	polypeptide	1	58	.	+	.	ID=Patescibacteria_metaspades_Bin_5_4-contigs_00113;md5=f138deba00bd0ff7f2f56b0eaa376856
+Patescibacteria_metaspades_Bin_5_4-contigs_00113	Coils	protein_match	54	58	.	+	.	date=22-10-2021;Target=Patescibacteria_metaspades_Bin_5_4-contigs_00113 54 58;ID=match$214_54_58;Name=Coil;status=T
+##FASTA
+>Patescibacteria_metaspades_Bin_5_4-contigs_00001
+MIILDLETTGLDAKKDKIIEFAAIKINENFEEIERLNFFINPEIKISNEVVKLT
+>Patescibacteria_metaspades_Bin_5_4-contigs_00015
+MKIIIKPFSEIMIKSKFVKKQYLKNLQKNILRNLKELELKIEVVVFNDKLEVNYNSENEN
+DKKEIIKKLKFTI
+>Patescibacteria_metaspades_Bin_5_4-contigs_00043
+MSISTDSKTVEEPKNPDKCNIFALYKLVSNEEEIEKMRQNYLK
+>Patescibacteria_metaspades_Bin_5_4-contigs_00079
+MKLQIQTGLNNKILRKKAEEIKNISDEKEFIEELKKFLKKSDD
+>Patescibacteria_metaspades_Bin_5_4-contigs_00087
+MLKTLFTSNVRLKILKRFFLNTEKEYYVRELSRDLDEQVNAIRRELDSMHKIGLLKTRAK
+NRKKYFYLNKFFLIYNELSSIILKNFVLDSQIHEDLKKL
+>Patescibacteria_metaspades_Bin_5_4-contigs_00093
+MELDEKSKLLKINRKEISEQIKEVDKAKDQISASFNEYTVVEDFKNSMDEKYTDQVDKSL
+NYISRELSLK
+>Patescibacteria_metaspades_Bin_5_4-contigs_00110
+MNYEKFLELVKFSEKISEQIKKSYLEKSFKIVNWKDECDFATEIDEKMEIQIAEKISELF
+PDH
+>Patescibacteria_metaspades_Bin_5_4-contigs_00113
+MFFQTFFVILYPLKMILFLPFFFLHKYSKALLQFYLFHLSPFFAKLSTNLITILKFLE
+>Patescibacteria_metaspades_Bin_5_4-contigs_00142
+MLKFFYLQNNTKIMKIITKAKNFSLNESQKQFIDEKIVKIRELSKNLNDESHEIHIDFEV
+NETQKPEDKYSCVATANLK
+>Patescibacteria_metaspades_Bin_5_4-contigs_00163
+MNNYIVNKVLSTFLIIQMLFIVLISRHPEWVEKYYSNGLYPFISRLLRKLLGWIPISVGD
+LLYLLFVFIVLKWLWYLFQTRLYPLLEHIYALGAFISIVFFVFHLFWGLNYYRLPFYERL
+DLNSLEFTQEELLQTTQNHIDKLNNIHHLIEENDSVAIVVPYKRTAIFRMASAHYKNLKI
+DSVALHFKTRSIKGSLMSKPLSYMGFSGYLNPFTGEAQVNREIPKSNFPATTCHEMAHQL
+GYASEDEANYIGYLACITSEDAFFRYSGELLAVQHLLYAIVQHDKELYREYYDKLHVGIQ
+RNIQQNRDFWDSYQNPFEPYFKKFYDLFLKANSQKEGIDSYNAMVGYLVKNEH
+>Patescibacteria_metaspades_Bin_5_4-contigs_00179
+MRDKNLQKLQERVKNIFENLKKKSDDFAKKNKNFEKIRINSAPAVIPKIKNEYIWNIIIR
+>Patescibacteria_metaspades_Bin_5_4-contigs_00181
+MELIFKINKFYFSNLQQTSSLFLPKKIFSPTENEVKNFLKEEKFFLNPEKILDENLEKIR
+VLEEKNEKKILKKNLEEIKKIDLENKKLKKNIFLKKKLEEQNFFNDKNFLKLNSDQEKNF
+EEIQKNQKIFIH
+>Patescibacteria_metaspades_Bin_5_4-contigs_00189
+MQKFFTSIIIFLTCFSGVFASSETLKKLNDENKKIQNEIEKILDKQFSLQTQLNLLEKTL
+EQLEVEKKIFLEKRREFQKNLEKNI
+>Patescibacteria_metaspades_Bin_5_4-contigs_00200
+MLENLNEALQAIDEQIKDDEVVTPDEIEEYLDKNPDSEVAKKAKKSLENLNNEISVKVET
+LKQRIIFDSVQLKEGFSDKKELMWSNAMKV
+>Patescibacteria_metaspades_Bin_5_4-contigs_00201
+MSNNQTIVSHARHFEALNNAQQALQNVKKGLSIDLSGDLLAIDIHESLRQLGTITGDFDV
+DKDLLGNIFGNFCIGK
+>Patescibacteria_metaspades_Bin_5_4-contigs_00202
+MQQSGEKQTKKYLNELVLFLNSGSRNQNLVREASMFSQELKYDIFKKHIVFYRIVTKNSI
+FVIRILGRRINSIEHI
+>Patescibacteria_metaspades_Bin_5_4-contigs_00203
+MDKCTLTKYNMKIVFLSDTHQRHHDVDIPNGDILIHAGDFSSRGTVQEVTDFLNWFSKQP
+HKYKIFIAGNHDFFFEREREETIRKIIPKNLIYLNDSGITIENIRIWGSPVQPEFLNWAF
+NRERGEEIKKHWNLIPKDTNLLITHGPPEGILDKTIRGKSVGCLDLLNRVNNIQPKIHVF
+GHIHEAYGVYKTANTTFINASILNERYRNTNDAVVVDW
+>Patescibacteria_metaspades_Bin_5_4-contigs_00204
+MLNDGAIYYATQGWNGCCPEYLTVTFSVVTDIPAPLGDSPQQFTEGSNVTLADLNVYNTT
+GYSEIYWFDNIYLTGSPLPTTTLLVDGTTYYATQGLGACVLSLAVTVELIPVAPAPQGST
+EQYFCYEQVWVLNDIEVFNTAGYTNIYWFDGPDTAIANQLNPSTTVIQHGVTYYATQGVG
+CCDGVLAVAVYIDPPVPAPTGNADQFMGGHTNYTLADAEVFNTGGYIDIYWFSTATQEIG
+TDVPLTTEVQDNDVYYAFQAICNCSDCNHALPLEVTFHSEYAGVSEETNSLVLLYPNPVS
+NYLFFNYVDDINILEIELSDLNGRIVYKNNMDQAQDNFFIDVSKFESGVYILSLWADGKY
+QTNKILVE
+>Patescibacteria_metaspades_Bin_5_4-contigs_00206
+MKYLLDTNICIHFFRGDYNLIDKMLVLKTVQFQKLHSQNLYSEQKTANILKRISN
+>Patescibacteria_metaspades_Bin_5_4-contigs_00221
+MIEKNFKILEKITFDVRTFEENVFKSPDISLVKEIMVKKRNVVFLKHMIKPEINVVKMIE
+LKLKKIFDDDLEVYFEDLEDKIQKVFSDTERILEFIDATEDTLKTLVSIKTSHSMWMLTL
+LSTFLLPLTLVTSFY
+>Patescibacteria_metaspades_Bin_5_4-contigs_00241
+MADLDEERKSANETLMKQYEKASEFQYEIAYQKFSSEFANKLQDDMVKDLLEPVCATYQS
+DEEKKIGLPASEHCVVPNKEALTAKIGNSDLISVFQVKKLLPEYYDVVESYVKKANDLIF
+KS
+>Patescibacteria_metaspades_Bin_5_4-contigs_00250
+MVRKKKEEELKAKYEKQISEQEKEKKDLADRLEMLENKLKNLQTKTPEQIAEEKQQVSLR
+QKQKEDEEKRQKELAEKKAEELKVKQAELEKKKIAIEKFNHDTD
+>Patescibacteria_metaspades_Bin_5_4-contigs_00268
+MLLKFSLNRHKLQFFQLKHYQLRKNSMEYFIQAQLTELKNSLQAVQPYRKLLFLHLKNQT
+NFTLNPFV
+>Patescibacteria_metaspades_Bin_5_4-contigs_00280
+MFIDFKFFDILLESKASEHSSRMLAMKNATDNAKKFAEELNLKYNKARQAAITTEI
+>Patescibacteria_metaspades_Bin_5_4-contigs_00285
+MDRKIVEFLEKQNKIFNKKNLRHSYPTCWRCDTPLLNYATKTWFIAVEKVKDKLLKNNKK
+INWTPKHLQE
+>Patescibacteria_metaspades_Bin_5_4-contigs_00288
+MTIFKKIIDGEIPAEKYYEDDLCIAIKDINPQDEVHFLVIPKKEIKTIFDMSEDDEKLVG
+HLHFV
+>Patescibacteria_metaspades_Bin_5_4-contigs_00290
+MVPNVSQIVMRDLHFAIVDEVDSILIDEARTPLIISAPADESTDKYVEYAILVKNLIPEE
+DFKIDEKMKTATLTEE
+>Patescibacteria_metaspades_Bin_5_4-contigs_00300
+MKQIFFLLSFVFLFSFSSCEKSDLSFFDNGGFLAAINGSDTNSSEPVDQTTKNKQERGDL
+INQIVLNID
+>Patescibacteria_metaspades_Bin_5_4-contigs_00308
+MKYFWRLCTIVILFGLTILSGCTGCNNRSERLNETKTKEKSNTEEQNTLNNDSDNSERKI
+SKAVFFIENSESMFGYVSGFTEYVDVISELAEKPKFAEEKTQREFYFINGGDILKVTPIG
+NNPAVLKKKLNTTGFNCGDKTKSNLNSMFQKALEKARKDTISILISDAIYDLGKPNAPMN
+ALATEGRETRSRFIERLGDGDLQTIMIKLYSHFDGNYFPVNGGRIPIKQTRPYYIWIFGE
+TELLNRYFPEEYIKSLKGYADMARFIKFDELNIPYQAVSQNIIGRFKFDKISKNKLKDVK
+SDRNGQGFQFSFATDFSSLPYSDSYFQTTNNYSCSDDNYAVTSVTKIKKKAYEITSFIPT
+HMITASTQNNPYCELNISLKNVVPIWIVNTNSDDESNIKSDTTQTFGFKFLTNAISEAYS
+YKNKEKNITNFTFEIIK
+>Patescibacteria_metaspades_Bin_5_4-contigs_00310
+MAKKLYIFGIGGTGSRVLKAFTMLLASGCKLENDFDTVIPIIIDPDTSNGDLNRTKDILR
+LYQEIRNQIQQPDDFYKQEIKTINELANNSAVINPEYFQFKLEGVEQSTFGQYIGFDSQS
+HDFKKSKDDKNFIRLLYSDSNLKSDLNVGFKGNPNMGSIVLNQFTNSENFRKFGQTFNDG
+DAVFIINSIFGGTGAAGFPLLLKNLRGNDQLPHHEKIKDSQIGGITYLPYFALNKQDEVN
+SESFEEKAKIALDYYNRTIIDKNQINTLYFIGNKGNTKHFEYSVGGKEQKNDAHFLEMAG
+ALAILDFCKNINKISNTTQIKEFGIENTTENISFNDLNIENNKEVSAPLTKFKLYTEYLK
+KGLPKSLNVSRWTKSNIKLVKGSKNSILDKNYFNSSEYKIQIEAFNKHFEDWLKEMGENK
+PAFNPYNIVDWDNALNLLKGNEPKGNKSFKVLDKENCKLIDDSSIKSSIEKKHTTLIKLF
+SKSTENVLNKRNLLIR
+>Patescibacteria_metaspades_Bin_5_4-contigs_00312
+MHFLKNRIMMNKNGFIVLVVLLLGFVNTLSAQPQINDSTEAYNYWAHRGIIEMVYAYMND
+YIETVGEDKAKSEIVGRDKYEENYISEINKKELVSFDIISSFLKSNSWGGAEKNLFQPLV
+KKYKNKAELDLNFFLAEKPGSNDLITVIPGRNNKNVNWNKKQQEIIENYRSELKALSKKP
+TAKEKVEPEIQEPETNNHSNWMQWIIYLSVFILGIFIGGWLVFIVSKNRIYSILANEKDE
+YLRDVRSSNKSFIFKYVGLFYILKNRKDEYKTKSEDTQSNNSKSNSHLNEVEKLKREKSE
+LNEKISRMEQTAQKADEKPETQNTQEWEIKQPKTVTRKLFFSMPESDGRFIVDNGESSND
+GRKYFRIEYNEGSETGELFYISGDRDKRAINRLESYLKPACDIENIENADSANNIEFIKS
+GKVVLINDSWIIDSDNKAKIKLL
+>Patescibacteria_metaspades_Bin_5_4-contigs_00313
+MKMILLQIASNTQVENLNLFGTDFWFYVEIVIITVIVIMQLKTFDNVRRRIIELRQIFDY
+SFTIKYGFIEKKKLGKIEGDSEEIQYEDGTEEESLSEIVGDDIAKLTLIETEGENAIITK
+IKNAINTYLINNYGAAVNFSIIKDIIDREVEVKDEEITQTITIPLYLGLAATMVGIILGL
+FSMPNLDGDGFSQGVNALINGVKIAMIASLSGLFFTTLLSSTFYKNAKSKVLKEKNEQLS
+YLQAKLLPELVKAEDTGVSGLKASLDRFARVATTISDNVLIAANQTGENLVLQQEVMDKV
+ENMKVLKVSKWNLELFEKLDMNMDAFNKFSTYLSNMEKISSNLLEFAARTSSIDQVIKGI
+DTTLSDSKQLTKFLTAHFDKIEDAGNAALKSVGIAESHFEDAIESLKTRTDEMINQLYKS
+AGNHETKLEDIYKEIKENLNNITSEYISSFSEAYSNSIPKFEQLDNLGLLPEIKEEFLLK
+AADFQNESGLRSETLINIANELDASLKSVQNKLNSQAIISKLESIDDKLKRSTNKNANHN
+NSQSTAIRKSVNTDLKDNSLSIGKVIKKLF
+>Patescibacteria_metaspades_Bin_5_4-contigs_00314
+MRNEIYLINNYKRSLITLLTIPIILIGCIYISYGEIFDGIILQQANPLKFYQLHVHLAVF
+SGNLFQVPLKNLPNITASIGYYSVIAVYILFSAWVVLFATSSYLQLSQKTGSKFIILVES
+ALILAIYIISISPDLNLWLSLIGYIIISIVLVMLLLYWLYEIKTKQ
+>Patescibacteria_metaspades_Bin_5_4-contigs_00315
+MKNNNIFWISYSDLMTSLFFVMLVLFVVTVGYLKSIVDATNEQLEKIQELQTAVQELPVE
+YFQYQPQYKRFKLNKQIQFDKGMSEIKTDYNSYLIEVGNSITKLIDGLNNNEEYKKFDIK
+YLVVIEGMASKDNFSLNYELSYERALSLYKFWKTNGISFDPQTCEIQISGSGIEGIREYS
+GNQEYKNQQFLIHIIPKMGKIIGANE
+>Patescibacteria_metaspades_Bin_5_4-contigs_00316
+MSDKIKTYILIRNIFLMLILIGSSYIFYGCSGCSQSGIRDNQQKRNYSNTDSPTRNKRSV
+DASKEKEPKERNSIPDNTNAIPLNTLYKKYKPSVFMIYTSDGVDVDGYQGTGFFISKTGI
+AVSNYHVFKGTSQGLEVIETSDGHKLNIEKVLSKSDENDFIIFKVRLSGYNINNPIPISF
+QEPQIGEDVFAIGNPRGLESTLSKGIISGFREKRNYIQTTTEITHGSSGGPLLNMRGEVV
+GITTAGLGEANLNFAINIKQLPLHKYNLGN
+>Patescibacteria_metaspades_Bin_5_4-contigs_00317
+MKHCLLKYLSFAFLLLFFSCNSRSDRDSLAGYMSIKKFVDGDTFWVDDGSEKGLKIRLIG
+VNTPETVHPQKPVEYYGKEASNYVKKVLMNKKVRLEFDVSKQDRYGRTLAYVFLNDGTFL
+NADLIENGYGQVMTVPPNVKYSEEFLELERKARENNIGLWKE
+>Patescibacteria_metaspades_Bin_5_4-contigs_00324
+MKKALFLTILLSTTIFLNSCEKSEQEKIMDDLDLQINEAFEQVNDEDFNNI
+>Patescibacteria_metaspades_Bin_5_4-contigs_00333
+MSKKEKIQLLKKELKKMFPDAKAELYFENDFQLLIAVLMSAQTTDKQVNKVNSEFFKFLK
+KPED
+>Patescibacteria_metaspades_Bin_5_4-contigs_00335
+MNDTITYNPKFGAKVLMNWFFAGQQQLFKEIYLDKISKKENEVNEIIKKVYIEIRKEFPD
+FNSYELKEHQGAYSDLSYQDVVLNMKKAFKIQTNIFIDILLNNKVDEKFIALLKSLHFCT
+HMSTKSSSIYYAAMKEKYLKFIQYNNINIDFIEFNNLKDIYSENAKFLMNDGYYYACEEE
+QLFDI
+>Patescibacteria_metaspades_Bin_5_4-contigs_00353
+MVAIFPDEKFLFELIRNKMNQKDLEKAQLILNRIKNKNYKYYYFDFIFNLNPNEDVETLE
+KKFDNVKNLVEKS
+>Patescibacteria_metaspades_Bin_5_4-contigs_00356
+MNNIEKKYLEQSENFREIQNKIFLEALEKISKEKNIEINNLVFSEIKDDLNEKLPFISEK
+LHKFLFDFFKNIDIQDEKINKIINKKTKYSLLKPDFLEKKSTLFEFIKTANSF
+>Patescibacteria_metaspades_Bin_5_4-contigs_00357
+MHQMVILLDSIQQFLELLNKFYQLKPPFVEQYLKFLQNILNLFQLLIAINNL
+>Patescibacteria_metaspades_Bin_5_4-contigs_00361
+MKFEITKMMIHSILHLYGFDHIDDADFEEMNALENEIMESVKNEIKI
+>Patescibacteria_metaspades_Bin_5_4-contigs_00378
+MILFEKKLLPVVKENLLLDFFEKSEKNFKIFEKIFEELEKNIFDEEKFFEEEKKFLQIKL
+QIESQHDFDNFEKLKLEALSLIKSINLKNLEKKEKFLKKNLNSKEKIGEFQSLLILKNKI
+LKK
+>Patescibacteria_metaspades_Bin_5_4-contigs_00385
+MSVAISQKINVNFRIEKAIKEEASKIANEMRINLTSVVNMFLKKFVREKKIEMNLNDEIY
+>Patescibacteria_metaspades_Bin_5_4-contigs_00398
+MFAEFAPLKEKYSNLQEKNDELTTKIAKLEAELEQEKTKKTKDFERKLAELEESRKALED
+EKARIRKEDEEKKLEEEKNRDRIWAEHEINSISKMKEVCKKPDFNFNFYENITLPESFDG
+KFKPDFLVEFLGQYIIFDAKLSKSKDIQGYINEQVKSTVKKIKSAKNCDEIYKTVYFIVP
+TQDFIKMKKISFYED
+>Patescibacteria_metaspades_Bin_5_4-contigs_00403
+MKTIEEPPKFVYFILATTEKQKIPETIISRCINLNFERIFDADIVKRLEFICKEEKIDFE
+KKALELIAIEAK
+>Patescibacteria_metaspades_Bin_5_4-contigs_00428
+MKENFFPKLKKTELAEQILENFISNQKKIEEIVKEFAVKFDLKKQNPIDIVILEMLVTEM
+LYIKTPAKVAISEYLNLTIDYSKDGSCSFIN
+>Patescibacteria_metaspades_Bin_5_4-contigs_00429
+MENFEALEKKINLKFKNLDLYKNAFIHRSYLNEHKNVKEHNERIEFL
+>Patescibacteria_metaspades_Bin_5_4-contigs_00442
+MECFKEALKIKPKDTEIFFMKAEIFIEEKNFSEAKKIYKKILQIEPYNQEAHDYLENLEH
+K
+>Patescibacteria_metaspades_Bin_5_4-contigs_00452
+MSKGNINISTENIFPIIKKFLYSDHEIFLRELVSNATDATLKLKHLIRIGEAKGEFQDPL
+IEIKINKKKKTLHIIDRGIGMTSDEIKKYINEIAFSGAEEFVEKYKDKIEDSGIIGHFGL
+GFYSSFMVADKVEILTKSYKKEAQAVKWECDGSPAYTIENIDKDEVGTEIILHISEEEKQ
+FLEADKINELLSKYNRFMPIPIKHGTREETKTIGEGDDAKEEKYTIDNIINNPTPAWTKK
+PTDLKEEDYKNFYRELYPMQFEEPLFNIHLNVDYPFNLTGILYFPRITKNMDIQKDRIQL
+YQNQVFVTDNVEGIVPDFLQMLRGVIDSPDIPLNVSRSYLQADGAVKKIAGYITKKVADK
+LNSIFKKDRKEFEAKWDDIKLIIEYGMLSEEKFFDKAQKFALYPVVDGANYTFDELKDKI
+KDTQTDKDGNLIVLYTSDKEQQHAYIETAQAKGYKVVLLDSPIVPHLLQKLETENEKLKF
+TRVDSDFIDNLIKKEETKISKLTDDEKTKLEGIVKEVVPAEKYTVQMEALDSTDNPFIIT
+QPEFMRRYKEMSQTGGGGFMGMGEMPEMYNLIVNSNHPLMDKILKAKKNKEKYVNQALDL
+AKLSQNLIKGKDMTDFIKRSFELMK
+>Patescibacteria_metaspades_Bin_5_4-contigs_00453
+MQNQEEYIEKNLDLLNSKKGLHALLSQKNSYDLARAIRHAVSEKKIIKLQVELIKLQTWV
+INNNEKVVIIFEGRDAAGKGGAIRRIIERLNPRHLRVVALPKPTKDEESQWYFQRYVNQL
+PTGGEIVFFDRSWYNRAVVEPVNGFCKQSQYDRFMKQVNDFERMIVESGIRLVKIYMSIS
+RREQAKRFREIKSNPLKIWKMTKVDENAQRLWDEYTDFKDKMFLNAKKGKFPFKVIKANR
+KTTARVAVINHILKTIPYDKDIEV
+>Patescibacteria_metaspades_Bin_5_4-contigs_00454
+MVKLQQWANKTKQRIAIIFEGRDAAGKGGSIRRFMEHLNPRSMRLVALNKPTEVEQGQWY
+FRRYIKHLPNPGEIVFFDRSWYNRAVVEPVMGFCTEEQYDQFMIHVPEFEHMLREDGVRI
+IKLWFSITKDEQMRRFEARLASPVKRWKFSPVDKKGQELWDRYTYYKNQMFSKTHTSYSP
+WITVKTNVKYVARLESLRYVLSQFKYEGKDEENTMLLPDPNIVFRYQRTMIQNV
+>Patescibacteria_metaspades_Bin_5_4-contigs_00455
+MKVIIDTSSLLALVRYYLPFDNNRTLFGLIQSKIVNKDIIIIDKVIVESKYITKGIILEK
+LDYLKDREIRINTTEILPTRKFYNQLEHQFVYGSVKNRLNEAEYEKMKESFLQSADAKLI
+LYALEYNKENNMFQDDKMIIVTEESSTENDNKFIKKIPQIGKILELDVITLPEYFIRLGV
+KIEY
+>Patescibacteria_metaspades_Bin_5_4-contigs_00456
+MRVEHNISRLKYLLNLYKISVGELLVMINSDLKNKIRKDDILSSTIYLRYLKRIDKVFNK
+GLPFYLDPKNITKSKEASIFFRKNKFNSELNIGAKKIVNHFEEMKISLSAISKLAEIDVS
+RKIPIYSIKDDPRKVAMEIRKILYPDFNRNMKIFLKSIISKLADNNILVFEFVETWNKKD
+TANIDGFFINPNVIVIKRYQKAFRREIFTLIHELGHFLINEEEIEKIDFNYFAKDNLSKI
+EKWCNDFSFHFLAGEHGKILDSIEQATENNDFHYSLIDTISKETHLSRIALFTRLLYQKK
+LSKKNYSVIKTNFNEEYRIKREEEQLKKETEKEMGIKHQGRSPQPIKSPLLISTVQTAFY
+EGILNEYQVCKTLNINPNKLDKYLL
+>Patescibacteria_metaspades_Bin_5_4-contigs_00457
+MDLQSIPQLNHISSQNFFLLAGPCAIEGEQMALEIAEKIATIADKLKIPFIFKGSFKKAN
+RSRLDSFTGIGDEKALKILDKVRREFQIPTVTDIHKESDAALAATFVDVLQIPAFLARQT
+DLLVAAAKTGKVVNIKKGQFMNPSAMKHAVNKVKESGNEQVLITERGSMFGYQDMIVDFR
+GIPEMQKYAPVVLDITHSLQQPNQNSGVTGGKPELIESIARAGIAVGVDGLFLETHPNPS
+LAKSDGANMLPLEKLENLLMRLVQIREVVVGF
+>Patescibacteria_metaspades_Bin_5_4-contigs_00469
+MHNDKNNQQQIKNQNIDFKQKRQEFEQKMYKKITKKDFVFALMFSFIFVFTIFYSQNSEN
+FKADLFNTSEENIIYD
+>Patescibacteria_metaspades_Bin_5_4-contigs_00488
+MVLAVDVSLSMLAEDMKPNRITVAKNTILDFIDRLRTGDRMSLVIFSGRPFTNIPLTGDL
+KILRDFTEFLSTDLINQNVI
+>Patescibacteria_metaspades_Bin_5_4-contigs_00505
+MLFLELINKKLVNLLLKLENIKNQSLTNESELDMYENMLLEKLENLLLLLINNF
+>Patescibacteria_metaspades_Bin_5_4-contigs_00515
+MDFDDILFFTVKIFQEFPQIREKFSNRYKYILVDEYQDTNHIQYLFIKMLAEKHKNICVV
+>Patescibacteria_metaspades_Bin_5_4-contigs_00517
+MSEINIQNINLPKNPDPENSTNLFSESITNHDINKEMQESYLAYAMSVIKSRALPDVRD
+>Patescibacteria_metaspades_Bin_5_4-contigs_00529
+MNLNHFYQVYNLQHHNLKFLLKINLEKNLSLHKVKFTLNIESIYLQKYPLNNLDLRQAEQ
+FNHIKQMLFRLHLNLVDHN
+>Patescibacteria_metaspades_Bin_5_4-contigs_00540
+MESALYNLEIFMESILTTILYLKFQTKSGLLKNLFSHQSLLIKSFPSQKLFLKPLVLFLL
+E
+>Patescibacteria_metaspades_Bin_5_4-contigs_00552
+MDLWRKFFVNSEENVFLMDGPTINKRELLDKSGHTKTFFDYIIRNPESGLKHRCDKLIED
+QFPKIEVVNTVNFYKNFFEKNNVIFK
+>Patescibacteria_metaspades_Bin_5_4-contigs_00564
+MKDGETSQCTKFDENHQSPPGAIFLKHPKQNIYFADNFSSPPQSFFPKNHIKYNFLTSII
+LIQKNQKAFKFRITNPKFYHFFRMEIFHKKNQTLPSEGFFLFRSNLLR
+>Patescibacteria_metaspades_Bin_5_4-contigs_00572
+MNYEEIQKKIEEKILEIKKENPNHETIRFYSSDYSDIQGFDFMSNFNENFIKFFEKFENV
+MMETRTKSANIENFLEIAKK
+>Patescibacteria_metaspades_Bin_5_4-contigs_00584
+MEKIILASQSPRRKILLKNITENFEVIPSNFDEIWDENKNLEENILDFSE
+>Patescibacteria_metaspades_Bin_5_4-contigs_00586
+MDKFKNKYRIQSHRKPNWDYSADALYFLTINTQNRECNLGKIIKTDGRALLQLSDFGKIV
+KTEWYKSFEIRNELILHTFVIMPNHLHAIVEISSHASRVTSSVTSRVTSRVETHGRASLP
+TQSVPSTQSVPSTHSVPPTQSDSPIQSDLPNESNPSINFDISSIKRNPPIRLPKSISSFI
+AGFKSAVNTKIDDYIDENNLKIPKYNRNNHFFQPNYHDHIIRNNFEYQNISNYIINNPKN
+WNKDTLNA
+>Patescibacteria_metaspades_Bin_5_4-contigs_00587
+MMQQLFSQELQFKDENGKTFDDWEVKKLGEVCEINPKNKNLPNSFIYVDLESVEKGRLIK
+KNRMSIENSPSRAQRLLSHKDILFQMVRPYQKNNYFFDEKSKDYVASTGYAQIRTNHNPI
+FIYQLLHTQSFVNKVIVKCTGTGYPAINSTDLSKVIISLPSTREQTKIANFLTKIDEKIN
+AVNTQIENTKTYKKGLLQKMFV
+>Patescibacteria_metaspades_Bin_5_4-contigs_00595
+MKMNKKFVLILLVVGLIGSCEKQSPCDVLVNGVYQFPELPENHNMTSQEVTEFWDLPENI
+CNCITTEGLIETIMNYPELRLITAGANPQSGYNLLVRERFRGSRELESRPDRATYLLEKY
+KTLDPFGYNQDWEPAKIGAFIFYINDFELIISQYVNLEPLTGEERIELIEKVLSVYEKKK
+SNSDKYSTWSLSRTMVIASRMMKLSDFSPFMLVYIENNAVWEVNEYYYPVTYETLDIIYN
+LSIEYLDNLKNK
+>Patescibacteria_metaspades_Bin_5_4-contigs_00596
+MLYQNTFAQYTTIKTPTDVSVEAIYFNEFTSDELAEAEALAANWLNAHGSNAIRVAPASK
+TYNCHDYAWHYSDGGTKRWVNQIDRYGNANISKYWSGSAPTYQLTTSSKANKVFYPDGDH
+SAEVISPGVFESKWGAWPRYRHAPNDCPYTSSNLQYYAVPVSGNSLICSSGNYSTLNISG
+ASYNWSGSKVSISGSGSSVSATKTSNGSGWIKINISSPHSGTTVTTSKKIIWLGNPGQPI
+TNPTGYPTFQMALGQIKSISVASAPGYPYQYIWDITGSIEKIVDNGASVLVEATELGWGN
+FRVKTRNQCGYSAIGGGAVKVSSGGGGGMMMLSISPNPANSEITISINSKYEKETFDENE
+EWGIEIYNLYHVLQEKRHKLRGNTLNINTSSWKEGIYMIRATYKGEVFNERLLIKR
+>Patescibacteria_metaspades_Bin_5_4-contigs_00605
+MLKGKKVAVVGNQTSIIVHPKIRIKTKSKKTHTHLIDTLLALDVNIVKVFTPEHGFRGKA
+DAGEKVLDGFDITTGLPMISLYGSNKKPSANQLKDVDLLLFDLQDVGVRFYTYLSTLHYV
+MEAAAENKIPLVVLDRPNPNAHYVDGPILEKKHKSFVGLHPVPIVYGMTIGEYAKMINGE
+GWLRNGIQCDLTVVKNKNYTHNTSYTLPVKPSPNLPNVKSIELYPSLCFFEGTTISCGRG
+TSMQFQIFGHPDLPKKYFPFNFTPQPNEGAKHPKHQGNLCYGLDLRETRVHKINLQWLLD
+AYTYYPKDKEFFNPFFAKLAGTEVLQNQIELGYTQRDIRKGWVKPLIEFKKIRAKYLLYD
+>Patescibacteria_metaspades_Bin_5_4-contigs_00611
+MKKILAIFLIATLLFSSCLKREKKVVDNAPKELTIWNLFDDTAIFEGQIQAFSSLYP
+>Patescibacteria_metaspades_Bin_5_4-contigs_00612
+MNKSKKFAELLFNSSLDAEVKDFIIENLDKFSDAEKNEMFEILEKDMKNTKNILNLTKMK
+FDLEQKRFEKESNELELEVLKAEMEKNGK
+>Patescibacteria_metaspades_Bin_5_4-contigs_00658
+MFVLMSKLRDLIFHKMSEEPSLKKFIETNNLDLNNYEDRIKLKEKFLEKVKLE
+>Patescibacteria_metaspades_Bin_5_4-contigs_00667
+MTANQIVPITDVRKYASKYLKDPKQTFFVVVNNRPKTIIQPVEDFEKMQKELIEQKKIIT
+ELKEKLRLKQEANYVKNLHNYVNSDKYESY
+>match$1_2_54
+IILDLETTGLDAKKDKIIEFAAIKINENFEEIERLNFFINPEIKISNEVVKLT
+>match$2_2_54
+IILDLETTGLDAKKDKIIEFAAIKINENFEEIERLNFFINPEIKISNEVVKLT
+>match$3_1_54
+MIILDLETTGLDAKKDKIIEFAAIKINENFEEIERLNFFINPEIKISNEVVKLT
+>match$4_2_54
+IILDLETTGLDAKKDKIIEFAAIKINENFEEIERLNFFINPEIKISNEVVKLT
+>match$5_4_76
+NVSQIVMRDLHFAIVDEVDSILIDEARTPLIISAPADESTDKYVEYAILVKNLIPEEDFK
+IDEKMKTATLTEE
+>match$6_4_38
+NVSQIVMRDLHFAIVDEVDSILIDEARTPLIISAP
+>match$7_1_71
+MVPNVSQIVMRDLHFAIVDEVDSILIDEARTPLIISAPADESTDKYVEYAILVKNLIPEE
+DFKIDEKMKTA
+>match$8_1_76
+MVPNVSQIVMRDLHFAIVDEVDSILIDEARTPLIISAPADESTDKYVEYAILVKNLIPEE
+DFKIDEKMKTATLTEE
+>match$9_1_76
+MVPNVSQIVMRDLHFAIVDEVDSILIDEARTPLIISAPADESTDKYVEYAILVKNLIPEE
+DFKIDEKMKTATLTEE
+>match$10_26_46
+NNRSERLNETKTKEKSNTEEQ
+>match$11_1_22
+MKYFWRLCTIVILFGLTILSGC
+>match$12_33_53
+NETKTKEKSNTEEQNTLNNDS
+>match$13_1_232
+MVKLQQWANKTKQRIAIIFEGRDAAGKGGSIRRFMEHLNPRSMRLVALNKPTEVEQGQWY
+FRRYIKHLPNPGEIVFFDRSWYNRAVVEPVMGFCTEEQYDQFMIHVPEFEHMLREDGVRI
+IKLWFSITKDEQMRRFEARLASPVKRWKFSPVDKKGQELWDRYTYYKNQMFSKTHTSYSP
+WITVKTNVKYVARLESLRYVLSQFKYEGKDEENTMLLPDPNIVFRYQRTMIQ
+>match$14_1_231
+MVKLQQWANKTKQRIAIIFEGRDAAGKGGSIRRFMEHLNPRSMRLVALNKPTEVEQGQWY
+FRRYIKHLPNPGEIVFFDRSWYNRAVVEPVMGFCTEEQYDQFMIHVPEFEHMLREDGVRI
+IKLWFSITKDEQMRRFEARLASPVKRWKFSPVDKKGQELWDRYTYYKNQMFSKTHTSYSP
+WITVKTNVKYVARLESLRYVLSQFKYEGKDEENTMLLPDPNIVFRYQRTMI
+>match$15_1_234
+MVKLQQWANKTKQRIAIIFEGRDAAGKGGSIRRFMEHLNPRSMRLVALNKPTEVEQGQWY
+FRRYIKHLPNPGEIVFFDRSWYNRAVVEPVMGFCTEEQYDQFMIHVPEFEHMLREDGVRI
+IKLWFSITKDEQMRRFEARLASPVKRWKFSPVDKKGQELWDRYTYYKNQMFSKTHTSYSP
+WITVKTNVKYVARLESLRYVLSQFKYEGKDEENTMLLPDPNIVFRYQRTMIQNV
+>match$16_17_198
+IIFEGRDAAGKGGSIRRFMEHLNPRSMRLVALNKPTEVEQGQWYFRRYIKHLPNPGEIVF
+FDRSWYNRAVVEPVMGFCTEEQYDQFMIHVPEFEHMLREDGVRIIKLWFSITKDEQMRRF
+EARLASPVKRWKFSPVDKKGQELWDRYTYYKNQMFSKTHTSYSPWITVKTNVKYVARLES
+LR
+>match$17_1_231
+MVKLQQWANKTKQRIAIIFEGRDAAGKGGSIRRFMEHLNPRSMRLVALNKPTEVEQGQWY
+FRRYIKHLPNPGEIVFFDRSWYNRAVVEPVMGFCTEEQYDQFMIHVPEFEHMLREDGVRI
+IKLWFSITKDEQMRRFEARLASPVKRWKFSPVDKKGQELWDRYTYYKNQMFSKTHTSYSP
+WITVKTNVKYVARLESLRYVLSQFKYEGKDEENTMLLPDPNIVFRYQRTMI
+>match$18_1_212
+MVKLQQWANKTKQRIAIIFEGRDAAGKGGSIRRFMEHLNPRSMRLVALNKPTEVEQGQWY
+FRRYIKHLPNPGEIVFFDRSWYNRAVVEPVMGFCTEEQYDQFMIHVPEFEHMLREDGVRI
+IKLWFSITKDEQMRRFEARLASPVKRWKFSPVDKKGQELWDRYTYYKNQMFSKTHTSYSP
+WITVKTNVKYVARLESLRYVLSQFKYEGKDEE
+>match$19_1_210
+MVKLQQWANKTKQRIAIIFEGRDAAGKGGSIRRFMEHLNPRSMRLVALNKPTEVEQGQWY
+FRRYIKHLPNPGEIVFFDRSWYNRAVVEPVMGFCTEEQYDQFMIHVPEFEHMLREDGVRI
+IKLWFSITKDEQMRRFEARLASPVKRWKFSPVDKKGQELWDRYTYYKNQMFSKTHTSYSP
+WITVKTNVKYVARLESLRYVLSQFKYEGKD
+>match$20_1_76
+MQQSGEKQTKKYLNELVLFLNSGSRNQNLVREASMFSQELKYDIFKKHIVFYRIVTKNSI
+FVIRILGRRINSIEHI
+>match$21_334_413
+ISPNPANSEITISINSKYEKETFDENEEWGIEIYNLYHVLQEKRHKLRGNTLNINTSSWK
+EGIYMIRATYKGEVFNERLL
+>match$22_334_415
+ISPNPANSEITISINSKYEKETFDENEEWGIEIYNLYHVLQEKRHKLRGNTLNINTSSWK
+EGIYMIRATYKGEVFNERLLIK
+>match$23_3_41
+KIILASQSPRRKILLKNITENFEVIPSNFDEIWDENKNL
+>match$24_2_46
+EKIILASQSPRRKILLKNITENFEVIPSNFDEIWDENKNLEENIL
+>match$25_1_50
+MEKIILASQSPRRKILLKNITENFEVIPSNFDEIWDENKNLEENILDFSE
+>match$26_56_73
+VETLEKKFDNVKNLVEKS
+>match$27_1_27
+MKYLLDTNICIHFFRGDYNLIDKMLVL
+>match$28_71_259
+RNSIPDNTNAIPLNTLYKKYKPSVFMIYTSDGVDVDGYQGTGFFISKTGIAVSNYHVFKG
+TSQGLEVIETSDGHKLNIEKVLSKSDENDFIIFKVRLSGYNINNPIPISFQEPQIGEDVF
+AIGNPRGLESTLSKGIISGFREKRNYIQTTTEITHGSSGGPLLNMRGEVVGITTAGLGEA
+NLNFAINIK
+>match$29_57_73
+KRSVDASKEKEPKERNS
+>match$30_72_264
+NSIPDNTNAIPLNTLYKKYKPSVFMIYTSDGVDVDGYQGTGFFISKTGIAVSNYHVFKGT
+SQGLEVIETSDGHKLNIEKVLSKSDENDFIIFKVRLSGYNINNPIPISFQEPQIGEDVFA
+IGNPRGLESTLSKGIISGFREKRNYIQTTTEITHGSSGGPLLNMRGEVVGITTAGLGEAN
+LNFAINIKQLPLH
+>match$31_119_131
+GIAVSNYHVFKGT
+>match$31_213_230
+KRNYIQTTTEITHGSSGG
+>match$31_235_252
+MRGEVVGITTAGLGEANL
+>match$32_41_56
+NQQKRNYSNTDSPTRN
+>match$33_41_75
+NQQKRNYSNTDSPTRNKRSVDASKEKEPKERNSIP
+>match$34_75_259
+PDNTNAIPLNTLYKKYKPSVFMIYTSDGVDVDGYQGTGFFISKTGIAVSNYHVFKGTSQG
+LEVIETSDGHKLNIEKVLSKSDENDFIIFKVRLSGYNINNPIPISFQEPQIGEDVFAIGN
+PRGLESTLSKGIISGFREKRNYIQTTTEITHGSSGGPLLNMRGEVVGITTAGLGEANLNF
+AINIK
+>match$35_110_242
+GTGFFISKTGIAVSNYHVFKGTSQGLEVIETSDGHKLNIEKVLSKSDENDFIIFKVRLSG
+YNINNPIPISFQEPQIGEDVFAIGNPRGLESTLSKGIISGFREKRNYIQTTTEITHGSSG
+GPLLNMRGEVVGI
+>match$36_1_30
+MSDKIKTYILIRNIFLMLILIGSSYIFYGC
+>match$37_1_46
+MKFEITKMMIHSILHLYGFDHIDDADFEEMNALENEIMESVKNEIK
+>match$38_4_40
+EITKMMIHSILHLYGFDHIDDADFEEMNALENEIMES
+>match$39_3_41
+FEITKMMIHSILHLYGFDHIDDADFEEMNALENEIMESV
+>match$40_294_367
+LYPNPVSNYLFFNYVDDINILEIELSDLNGRIVYKNNMDQAQDNFFIDVSKFESGVYILS
+LWADGKYQTNKILV
+>match$41_272_362
+PLEVTFHSEYAGVSEETNSLVLLYPNPVSNYLFFNYVDDINILEIELSDLNGRIVYKNNM
+DQAQDNFFIDVSKFESGVYILSLWADGKYQT
+>match$42_294_367
+LYPNPVSNYLFFNYVDDINILEIELSDLNGRIVYKNNMDQAQDNFFIDVSKFESGVYILS
+LWADGKYQTNKILV
+>match$43_425_445
+ETKLEDIYKEIKENLNNITSE
+>match$44_49_52
+INNL
+>match$45_20_40
+KQYLKNLQKNILRNLKELELK
+>match$46_1_68
+MKIIIKPFSEIMIKSKFVKKQYLKNLQKNILRNLKELELKIEVVVFNDKLEVNYNSENEN
+DKKEIIKK
+>match$47_1_61
+MECFKEALKIKPKDTEIFFMKAEIFIEEKNFSEAKKIYKKILQIEPYNQEAHDYLENLEH
+K
+>match$48_1_48
+MECFKEALKIKPKDTEIFFMKAEIFIEEKNFSEAKKIYKKILQIEPYN
+>match$49_2_59
+ECFKEALKIKPKDTEIFFMKAEIFIEEKNFSEAKKIYKKILQIEPYNQEAHDYLENLE
+>match$50_4_52
+FKEALKIKPKDTEIFFMKAEIFIEEKNFSEAKKIYKKILQIEPYNQEAH
+>match$51_1_14
+MECFKEALKIKPKD
+>match$52_15_48
+TEIFFMKAEIFIEEKNFSEAKKIYKKILQIEPYN
+>match$53_1_60
+MDFDDILFFTVKIFQEFPQIREKFSNRYKYILVDEYQDTNHIQYLFIKMLAEKHKNICVV
+>match$54_2_60
+DFDDILFFTVKIFQEFPQIREKFSNRYKYILVDEYQDTNHIQYLFIKMLAEKHKNICVV
+>match$55_1_60
+MDFDDILFFTVKIFQEFPQIREKFSNRYKYILVDEYQDTNHIQYLFIKMLAEKHKNICVV
+>match$56_1_60
+MDFDDILFFTVKIFQEFPQIREKFSNRYKYILVDEYQDTNHIQYLFIKMLAEKHKNICVV
+>match$57_1_60
+MDFDDILFFTVKIFQEFPQIREKFSNRYKYILVDEYQDTNHIQYLFIKMLAEKHKNICVV
+>match$58_1_60
+MDFDDILFFTVKIFQEFPQIREKFSNRYKYILVDEYQDTNHIQYLFIKMLAEKHKNICVV
+>match$59_2_47
+ENFEALEKKINLKFKNLDLYKNAFIHRSYLNEHKNVKEHNERIEFL
+>match$60_4_47
+FEALEKKINLKFKNLDLYKNAFIHRSYLNEHKNVKEHNERIEFL
+>match$61_1_47
+MENFEALEKKINLKFKNLDLYKNAFIHRSYLNEHKNVKEHNERIEFL
+>match$62_3_65
+IFKKIIDGEIPAEKYYEDDLCIAIKDINPQDEVHFLVIPKKEIKTIFDMSEDDEKLVGHL
+HFV
+>match$63_2_63
+TIFKKIIDGEIPAEKYYEDDLCIAIKDINPQDEVHFLVIPKKEIKTIFDMSEDDEKLVGH
+LH
+>match$64_1_65
+MTIFKKIIDGEIPAEKYYEDDLCIAIKDINPQDEVHFLVIPKKEIKTIFDMSEDDEKLVG
+HLHFV
+>match$65_2_63
+TIFKKIIDGEIPAEKYYEDDLCIAIKDINPQDEVHFLVIPKKEIKTIFDMSEDDEKLVGH
+LH
+>match$66_2_64
+TIFKKIIDGEIPAEKYYEDDLCIAIKDINPQDEVHFLVIPKKEIKTIFDMSEDDEKLVGH
+LHF
+>match$67_3_19
+IFKKIIDGEIPAEKYYE
+>match$67_24_42
+IAIKDINPQDEVHFLVIPK
+>match$68_8_28
+QQQIKNQNIDFKQKRQEFEQK
+>match$69_25_59
+SESITNHDINKEMQESYLAYAMSVIKSRALPDVRD
+>match$70_19_59
+NSTNLFSESITNHDINKEMQESYLAYAMSVIKSRALPDVRD
+>match$71_1_22
+MSEINIQNINLPKNPDPENSTN
+>match$72_10_63
+VKFSEKISEQIKKSYLEKSFKIVNWKDECDFATEIDEKMEIQIAEKISELFPDH
+>match$73_1_360
+MLKGKKVAVVGNQTSIIVHPKIRIKTKSKKTHTHLIDTLLALDVNIVKVFTPEHGFRGKA
+DAGEKVLDGFDITTGLPMISLYGSNKKPSANQLKDVDLLLFDLQDVGVRFYTYLSTLHYV
+MEAAAENKIPLVVLDRPNPNAHYVDGPILEKKHKSFVGLHPVPIVYGMTIGEYAKMINGE
+GWLRNGIQCDLTVVKNKNYTHNTSYTLPVKPSPNLPNVKSIELYPSLCFFEGTTISCGRG
+TSMQFQIFGHPDLPKKYFPFNFTPQPNEGAKHPKHQGNLCYGLDLRETRVHKINLQWLLD
+AYTYYPKDKEFFNPFFAKLAGTEVLQNQIELGYTQRDIRKGWVKPLIEFKKIRAKYLLYD
+>match$74_1_360
+MLKGKKVAVVGNQTSIIVHPKIRIKTKSKKTHTHLIDTLLALDVNIVKVFTPEHGFRGKA
+DAGEKVLDGFDITTGLPMISLYGSNKKPSANQLKDVDLLLFDLQDVGVRFYTYLSTLHYV
+MEAAAENKIPLVVLDRPNPNAHYVDGPILEKKHKSFVGLHPVPIVYGMTIGEYAKMINGE
+GWLRNGIQCDLTVVKNKNYTHNTSYTLPVKPSPNLPNVKSIELYPSLCFFEGTTISCGRG
+TSMQFQIFGHPDLPKKYFPFNFTPQPNEGAKHPKHQGNLCYGLDLRETRVHKINLQWLLD
+AYTYYPKDKEFFNPFFAKLAGTEVLQNQIELGYTQRDIRKGWVKPLIEFKKIRAKYLLYD
+>match$75_7_359
+VAVVGNQTSIIVHPKIRIKTKSKKTHTHLIDTLLALDVNIVKVFTPEHGFRGKADAGEKV
+LDGFDITTGLPMISLYGSNKKPSANQLKDVDLLLFDLQDVGVRFYTYLSTLHYVMEAAAE
+NKIPLVVLDRPNPNAHYVDGPILEKKHKSFVGLHPVPIVYGMTIGEYAKMINGEGWLRNG
+IQCDLTVVKNKNYTHNTSYTLPVKPSPNLPNVKSIELYPSLCFFEGTTISCGRGTSMQFQ
+IFGHPDLPKKYFPFNFTPQPNEGAKHPKHQGNLCYGLDLRETRVHKINLQWLLDAYTYYP
+KDKEFFNPFFAKLAGTEVLQNQIELGYTQRDIRKGWVKPLIEFKKIRAKYLLY
+>match$76_2_359
+LKGKKVAVVGNQTSIIVHPKIRIKTKSKKTHTHLIDTLLALDVNIVKVFTPEHGFRGKAD
+AGEKVLDGFDITTGLPMISLYGSNKKPSANQLKDVDLLLFDLQDVGVRFYTYLSTLHYVM
+EAAAENKIPLVVLDRPNPNAHYVDGPILEKKHKSFVGLHPVPIVYGMTIGEYAKMINGEG
+WLRNGIQCDLTVVKNKNYTHNTSYTLPVKPSPNLPNVKSIELYPSLCFFEGTTISCGRGT
+SMQFQIFGHPDLPKKYFPFNFTPQPNEGAKHPKHQGNLCYGLDLRETRVHKINLQWLLDA
+YTYYPKDKEFFNPFFAKLAGTEVLQNQIELGYTQRDIRKGWVKPLIEFKKIRAKYLLY
+>match$77_21_41
+FEKSEKNFKIFEKIFEELEKN
+>match$78_87_107
+LKNLEKKEKFLKKNLNSKEKI
+>match$79_2_22
+LENLNEALQAIDEQIKDDEVV
+>match$80_40_64
+AKKAKKSLENLNNEISVKVETLKQR
+>match$81_6_26
+LQKLQERVKNIFENLKKKSDD
+>match$82_35_349
+YSNGLYPFISRLLRKLLGWIPISVGDLLYLLFVFIVLKWLWYLFQTRLYPLLEHIYALGA
+FISIVFFVFHLFWGLNYYRLPFYERLDLNSLEFTQEELLQTTQNHIDKLNNIHHLIEEND
+SVAIVVPYKRTAIFRMASAHYKNLKIDSVALHFKTRSIKGSLMSKPLSYMGFSGYLNPFT
+GEAQVNREIPKSNFPATTCHEMAHQLGYASEDEANYIGYLACITSEDAFFRYSGELLAVQ
+HLLYAIVQHDKELYREYYDKLHVGIQRNIQQNRDFWDSYQNPFEPYFKKFYDLFLKANSQ
+KEGIDSYNAMVGYLV
+>match$83_33_53
+LNNYEDRIKLKEKFLEKVKLE
+>match$84_1_19
+MKQIFFLLSFVFLFSFSSC
+>match$85_29_49
+KEIYLDKISKKENEVNEIIKK
+>match$86_1_43
+MSISTDSKTVEEPKNPDKCNIFALYKLVSNEEEIEKMRQNYLK
+>match$87_7_52
+VPITDVRKYASKYLKDPKQTFFVVVNNRPKTIIQPVEDFEKMQKEL
+>match$88_45_65
+FEKMQKELIEQKKIITELKEK
+>match$89_5_57
+QIVPITDVRKYASKYLKDPKQTFFVVVNNRPKTIIQPVEDFEKMQKELIEQKK
+>match$90_61_91
+VLEEKNEKKILKKNLEEIKKIDLENKKLKKN
+>match$91_3_80
+YEEIQKKIEEKILEIKKENPNHETIRFYSSDYSDIQGFDFMSNFNENFIKFFEKFENVMM
+ETRTKSANIENFLEIAKK
+>match$92_11_185
+MKIVFLSDTHQRHHDVDIPNGDILIHAGDFSSRGTVQEVTDFLNWFSKQPHKYKIFIAGN
+HDFFFEREREETIRKIIPKNLIYLNDSGITIENIRIWGSPVQPEFLNWAFNRERGEEIKK
+HWNLIPKDTNLLITHGPPEGILDKTIRGKSVGCLDLLNRVNNIQPKIHVFGHIHE
+>match$93_8_217
+KYNMKIVFLSDTHQRHHDVDIPNGDILIHAGDFSSRGTVQEVTDFLNWFSKQPHKYKIFI
+AGNHDFFFEREREETIRKIIPKNLIYLNDSGITIENIRIWGSPVQPEFLNWAFNRERGEE
+IKKHWNLIPKDTNLLITHGPPEGILDKTIRGKSVGCLDLLNRVNNIQPKIHVFGHIHEAY
+GVYKTANTTFINASILNERYRNTNDAVVVD
+>match$94_11_207
+MKIVFLSDTHQRHHDVDIPNGDILIHAGDFSSRGTVQEVTDFLNWFSKQPHKYKIFIAGN
+HDFFFEREREETIRKIIPKNLIYLNDSGITIENIRIWGSPVQPEFLNWAFNRERGEEIKK
+HWNLIPKDTNLLITHGPPEGILDKTIRGKSVGCLDLLNRVNNIQPKIHVFGHIHEAYGVY
+KTANTTFINASILNERY
+>match$95_12_201
+KIVFLSDTHQRHHDVDIPNGDILIHAGDFSSRGTVQEVTDFLNWFSKQPHKYKIFIAGNH
+DFFFEREREETIRKIIPKNLIYLNDSGITIENIRIWGSPVQPEFLNWAFNRERGEEIKKH
+WNLIPKDTNLLITHGPPEGILDKTIRGKSVGCLDLLNRVNNIQPKIHVFGHIHEAYGVYK
+TANTTFINAS
+>match$96_2_218
+DKCTLTKYNMKIVFLSDTHQRHHDVDIPNGDILIHAGDFSSRGTVQEVTDFLNWFSKQPH
+KYKIFIAGNHDFFFEREREETIRKIIPKNLIYLNDSGITIENIRIWGSPVQPEFLNWAFN
+RERGEEIKKHWNLIPKDTNLLITHGPPEGILDKTIRGKSVGCLDLLNRVNNIQPKIHVFG
+HIHEAYGVYKTANTTFINASILNERYRNTNDAVVVDW
+>match$97_15_267
+QNFFLLAGPCAIEGEQMALEIAEKIATIADKLKIPFIFKGSFKKANRSRLDSFTGIGDEK
+ALKILDKVRREFQIPTVTDIHKESDAALAATFVDVLQIPAFLARQTDLLVAAAKTGKVVN
+IKKGQFMNPSAMKHAVNKVKESGNEQVLITERGSMFGYQDMIVDFRGIPEMQKYAPVVLD
+ITHSLQQPNQNSGVTGGKPELIESIARAGIAVGVDGLFLETHPNPSLAKSDGANMLPLEK
+LENLLMRLVQIRE
+>match$98_11_269
+HISSQNFFLLAGPCAIEGEQMALEIAEKIATIADKLKIPFIFKGSFKKANRSRLDSFTGI
+GDEKALKILDKVRREFQIPTVTDIHKESDAALAATFVDVLQIPAFLARQTDLLVAAAKTG
+KVVNIKKGQFMNPSAMKHAVNKVKESGNEQVLITERGSMFGYQDMIVDFRGIPEMQKYAP
+VVLDITHSLQQPNQNSGVTGGKPELIESIARAGIAVGVDGLFLETHPNPSLAKSDGANML
+PLEKLENLLMRLVQIREVV
+>match$99_16_269
+NFFLLAGPCAIEGEQMALEIAEKIATIADKLKIPFIFKGSFKKANRSRLDSFTGIGDEKA
+LKILDKVRREFQIPTVTDIHKESDAALAATFVDVLQIPAFLARQTDLLVAAAKTGKVVNI
+KKGQFMNPSAMKHAVNKVKESGNEQVLITERGSMFGYQDMIVDFRGIPEMQKYAPVVLDI
+THSLQQPNQNSGVTGGKPELIESIARAGIAVGVDGLFLETHPNPSLAKSDGANMLPLEKL
+ENLLMRLVQIREVV
+>match$100_7_269
+PQLNHISSQNFFLLAGPCAIEGEQMALEIAEKIATIADKLKIPFIFKGSFKKANRSRLDS
+FTGIGDEKALKILDKVRREFQIPTVTDIHKESDAALAATFVDVLQIPAFLARQTDLLVAA
+AKTGKVVNIKKGQFMNPSAMKHAVNKVKESGNEQVLITERGSMFGYQDMIVDFRGIPEMQ
+KYAPVVLDITHSLQQPNQNSGVTGGKPELIESIARAGIAVGVDGLFLETHPNPSLAKSDG
+ANMLPLEKLENLLMRLVQIREVV
+>match$101_1_271
+MDLQSIPQLNHISSQNFFLLAGPCAIEGEQMALEIAEKIATIADKLKIPFIFKGSFKKAN
+RSRLDSFTGIGDEKALKILDKVRREFQIPTVTDIHKESDAALAATFVDVLQIPAFLARQT
+DLLVAAAKTGKVVNIKKGQFMNPSAMKHAVNKVKESGNEQVLITERGSMFGYQDMIVDFR
+GIPEMQKYAPVVLDITHSLQQPNQNSGVTGGKPELIESIARAGIAVGVDGLFLETHPNPS
+LAKSDGANMLPLEKLENLLMRLVQIREVVVG
+>match$102_4_181
+IIDTSSLLALVRYYLPFDNNRTLFGLIQSKIVNKDIIIIDKVIVESKYITKGIILEKLDY
+LKDREIRINTTEILPTRKFYNQLEHQFVYGSVKNRLNEAEYEKMKESFLQSADAKLILYA
+LEYNKENNMFQDDKMIIVTEESSTENDNKFIKKIPQIGKILELDVITLPEYFIRLGVK
+>match$103_1_39
+MKTIEEPPKFVYFILATTEKQKIPETIISRCINLNFERI
+>match$104_1_70
+MKTIEEPPKFVYFILATTEKQKIPETIISRCINLNFERIFDADIVKRLEFICKEEKIDFE
+KKALELIAIE
+>match$105_41_72
+DADIVKRLEFICKEEKIDFEKKALELIAIEAK
+>match$106_2_69
+KTIEEPPKFVYFILATTEKQKIPETIISRCINLNFERIFDADIVKRLEFICKEEKIDFEK
+KALELIAI
+>match$107_1_70
+MKTIEEPPKFVYFILATTEKQKIPETIISRCINLNFERIFDADIVKRLEFICKEEKIDFE
+KKALELIAIE
+>match$108_1_38
+MKTIEEPPKFVYFILATTEKQKIPETIISRCINLNFER
+>match$109_9_57
+INVNFRIEKAIKEEASKIANEMRINLTSVVNMFLKKFVREKKIEMNLND
+>match$110_11_54
+VNFRIEKAIKEEASKIANEMRINLTSVVNMFLKKFVREKKIEMN
+>match$111_1_108
+MIEKNFKILEKITFDVRTFEENVFKSPDISLVKEIMVKKRNVVFLKHMIKPEINVVKMIE
+LKLKKIFDDDLEVYFEDLEDKIQKVFSDTERILEFIDATEDTLKTLVS
+>match$112_3_135
+EKNFKILEKITFDVRTFEENVFKSPDISLVKEIMVKKRNVVFLKHMIKPEINVVKMIELK
+LKKIFDDDLEVYFEDLEDKIQKVFSDTERILEFIDATEDTLKTLVSIKTSHSMWMLTLLS
+TFLLPLTLVTSFY
+>match$113_2_107
+IEKNFKILEKITFDVRTFEENVFKSPDISLVKEIMVKKRNVVFLKHMIKPEINVVKMIEL
+KLKKIFDDDLEVYFEDLEDKIQKVFSDTERILEFIDATEDTLKTLV
+>match$114_1_135
+MIEKNFKILEKITFDVRTFEENVFKSPDISLVKEIMVKKRNVVFLKHMIKPEINVVKMIE
+LKLKKIFDDDLEVYFEDLEDKIQKVFSDTERILEFIDATEDTLKTLVSIKTSHSMWMLTL
+LSTFLLPLTLVTSFY
+>match$115_13_32
+ESKASEHSSRMLAMKNATDN
+>match$115_44_56
+YNKARQAAITTEI
+>match$116_5_56
+FKFFDILLESKASEHSSRMLAMKNATDNAKKFAEELNLKYNKARQAAITTEI
+>match$117_5_56
+FKFFDILLESKASEHSSRMLAMKNATDNAKKFAEELNLKYNKARQAAITTEI
+>match$118_3_56
+IDFKFFDILLESKASEHSSRMLAMKNATDNAKKFAEELNLKYNKARQAAITTEI
+>match$119_1_56
+MFIDFKFFDILLESKASEHSSRMLAMKNATDNAKKFAEELNLKYNKARQAAITTEI
+>match$120_3_56
+IDFKFFDILLESKASEHSSRMLAMKNATDNAKKFAEELNLKYNKARQAAITTEI
+>match$121_1_21
+MNNIEKKYLEQSENFREIQNK
+>match$122_314_334
+NEEYRIKREEEQLKKETEKEM
+>match$123_185_252
+DGFFINPNVIVIKRYQKAFRREIFTLIHELGHFLINEEEIEKIDFNYFAKDNLSKIEKWC
+NDFSFHFL
+>match$124_1_21
+MADLDEERKSANETLMKQYEK
+>match$125_1_64
+MSKKEKIQLLKKELKKMFPDAKAELYFENDFQLLIAVLMSAQTTDKQVNKVNSEFFKFLK
+KPED
+>match$126_3_64
+KKEKIQLLKKELKKMFPDAKAELYFENDFQLLIAVLMSAQTTDKQVNKVNSEFFKFLKKP
+ED
+>match$127_14_64
+LKKMFPDAKAELYFENDFQLLIAVLMSAQTTDKQVNKVNSEFFKFLKKPED
+>match$128_8_74
+SNVRLKILKRFFLNTEKEYYVRELSRDLDEQVNAIRRELDSMHKIGLLKTRAKNRKKYFY
+LNKFFLI
+>match$129_4_80
+TLFTSNVRLKILKRFFLNTEKEYYVRELSRDLDEQVNAIRRELDSMHKIGLLKTRAKNRK
+KYFYLNKFFLIYNELSS
+>match$130_1_82
+MLKTLFTSNVRLKILKRFFLNTEKEYYVRELSRDLDEQVNAIRRELDSMHKIGLLKTRAK
+NRKKYFYLNKFFLIYNELSSII
+>match$131_2_64
+DLWRKFFVNSEENVFLMDGPTINKRELLDKSGHTKTFFDYIIRNPESGLKHRCDKLIEDQ
+FPK
+>match$132_1_83
+MDLWRKFFVNSEENVFLMDGPTINKRELLDKSGHTKTFFDYIIRNPESGLKHRCDKLIED
+QFPKIEVVNTVNFYKNFFEKNNV
+>match$133_4_73
+NQTIVSHARHFEALNNAQQALQNVKKGLSIDLSGDLLAIDIHESLRQLGTITGDFDVDKD
+LLGNIFGNFC
+>match$134_1_76
+MSNNQTIVSHARHFEALNNAQQALQNVKKGLSIDLSGDLLAIDIHESLRQLGTITGDFDV
+DKDLLGNIFGNFCIGK
+>match$135_3_76
+NNQTIVSHARHFEALNNAQQALQNVKKGLSIDLSGDLLAIDIHESLRQLGTITGDFDVDK
+DLLGNIFGNFCIGK
+>match$136_1_78
+MVLAVDVSLSMLAEDMKPNRITVAKNTILDFIDRLRTGDRMSLVIFSGRPFTNIPLTGDL
+KILRDFTEFLSTDLINQN
+>match$137_1_71
+MVLAVDVSLSMLAEDMKPNRITVAKNTILDFIDRLRTGDRMSLVIFSGRPFTNIPLTGDL
+KILRDFTEFLS
+>match$138_1_71
+MVLAVDVSLSMLAEDMKPNRITVAKNTILDFIDRLRTGDRMSLVIFSGRPFTNIPLTGDL
+KILRDFTEFLS
+>match$139_12_80
+YSNLQEKNDELTTKIAKLEAELEQEKTKKTKDFERKLAELEESRKALEDEKARIRKEDEE
+KKLEEEKNR
+>match$140_3_624
+KGNINISTENIFPIIKKFLYSDHEIFLRELVSNATDATLKLKHLIRIGEAKGEFQDPLIE
+IKINKKKKTLHIIDRGIGMTSDEIKKYINEIAFSGAEEFVEKYKDKIEDSGIIGHFGLGF
+YSSFMVADKVEILTKSYKKEAQAVKWECDGSPAYTIENIDKDEVGTEIILHISEEEKQFL
+EADKINELLSKYNRFMPIPIKHGTREETKTIGEGDDAKEEKYTIDNIINNPTPAWTKKPT
+DLKEEDYKNFYRELYPMQFEEPLFNIHLNVDYPFNLTGILYFPRITKNMDIQKDRIQLYQ
+NQVFVTDNVEGIVPDFLQMLRGVIDSPDIPLNVSRSYLQADGAVKKIAGYITKKVADKLN
+SIFKKDRKEFEAKWDDIKLIIEYGMLSEEKFFDKAQKFALYPVVDGANYTFDELKDKIKD
+TQTDKDGNLIVLYTSDKEQQHAYIETAQAKGYKVVLLDSPIVPHLLQKLETENEKLKFTR
+VDSDFIDNLIKKEETKISKLTDDEKTKLEGIVKEVVPAEKYTVQMEALDSTDNPFIITQP
+EFMRRYKEMSQTGGGGFMGMGEMPEMYNLIVNSNHPLMDKILKAKKNKEKYVNQALDLAK
+LSQNLIKGKDMTDFIKRSFELM
+>match$141_220_596
+KEEKYTIDNIINNPTPAWTKKPTDLKEEDYKNFYRELYPMQFEEPLFNIHLNVDYPFNLT
+GILYFPRITKNMDIQKDRIQLYQNQVFVTDNVEGIVPDFLQMLRGVIDSPDIPLNVSRSY
+LQADGAVKKIAGYITKKVADKLNSIFKKDRKEFEAKWDDIKLIIEYGMLSEEKFFDKAQK
+FALYPVVDGANYTFDELKDKIKDTQTDKDGNLIVLYTSDKEQQHAYIETAQAKGYKVVLL
+DSPIVPHLLQKLETENEKLKFTRVDSDFIDNLIKKEETKISKLTDDEKTKLEGIVKEVVP
+AEKYTVQMEALDSTDNPFIITQPEFMRRYKEMSQTGGGGFMGMGEMPEMYNLIVNSNHPL
+MDKILKAKKNKEKYVNQ
+>match$142_2_206
+SKGNINISTENIFPIIKKFLYSDHEIFLRELVSNATDATLKLKHLIRIGEAKGEFQDPLI
+EIKINKKKKTLHIIDRGIGMTSDEIKKYINEIAFSGAEEFVEKYKDKIEDSGIIGHFGLG
+FYSSFMVADKVEILTKSYKKEAQAVKWECDGSPAYTIENIDKDEVGTEIILHISEEEKQF
+LEADKINELLSKYNRFMPIPIKHGT
+>match$143_11_198
+ENIFPIIKKFLYSDHEIFLRELVSNATDATLKLKHLIRIGEAKGEFQDPLIEIKINKKKK
+TLHIIDRGIGMTSDEIKKYINEIAFSGAEEFVEKYKDKIEDSGIIGHFGLGFYSSFMVAD
+KVEILTKSYKKEAQAVKWECDGSPAYTIENIDKDEVGTEIILHISEEEKQFLEADKINEL
+LSKYNRFM
+>match$144_232_365
+NPTPAWTKKPTDLKEEDYKNFYRELYPMQFEEPLFNIHLNVDYPFNLTGILYFPRITKNM
+DIQKDRIQLYQNQVFVTDNVEGIVPDFLQMLRGVIDSPDIPLNVSRSYLQADGAVKKIAG
+YITKKVADKLNSIF
+>match$145_367_483
+KDRKEFEAKWDDIKLIIEYGMLSEEKFFDKAQKFALYPVVDGANYTFDELKDKIKDTQTD
+KDGNLIVLYTSDKEQQHAYIETAQAKGYKVVLLDSPIVPHLLQKLETENEKLKFTRV
+>match$146_22_31
+YSDHEIFLRE
+>match$147_234_485
+TPAWTKKPTDLKEEDYKNFYRELYPMQFEEPLFNIHLNVDYPFNLTGILYFPRITKNMDI
+QKDRIQLYQNQVFVTDNVEGIVPDFLQMLRGVIDSPDIPLNVSRSYLQADGAVKKIAGYI
+TKKVADKLNSIFKKDRKEFEAKWDDIKLIIEYGMLSEEKFFDKAQKFALYPVVDGANYTF
+DELKDKIKDTQTDKDGNLIVLYTSDKEQQHAYIETAQAKGYKVVLLDSPIVPHLLQKLET
+ENEKLKFTRVDS
+>match$148_23_45
+SDHEIFLRELVSNATDATLKLKH
+>match$148_71_88
+TLHIIDRGIGMTSDEIKK
+>match$148_89_106
+YINEIAFSGAEEFVEKYK
+>match$148_115_137
+IGHFGLGFYSSFMVADKVEILTK
+>match$148_166_183
+VGTEIILHISEEEKQFLE
+>match$148_184_202
+ADKINELLSKYNRFMPIPI
+>match$149_1_625
+MSKGNINISTENIFPIIKKFLYSDHEIFLRELVSNATDATLKLKHLIRIGEAKGEFQDPL
+IEIKINKKKKTLHIIDRGIGMTSDEIKKYINEIAFSGAEEFVEKYKDKIEDSGIIGHFGL
+GFYSSFMVADKVEILTKSYKKEAQAVKWECDGSPAYTIENIDKDEVGTEIILHISEEEKQ
+FLEADKINELLSKYNRFMPIPIKHGTREETKTIGEGDDAKEEKYTIDNIINNPTPAWTKK
+PTDLKEEDYKNFYRELYPMQFEEPLFNIHLNVDYPFNLTGILYFPRITKNMDIQKDRIQL
+YQNQVFVTDNVEGIVPDFLQMLRGVIDSPDIPLNVSRSYLQADGAVKKIAGYITKKVADK
+LNSIFKKDRKEFEAKWDDIKLIIEYGMLSEEKFFDKAQKFALYPVVDGANYTFDELKDKI
+KDTQTDKDGNLIVLYTSDKEQQHAYIETAQAKGYKVVLLDSPIVPHLLQKLETENEKLKF
+TRVDSDFIDNLIKKEETKISKLTDDEKTKLEGIVKEVVPAEKYTVQMEALDSTDNPFIIT
+QPEFMRRYKEMSQTGGGGFMGMGEMPEMYNLIVNSNHPLMDKILKAKKNKEKYVNQALDL
+AKLSQNLIKGKDMTDFIKRSFELMK
+>match$150_493_625
+KKEETKISKLTDDEKTKLEGIVKEVVPAEKYTVQMEALDSTDNPFIITQPEFMRRYKEMS
+QTGGGGFMGMGEMPEMYNLIVNSNHPLMDKILKAKKNKEKYVNQALDLAKLSQNLIKGKD
+MTDFIKRSFELMK
+>match$151_3_624
+KGNINISTENIFPIIKKFLYSDHEIFLRELVSNATDATLKLKHLIRIGEAKGEFQDPLIE
+IKINKKKKTLHIIDRGIGMTSDEIKKYINEIAFSGAEEFVEKYKDKIEDSGIIGHFGLGF
+YSSFMVADKVEILTKSYKKEAQAVKWECDGSPAYTIENIDKDEVGTEIILHISEEEKQFL
+EADKINELLSKYNRFMPIPIKHGTREETKTIGEGDDAKEEKYTIDNIINNPTPAWTKKPT
+DLKEEDYKNFYRELYPMQFEEPLFNIHLNVDYPFNLTGILYFPRITKNMDIQKDRIQLYQ
+NQVFVTDNVEGIVPDFLQMLRGVIDSPDIPLNVSRSYLQADGAVKKIAGYITKKVADKLN
+SIFKKDRKEFEAKWDDIKLIIEYGMLSEEKFFDKAQKFALYPVVDGANYTFDELKDKIKD
+TQTDKDGNLIVLYTSDKEQQHAYIETAQAKGYKVVLLDSPIVPHLLQKLETENEKLKFTR
+VDSDFIDNLIKKEETKISKLTDDEKTKLEGIVKEVVPAEKYTVQMEALDSTDNPFIITQP
+EFMRRYKEMSQTGGGGFMGMGEMPEMYNLIVNSNHPLMDKILKAKKNKEKYVNQALDLAK
+LSQNLIKGKDMTDFIKRSFELM
+>match$152_2_222
+SKGNINISTENIFPIIKKFLYSDHEIFLRELVSNATDATLKLKHLIRIGEAKGEFQDPLI
+EIKINKKKKTLHIIDRGIGMTSDEIKKYINEIAFSGAEEFVEKYKDKIEDSGIIGHFGLG
+FYSSFMVADKVEILTKSYKKEAQAVKWECDGSPAYTIENIDKDEVGTEIILHISEEEKQF
+LEADKINELLSKYNRFMPIPIKHGTREETKTIGEGDDAKEE
+>match$153_26_151
+EIFLRELVSNATDATLKLKHLIRIGEAKGEFQDPLIEIKINKKKKTLHIIDRGIGMTSDE
+IKKYINEIAFSGAEEFVEKYKDKIEDSGIIGHFGLGFYSSFMVADKVEILTKSYKKEAQA
+VKWECD
+>match$154_4_24
+LELINKKLVNLLLKLENIKNQ
+>match$155_22_42
+KSEQEKIMDDLDLQINEAFEQ
+>match$156_28_260
+KNSYDLARAIRHAVSEKKIIKLQVELIKLQTWVINNNEKVVIIFEGRDAAGKGGAIRRII
+ERLNPRHLRVVALPKPTKDEESQWYFQRYVNQLPTGGEIVFFDRSWYNRAVVEPVNGFCK
+QSQYDRFMKQVNDFERMIVESGIRLVKIYMSISRREQAKRFREIKSNPLKIWKMTKVDEN
+AQRLWDEYTDFKDKMFLNAKKGKFPFKVIKANRKTTARVAVINHILKTIPYDK
+>match$157_28_260
+KNSYDLARAIRHAVSEKKIIKLQVELIKLQTWVINNNEKVVIIFEGRDAAGKGGAIRRII
+ERLNPRHLRVVALPKPTKDEESQWYFQRYVNQLPTGGEIVFFDRSWYNRAVVEPVNGFCK
+QSQYDRFMKQVNDFERMIVESGIRLVKIYMSISRREQAKRFREIKSNPLKIWKMTKVDEN
+AQRLWDEYTDFKDKMFLNAKKGKFPFKVIKANRKTTARVAVINHILKTIPYDK
+>match$158_68_256
+VIIFEGRDAAGKGGAIRRIIERLNPRHLRVVALPKPTKDEESQWYFQRYVNQLPTGGEIV
+FFDRSWYNRAVVEPVNGFCKQSQYDRFMKQVNDFERMIVESGIRLVKIYMSISRREQAKR
+FREIKSNPLKIWKMTKVDENAQRLWDEYTDFKDKMFLNAKKGKFPFKVIKANRKTTARVA
+VINHILKTI
+>match$159_40_260
+AVSEKKIIKLQVELIKLQTWVINNNEKVVIIFEGRDAAGKGGAIRRIIERLNPRHLRVVA
+LPKPTKDEESQWYFQRYVNQLPTGGEIVFFDRSWYNRAVVEPVNGFCKQSQYDRFMKQVN
+DFERMIVESGIRLVKIYMSISRREQAKRFREIKSNPLKIWKMTKVDENAQRLWDEYTDFK
+DKMFLNAKKGKFPFKVIKANRKTTARVAVINHILKTIPYDK
+>match$160_41_260
+VSEKKIIKLQVELIKLQTWVINNNEKVVIIFEGRDAAGKGGAIRRIIERLNPRHLRVVAL
+PKPTKDEESQWYFQRYVNQLPTGGEIVFFDRSWYNRAVVEPVNGFCKQSQYDRFMKQVND
+FERMIVESGIRLVKIYMSISRREQAKRFREIKSNPLKIWKMTKVDENAQRLWDEYTDFKD
+KMFLNAKKGKFPFKVIKANRKTTARVAVINHILKTIPYDK
+>match$161_3_263
+NQEEYIEKNLDLLNSKKGLHALLSQKNSYDLARAIRHAVSEKKIIKLQVELIKLQTWVIN
+NNEKVVIIFEGRDAAGKGGAIRRIIERLNPRHLRVVALPKPTKDEESQWYFQRYVNQLPT
+GGEIVFFDRSWYNRAVVEPVNGFCKQSQYDRFMKQVNDFERMIVESGIRLVKIYMSISRR
+EQAKRFREIKSNPLKIWKMTKVDENAQRLWDEYTDFKDKMFLNAKKGKFPFKVIKANRKT
+TARVAVINHILKTIPYDKDIE
+>match$162_2_264
+QNQEEYIEKNLDLLNSKKGLHALLSQKNSYDLARAIRHAVSEKKIIKLQVELIKLQTWVI
+NNNEKVVIIFEGRDAAGKGGAIRRIIERLNPRHLRVVALPKPTKDEESQWYFQRYVNQLP
+TGGEIVFFDRSWYNRAVVEPVNGFCKQSQYDRFMKQVNDFERMIVESGIRLVKIYMSISR
+REQAKRFREIKSNPLKIWKMTKVDENAQRLWDEYTDFKDKMFLNAKKGKFPFKVIKANRK
+TTARVAVINHILKTIPYDKDIEV
+>match$163_55_162
+KIRLIGVNTPETVHPQKPVEYYGKEASNYVKKVLMNKKVRLEFDVSKQDRYGRTLAYVFL
+NDGTFLNADLIENGYGQVMTVPPNVKYSEEFLELERKARENNIGLWKE
+>match$164_26_161
+RDSLAGYMSIKKFVDGDTFWVDDGSEKGLKIRLIGVNTPETVHPQKPVEYYGKEASNYVK
+KVLMNKKVRLEFDVSKQDRYGRTLAYVFLNDGTFLNADLIENGYGQVMTVPPNVKYSEEF
+LELERKARENNIGLWK
+>match$165_1_20
+MKHCLLKYLSFAFLLLFFSC
+>match$166_26_161
+RDSLAGYMSIKKFVDGDTFWVDDGSEKGLKIRLIGVNTPETVHPQKPVEYYGKEASNYVK
+KVLMNKKVRLEFDVSKQDRYGRTLAYVFLNDGTFLNADLIENGYGQVMTVPPNVKYSEEF
+LELERKARENNIGLWK
+>match$167_35_162
+IKKFVDGDTFWVDDGSEKGLKIRLIGVNTPETVHPQKPVEYYGKEASNYVKKVLMNKKVR
+LEFDVSKQDRYGRTLAYVFLNDGTFLNADLIENGYGQVMTVPPNVKYSEEFLELERKARE
+NNIGLWKE
+>match$168_25_162
+DRDSLAGYMSIKKFVDGDTFWVDDGSEKGLKIRLIGVNTPETVHPQKPVEYYGKEASNYV
+KKVLMNKKVRLEFDVSKQDRYGRTLAYVFLNDGTFLNADLIENGYGQVMTVPPNVKYSEE
+FLELERKARENNIGLWKE
+>match$169_36_161
+KKFVDGDTFWVDDGSEKGLKIRLIGVNTPETVHPQKPVEYYGKEASNYVKKVLMNKKVRL
+EFDVSKQDRYGRTLAYVFLNDGTFLNADLIENGYGQVMTVPPNVKYSEEFLELERKAREN
+NIGLWK
+>match$170_31_162
+GYMSIKKFVDGDTFWVDDGSEKGLKIRLIGVNTPETVHPQKPVEYYGKEASNYVKKVLMN
+KKVRLEFDVSKQDRYGRTLAYVFLNDGTFLNADLIENGYGQVMTVPPNVKYSEEFLELER
+KARENNIGLWKE
+>match$171_103_113
+DRYGRTLAYVF
+>match$172_1_18
+MKKILAIFLIATLLFSSC
+>match$173_33_53
+IDEKIVKIRELSKNLNDESHE
+>match$174_14_78
+MKIITKAKNFSLNESQKQFIDEKIVKIRELSKNLNDESHEIHIDFEVNETQKPEDKYSCV
+ATANL
+>match$175_18_80
+VFASSETLKKLNDENKKIQNEIEKILDKQFSLQTQLNLLEKTLEQLEVEKKIFLEKRREF
+QKN
+>match$176_60_61
+LE
+>match$177_2_70
+DRKIVEFLEKQNKIFNKKNLRHSYPTCWRCDTPLLNYATKTWFIAVEKVKDKLLKNNKKI
+NWTPKHLQE
+>match$178_2_70
+DRKIVEFLEKQNKIFNKKNLRHSYPTCWRCDTPLLNYATKTWFIAVEKVKDKLLKNNKKI
+NWTPKHLQE
+>match$179_2_67
+DRKIVEFLEKQNKIFNKKNLRHSYPTCWRCDTPLLNYATKTWFIAVEKVKDKLLKNNKKI
+NWTPKH
+>match$180_2_70
+DRKIVEFLEKQNKIFNKKNLRHSYPTCWRCDTPLLNYATKTWFIAVEKVKDKLLKNNKKI
+NWTPKHLQE
+>match$181_4_68
+KIVEFLEKQNKIFNKKNLRHSYPTCWRCDTPLLNYATKTWFIAVEKVKDKLLKNNKKINW
+TPKHL
+>match$182_53_160
+AVQELPVEYFQYQPQYKRFKLNKQIQFDKGMSEIKTDYNSYLIEVGNSITKLIDGLNNNE
+EYKKFDIKYLVVIEGMASKDNFSLNYELSYERALSLYKFWKTNGISFD
+>match$183_12_91
+TELAEQILENFISNQKKIEEIVKEFAVKFDLKKQNPIDIVILEMLVTEMLYIKTPAKVAI
+SEYLNLTIDYSKDGSCSFIN
+>match$184_11_91
+KTELAEQILENFISNQKKIEEIVKEFAVKFDLKKQNPIDIVILEMLVTEMLYIKTPAKVA
+ISEYLNLTIDYSKDGSCSFIN
+>match$185_1_91
+MKENFFPKLKKTELAEQILENFISNQKKIEEIVKEFAVKFDLKKQNPIDIVILEMLVTEM
+LYIKTPAKVAISEYLNLTIDYSKDGSCSFIN
+>match$186_4_206
+KLYIFGIGGTGSRVLKAFTMLLASGCKLENDFDTVIPIIIDPDTSNGDLNRTKDILRLYQ
+EIRNQIQQPDDFYKQEIKTINELANNSAVINPEYFQFKLEGVEQSTFGQYIGFDSQSHDF
+KKSKDDKNFIRLLYSDSNLKSDLNVGFKGNPNMGSIVLNQFTNSENFRKFGQTFNDGDAV
+FIINSIFGGTGAAGFPLLLKNLR
+>match$187_80_269
+IKTINELANNSAVINPEYFQFKLEGVEQSTFGQYIGFDSQSHDFKKSKDDKNFIRLLYSD
+SNLKSDLNVGFKGNPNMGSIVLNQFTNSENFRKFGQTFNDGDAVFIINSIFGGTGAAGFP
+LLLKNLRGNDQLPHHEKIKDSQIGGITYLPYFALNKQDEVNSESFEEKAKIALDYYNRTI
+IDKNQINTLY
+>match$188_20_241
+YSADALYFLTINTQNRECNLGKIIKTDGRALLQLSDFGKIVKTEWYKSFEIRNELILHTF
+VIMPNHLHAIVEISSHASRVTSSVTSRVTSRVETHGRASLPTQSVPSTQSVPSTHSVPPT
+QSDSPIQSDLPNESNPSINFDISSIKRNPPIRLPKSISSFIAGFKSAVNTKIDDYIDENN
+LKIPKYNRNNHFFQPNYHDHIIRNNFEYQNISNYIINNPKNW
+>match$189_21_237
+SADALYFLTINTQNRECNLGKIIKTDGRALLQLSDFGKIVKTEWYKSFEIRNELILHTFV
+IMPNHLHAIVEISSHASRVTSSVTSRVTSRVETHGRASLPTQSVPSTQSVPSTHSVPPTQ
+SDSPIQSDLPNESNPSINFDISSIKRNPPIRLPKSISSFIAGFKSAVNTKIDDYIDENNL
+KIPKYNRNNHFFQPNYHDHIIRNNFEYQNISNYIINN
+>match$190_103_160
+VTSRVTSRVETHGRASLPTQSVPSTQSVPSTHSVPPTQSDSPIQSDLPNESNPSINFD
+>match$191_14_129
+RKPNWDYSADALYFLTINTQNRECNLGKIIKTDGRALLQLSDFGKIVKTEWYKSFEIRNE
+LILHTFVIMPNHLHAIVEISSHASRVTSSVTSRVTSRVETHGRASLPTQSVPSTQS
+>match$191_159_246
+FDISSIKRNPPIRLPKSISSFIAGFKSAVNTKIDDYIDENNLKIPKYNRNNHFFQPNYHD
+HIIRNNFEYQNISNYIINNPKNWNKDTL
+>match$192_5_239
+KNKYRIQSHRKPNWDYSADALYFLTINTQNRECNLGKIIKTDGRALLQLSDFGKIVKTEW
+YKSFEIRNELILHTFVIMPNHLHAIVEISSHASRVTSSVTSRVTSRVETHGRASLPTQSV
+PSTQSVPSTHSVPPTQSDSPIQSDLPNESNPSINFDISSIKRNPPIRLPKSISSFIAGFK
+SAVNTKIDDYIDENNLKIPKYNRNNHFFQPNYHDHIIRNNFEYQNISNYIINNPK
+>match$193_21_188
+DDWEVKKLGEVCEINPKNKNLPNSFIYVDLESVEKGRLIKKNRMSIENSPSRAQRLLSHK
+DILFQMVRPYQKNNYFFDEKSKDYVASTGYAQIRTNHNPIFIYQLLHTQSFVNKVIVKCT
+GTGYPAINSTDLSKVIISLPSTREQTKIANFLTKIDEKINAVNTQIEN
+>match$194_17_201
+GKTFDDWEVKKLGEVCEINPKNKNLPNSFIYVDLESVEKGRLIKKNRMSIENSPSRAQRL
+LSHKDILFQMVRPYQKNNYFFDEKSKDYVASTGYAQIRTNHNPIFIYQLLHTQSFVNKVI
+VKCTGTGYPAINSTDLSKVIISLPSTREQTKIANFLTKIDEKINAVNTQIENTKTYKKGL
+LQKMF
+>match$195_22_202
+DWEVKKLGEVCEINPKNKNLPNSFIYVDLESVEKGRLIKKNRMSIENSPSRAQRLLSHKD
+ILFQMVRPYQKNNYFFDEKSKDYVASTGYAQIRTNHNPIFIYQLLHTQSFVNKVIVKCTG
+TGYPAINSTDLSKVIISLPSTREQTKIANFLTKIDEKINAVNTQIENTKTYKKGLLQKMF
+V
+>match$196_22_202
+DWEVKKLGEVCEINPKNKNLPNSFIYVDLESVEKGRLIKKNRMSIENSPSRAQRLLSHKD
+ILFQMVRPYQKNNYFFDEKSKDYVASTGYAQIRTNHNPIFIYQLLHTQSFVNKVIVKCTG
+TGYPAINSTDLSKVIISLPSTREQTKIANFLTKIDEKINAVNTQIENTKTYKKGLLQKMF
+V
+>match$197_5_201
+LFSQELQFKDENGKTFDDWEVKKLGEVCEINPKNKNLPNSFIYVDLESVEKGRLIKKNRM
+SIENSPSRAQRLLSHKDILFQMVRPYQKNNYFFDEKSKDYVASTGYAQIRTNHNPIFIYQ
+LLHTQSFVNKVIVKCTGTGYPAINSTDLSKVIISLPSTREQTKIANFLTKIDEKINAVNT
+QIENTKTYKKGLLQKMF
+>match$198_10_30
+LKINRKEISEQIKEVDKAKDQ
+>match$199_38_81
+KLKNLQTKTPEQIAEEKQQVSLRQKQKEDEEKRQKELAEKKAEE
+>match$200_4_97
+KKKEEELKAKYEKQISEQEKEKKDLADRLEMLENKLKNLQTKTPEQIAEEKQQVSLRQKQ
+KEDEEKRQKELAEKKAEELKVKQAELEKKKIAIE
+>match$201_55_81
+QQVSLRQKQKEDEEKRQKELAEKKAEE
+>match$202_39_54
+LKNLQTKTPEQIAEEK
+>match$203_68_68
+V
+>match$204_75_79
+LVDHN
+>match$205_1_28
+MRNEIYLINNYKRSLITLLTIPIILIGC
+>match$206_14_41
+LRKKAEEIKNISDEKEFIEELKKFLKKS
+>match$207_272_324
+TKSEDTQSNNSKSNSHLNEVEKLKREKSELNEKISRMEQTAQKADEKPETQNT
+>match$208_288_324
+LNEVEKLKREKSELNEKISRMEQTAQKADEKPETQNT
+>match$209_159_179
+NKKQQEIIENYRSELKALSKK
+>match$210_284_318
+SNSHLNEVEKLKREKSELNEKISRMEQTAQKADEK
+>match$211_1_20
+MKDGETSQCTKFDENHQSPP
+>match$212_1_20
+MKMNKKFVLILLVVGLIGSC
+>match$213_63_85
+LEQKRFEKESNELELEVLKAEME
+>match$214_54_58
+LKFLE
