@@ -1,0 +1,474 @@
+# Log of exact commands used to analyze metagenomes and metatranscriptomes from Lost City hydrothermal fluids
+# This is a curated excerpt of personal logs intended to include everything pertinent to this publication
+
+# 16 Aug 2019
+# downloaded data from HCI
+# linked to projects directory
+cd /srv/data/mg/projects/LCY/LC2018/
+
+ln -svi /srv/data/mg/raw_data/20190816_UU/16278R/Fastq/16278X10_190808_D00550_0569_ACDY98ANXX_S44_L008_R1_001.fastq.gz LC18d016_01.forward.fastq.gz
+ln -svi /srv/data/mg/raw_data/20190816_UU/16278R/Fastq/16278X10_190808_D00550_0569_ACDY98ANXX_S44_L008_R2_001.fastq.gz LC18d016_01.reverse.fastq.gz
+ln -svi /srv/data/mg/raw_data/20190816_UU/16278R/Fastq/16278X11_190808_D00550_0569_ACDY98ANXX_S47_L008_R1_001.fastq.gz LC18d017_01.forward.fastq.gz
+ln -svi /srv/data/mg/raw_data/20190816_UU/16278R/Fastq/16278X11_190808_D00550_0569_ACDY98ANXX_S47_L008_R2_001.fastq.gz LC18d017_01.reverse.fastq.gz
+ln -svi /srv/data/mg/raw_data/20190816_UU/16278R/Fastq/16278X1_190808_D00550_0569_ACDY98ANXX_S38_L005_R1_001.fastq.gz LC18d001_01.forward.fastq.gz
+ln -svi /srv/data/mg/raw_data/20190816_UU/16278R/Fastq/16278X1_190808_D00550_0569_ACDY98ANXX_S38_L005_R2_001.fastq.gz LC18d001_01.reverse.fastq.gz
+ln -svi /srv/data/mg/raw_data/20190816_UU/16278R/Fastq/16278X12_190808_D00550_0569_ACDY98ANXX_S46_L008_R1_001.fastq.gz LC18d018_01.forward.fastq.gz
+ln -svi /srv/data/mg/raw_data/20190816_UU/16278R/Fastq/16278X12_190808_D00550_0569_ACDY98ANXX_S46_L008_R2_001.fastq.gz LC18d018_01.reverse.fastq.gz
+ln -svi /srv/data/mg/raw_data/20190816_UU/16278R/Fastq/16278X13_190808_D00550_0569_ACDY98ANXX_S45_L008_R1_001.fastq.gz LC18d019_01.forward.fastq.gz
+ln -svi /srv/data/mg/raw_data/20190816_UU/16278R/Fastq/16278X13_190808_D00550_0569_ACDY98ANXX_S45_L008_R2_001.fastq.gz LC18d019_01.reverse.fastq.gz
+ln -svi /srv/data/mg/raw_data/20190816_UU/16278R/Fastq/16278X2_190808_D00550_0569_ACDY98ANXX_S37_L005_R1_001.fastq.gz LC18d002_01.forward.fastq.gz
+ln -svi /srv/data/mg/raw_data/20190816_UU/16278R/Fastq/16278X2_190808_D00550_0569_ACDY98ANXX_S37_L005_R2_001.fastq.gz LC18d002_01.reverse.fastq.gz
+ln -svi /srv/data/mg/raw_data/20190816_UU/16278R/Fastq/16278X3_190808_D00550_0569_ACDY98ANXX_S36_L005_R1_001.fastq.gz LC18d003_01.forward.fastq.gz
+ln -svi /srv/data/mg/raw_data/20190816_UU/16278R/Fastq/16278X3_190808_D00550_0569_ACDY98ANXX_S36_L005_R2_001.fastq.gz LC18d003_01.reverse.fastq.gz
+ln -svi /srv/data/mg/raw_data/20190816_UU/16278R/Fastq/16278X4_190808_D00550_0569_ACDY98ANXX_S35_L005_R1_001.fastq.gz LC18d004_01.forward.fastq.gz
+ln -svi /srv/data/mg/raw_data/20190816_UU/16278R/Fastq/16278X4_190808_D00550_0569_ACDY98ANXX_S35_L005_R2_001.fastq.gz LC18d004_01.reverse.fastq.gz
+ln -svi /srv/data/mg/raw_data/20190816_UU/16278R/Fastq/16278X5_190808_D00550_0569_ACDY98ANXX_S40_L006_R1_001.fastq.gz LC18d007_01.forward.fastq.gz
+ln -svi /srv/data/mg/raw_data/20190816_UU/16278R/Fastq/16278X5_190808_D00550_0569_ACDY98ANXX_S40_L006_R2_001.fastq.gz LC18d007_01.reverse.fastq.gz
+ln -svi /srv/data/mg/raw_data/20190816_UU/16278R/Fastq/16278X6_190808_D00550_0569_ACDY98ANXX_S39_L006_R1_001.fastq.gz LC18d008_01.forward.fastq.gz
+ln -svi /srv/data/mg/raw_data/20190816_UU/16278R/Fastq/16278X6_190808_D00550_0569_ACDY98ANXX_S39_L006_R2_001.fastq.gz LC18d008_01.reverse.fastq.gz
+ln -svi /srv/data/mg/raw_data/20190816_UU/16278R/Fastq/16278X7_190808_D00550_0569_ACDY98ANXX_S43_L007_R1_001.fastq.gz LC18d009_01.forward.fastq.gz
+ln -svi /srv/data/mg/raw_data/20190816_UU/16278R/Fastq/16278X7_190808_D00550_0569_ACDY98ANXX_S43_L007_R2_001.fastq.gz LC18d009_01.reverse.fastq.gz
+ln -svi /srv/data/mg/raw_data/20190816_UU/16278R/Fastq/16278X8_190808_D00550_0569_ACDY98ANXX_S42_L007_R1_001.fastq.gz LC18d010_01.forward.fastq.gz
+ln -svi /srv/data/mg/raw_data/20190816_UU/16278R/Fastq/16278X8_190808_D00550_0569_ACDY98ANXX_S42_L007_R2_001.fastq.gz LC18d010_01.reverse.fastq.gz
+ln -svi /srv/data/mg/raw_data/20190816_UU/16278R/Fastq/16278X9_190808_D00550_0569_ACDY98ANXX_S41_L007_R1_001.fastq.gz LC18d011_01.forward.fastq.gz
+ln -svi /srv/data/mg/raw_data/20190816_UU/16278R/Fastq/16278X9_190808_D00550_0569_ACDY98ANXX_S41_L007_R2_001.fastq.gz LC18d011_01.reverse.fastq.gz
+
+# And link to my user's personal project directory:
+mkdir LC2018-mg
+cd LC2018-mg
+ln -svi /srv/data/mg/projects/LCY/LC2018/* ./
+
+# Batch script to run bbduk on all metagenomes:
+nano LC-mg-bbduk.sh
+
+#! /bin/sh
+#SBATCH --ntasks 12
+#SBATCH --nodes 1
+#SBATCH --partition highmem
+#SBATCH --mem 100G
+#SBATCH --output LC-mg-bbduk.out
+#SBATCH --error LC-mg-bbduk.err
+bbduk.sh -Xmx10g ziplevel=9 threads=8 qin=33 ref=/srv/databases/contaminants/truseq_adapters.fa in1=LC18d016_01.forward.fastq.gz in2=LC18d016_01.reverse.fastq.gz out=LC18d016_01.interleaved.atrim.fq.gz stats=LC18d016_01.adapter_stats.txt ftm=5 ktrim=r k=23 mink=9 rcomp=t hdist=2 tbo tpe minlength=0 2> LC18d016_01.adapters.log
+bbduk.sh -Xmx10g threads=8 qin=33 interleaved=t ref=/srv/databases/contaminants/phix174.fa.gz in=LC18d016_01.interleaved.atrim.fq.gz out=LC18d016_01.interleaved.atrim.decontam.fq.gz outm=LC18d016_01.phix.fq.gz k=31 hdist=1 mcf=0.9 stats=LC18d016_01.phix_stats.txt 2> LC18d016_01.phix.log 
+bbduk.sh -Xmx10g ziplevel=9 threads=8 qin=33 ref=/srv/databases/contaminants/truseq_adapters.fa in1=LC18d017_01.forward.fastq.gz in2=LC18d017_01.reverse.fastq.gz out=LC18d017_01.interleaved.atrim.fq.gz stats=LC18d017_01.adapter_stats.txt ftm=5 ktrim=r k=23 mink=9 rcomp=t hdist=2 tbo tpe minlength=0 2> LC18d017_01.adapters.log 
+bbduk.sh -Xmx10g threads=8 qin=33 interleaved=t ref=/srv/databases/contaminants/phix174.fa.gz in=LC18d017_01.interleaved.atrim.fq.gz out=LC18d017_01.interleaved.atrim.decontam.fq.gz outm=LC18d017_01.phix.fq.gz k=31 hdist=1 mcf=0.9 stats=LC18d017_01.phix_stats.txt 2> LC18d017_01.phix.log 
+bbduk.sh -Xmx10g ziplevel=9 threads=8 qin=33 ref=/srv/databases/contaminants/truseq_adapters.fa in1=LC18d001_01.forward.fastq.gz in2=LC18d001_01.reverse.fastq.gz out=LC18d001_01.interleaved.atrim.fq.gz stats=LC18d001_01.adapter_stats.txt ftm=5 ktrim=r k=23 mink=9 rcomp=t hdist=2 tbo tpe minlength=0 2> LC18d001_01.adapters.log 
+bbduk.sh -Xmx10g threads=8 qin=33 interleaved=t ref=/srv/databases/contaminants/phix174.fa.gz in=LC18d001_01.interleaved.atrim.fq.gz out=LC18d001_01.interleaved.atrim.decontam.fq.gz outm=LC18d001_01.phix.fq.gz k=31 hdist=1 mcf=0.9 stats=LC18d001_01.phix_stats.txt 2> LC18d001_01.phix.log 
+bbduk.sh -Xmx10g ziplevel=9 threads=8 qin=33 ref=/srv/databases/contaminants/truseq_adapters.fa in1=LC18d018_01.forward.fastq.gz in2=LC18d018_01.reverse.fastq.gz out=LC18d018_01.interleaved.atrim.fq.gz stats=LC18d018_01.adapter_stats.txt ftm=5 ktrim=r k=23 mink=9 rcomp=t hdist=2 tbo tpe minlength=0 2> LC18d018_01.adapters.log 
+bbduk.sh -Xmx10g threads=8 qin=33 interleaved=t ref=/srv/databases/contaminants/phix174.fa.gz in=LC18d018_01.interleaved.atrim.fq.gz out=LC18d018_01.interleaved.atrim.decontam.fq.gz outm=LC18d018_01.phix.fq.gz k=31 hdist=1 mcf=0.9 stats=LC18d018_01.phix_stats.txt 2> LC18d018_01.phix.log 
+bbduk.sh -Xmx10g ziplevel=9 threads=8 qin=33 ref=/srv/databases/contaminants/truseq_adapters.fa in1=LC18d019_01.forward.fastq.gz in2=LC18d019_01.reverse.fastq.gz out=LC18d019_01.interleaved.atrim.fq.gz stats=LC18d019_01.adapter_stats.txt ftm=5 ktrim=r k=23 mink=9 rcomp=t hdist=2 tbo tpe minlength=0 2> LC18d019_01.adapters.log 
+bbduk.sh -Xmx10g threads=8 qin=33 interleaved=t ref=/srv/databases/contaminants/phix174.fa.gz in=LC18d019_01.interleaved.atrim.fq.gz out=LC18d019_01.interleaved.atrim.decontam.fq.gz outm=LC18d019_01.phix.fq.gz k=31 hdist=1 mcf=0.9 stats=LC18d019_01.phix_stats.txt 2> LC18d019_01.phix.log 
+bbduk.sh -Xmx10g ziplevel=9 threads=8 qin=33 ref=/srv/databases/contaminants/truseq_adapters.fa in1=LC18d002_01.forward.fastq.gz in2=LC18d002_01.reverse.fastq.gz out=LC18d002_01.interleaved.atrim.fq.gz stats=LC18d002_01.adapter_stats.txt ftm=5 ktrim=r k=23 mink=9 rcomp=t hdist=2 tbo tpe minlength=0 2> LC18d002_01.adapters.log 
+bbduk.sh -Xmx10g threads=8 qin=33 interleaved=t ref=/srv/databases/contaminants/phix174.fa.gz in=LC18d002_01.interleaved.atrim.fq.gz out=LC18d002_01.interleaved.atrim.decontam.fq.gz outm=LC18d002_01.phix.fq.gz k=31 hdist=1 mcf=0.9 stats=LC18d002_01.phix_stats.txt 2> LC18d002_01.phix.log 
+bbduk.sh -Xmx10g ziplevel=9 threads=8 qin=33 ref=/srv/databases/contaminants/truseq_adapters.fa in1=LC18d003_01.forward.fastq.gz in2=LC18d003_01.reverse.fastq.gz out=LC18d003_01.interleaved.atrim.fq.gz stats=LC18d003_01.adapter_stats.txt ftm=5 ktrim=r k=23 mink=9 rcomp=t hdist=2 tbo tpe minlength=0 2> LC18d003_01.adapters.log 
+bbduk.sh -Xmx10g threads=8 qin=33 interleaved=t ref=/srv/databases/contaminants/phix174.fa.gz in=LC18d003_01.interleaved.atrim.fq.gz out=LC18d003_01.interleaved.atrim.decontam.fq.gz outm=LC18d003_01.phix.fq.gz k=31 hdist=1 mcf=0.9 stats=LC18d003_01.phix_stats.txt 2> LC18d003_01.phix.log 
+bbduk.sh -Xmx10g ziplevel=9 threads=8 qin=33 ref=/srv/databases/contaminants/truseq_adapters.fa in1=LC18d004_01.forward.fastq.gz in2=LC18d004_01.reverse.fastq.gz out=LC18d004_01.interleaved.atrim.fq.gz stats=LC18d004_01.adapter_stats.txt ftm=5 ktrim=r k=23 mink=9 rcomp=t hdist=2 tbo tpe minlength=0 2> LC18d004_01.adapters.log 
+bbduk.sh -Xmx10g threads=8 qin=33 interleaved=t ref=/srv/databases/contaminants/phix174.fa.gz in=LC18d004_01.interleaved.atrim.fq.gz out=LC18d004_01.interleaved.atrim.decontam.fq.gz outm=LC18d004_01.phix.fq.gz k=31 hdist=1 mcf=0.9 stats=LC18d004_01.phix_stats.txt 2> LC18d004_01.phix.log 
+bbduk.sh -Xmx10g ziplevel=9 threads=8 qin=33 ref=/srv/databases/contaminants/truseq_adapters.fa in1=LC18d007_01.forward.fastq.gz in2=LC18d007_01.reverse.fastq.gz out=LC18d007_01.interleaved.atrim.fq.gz stats=LC18d007_01.adapter_stats.txt ftm=5 ktrim=r k=23 mink=9 rcomp=t hdist=2 tbo tpe minlength=0 2> LC18d007_01.adapters.log 
+bbduk.sh -Xmx10g threads=8 qin=33 interleaved=t ref=/srv/databases/contaminants/phix174.fa.gz in=LC18d007_01.interleaved.atrim.fq.gz out=LC18d007_01.interleaved.atrim.decontam.fq.gz outm=LC18d007_01.phix.fq.gz k=31 hdist=1 mcf=0.9 stats=LC18d007_01.phix_stats.txt 2> LC18d007_01.phix.log 
+bbduk.sh -Xmx10g ziplevel=9 threads=8 qin=33 ref=/srv/databases/contaminants/truseq_adapters.fa in1=LC18d008_01.forward.fastq.gz in2=LC18d008_01.reverse.fastq.gz out=LC18d008_01.interleaved.atrim.fq.gz stats=LC18d008_01.adapter_stats.txt ftm=5 ktrim=r k=23 mink=9 rcomp=t hdist=2 tbo tpe minlength=0 2> LC18d008_01.adapters.log 
+bbduk.sh -Xmx10g threads=8 qin=33 interleaved=t ref=/srv/databases/contaminants/phix174.fa.gz in=LC18d008_01.interleaved.atrim.fq.gz out=LC18d008_01.interleaved.atrim.decontam.fq.gz outm=LC18d008_01.phix.fq.gz k=31 hdist=1 mcf=0.9 stats=LC18d008_01.phix_stats.txt 2> LC18d008_01.phix.log 
+bbduk.sh -Xmx10g ziplevel=9 threads=8 qin=33 ref=/srv/databases/contaminants/truseq_adapters.fa in1=LC18d009_01.forward.fastq.gz in2=LC18d009_01.reverse.fastq.gz out=LC18d009_01.interleaved.atrim.fq.gz stats=LC18d009_01.adapter_stats.txt ftm=5 ktrim=r k=23 mink=9 rcomp=t hdist=2 tbo tpe minlength=0 2> LC18d009_01.adapters.log 
+bbduk.sh -Xmx10g threads=8 qin=33 interleaved=t ref=/srv/databases/contaminants/phix174.fa.gz in=LC18d009_01.interleaved.atrim.fq.gz out=LC18d009_01.interleaved.atrim.decontam.fq.gz outm=LC18d009_01.phix.fq.gz k=31 hdist=1 mcf=0.9 stats=LC18d009_01.phix_stats.txt 2> LC18d009_01.phix.log 
+bbduk.sh -Xmx10g ziplevel=9 threads=8 qin=33 ref=/srv/databases/contaminants/truseq_adapters.fa in1=LC18d010_01.forward.fastq.gz in2=LC18d010_01.reverse.fastq.gz out=LC18d010_01.interleaved.atrim.fq.gz stats=LC18d010_01.adapter_stats.txt ftm=5 ktrim=r k=23 mink=9 rcomp=t hdist=2 tbo tpe minlength=0 2> LC18d010_01.adapters.log 
+bbduk.sh -Xmx10g threads=8 qin=33 interleaved=t ref=/srv/databases/contaminants/phix174.fa.gz in=LC18d010_01.interleaved.atrim.fq.gz out=LC18d010_01.interleaved.atrim.decontam.fq.gz outm=LC18d010_01.phix.fq.gz k=31 hdist=1 mcf=0.9 stats=LC18d010_01.phix_stats.txt 2> LC18d010_01.phix.log 
+bbduk.sh -Xmx10g ziplevel=9 threads=8 qin=33 ref=/srv/databases/contaminants/truseq_adapters.fa in1=LC18d011_01.forward.fastq.gz in2=LC18d011_01.reverse.fastq.gz out=LC18d011_01.interleaved.atrim.fq.gz stats=LC18d011_01.adapter_stats.txt ftm=5 ktrim=r k=23 mink=9 rcomp=t hdist=2 tbo tpe minlength=0 2> LC18d011_01.adapters.log 
+bbduk.sh -Xmx10g threads=8 qin=33 interleaved=t ref=/srv/databases/contaminants/phix174.fa.gz in=LC18d011_01.interleaved.atrim.fq.gz out=LC18d011_01.interleaved.atrim.decontam.fq.gz outm=LC18d011_01.phix.fq.gz k=31 hdist=1 mcf=0.9 stats=LC18d011_01.phix_stats.txt 2> LC18d011_01.phix.log 
+
+
+# Batch script to run qtrim on all metagenomes:
+nano LC-mg-qtrim.sh
+
+#! /bin/sh
+#SBATCH --ntasks 12
+#SBATCH --nodes 1
+#SBATCH --partition highmem
+#SBATCH --mem 100G
+#SBATCH --output LC-mg-qtrim.out
+#SBATCH --error LC-mg-qtrim.err
+qscore=28
+window=8
+qtrim --threads 8 --interleaved --qual-offset 33 --min-len 100 --sliding-window ${window}:${qscore} -o LC18d016_01.interleaved.atrim.decontam.qtrim.fq.gz -s LC18d016_01.singles.atrim.decontam.qtrim.fq.gz LC18d016_01.interleaved.atrim.decontam.fq.gz 2> LC18d016_01.qtrim.log
+qtrim --threads 8 --interleaved --qual-offset 33 --min-len 100 --sliding-window ${window}:${qscore} -o LC18d017_01.interleaved.atrim.decontam.qtrim.fq.gz -s LC18d017_01.singles.atrim.decontam.qtrim.fq.gz LC18d017_01.interleaved.atrim.decontam.fq.gz 2> LC18d017_01.qtrim.log
+qtrim --threads 8 --interleaved --qual-offset 33 --min-len 100 --sliding-window ${window}:${qscore} -o LC18d001_01.interleaved.atrim.decontam.qtrim.fq.gz -s LC18d001_01.singles.atrim.decontam.qtrim.fq.gz LC18d001_01.interleaved.atrim.decontam.fq.gz 2> LC18d001_01.qtrim.log
+qtrim --threads 8 --interleaved --qual-offset 33 --min-len 100 --sliding-window ${window}:${qscore} -o LC18d018_01.interleaved.atrim.decontam.qtrim.fq.gz -s LC18d018_01.singles.atrim.decontam.qtrim.fq.gz LC18d018_01.interleaved.atrim.decontam.fq.gz 2> LC18d018_01.qtrim.log
+qtrim --threads 8 --interleaved --qual-offset 33 --min-len 100 --sliding-window ${window}:${qscore} -o LC18d019_01.interleaved.atrim.decontam.qtrim.fq.gz -s LC18d019_01.singles.atrim.decontam.qtrim.fq.gz LC18d019_01.interleaved.atrim.decontam.fq.gz 2> LC18d019_01.qtrim.log
+qtrim --threads 8 --interleaved --qual-offset 33 --min-len 100 --sliding-window ${window}:${qscore} -o LC18d002_01.interleaved.atrim.decontam.qtrim.fq.gz -s LC18d002_01.singles.atrim.decontam.qtrim.fq.gz LC18d002_01.interleaved.atrim.decontam.fq.gz 2> LC18d002_01.qtrim.log
+qtrim --threads 8 --interleaved --qual-offset 33 --min-len 100 --sliding-window ${window}:${qscore} -o LC18d003_01.interleaved.atrim.decontam.qtrim.fq.gz -s LC18d003_01.singles.atrim.decontam.qtrim.fq.gz LC18d003_01.interleaved.atrim.decontam.fq.gz 2> LC18d003_01.qtrim.log
+qtrim --threads 8 --interleaved --qual-offset 33 --min-len 100 --sliding-window ${window}:${qscore} -o LC18d004_01.interleaved.atrim.decontam.qtrim.fq.gz -s LC18d004_01.singles.atrim.decontam.qtrim.fq.gz LC18d004_01.interleaved.atrim.decontam.fq.gz 2> LC18d004_01.qtrim.log
+qtrim --threads 8 --interleaved --qual-offset 33 --min-len 100 --sliding-window ${window}:${qscore} -o LC18d007_01.interleaved.atrim.decontam.qtrim.fq.gz -s LC18d007_01.singles.atrim.decontam.qtrim.fq.gz LC18d007_01.interleaved.atrim.decontam.fq.gz 2> LC18d007_01.qtrim.log
+qtrim --threads 8 --interleaved --qual-offset 33 --min-len 100 --sliding-window ${window}:${qscore} -o LC18d008_01.interleaved.atrim.decontam.qtrim.fq.gz -s LC18d008_01.singles.atrim.decontam.qtrim.fq.gz LC18d008_01.interleaved.atrim.decontam.fq.gz 2> LC18d008_01.qtrim.log
+qtrim --threads 8 --interleaved --qual-offset 33 --min-len 100 --sliding-window ${window}:${qscore} -o LC18d009_01.interleaved.atrim.decontam.qtrim.fq.gz -s LC18d009_01.singles.atrim.decontam.qtrim.fq.gz LC18d009_01.interleaved.atrim.decontam.fq.gz 2> LC18d009_01.qtrim.log
+qtrim --threads 8 --interleaved --qual-offset 33 --min-len 100 --sliding-window ${window}:${qscore} -o LC18d010_01.interleaved.atrim.decontam.qtrim.fq.gz -s LC18d010_01.singles.atrim.decontam.qtrim.fq.gz LC18d010_01.interleaved.atrim.decontam.fq.gz 2> LC18d010_01.qtrim.log
+qtrim --threads 8 --interleaved --qual-offset 33 --min-len 100 --sliding-window ${window}:${qscore} -o LC18d011_01.interleaved.atrim.decontam.qtrim.fq.gz -s LC18d011_01.singles.atrim.decontam.qtrim.fq.gz LC18d011_01.interleaved.atrim.decontam.fq.gz 2> LC18d011_01.qtrim.log
+
+ 
+# 18 Nov 2019
+# try to assemble everything
+srun -p hp --mem 200G megahit -t 12 --12 LC18d001_01.interleaved.atrim.decontam.qtrim.fq.gz,LC18d002_01.interleaved.atrim.decontam.qtrim.fq.gz,LC18d003_01.interleaved.atrim.decontam.qtrim.fq.gz,LC18d004_01.interleaved.atrim.decontam.qtrim.fq.gz,LC18d007_01.interleaved.atrim.decontam.qtrim.fq.gz,LC18d008_01.interleaved.atrim.decontam.qtrim.fq.gz,LC18d009_01.interleaved.atrim.decontam.qtrim.fq.gz,LC18d010_01.interleaved.atrim.decontam.qtrim.fq.gz,LC18d011_01.interleaved.atrim.decontam.qtrim.fq.gz,LC18d016_01.interleaved.atrim.decontam.qtrim.fq.gz,LC18d017_01.interleaved.atrim.decontam.qtrim.fq.gz,LC18d018_01.interleaved.atrim.decontam.qtrim.fq.gz,LC18d019_01.interleaved.atrim.decontam.qtrim.fq.gz  --read LC18d001_01.singles.atrim.decontam.qtrim.fq.gz,LC18d002_01.singles.atrim.decontam.qtrim.fq.gz,LC18d003_01.singles.atrim.decontam.qtrim.fq.gz,LC18d004_01.singles.atrim.decontam.qtrim.fq.gz,LC18d007_01.singles.atrim.decontam.qtrim.fq.gz,LC18d008_01.singles.atrim.decontam.qtrim.fq.gz,LC18d009_01.singles.atrim.decontam.qtrim.fq.gz,LC18d010_01.singles.atrim.decontam.qtrim.fq.gz,LC18d011_01.singles.atrim.decontam.qtrim.fq.gz,LC18d016_01.singles.atrim.decontam.qtrim.fq.gz,LC18d017_01.singles.atrim.decontam.qtrim.fq.gz,LC18d018_01.singles.atrim.decontam.qtrim.fq.gz,LC18d019_01.singles.atrim.decontam.qtrim.fq.gz --out-prefix LC2018_all --out-dir LC2018_all_assembly --min-contig-len 200 --k-min 27 --k-max 127 --k-step 20 & 
+--> finished on Dec 5!
+
+# 5 Dec 2019
+# rename contigs, run prodigal, cleanup output files
+assembly=LC2018_all
+srun anvi-script-reformat-fasta "$assembly"_assembly/"$assembly".contigs.fa -o "$assembly"_assembly/"$assembly".contigs.renamed.fa -l 0 --simplify-names --report-file "$assembly"_assembly/"$assembly".contigs_names_map.tsv
+srun prodigal -q -p meta -f gff -i "$assembly"_assembly/"$assembly".contigs.renamed.fa -o "$assembly"_assembly/"$assembly".contigs.gff3 -a "$assembly"_assembly/"$assembly".contigs.faa -d "$assembly"_assembly/"$assembly".contigs.ffn &
+srun awk '/^>/{split($0, a, " "); print a[1]; next} {gsub(/[-\*_\.]/,""); print}' "$assembly"_assembly/"$assembly".contigs.faa > "$assembly"_assembly/"$assembly".contigs.clean.faa
+srun sed -i 's/\x0//g' "$assembly"_assembly/"$assembly".contigs.clean.faa  
+mv "$assembly"_assembly/"$assembly".contigs.clean.faa "$assembly"_assembly/"$assembly".contigs.faa
+srun awk -F'\t' '/^#/{print $0; next} {sub(/ID\=[^_]*_/, "ID="$1"_", $9); print $1"\t"$2"\t"$3"\t"$4"\t"$5"\t"$6"\t"$7"\t"$8"\t"$9}' "$assembly"_assembly/"$assembly".contigs.gff3 > "$assembly"_assembly/"$assembly".contigs.clean.gff3
+mv "$assembly"_assembly/"$assembly".contigs.clean.gff3 "$assembly"_assembly/"$assembly".contigs.gff3
+mv "$assembly"_assembly/"$assembly".contigs.gff3 "$assembly"_assembly/"$assembly".contigs.gff
+
+# 6 Dec 2019
+# rename final files as LC2018_all_fluids_.......
+# make blast databases
+srun makeblastdb -dbtype prot -in LC2018_all_fluids.contigs.faa -out LC2018_all_fluids_proteins
+srun makeblastdb -dbtype nucl -in LC2018_all_fluids.contigs.ffn -out LC2018_all_fluids_genes
+srun makeblastdb -dbtype nucl -in LC2018_all_fluids.contigs.fa -out LC2018_all_fluids_genomic
+
+# 7 Dec 2019
+# build bowtie reference for pooled assembly
+srun -p highmem --mem 100G bowtie2-build LC2018_all_fluids.contigs.fa LC2018_all_fluids.contigs &
+
+# 8 Dec 2019
+# run bowtie of each sample's reads against the pooled assembly
+nano bowtie.sh
+
+#! /bin/sh
+#SBATCH --ntasks 12
+#SBATCH --nodes 1
+#SBATCH --partition hp
+#SBATCH --mem 100G
+#SBATCH --output bowtie.out
+#SBATCH --error bowtie.err
+
+# following the anvio tutorial for metagenomics
+for sample in `awk '{print $1}' samples.txt`
+do
+	bowtie2 --threads 12 -x LC2018_all_fluids.contigs --interleaved ../"$sample".interleaved.atrim.decontam.qtrim.fq.gz --no-unal -S "$sample"_mapped_to_LC2018_all_fluids.sam 2>> "$sample"_mapped_to_LC2018_all_fluids.mapping.log
+    samtools view -F 4 -bS "$sample"_mapped_to_LC2018_all_fluids.sam > "$sample"_mapped_to_LC2018_all_fluids_RAW.bam
+    anvi-init-bam "$sample"_mapped_to_LC2018_all_fluids_RAW.bam -o "$sample"_mapped_to_LC2018_all_fluids.bam
+    rm "$sample"_mapped_to_LC2018_all_fluids.sam "$sample"_mapped_to_LC2018_all_fluids_RAW.bam
+done
+
+# dereplicate reads from bam files
+nano picard.sh
+#! /bin/sh
+#SBATCH --partition hp
+#SBATCH --mem 100G
+#SBATCH --output picard.out
+#SBATCH --error picard.err
+for bam in `awk '{print $1}' bam-files.txt`
+do
+	picard -Xmx80g MarkDuplicates COMPRESSION_LEVEL=9 USE_JDK_INFLATER=true USE_JDK_DEFLATER=true REMOVE_DUPLICATES=true INPUT="$bam".bam OUTPUT="$bam".derep.bam METRICS_FILE="$bam".replicates.txt 2> "$bam".derep.log 
+	samtools index "$bam".derep.bam 
+done
+
+# 16 Dec 2019
+# map against KEGG
+assembly=LC2018_all_fluids
+srun -p highmem --mem 100G --cpus-per-task 12 diamond blastp --threads 12 --tmpdir ./ --sensitive --max-target-seqs 1 --evalue 0.00001 --outfmt 6 --out "$assembly".kegg.blastp.b6 --db /srv/databases/internal/diamond//KEGG-prokaryotes --query "$assembly".contigs.faa 2> "$assembly".kegg.log &
+
+# update gff with KEGG annotations
+assembly=LC2018_all_fluids
+srun -p highmem --mem 100G annotate_features --type CDS --mapping /srv/databases/internal/json/KEGG-prokaryotes.mapping.json --fields gene,gene_family,product,organism,database,md5,Ontology_term --out "$assembly".contigs.kegg.gff -b "$assembly".kegg.blastp.b6 "$assembly".contigs.gff 2> "$assembly".annotate.log &
+
+# 17 Dec 2019
+# try binsanity
+# sort (by position) and index the bam files.
+#! /bin/sh
+#SBATCH --partition hp
+#SBATCH --mem 100G
+#SBATCH --output sort_index.out
+#SBATCH --error sort_index.err
+for sample in `awk '{print $1}' samples.txt`
+do
+	samtools sort -o "$sample"_mapped_to_LC2018_all_fluids.derep.sorted.bam "$sample"_mapped_to_LC2018_all_fluids.derep.bam
+	samtools index "$sample"_mapped_to_LC2018_all_fluids.derep.sorted.bam
+done
+
+# prepare for binsanity
+mkdir binsanity_prep_files
+cd binsanity_prep_files
+mkdir bam_files
+cd bam_files
+ln -svi /home/bbrazelton/LC2018-mg/LC2018_all_assembly/bowtie_files/*sorted.bam* ./
+srun get-ids -f ../ -l LC2018_all_fluids.contigs.fa -o Contigs.ids
+srun -p hp --mem 240G Binsanity-profile -i LC2018_all_fluids.contigs.fa -s bam_files/ --ids Contigs.ids -c Contigs.x100.lognorm --transform scale &
+
+# try Binsanity-lc (low-memory option) on whole metagenome
+srun -p hp --mem 240G --cpus-per-task 12 Binsanity-lc --threads 20 -x 5000 -f ./ -l LC2018_all_fluids.contigs.fa -c binsanity_prep_files/Contigs.x100.lognorm.cov -o binsanity_lc_all_fluids &
+
+# 21 Dec 2019
+# subset the annotated gff for each bin 
+for bin in `awk '{print $1}' fasta-file.txt`
+do
+srun python getgffBin.py -f "$bin" -g /home/bbrazelton/LC2018-mg/LC2018_all_assembly/LC2018_all_fluids.contigs.kegg.gff -o "$bin".kegg.gff
+done
+
+# run binsanity-lc again with cutoff at 2 kb
+srun -p hp --mem 240G --cpus-per-task 20 Binsanity-lc --threads 20 -x 2000 -f ./ -l LC2018_all_fluids.contigs.fa -c binsanity_prep_files/Contigs.x100.lognorm.cov -o binsanity_lc_all_fluids_2kb &
+#--> failed during initial bins. I guess because of memory, but there is no error message and nothing in the log file
+
+# run binsanity-lc again with cutoff at 2.5 kb
+srun -p hp --mem 240G --cpus-per-task 16 Binsanity-lc --threads 16 -x 2500 -f ./ -l LC2018_all_fluids.contigs.fa -c binsanity_prep_files/Contigs.x100.lognorm.cov -o binsanity_lc_all_fluids_2.5kb &
+#--> failed
+
+# run binsanity-lc again with cutoff at 3 kb
+srun -p hp --mem 240G --cpus-per-task 12 Binsanity-lc --threads 12 -x 3000 -f ./ -l LC2018_all_fluids.contigs.fa -c binsanity_prep_files/Contigs.x100.lognorm.cov -o binsanity_lc_all_fluids_3kb &
+#--> completed on 12 Jan 2020 - see below
+
+# 22 Dec 2019
+# count_features for each all fluids assembly
+#! /bin/sh
+#SBATCH --partition hp
+#SBATCH --mem 100G
+#SBATCH --output count.out
+#SBATCH --error count.err
+gff=LC2018_all_fluids.contigs.kegg.gff
+for sample in `awk '{print $1}' bowtie_files/samples.txt`
+do
+count_features --attr Ontology_term --sorting name --units counts,fpk,fpkm,tpm --out "$sample".abunds.tsv bowtie_files/"$sample"_mapped_to_LC2018_all_fluids.derep.sorted-n.bam "$gff" 2> "$sample".count.log
+done
+
+# 24 Dec 2019
+srun compare_features LC18d001_01.abunds.tsv.fpkm.csv LC18d002_01.abunds.tsv.fpkm.csv LC18d003_01.abunds.tsv.fpkm.csv LC18d004_01.abunds.tsv.fpkm.csv LC18d007_01.abunds.tsv.fpkm.csv LC18d008_01.abunds.tsv.fpkm.csv LC18d009_01.abunds.tsv.fpkm.csv LC18d010_01.abunds.tsv.fpkm.csv LC18d011_01.abunds.tsv.fpkm.csv LC18d016_01.abunds.tsv.fpkm.csv LC18d017_01.abunds.tsv.fpkm.csv LC18d018_01.abunds.tsv.fpkm.csv LC18d019_01.abunds.tsv.fpkm.csv > LC2018_all_fluids.fpkm.txt
+srun compare_features LC18d001_01.abunds.tsv.tpm.csv LC18d002_01.abunds.tsv.tpm.csv LC18d003_01.abunds.tsv.tpm.csv LC18d004_01.abunds.tsv.tpm.csv LC18d007_01.abunds.tsv.tpm.csv LC18d008_01.abunds.tsv.tpm.csv LC18d009_01.abunds.tsv.tpm.csv LC18d010_01.abunds.tsv.tpm.csv LC18d011_01.abunds.tsv.tpm.csv LC18d016_01.abunds.tsv.tpm.csv LC18d017_01.abunds.tsv.tpm.csv LC18d018_01.abunds.tsv.tpm.csv LC18d019_01.abunds.tsv.tpm.csv > LC2018_all_fluids.tpm.txt
+srun compare_features LC18d001_01.abunds.tsv.counts.csv LC18d002_01.abunds.tsv.counts.csv LC18d003_01.abunds.tsv.counts.csv LC18d004_01.abunds.tsv.counts.csv LC18d007_01.abunds.tsv.counts.csv LC18d008_01.abunds.tsv.counts.csv LC18d009_01.abunds.tsv.counts.csv LC18d010_01.abunds.tsv.counts.csv LC18d011_01.abunds.tsv.counts.csv LC18d016_01.abunds.tsv.counts.csv LC18d017_01.abunds.tsv.counts.csv LC18d018_01.abunds.tsv.counts.csv LC18d019_01.abunds.tsv.counts.csv > LC2018_all_fluids.counts.txt
+srun compare_features LC18d001_01.abunds.tsv.fpk.csv LC18d002_01.abunds.tsv.fpk.csv LC18d003_01.abunds.tsv.fpk.csv LC18d004_01.abunds.tsv.fpk.csv LC18d007_01.abunds.tsv.fpk.csv LC18d008_01.abunds.tsv.fpk.csv LC18d009_01.abunds.tsv.fpk.csv LC18d010_01.abunds.tsv.fpk.csv LC18d011_01.abunds.tsv.fpk.csv LC18d016_01.abunds.tsv.fpk.csv LC18d017_01.abunds.tsv.fpk.csv LC18d018_01.abunds.tsv.fpk.csv LC18d019_01.abunds.tsv.fpk.csv > LC2018_all_fluids.fpk.txt
+
+# 12 Jan 2010
+# new binsanity bins: subset faa file for bins and run checkm
+find . -type l > fasta-files.txt
+split --numeric-suffixes -l 50 fasta-files.txt fasta-files
+
+nano get-subset00.sh
+#! /bin/sh
+for bin in `awk '{print $1}' fasta-files00`
+do
+srun get-sub-prokka.py "$bin" ../../LC2018_all_fluids.contigs.gff ../../LC2018_all_fluids.contigs.faa ../../LC2018_all_fluids.contigs.ffn
+done
+# repeated for get-subset01.sh and fasta-files01 and so on...
+
+# 13 Jan 2020
+# checkm
+cd ..
+srun --partition highmem --mem 100G --ntasks 1 --cpus-per-task 12 checkm lineage_wf --genes -f binsanity_3kb_checkm_table_LC2018_all_fluids.tsv --tab_table -t 12 --pplacer_threads 12 -x faa BinSanity-Final-bins binsanity_3kb_checkm_results_LC2018_all_fluids 2> checkm.err.log &
+#--> 3kb and 5kb cutoffs are similar, but 3kb cutoff definitely has more quality bins, and equivalent bins have slightly better completeness/contamination. A few cases of much better completenes/contamination.
+#--> proceed with 3kb cutoffs
+
+# subset the annotated gff for each bin
+for bin in `awk '{print $1}' fasta-files.txt`
+do
+srun python getgffBin.py -f "$bin" -g /home/bbrazelton/LC2018-mg/LC2018_all_assembly/LC2018_all_fluids.contigs.kegg.gff -o "$bin".kegg.gff
+done
+
+# 11 Oct 2021
+# calculate contig coverages for all fluids assembly
+#! /bin/sh
+#SBATCH -p highmem
+#SBATCH --mem 50G
+for bam in `awk '{print $1}' bamfiles.txt`
+do
+bedtools genomecov -pc -ibam "$bam" > "$bam".cov
+done
+
+# Combine contig coverages in all samples into a master table:
+srun -p highmem --mem 50G table-coverage-from-bedtools.py &
+
+# sum the coverages in each sample of the combined .cov table
+srun python sum.py contig-coverages.csv
+
+# divide the coverages by the total coverage and multiply by a million. final units are essentially TPM (or FP per million).
+srun normalize-coverages.py -c contig-coverages-not-normalized.csv -t contig-coverages.csv.sums.csv -o contig-coverages.all.corrected.tpm.csv &> normalize.log &
+
+# sum the contig coverages that belong to a binsanity bin from the all fluids assembly
+srun bin-coverages.py -i ../BinSanity-Final-bins -e fna -c contig-coverages.all.corrected.tpm.csv -l ../LC2018_all_fluids.contigs.1kb.length-GC.txt -o LC2018-all-fluids-bins.cov.corrected.csv 2> bincov.log &
+
+# merge the new contig coverages with contig taxonomy results from mmseqs
+srun -p highmem --mem 100G count_cat_tax_csv.py -t LC2018_all_fluids_contigs_contigresults.clean.alltax.csv -c contig-coverages.all.corrected.tpm.csv -o contig-coverages.all.corrected.tpm.mmseqs.tax.csv
+
+# 13 Oct 2021
+# re-assembly of key MAGs with my reassembly.sh script 
+# then calculate coverage of each MAG
+#! /bin/sh
+#SBATCH --ntasks 12
+#SBATCH --nodes 1
+#SBATCH --partition highmem
+#SBATCH --mem 60G
+#SBATCH --output bin-coverages.out
+#SBATCH --error bin-coverages.err
+
+SAMPLES=samples.txt
+for F in *-contigs.fna
+do
+        BIN=$(basename $F -contigs.fna)
+        mkdir "$BIN"
+        bowtie2-build "$F" "$BIN"
+
+        for sample in `awk '{print $1}' "$SAMPLES"`
+        do
+                bowtie2 --threads 12 -x "$BIN" --interleaved /srv/data/mg/projects/LCY/LC2018/qc_reads/"$sample".interleaved.atrim.decontam.qtrim.fq.gz --no-unal -S "$sample"_mapped_to_"$BIN".sam 2>> "$sample"_mapped_to_"$BIN".mapping.log
+                samtools view -F 4 -bh "$sample"_mapped_to_"$BIN".sam > "$sample"_mapped_to_"$BIN"_RAW.bam
+                anvi-init-bam "$sample"_mapped_to_"$BIN"_RAW.bam -o "$sample"_mapped_to_"$BIN".bam
+                rm "$sample"_mapped_to_"$BIN".sam "$sample"_mapped_to_"$BIN"_RAW.bam
+        done
+done
+
+for bam in `awk '{print $1}' bamfiles.txt`
+do
+bedtools genomecov -pc -ibam "$bam" > "$bam".cov
+done
+
+# for each MAG, create a new directory and combine cov files into a table
+mkdir $BIN
+cd $BIN
+srun -p highmem --mem 50G table-coverage-from-bedtools.py &
+
+# get total-pairs.txt that I produced above
+
+# for each directory containing contig-coverages.csv file for each bin,
+# edit the sample names in contig-coverages.csv so that they match the names in total-pairs.txt
+# then run normalize-coverages.py
+# and then run bin-coverages.py
+for BIN in `awk '{print $1}' bins.txt`
+do
+BINPATH=/home/bbrazelton/LC2018-mg/new-bins-coverages/cov-files/"$BIN"
+sed -i "s/_mapped_to_$BIN.bam.cov//g" "$BINPATH"/contig-coverages.csv
+normalize-coverages.py -c "$BINPATH"/contig-coverages.csv -t total-pairs.txt -o "$BINPATH"/contig-coverages.all.tpm.csv &> "$BINPATH"/normalize.log
+bin-coverages.py -i "$BINPATH" -e fna -c "$BINPATH"/contig-coverages.all.tpm.csv -o "$BIN".tpm.csv &> "$BIN"-coverages.out
+done
+
+# merge the cov tables from each bin into one master cov table
+srun python merge_cov_tables.py
+#--> new-bins-coverages.tpm.csv
+#--> finished on 20 Oct 2021
+
+
+
+################################
+# metatranscriptome analysis
+# conducted in parallel to the above (i.e. dates not continuing from above)
+# 31 Jan 2021
+# download new mt reads to /srv/data/mt/raw_data/LC_metatranscriptome_Jan2021
+
+18579X1 = LC01514 = J.1109.Sep19.0540 HOG BIO BAG 7 = SOM1
+18579X2 = LC00328 = J.1107.16Sep.2225 HOG = IMAX
+
+Match the new MT names to the previous MG names:
+SOM1 BIO BAGs = LC18d009.01 = LC18d009.02 = 18579X1 = LC01514
+IMAX BIO BAGs = LC18d003.01 = LC18d003.02 = 18579X2 = LC00328
+
+# create project directory and symbolic links with standard names
+cd /srv/data/mt/projects
+mkdir LCY
+cd LCY
+ln -svi /srv/data/mt/raw_data/LC_metatranscriptomes_Jan2021/18579R/Fastq/18579X1_210128_A00421_0278_BHT2YWDSXY_S71_L002_R1_001.fastq.gz LC18d009_02.forward.fastq.gz
+ln -svi /srv/data/mt/raw_data/LC_metatranscriptomes_Jan2021/18579R/Fastq/18579X1_210128_A00421_0278_BHT2YWDSXY_S71_L002_R2_001.fastq.gz LC18d009_02.reverse.fastq.gz
+ln -svi /srv/data/mt/raw_data/LC_metatranscriptomes_Jan2021/18579R/Fastq/18579X2_210128_A00421_0278_BHT2YWDSXY_S72_L002_R1_001.fastq.gz LC18d003_02.forward.fastq.gz
+ln -svi /srv/data/mt/raw_data/LC_metatranscriptomes_Jan2021/18579R/Fastq/18579X2_210128_A00421_0278_BHT2YWDSXY_S72_L002_R2_001.fastq.gz LC18d003_02.reverse.fastq.gz
+
+# create working directory in my user account
+mkdir LC2018-mt
+cd LC2018-mt
+ln -svi /srv/data/mt/projects/LCY/LC18d003_02.* ./
+ln -svi /srv/data/mt/projects/LCY/LC18d009_02.* ./
+
+# added NEBNext Ultra II directional RNA library kit adapters to
+/srv/databases/contaminants/contaminant_list.txt # used by fastqc
+/srv/databases/contaminants/truseq_adapters.fa
+>NEBNext adapter 1
+AGATCGGAAGAGCACACGTCTGAACTCCAGTCA
+>NEBNext adapter 2
+AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT
+
+# run bbduk, same params as with metagenomes
+#! /bin/sh
+#SBATCH --ntasks 12
+#SBATCH --nodes 1
+#SBATCH --partition highmem
+#SBATCH --mem 100G
+#SBATCH --output LC-mt-bbduk.out
+#SBATCH --error LC-mt-bbduk.err
+bbduk.sh -Xmx10g ziplevel=9 threads=8 qin=33 ref=/srv/databases/contaminants/truseq_adapters.fa in1=LC18d003_02.forward.fastq.gz in2=LC18d003_02.reverse.fastq.gz out=LC18d003_02.interleaved.atrim.fq.gz stats=LC18d003_02.adapter_stats.txt ftm=5 ktrim=r k=23 mink=9 rcomp=t hdist=2 tbo tpe minlength=0 2> LC18d003_02.adapters.log
+bbduk.sh -Xmx10g threads=8 qin=33 interleaved=t ref=/srv/databases/contaminants/phix174.fa.gz in=LC18d003_02.interleaved.atrim.fq.gz out=LC18d003_02.interleaved.atrim.decontam.fq.gz outm=LC18d003_02.phix.fq.gz k=31 hdist=1 mcf=0.9 stats=LC18d003_02.phix_stats.txt 2> LC18d003_02.phix.log 
+bbduk.sh -Xmx10g ziplevel=9 threads=8 qin=33 ref=/srv/databases/contaminants/truseq_adapters.fa in1=LC18d009_02.forward.fastq.gz in2=LC18d009_02.reverse.fastq.gz out=LC18d009_02.interleaved.atrim.fq.gz stats=LC18d009_02.adapter_stats.txt ftm=5 ktrim=r k=23 mink=9 rcomp=t hdist=2 tbo tpe minlength=0 2> LC18d009_02.adapters.log 
+bbduk.sh -Xmx10g threads=8 qin=33 interleaved=t ref=/srv/databases/contaminants/phix174.fa.gz in=LC18d009_02.interleaved.atrim.fq.gz out=LC18d009_02.interleaved.atrim.decontam.fq.gz outm=LC18d009_02.phix.fq.gz k=31 hdist=1 mcf=0.9 stats=LC18d009_02.phix_stats.txt 2> LC18d009_02.phix.log 
+
+# run qtrim, same params as with metagenomes
+#! /bin/sh
+#SBATCH --ntasks 12
+#SBATCH --nodes 1
+#SBATCH --partition highmem
+#SBATCH --mem 100G
+#SBATCH --output LC-mt-qtrim.out
+#SBATCH --error LC-mt-qtrim.err
+qscore=28
+window=8
+qtrim --threads 8 --interleaved --qual-offset 33 --min-len 100 --sliding-window ${window}:${qscore} -o LC18d003_02.interleaved.atrim.decontam.qtrim.fq.gz -s LC18d003_02.singles.atrim.decontam.qtrim.fq.gz LC18d003_02.interleaved.atrim.decontam.fq.gz 2> LC18d003_02.qtrim.log
+qtrim --threads 8 --interleaved --qual-offset 33 --min-len 100 --sliding-window ${window}:${qscore} -o LC18d009_02.interleaved.atrim.decontam.qtrim.fq.gz -s LC18d009_02.singles.atrim.decontam.qtrim.fq.gz LC18d009_02.interleaved.atrim.decontam.fq.gz 2> LC18d009_02.qtrim.log
+
+# run bowtie to map mt reads against pooled assembly
+# map all reads from LC18d003_02 and LC18d009_02 against assembly, without the rRNA removal step for now
+sbatch bowtie.sh
+sbatch sort.sh
+sbatch count.sh
+srun compare_features LC18d003_02.abunds.tsv.tpm.csv LC18d009_02.abunds.tsv.tpm.csv LC18d001_01.abunds.tsv.tpm.csv LC18d002_01.abunds.tsv.tpm.csv LC18d003_01.abunds.tsv.tpm.csv LC18d004_01.abunds.tsv.tpm.csv LC18d007_01.abunds.tsv.tpm.csv LC18d008_01.abunds.tsv.tpm.csv LC18d009_01.abunds.tsv.tpm.csv LC18d010_01.abunds.tsv.tpm.csv LC18d011_01.abunds.tsv.tpm.csv LC18d016_01.abunds.tsv.tpm.csv LC18d017_01.abunds.tsv.tpm.csv LC18d018_01.abunds.tsv.tpm.csv LC18d019_01.abunds.tsv.tpm.csv > LC2018_all_fluids.mg.mt.tpm.txt
+
+# remove ribosomal RNA with SortMeRNA2
+export PATH=$HOME/LC2018-mt/sortmerna/bin:$PATH
+SAMPLE=LC18d003_02
+srun -p hp --mem 100G --cpus-per-task 12 \
+sortmerna -workdir ~/LC2018-mt/sortmerna/"$SAMPLE"/ \
+-threads 12 \
+-reads ~/LC2018-mt/"$SAMPLE".interleaved.atrim.decontam.qtrim.fq \
+-fastx \
+-other \
+-ref dbs/smr_v4.3_default_db.fasta &> trace003.log &
+
+# rename file containing non-rRNA reads
+mv LC18d003_02/out/other.fq LC18d003_02.interleaved.notrrna.fq
+
+# LC18d009_02 is too big for sortmerna, so I will create a random subset of it
+srun -p highmem --mem 100G reformat.sh in=LC18d009_02.interleaved.atrim.decontam.qtrim.fq.gz out=LC18d009_02.interleaved.atrim.decontam.qtrim.subset2.fq.gz samplereadstarget=50000000 &
+srun gunzip LC18d009_02.interleaved.atrim.decontam.qtrim.subset2.fq.gz &
+
+# and now run sortmerna with subset
+export PATH=$HOME/LC2018-mt/sortmerna/bin:$PATH
+SAMPLE=LC18d009_02
+srun -p hp --mem 240G --cpus-per-task 8 \
+sortmerna -workdir ~/LC2018-mt/sortmerna/"$SAMPLE"/ \
+-threads 8 \
+-reads "$SAMPLE".interleaved.atrim.decontam.qtrim.subset2.fq \
+-fastx \
+-other \
+-ref dbs/smr_v4.3_default_db.fasta &> trace009subset2.log &
+
+# ran bowtie again with the reads post-sortmerna
+sbatch bowtie.sh
+sbatch count.sh
+
+# 12 Mar 2021
+# tie up all loose ends with my different stages of count_features pre- and post-sortmerna with both KEGG annotations and individual IDs
+srun compare_features LC18d003_02.notrrna.abunds.tsv.tpm.csv LC18d009_02.notrrna.abunds.tsv.tpm.csv LC18d003_02.abunds.tsv.tpm.csv LC18d009_02.abunds.tsv.tpm.csv LC18d001_01.abunds.tsv.tpm.csv LC18d002_01.abunds.tsv.tpm.csv LC18d003_01.abunds.tsv.tpm.csv LC18d004_01.abunds.tsv.tpm.csv LC18d007_01.abunds.tsv.tpm.csv LC18d008_01.abunds.tsv.tpm.csv LC18d009_01.abunds.tsv.tpm.csv LC18d010_01.abunds.tsv.tpm.csv LC18d011_01.abunds.tsv.tpm.csv LC18d016_01.abunds.tsv.tpm.csv LC18d017_01.abunds.tsv.tpm.csv LC18d018_01.abunds.tsv.tpm.csv LC18d019_01.abunds.tsv.tpm.csv > LC2018_all_fluids.abunds.mg.mt.tpm.txt
+srun -p highmem --mem 100G compare_features LC18d003_02.notrrna.IDabunds.tsv.tpm.csv LC18d009_02.notrrna.IDabunds.tsv.tpm.csv LC18d003_02.IDabunds.tsv.tpm.csv LC18d009_02.IDabunds.tsv.tpm.csv LC18d001_01.IDabunds.tsv.tpm.csv LC18d002_01.IDabunds.tsv.tpm.csv LC18d003_01.IDabunds.tsv.tpm.csv LC18d004_01.IDabunds.tsv.tpm.csv LC18d007_01.IDabunds.tsv.tpm.csv LC18d008_01.IDabunds.tsv.tpm.csv LC18d009_01.IDabunds.tsv.tpm.csv LC18d010_01.IDabunds.tsv.tpm.csv LC18d011_01.IDabunds.tsv.tpm.csv LC18d016_01.IDabunds.tsv.tpm.csv LC18d017_01.IDabunds.tsv.tpm.csv LC18d018_01.IDabunds.tsv.tpm.csv LC18d019_01.IDabunds.tsv.tpm.csv > LC2018_all_fluids.IDabunds.mg.mt.tpm.txt
+
+# 19 Mar 2021
+# get contig coverages from bam files including .notrrna files (already did this for all other files previously)
+bam=LC18d003_02_notrrna_mapped_to_LC2018_all_fluids.bam
+srun -p highmem --mem 50G bedtools genomecov -pc -ibam "$bam" > "$bam".cov &
+
+# combine cov files into a table
+srun -p highmem --mem 100G table-coverage-from-bedtools.py &
+
+# get total contig cov for each sample for normalizing contig and bin coverages
+srun -p highmem --mem 100G python sum.py contig-coverages.csv &
+
+# divide the coverages by the total coverage and multiply by a million. final units are essentially TPM (or FP per million).
+srun normalize-coverages.py -c contig-coverages.csv -t contig-coverages.csv.sums.csv -o contig-coverages.all.tpm.csv &> normalize.log &
+srun normalize-coverages.py -c contig-coverages.csv -t contig-coverages.csv.sums.csv -o contig-coverages.1kb.tpm.csv -l 1000 -s LC2018_all_fluids.contigs.1kb.length-GC.txt &> normalize1kb.log &
+srun normalize-coverages.py -c contig-coverages.csv -t contig-coverages.csv.sums.csv -o contig-coverages.3kb.tpm.csv -l 3000 -s LC2018_all_fluids.contigs.1kb.length-GC.txt &> normalize3kb.log &
+
+# sum the normalized coverages for each bin. the normalized coverages are proportional to the total, so summing (not averaging) the proportional coverages for each bin is appropriate
+srun bin-coverages.py -i BinSanity-Final-bins -e fna -c contig-coverages.3kb.tpm.csv -o LC2018-all-fluids-bins.tpm.csv &> bin-coverages.out &

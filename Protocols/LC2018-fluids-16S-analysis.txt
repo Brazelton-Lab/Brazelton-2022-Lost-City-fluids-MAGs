@@ -1,0 +1,840 @@
+# Log of exact commands used to analyze 16S rRNA amplicon sequences from Lost City hydrothermal fluids
+# This is a curated excerpt of personal logs intended to include everything pertinent to this publication
+
+# 19 July 2019
+# downloaded data from MSU server
+# /srv/data/16S/raw_data/20190708_16S-V4_PE250
+
+# make new projects directory and link files to projects directory from raw_data directory:
+mkdir /srv/data/16S/projects/LC2018
+cd /srv/data/16S/projects/LC2018
+
+forward=$(find /srv/data/16S/raw_data/20190708_16S-V4_PE250/ -maxdepth 1 -type f -regex ".*LC.*_R1_.*")
+reverse=$(find /srv/data/16S/raw_data/20190708_16S-V4_PE250/ -maxdepth 1 -type f -regex ".*LC.*_R2_.*")
+for file in ${forward[@]}; do from=$file; IFS="_ " read -a array <<< $(basename $file); sample=${array[0]}; to="/srv/data/16S/projects/LC2018/${sample}.20.forward.fastq.gz"; ln -sv $from $to; done
+for file in ${reverse[@]}; do from=$file; IFS="_ " read -a array <<< $(basename $file); sample=${array[0]}; to="/srv/data/16S/projects/LC2018/${sample}.20.reverse.fastq.gz"; ln -sv $from $to; done
+
+# make new LC2018 directory in my user directory bbrazelton and link files to that
+mkdir LC2018
+cd LC2018
+ln -svi /srv/data/16S/projects/LC2018/* ./
+
+srun readstats.py --csv -o readstats.csv ./LC* &
+less readstats.csv
+
+removed samples with <5000 total seqs:
+272750,1091,250.0,./LC00322.20.forward.fastq.gz
+272750,1091,250.0,./LC00322.20.reverse.fastq.gz
+309500,1238,250.0,./LC00323.20.forward.fastq.gz
+309500,1238,250.0,./LC00323.20.reverse.fastq.gz
+932750,3731,250.0,./LC00381.20.forward.fastq.gz
+932750,3731,250.0,./LC00381.20.reverse.fastq.gz
+424250,1697,250.0,./LC00383.20.forward.fastq.gz
+424250,1697,250.0,./LC00383.20.reverse.fastq.gz
+310000,1240,250.0,./LC00421.20.forward.fastq.gz
+310000,1240,250.0,./LC00421.20.reverse.fastq.gz
+285750,1143,250.0,./LC00422.20.forward.fastq.gz
+285750,1143,250.0,./LC00422.20.reverse.fastq.gz
+452250,1809,250.0,./LC00423.20.forward.fastq.gz
+452250,1809,250.0,./LC00423.20.reverse.fastq.gz
+44000,176,250.0,./LC00605.20.forward.fastq.gz
+44000,176,250.0,./LC00605.20.reverse.fastq.gz
+878000,3512,250.0,./LC00611.20.forward.fastq.gz
+878000,3512,250.0,./LC00611.20.reverse.fastq.gz
+505250,2021,250.0,./LC00617.20.forward.fastq.gz
+505250,2021,250.0,./LC00617.20.reverse.fastq.gz
+646000,2584,250.0,./LC01547.20.forward.fastq.gz
+646000,2584,250.0,./LC01547.20.reverse.fastq.gz
+252000,1008,250.0,./LC01548.20.forward.fastq.gz
+252000,1008,250.0,./LC01548.20.reverse.fastq.gz
+613000,2452,250.0,./LC01551.20.forward.fastq.gz
+613000,2452,250.0,./LC01551.20.reverse.fastq.gz
+274750,1099,250.0,./LC03188.20.forward.fastq.gz
+274750,1099,250.0,./LC03188.20.reverse.fastq.gz
+398500,1594,250.0,./LC03189.20.forward.fastq.gz
+398500,1594,250.0,./LC03189.20.reverse.fastq.gz
+457500,1830,250.0,./LC13268.20.forward.fastq.gz
+457500,1830,250.0,./LC13268.20.reverse.fastq.gz
+
+mkdir bad_samples
+mv LC00322.20.forward.fastq.gz bad_samples/
+mv LC00322.20.reverse.fastq.gz bad_samples/
+mv LC00323.20.forward.fastq.gz bad_samples/
+mv LC00323.20.reverse.fastq.gz bad_samples/
+mv LC00381.20.forward.fastq.gz bad_samples/
+mv LC00381.20.reverse.fastq.gz bad_samples/
+mv LC00383.20.forward.fastq.gz bad_samples/
+mv LC00383.20.reverse.fastq.gz bad_samples/
+mv LC00421.20.forward.fastq.gz bad_samples/
+mv LC00421.20.reverse.fastq.gz bad_samples/
+mv LC00422.20.forward.fastq.gz bad_samples/
+mv LC00422.20.reverse.fastq.gz bad_samples/
+mv LC00423.20.forward.fastq.gz bad_samples/
+mv LC00423.20.reverse.fastq.gz bad_samples/
+mv LC00605.20.forward.fastq.gz bad_samples/
+mv LC00605.20.reverse.fastq.gz bad_samples/
+mv LC00611.20.forward.fastq.gz bad_samples/
+mv LC00611.20.reverse.fastq.gz bad_samples/
+mv LC00617.20.forward.fastq.gz bad_samples/
+mv LC00617.20.reverse.fastq.gz bad_samples/
+mv LC01547.20.forward.fastq.gz bad_samples/
+mv LC01547.20.reverse.fastq.gz bad_samples/
+mv LC01548.20.forward.fastq.gz bad_samples/
+mv LC01548.20.reverse.fastq.gz bad_samples/
+mv LC01551.20.forward.fastq.gz bad_samples/
+mv LC01551.20.reverse.fastq.gz bad_samples/
+mv LC03188.20.forward.fastq.gz bad_samples/
+mv LC03188.20.reverse.fastq.gz bad_samples/
+mv LC03189.20.forward.fastq.gz bad_samples/
+mv LC03189.20.reverse.fastq.gz bad_samples/
+mv LC13268.20.forward.fastq.gz bad_samples/
+mv LC13268.20.reverse.fastq.gz bad_samples/
+
+# I kept LC3190 because it is the lab air filter, and I want to keep it as a control even though it has few sequences
+1047500,4190,250.0,./LC03190.20.forward.fastq.gz
+1047500,4190,250.0,./LC03190.20.reverse.fastq.gz
+
+mkdir good_samples
+mv LC* good_samples/
+# 136 files in good_samples
+# = 68 samples
+
+# Remove primers:
+nano decontam.sh
+#! /bin/sh
+#SBATCH -J LC2018.decontam
+reads_path="/home/bbrazelton/LC2018/good_samples/";
+files=$(find -L ${reads_path} -type f -regex ".*\.20.forward\.fastq.*");
+for file in ${files[@]}; do
+   file=$(basename ${file});
+   IFS=". " read -a array <<< ${file};
+   sample=${array[0]};
+   forward="${reads_path}/${sample}.20.forward.fastq.gz";
+   reverse="${reads_path}/${sample}.20.reverse.fastq.gz";
+   cutadapt --discard-trimmed --error-rate 0.10 -a ATTAGAWACCCVHGTAGTCCGGCTGACTGACT -A TTACCGCGGCMGCTGGCACACAATTACCATA -g ^TTAGAWACCCVHGTAGTCCGGCTGACTGACT -G ^TACCGCGGCMGCTGGCACACAATTACCATA -o ${sample}.20.forward.decontam.fastq.gz -p ${sample}.20.reverse.decontam.fastq.gz ${forward} ${reverse} > ${sample}.cutadapt.log
+done
+
+sbatch decontam.sh
+
+grep "Pairs written (passing filters):" *.log > passed_filter.txt
+less passed_filter.txt
+#--> ~99% passed
+
+screen -S LC2018
+srun --pty R
+library('dada2')
+library('ShortRead')
+library('ggplot2')
+library('grid')
+library('gridExtra')
+
+path <- getwd()
+reads <- list.files(path)
+fastqs <- sort(reads[grepl('.fastq+', reads)])
+ff <- fastqs[grepl('forward', fastqs)]
+rf <- fastqs[grepl('reverse', fastqs)]
+samples <- sapply(strsplit(ff, '[.]'), '[', 1)
+ff <- paste0(path, '/', ff)
+rf <- paste0(path, '/', rf)
+
+n <- sample(length(ff), 4)
+forward_plots <- list()
+reverse_plots <- list()
+for (i in 1:length(n)) {
+  sample_index <- n[i]
+  fp <- plotQualityProfile(ff[sample_index])
+  rp <- plotQualityProfile(rf[sample_index])
+  fp <- fp + ggtitle(samples[sample_index])
+  rp <- rp + ggtitle(samples[sample_index])
+  forward_plots[[i]] <- fp
+  reverse_plots[[i]] <- rp
+}
+png(filename="forward_plots.png")
+grid.arrange(grobs=forward_plots)
+dev.off()
+png(filename="reverse_plots.png")
+grid.arrange(grobs=reverse_plots)
+dev.off()
+
+######
+# run remaining commands with r script:
+
+nano dada.r
+
+#!/usr/bin/Rscript
+library('dada2')
+library('ShortRead')
+library('ggplot2')
+library('grid')
+library('gridExtra')
+
+path <- getwd()
+reads <- list.files(path)
+fastqs <- sort(reads[grepl('.fastq+', reads)])
+ff <- fastqs[grepl('forward', fastqs)]
+rf <- fastqs[grepl('reverse', fastqs)]
+samples <- sapply(strsplit(ff, '[.]'), '[', 1)
+ff <- paste0(path, '/', ff)
+rf <- paste0(path, '/', rf)
+
+ff.filt <- paste0(path, '/', samples, '.forward.trimmed.filtered.fastq.gz')
+rf.filt <- paste0(path, '/', samples, '.reverse.trimmed.filtered.fastq.gz')
+filtered <- filterAndTrim(ff, ff.filt, rf, rf.filt, maxN=0, maxEE=3, truncQ=2, compress=TRUE, verbose=TRUE, matchIDs=TRUE, rm.phix=TRUE)
+ff.derep <- derepFastq(ff.filt, verbose=TRUE)
+rf.derep <- derepFastq(rf.filt, verbose=TRUE)
+names(ff.derep) <- samples
+names(rf.derep) <- samples
+n <- sample(length(ff), 5)
+ff.err <- learnErrors(ff.derep[n], errorEstimationFunction=loessErrfun, randomize=FALSE, multithread=TRUE)
+rf.err <- learnErrors(rf.derep[n], errorEstimationFunction=loessErrfun, randomize=FALSE, multithread=TRUE)
+ff.dada <- dada(ff.derep, err=ff.err, pool=TRUE, multithread=TRUE)
+rf.dada <- dada(rf.derep, err=rf.err, pool=TRUE, multithread=TRUE)
+merged <- mergePairs(ff.dada, ff.derep, rf.dada, rf.derep, verbose=TRUE, maxMismatch=0, trimOverhang=FALSE, justConcatenate=FALSE)
+seqtable <- makeSequenceTable(merged, orderBy='abundance')
+seqtable.nochim <- removeBimeraDenovo(seqtable, method="consensus", verbose=TRUE)
+save.image()
+
+srun -p highmem --mem 200G Rscript dada.r &
+
+# 20 July 2019
+srun -p single --mem 50G --pty R
+library('dada2')
+library('ShortRead')
+library('ggplot2')
+library('grid')
+library('gridExtra')
+
+dim(seqtable)
+[1]    68 10278
+
+table(nchar(colnames(seqtable)))
+ 250  251  252  253  254  255  256  257  258  259  260  261  265  267  269  271
+   8   28  274 9263  512   48   11   19    2    9    5    1    2    1    1    4
+ 272  274  275  276  279  280  281  282  294  297  304  305  306  332  345  346
+   3    1    1    1    4    2    1    1    1    1    1    1    1    1    3    1
+ 349  350  354  358  364  365  366  367  369  371  378  406  410  412  417  418
+   1    1    1    1    1    4    1    1    1    1    1    1    1    1    2    9
+ 419  420  423  425  427  432  433  434  447  451  459
+  25    2    2    1    2    1    1    1    1    1    1
+  
+getN <- function(x) sum(getUniques(x))
+track <- cbind(sapply(ff.dada, getN), sapply(merged, getN), rowSums(seqtable.nochim))
+colnames(track) <- c("denoised", "merged", "chimera-checked")
+rownames(track) <- samples
+track
+        denoised merged chimera-checked
+LC00038    72237  66166           62681
+LC00043    40811  36932           36403
+LC00044     5270   4994            4940
+LC00046   157949 152405          151439
+LC00047   112022 105000          102775
+LC00325   106913  98952           96626
+LC00326   111070 104337          102279
+LC00327   134829 125459          122145
+LC00376    19088  16749           16398
+LC00377    12998  11733           11571
+LC00378    35165  29630           29391
+LC00382    49665  47361           46964
+LC00419     9958   8855            8854
+LC00420    47056  43130           42171
+LC00603   153647 144318          140532
+LC00604   133196 125670          123386
+LC00614   152291 142398          138549
+LC00982    99723  92717           89989
+LC00983   129953 118993          115092
+LC00984   166879 153708          147886
+LC00985   121915 115558          112750
+LC00986   149984 142292          139134
+LC01090    63115  59435           58233
+LC01091     6308   6041            6030
+LC01102     6037   5790            5789
+LC01516     7872   7268            7210
+LC01518   124930 119613          116479
+LC01520   125260 118875          116505
+LC01537   138647 131645          128191
+LC01538   119678 113502          110329
+LC01550   158966 155074          154445
+LC01657    99467  91396           87825
+LC01658   128594 118927          114307
+LC01660   132197 121715          116978
+LC01661   140380 129012          123668
+LC01663   106183  96947           93140
+LC01664   132715 121459          116689
+LC01699   146838 136386          131525
+LC01700   123184 113209          109521
+LC01707   122117 112782          108617
+LC01708   114450 104590          100691
+LC01764      766    691             689
+LC01765     6318   5785            5782
+LC01766     1529   1386            1386
+LC01767     1025    901             897
+LC01768     4837   4474            4419
+LC01769      278    171             165
+LC02012      649    613             611
+LC02013     2799   2465            2404
+LC02035      326    294             291
+LC02036      778    699             698
+LC02057   115231 108395          105766
+LC02058   101314  94981           92584
+LC02060   132510 125365          123625
+LC02061   137160 130011          127619
+LC02145   106607  98948           95672
+LC02294   145216 133528          128932
+LC02300   166690 157655          154609
+LC02301   146709 138157          135178
+LC02302   133707 124163          120617
+LC02303   170177 162261          158349
+LC02654   154960 142961          137196
+LC02656   109166  99237           94715
+LC02849    62368  59003           58693
+LC03160    12897  12161           12063
+LC03190     2869   2617            2612
+LC03274   122573 118772          118231
+LC13267     7772   7538            7444
+
+#--> apparently I somehow missed several samples with very few sequences when I created the bad_samples directory above
+
+srun -p highmem --mem 200G --pty R
+library('dada2')
+library('ShortRead')
+library('ggplot2')
+library('grid')
+library('gridExtra')
+
+refdb <- '/srv/databases/markers/silva/dada2/silva_nr_v132_train_set.fa.gz'
+taxa <- assignTaxonomy(seqtable.nochim, refdb, tryRC=FALSE, minBoot=50, verbose=TRUE)
+colnames(taxa) <- c("Domain", "Phylum", "Class", "Order", "Family", "Genus")
+
+library(phyloseq)
+merged = phyloseq(otu_table(seqtable.nochim, taxa_are_rows=FALSE), tax_table(taxa))
+write.csv(tax_table(merged), file="LC2018-tax-table.csv", quote=FALSE)
+write.csv(t(otu_table(merged)), file="LC2018-otu-table.csv", quote=FALSE)
+LC2018.dat <- phyloseq(otu_table(seqtable.nochim, taxa_are_rows=FALSE), tax_table(taxa))
+save(LC2018.dat, file='LC2018.dat')
+quit()
+
+srun count_cat_tax_csv.py -t LC2018-tax-table.csv -c LC2018-otu-table.csv -o LC2018-otu-tax-table.csv
+
+# 23 July 2019
+srun -p highmem --mem 200G --pty R
+library(phyloseq)
+LC2018.dat
+otu_table()   OTU Table:         [ 9474 taxa and 68 samples ]
+tax_table()   Taxonomy Table:    [ 9474 taxa by 6 taxonomic ranks ]
+
+# create new phyloseq object only with good samples
+meta.table <- read.csv("LC2018-sample-info.csv", row.names=1)
+to_keep = row.names(meta.table)
+po = prune_samples(to_keep,LC2018.dat)
+po
+otu_table()   OTU Table:         [ 9474 taxa and 58 samples ]
+tax_table()   Taxonomy Table:    [ 9474 taxa by 6 taxonomic ranks ]
+
+sample_data(po) = meta.table
+po
+otu_table()   OTU Table:         [ 9474 taxa and 58 samples ]
+sample_data() Sample Data:       [ 58 samples by 4 sample variables ]
+tax_table()   Taxonomy Table:    [ 9474 taxa by 6 taxonomic ranks ]
+
+# 1 Aug 2019
+get otu tax table for all samples, even those with bad data
+mkdir all_samples
+cp -P bad_samples/LC* all_samples/
+cd all_samples
+sbatch decontam.sh
+grep "Pairs written (passing filters):" *.log > passed_filter.txt
+less passed_filter.txt
+cp ../*decontam* ./
+
+srun -p highmem --mem 200G Rscript dada.r &
+
+# 2 Aug 2019
+srun -p single --mem 50G --pty R
+library('dada2')
+library('ShortRead')
+library('ggplot2')
+library('grid')
+library('gridExtra')
+
+dim(seqtable)
+[1]    84 10595
+
+table(nchar(colnames(seqtable))) 
+   250  251  252  253  254  255  256  257  258  259  260  261  263  265  267  269
+   9   28  286 9550  525   47   12   19    3   10    5    1    1    1    1    1
+ 271  272  274  275  276  279  280  281  282  294  297  304  305  306  332  345
+   4    3    1    1    1    4    2    1    1    1    1    1    1    1    1    3
+ 346  349  350  354  358  364  365  366  367  369  371  378  399  406  410  412
+   1    1    1    1    1    1    4    1    1    1    1    1    1    1    1    1
+ 417  418  419  420  423  425  427  432  433  434  447  451  459
+   3    8   25    2    3    1    2    1    1    1    1    1    1
+  
+getN <- function(x) sum(getUniques(x))
+track <- cbind(sapply(ff.dada, getN), sapply(merged, getN), rowSums(seqtable.nochim))
+colnames(track) <- c("denoised", "merged", "chimera-checked")
+rownames(track) <- samples
+track
+        denoised merged chimera-checked
+LC00038    72183  66386           63098
+LC00043    41017  37647           37084
+LC00044     5271   4995            4945
+LC00046   157906 152842          150835
+LC00047   112040 105237          103072
+LC00322      636    543             535
+LC00323      575    455             451
+LC00325   106983  99274           96926
+LC00326   111177 104734          102790
+LC00327   134858 125689          122447
+LC00376    19113  17302           16951
+LC00377    12989  11880           11717
+LC00378    35201  30390           30134
+LC00381     2842   2657            2624
+LC00382    49603  47411           47015
+LC00383      844    728             724
+LC00419     9968   8963            8962
+LC00420    47157  43629           42704
+LC00421      591    461             460
+LC00422      923    904             904
+LC00423     1488   1429            1429
+LC00603   153789 144762          141528
+LC00604   133392 126120          123962
+LC00605       65     42              40
+LC00611     2060   1757            1748
+LC00614   152419 142834          139383
+LC00617     1348   1219            1215
+LC00982    99668  92932           90222
+LC00983   129875 119392          115608
+LC00984   166751 154322          148663
+LC00985   121874 115788          112900
+LC00986   149975 142478          139475
+LC01090    63186  59790           58553
+LC01091     6299   6073            6060
+LC01102     6060   5743            5742
+LC01516     7894   7400            7339
+LC01518   124911 119876          116722
+LC01520   125265 119135          116893
+LC01537   138648 131752          128391
+LC01538   119663 113870          110753
+LC01547     2067   2000            1995
+LC01548      634    559             554
+LC01550   158962 155147          148924
+LC01551     1387   1211            1206
+LC01657    99425  91683           88185
+LC01658   128536 119251          114735
+LC01660   132136 122051          117426
+LC01661   140315 129451          124355
+LC01663   106100  97166           93464
+LC01664   132645 121780          117080
+LC01699   146746 136738          131997
+LC01700   123161 113431          110011
+LC01707   122040 112999          108951
+LC01708   114332 104710          101039
+LC01764      768    694             694
+LC01765     6281   5795            5792
+LC01766     1531   1385            1385
+LC01767     1025    905             901
+LC01768     4839   4498            4443
+LC01769      279    172             166
+LC02012      649    613             611
+LC02013     2770   2480            2417
+LC02035      326    294             291
+LC02036      778    699             698
+LC02057   115202 108715          106007
+LC02058   101325  95353           92957
+LC02060   132482 125838          123119
+LC02061   137163 130413          128047
+LC02145   106582  99248           96065
+LC02294   145149 134131          129669
+LC02300   166625 158136          155171
+LC02301   146739 138610          135728
+LC02302   133709 124481          120988
+LC02303   170325 162605          158591
+LC02654   154866 143501          137965
+LC02656   109095  99572           95155
+LC02849    62397  59131           58752
+LC03160    12899  12142           12050
+LC03188      723    628             628
+LC03189     1145   1080            1075
+LC03190     2869   2635            2630
+LC03274   122548 118920          118388
+LC13267     7765   7586            7492
+LC13268      912    743             735
+
+refdb <- '/srv/databases/markers/silva/dada2/silva_nr_v132_train_set.fa.gz'
+taxa <- assignTaxonomy(seqtable.nochim, refdb, tryRC=FALSE, minBoot=50, verbose=TRUE)
+colnames(taxa) <- c("Domain", "Phylum", "Class", "Order", "Family", "Genus")
+
+library(phyloseq)
+merged = phyloseq(otu_table(seqtable.nochim, taxa_are_rows=FALSE), tax_table(taxa))
+write.csv(tax_table(merged), file="LC2018-tax-table.csv", quote=FALSE)
+write.csv(t(otu_table(merged)), file="LC2018-otu-table.csv", quote=FALSE)
+LC2018.dat <- phyloseq(otu_table(seqtable.nochim, taxa_are_rows=FALSE), tax_table(taxa))
+save(LC2018.dat, file='LC2018.dat')
+quit()
+
+srun count_cat_tax_csv.py -t LC2018-tax-table.csv -c LC2018-otu-table.csv -o LC2018-all-otu-tax-table.csv
+
+# 22 Mar 2021
+# analyses above generated the LC2018.dat dataset
+# now merge this dataset with ASVs from other projects to perform a merged analysis
+
+# Lost City chimney fluids DNA 
+LC2018.dat
+
+# Lost City chimney fluids RNA → cDNA
+# Atlantis Massif IODP water column samples RNA → cDNA
+# both are included in:
+LC2018cdna.dat
+
+# Lost City chimney biofilms DNA
+LC2018.chimneys.dat
+
+# Atlantis Massif IODP water column samples DNA
+AMF_set1_Jan2017.dat
+AMF_set2_Jan2017.dat
+AMF.02.16.2018.dat
+AMF.02.16.2018.2.dat
+
+# Sheri's blanks and lab air filters
+AMR.03.12.2018.dat
+AMR.02.16.2018.dat
+AMR_Oct2017.dat
+
+# start R in a screen session
+screen -S phyloseq
+srun -p highmem --mem 100G --pty R
+
+# load phyloseq
+library(phyloseq)
+
+# load all of the .dat files and inspect contents
+load('LC2018.dat')
+LC2018.dat
+otu_table()   OTU Table:         [ 9474 taxa and 68 samples ]
+tax_table()   Taxonomy Table:    [ 9474 taxa by 6 taxonomic ranks ]
+
+load('LC2018cdna.dat')
+LC2018cdna.dat
+otu_table()   OTU Table:         [ 10871 taxa and 35 samples ]
+tax_table()   Taxonomy Table:    [ 10871 taxa by 6 taxonomic ranks ]
+
+load('LC2018.chimneys.dat')
+LC2018.chimneys
+otu_table()   OTU Table:         [ 10637 taxa and 28 samples ]
+tax_table()   Taxonomy Table:    [ 10637 taxa by 6 taxonomic ranks ]
+
+load('AMF_set1_Jan2017.dat')
+set1.dat
+otu_table()   OTU Table:         [ 7438 taxa and 48 samples ]
+sample_data() Sample Data:       [ 48 samples by 11 sample variables ]
+tax_table()   Taxonomy Table:    [ 7438 taxa by 6 taxonomic ranks ]
+
+load('AMF_set2_Jan2017.dat')
+set2.dat
+otu_table()   OTU Table:         [ 10057 taxa and 64 samples ]
+sample_data() Sample Data:       [ 64 samples by 11 sample variables ]
+tax_table()   Taxonomy Table:    [ 10057 taxa by 6 taxonomic ranks ]
+
+AMF = merge_phyloseq(set1.dat, set2.dat)
+AMF
+otu_table()   OTU Table:         [ 12498 taxa and 112 samples ]
+sample_data() Sample Data:       [ 112 samples by 11 sample variables ]
+tax_table()   Taxonomy Table:    [ 12498 taxa by 6 taxonomic ranks ]
+
+# remove sample_data from AMF to enable merging later
+AMF = phyloseq(otu_table(AMF), tax_table(AMF))
+AMF
+otu_table()   OTU Table:         [ 12498 taxa and 112 samples ]
+tax_table()   Taxonomy Table:    [ 12498 taxa by 6 taxonomic ranks ]
+
+# get re-sequenced AMF samples (sequencing replicates of above samples)
+load('AMF.02.16.2018.dat')
+AMF.02.16.2018.dat
+otu_table()   OTU Table:         [ 8217 taxa and 37 samples ]
+tax_table()   Taxonomy Table:    [ 8217 taxa by 6 taxonomic ranks ]
+
+load('AMF.02.16.2018.2.dat')
+AMF.02.16.2018.2.dat
+otu_table()   OTU Table:         [ 8209 taxa and 78 samples ]
+tax_table()   Taxonomy Table:    [ 8209 taxa by 6 taxonomic ranks ]
+
+AMF2 = merge_phyloseq(AMF.02.16.2018.dat,AMF.02.16.2018.2.dat)
+AMF2
+otu_table()   OTU Table:         [ 10501 taxa and 115 samples ]
+tax_table()   Taxonomy Table:    [ 10501 taxa by 6 taxonomic ranks ]
+
+# extract Sheri's blanks from the AMR datasets (leaving behind the actual rocks, which we already know are quite different from all of the other samples we're working with here)
+blanks = c('0AMRd901','0AMRd901B','0AMRd902','0AMRd902_20C','0AMRd903','0AMRd903_20C','0AMRd904_20C')
+load('AMR.03.12.2018.dat')
+AMR_blanks1 = prune_samples(blanks,AMR.03.12.2018.dat)
+AMR_blanks1
+otu_table()   OTU Table:         [ 584 taxa and 3 samples ]
+tax_table()   Taxonomy Table:    [ 584 taxa by 6 taxonomic ranks ]
+
+load('AMR.02.16.2018.dat')
+AMR_blanks2 = prune_samples(blanks,AMR.02.16.2018.dat)
+AMR_blanks2
+otu_table()   OTU Table:         [ 1428 taxa and 3 samples ]
+tax_table()   Taxonomy Table:    [ 1428 taxa by 6 taxonomic ranks ]
+
+load('AMR_Oct2017.dat')
+AMR_blanks3 = prune_samples(blanks,AMR_Oct2017.dat)
+AMR_blanks3
+otu_table()   OTU Table:         [ 466 taxa and 1 samples ]
+tax_table()   Taxonomy Table:    [ 466 taxa by 6 taxonomic ranks ]
+
+AMR_blanks = merge_phyloseq(AMR_blanks1, AMR_blanks2, AMR_blanks3)
+AMR_blanks
+otu_table()   OTU Table:         [ 2138 taxa and 7 samples ]
+tax_table()   Taxonomy Table:    [ 2138 taxa by 6 taxonomic ranks ]
+
+# merge everything into one giant phyloseq project
+everything = merge_phyloseq(LC2018.dat,LC2018cdna.dat,LC2018.chimneys,AMF,AMF2,AMR_blanks)
+everything
+otu_table()   OTU Table:         [ 35533 taxa and 365 samples ]
+tax_table()   Taxonomy Table:    [ 35533 taxa by 6 taxonomic ranks ]
+
+# add the metadata table I assembled by hand in Excel
+meta.table <- read.csv("LC2018-everything2021-metatable.csv", row.names=1)
+sample_data(everything) = meta.table
+everything
+otu_table()   OTU Table:         [ 35533 taxa and 321 samples ]
+sample_data() Sample Data:       [ 321 samples by 11 sample variables ]
+tax_table()   Taxonomy Table:    [ 35533 taxa by 6 taxonomic ranks ]
+
+# After adding the metadata table, we went from 365 to 293 samples.
+# I inspected the missing 44 samples and verified that I had previously identified all 44 of these samples as being bad for various reasons (e.g. very few sequences, known contamination during sampling, known equipment failures during sampling): 0AMFd137A_20B,0AMFd137A,0AMFd139A_20B,0AMFd140A_20B,0AMFd143A_20B,0AMFd143A,0AMFd145A_20B,0AMFd145A,0AMFd146A_20B,0AMFd146A,0AMFd159A_20B,0AMFd159A,0AMFd161A_20B,0AMFd162A_20B,0AMFd162A,0AMFd324A_20B,0AMFd324A,0AMFd334A_20B,0AMFd334A,0AMFd509A_20B,0AMFd509A,0AMFd533A_20B,0AMFd533A,0AMFd546A_20B,0AMFd546A,LC13267,0AMFd112A_20B,0AMFd616BA_20B,0AMFd616BB_20B,0AMFd664A_20B,0AMFd842A_20B,0AMFd862A_20B,LC00044,LC01091,LC01764,LC01765,LC01766,LC01767,LC01768,LC01769,LC02012,LC02013,LC02035,LC02036
+# So we're good, moving on with 321 samples.
+
+# Remove suspected contaminants with the decontam package
+library(decontam)
+
+# use "frequency" method to remove ASVs whose counts are correlated with the DNA concentration of their sample
+c.freq.2 <- isContaminant(everything, method="frequency", conc="DNA_ng_ul_tube_pure", threshold=0.02)
+table(c.freq.2$contaminant)
+FALSE  TRUE
+35419   114
+
+# use "prevalance" method to remove ASVs that are more prevalent in control samples than in samples
+# The metadata table lists four different kinds of controls:
+# column: control_type
+# blank: blank sterivex extraction
+# air: air from Utah or ship biolab
+# surface: Katrina surface buckets and biolab tap water
+
+# remove ASVs prevalent in "surface" control type
+sample_data(everything)$is.neg <- sample_data(everything)$control_type == "surface"
+c.prev1 <- isContaminant(everything, method="prevalence", neg="is.neg", threshold=0.02)
+table(c.prev1$contaminant)
+FALSE  TRUE
+33881  1652
+
+# remove ASVs prevalent in "blank" control type
+sample_data(everything)$is.neg <- sample_data(everything)$control_type == "blank"
+c.prev2 <- isContaminant(everything, method="prevalence", neg="is.neg", threshold=0.02)
+table(c.prev2$contaminant)
+FALSE  TRUE
+35525     8
+
+# remove ASVs prevalent in "air" control type
+sample_data(everything)$is.neg <- sample_data(everything)$control_type == "air"
+c.prev3 <- isContaminant(everything, method="prevalence", neg="is.neg", threshold=0.02)
+table(c.prev3$contaminant)
+FALSE  TRUE
+35468    65
+
+# Remove all contaminants: freq method, surface water, blank, and air
+all.contams = c.freq.2$contaminant | c.prev1$contaminant | c.prev2$contaminant | c.prev3$contaminant
+noncontams <- prune_taxa(!all.contams, everything)
+noncontams
+otu_table()   OTU Table:         [ 33710 taxa and 321 samples ]
+sample_data() Sample Data:       [ 321 samples by 12 sample variables ]
+tax_table()   Taxonomy Table:    [ 33710 taxa by 6 taxonomic ranks ]
+
+# save noncontams as R .dat file to be shared
+save(noncontams, file='LC2018_noncontams.dat')
+
+# write otu and tax tables for playing with outside of R
+write.csv(tax_table(noncontams), file="LC2018-everything-noncontams-tax-table.csv", quote=FALSE)
+write.csv(t(otu_table(noncontams)), file="LC2018-everything-noncontams-otu-table.csv", quote=FALSE)
+quit()
+
+srun -p highmem --mem 100G count_cat_tax_csv.py -t LC2018-everything-noncontams-tax-table.csv -c LC2018-everything-noncontams-otu-table.csv -o LC2018-everything-noncontams-otu-tax-table.csv &
+
+# write table of sequences removed as contaminants
+contams = prune_taxa(all.contams, everything)
+contams
+otu_table()   OTU Table:         [ 1823 taxa and 321 samples ]
+sample_data() Sample Data:       [ 321 samples by 12 sample variables ]
+tax_table()   Taxonomy Table:    [ 1823 taxa by 6 taxonomic ranks ]
+write.csv(tax_table(contams), file="LC2018-everything-contaminants-tax-table.csv", quote=FALSE)
+write.csv(t(otu_table(contams)), file="LC2018-everything-contaminants-otu-table.csv", quote=FALSE)
+srun count_cat_tax_csv.py -t LC2018-everything-contaminants-tax-table.csv -c LC2018-everything-contaminants-otu-table.csv -o LC2018-everything-contaminants-otu-tax-table.csv
+
+# 27 Sep 2021
+# make ordination plot for paper
+library(phyloseq)
+library('ggplot2')
+theme_set(theme_bw())
+
+noncontams
+otu_table()   OTU Table:         [ 33710 taxa and 321 samples ]
+sample_data() Sample Data:       [ 321 samples by 12 sample variables ]
+tax_table()   Taxonomy Table:    [ 33710 taxa by 6 taxonomic ranks ]
+
+# use metatable with only LC hydrothermal fluid samples and includes sulfate and sulfide
+LCfluids = noncontams
+meta.table <- read.csv("LC2018-everything2021-LCfluids-only-metatable.csv", row.names=1)
+sample_data(LCfluids) = meta.table
+LCfluids
+otu_table()   OTU Table:         [ 33710 taxa and 41 samples ]
+sample_data() Sample Data:       [ 41 samples by 16 sample variables ]
+tax_table()   Taxonomy Table:    [ 33710 taxa by 6 taxonomic ranks ]
+
+# transform counts into proportions
+LCfluids.props = transform_sample_counts(LCfluids, function(x) 100 * x/sum(x))
+
+# first make the usual NMDS plot
+LCfluids.props.nmds.horn = ordinate(LCfluids.props, method='NMDS', distance='horn')
+LCfluids.props.nmds.horn
+
+png(filename='LCfluids.props.nmds.horn.png', width=1000, height=1000)
+plot_ordination(LCfluids.props, LCfluids.props.nmds.horn, type='samples', color='location') + theme_bw() + theme(text=element_text(size=16)) + coord_fixed(ratio=1) + geom_point(size = 6) + theme(text=element_text(size=16)) + geom_text(aes(label=location), size=4, nudge_y=-0.02)
+dev.off()
+
+png(filename='LCfluids.props.nmds.horn2.png', width=1000, height=1000)
+plot_ordination(LCfluids.props, LCfluids.props.nmds.horn, type='samples', color='location') + theme_bw() + theme(text=element_text(size=16)) + coord_fixed(ratio=1) + geom_point(size = 6) + theme(text=element_text(size=16)) + geom_text(aes(label=SampleID), size=4, nudge_y=-0.02)
+dev.off()
+
+LCfluids.props.nmds.bray = ordinate(LCfluids.props, method='NMDS', distance='bray')
+LCfluids.props.nmds.bray
+
+png(filename='LCfluids.props.nmds.bray2.png', width=1000, height=1000)
+plot_ordination(LCfluids.props, LCfluids.props.nmds.bray, type='samples', color='location') + theme_bw() + theme(text=element_text(size=16)) + coord_fixed(ratio=1) + geom_point(size = 6) + theme(text=element_text(size=16)) + geom_text(aes(label=SampleID), size=4, nudge_y=-0.02)
+dev.off()
+
+# remove two outlier samples that also look contaminated based on taxonomy: LC00382 and LC01516
+remove = c('LC00382','LC01516')
+notremove = setdiff(sample_names(LCfluids.props), remove)
+LCfluids.props2 = prune_samples(notremove,LCfluids.props)
+LCfluids.props2
+otu_table()   OTU Table:         [ 33710 taxa and 39 samples ]
+sample_data() Sample Data:       [ 39 samples by 16 sample variables ]
+tax_table()   Taxonomy Table:    [ 33710 taxa by 6 taxonomic ranks ]
+
+LCfluids.props2.nmds.horn = ordinate(LCfluids.props2, method='NMDS', distance='horn')
+
+png(filename='LCfluids.props2.nmds.horn2.png', width=1000, height=1000)
+plot_ordination(LCfluids.props2, LCfluids.props2.nmds.horn, type='samples', color='location') + theme_bw() + theme(text=element_text(size=16)) + coord_fixed(ratio=1) + geom_point(size = 6) + theme(text=element_text(size=16)) + geom_text(aes(label=SampleID), size=4, nudge_y=-0.02)
+dev.off()
+
+LCfluids.props2.nmds.bray = ordinate(LCfluids.props2, method='NMDS', distance='bray')
+
+png(filename='LCfluids.props2.nmds.bray2.png', width=1000, height=1000)
+plot_ordination(LCfluids.props2, LCfluids.props2.nmds.bray, type='samples', color='location') + theme_bw() + theme(text=element_text(size=16)) + coord_fixed(ratio=1) + geom_point(size = 6) + theme(text=element_text(size=16)) + geom_text(aes(label=SampleID), size=4, nudge_y=-0.02)
+dev.off()
+
+# now try constrained ordination with sulfate + sulfide
+# need to remove samples that lack sulfate and sulfide
+no_sulfate = c('LC00043','LC02060','LC02061','LCr01770','LC00046','LC00047','LC00985','LC00986','LC02145','LC02057','LC02058','LC03274','LCr01514','LCr02305','LC00325','LC00326','LC01090','LCr00620')
+yes_sulfate = setdiff(sample_names(LCfluids.props2), no_sulfate)
+LCfluids.props2.sulfate = prune_samples(yes_sulfate,LCfluids.props2)
+LCfluids.props2.sulfate
+otu_table()   OTU Table:         [ 33710 taxa and 21 samples ]
+sample_data() Sample Data:       [ 21 samples by 16 sample variables ]
+tax_table()   Taxonomy Table:    [ 33710 taxa by 6 taxonomic ranks ]
+
+LCfluids.props2.sulfate.cca = ordinate(LCfluids.props2.sulfate, method='CCA', formula=LCfluids.props2.sulfate ~ sulfate)
+LCfluids.props2.sulfate.cca
+
+anova(LCfluids.props2.sulfate.cca)
+
+png(filename='LCfluids.props2.sulfate.cca.png', width=1000, height=1000)
+plot_ordination(LCfluids.props2.sulfate, LCfluids.props2.sulfate.cca, type='samples', color='location') + theme_bw() + theme(text=element_text(size=16)) + coord_fixed(ratio=1) + geom_point(size = 6)
+dev.off()
+
+png(filename='LCfluids.props2.sulfate.cca2.png', width=1000, height=1000)
+plot_ordination(LCfluids.props2.sulfate, LCfluids.props2.sulfate.cca, type='samples', color='location') + theme_bw() + theme(text=element_text(size=16)) + coord_fixed(ratio=1) + geom_point(size = 6) + theme(text=element_text(size=16)) + geom_text(aes(label=SampleID), size=4, nudge_y=-0.02)
+dev.off()
+
+png(filename='LCfluids.props2.sulfate.cca3.png', width=1000, height=1000)
+plot_ordination(LCfluids.props2.sulfate, LCfluids.props2.sulfate.cca, type='split', color='location') + theme_bw() + theme(text=element_text(size=16)) + coord_fixed(ratio=1) + geom_point(size = 6)
+dev.off()
+
+# now try with sulfide
+also_no_sulfide = c('LC00376','LC00419','LC00378')
+yes_sulfide = setdiff(sample_names(LCfluids.props2.sulfate), also_no_sulfide)
+LCfluids.props2.sulfide = prune_samples(yes_sulfide, LCfluids.props2.sulfate)
+LCfluids.props2.sulfide
+otu_table()   OTU Table:         [ 33710 taxa and 18 samples ]
+sample_data() Sample Data:       [ 18 samples by 16 sample variables ]
+tax_table()   Taxonomy Table:    [ 33710 taxa by 6 taxonomic ranks ]
+
+LCfluids.props2.sulfide.cca = ordinate(LCfluids.props2.sulfide, method='CCA', formula=LCfluids.props2.sulfide ~ sulfide)
+LCfluids.props2.sulfide.cca
+
+anova(LCfluids.props2.sulfide.cca)
+
+png(filename='LCfluids.props2.sulfide.cca.png', width=1000, height=1000)
+plot_ordination(LCfluids.props2.sulfide, LCfluids.props2.sulfide.cca, type='samples', color='location') + theme_bw() + theme(text=element_text(size=16)) + coord_fixed(ratio=1) + geom_point(size = 6)
+dev.off()
+
+# both sulfate and sulfide
+LCfluids.props2.sulfide2.cca = ordinate(LCfluids.props2.sulfide, method='CCA', formula=LCfluids.props2.sulfide ~ sulfide + sulfate)
+LCfluids.props2.sulfide2.cca
+
+anova(LCfluids.props2.sulfide2.cca)
+
+png(filename='LCfluids.props2.sulfide2.cca.png', width=1000, height=1000)
+plot_ordination(LCfluids.props2.sulfide, LCfluids.props2.sulfide2.cca, type='samples', color='location') + theme_bw() + theme(text=element_text(size=16)) + coord_fixed(ratio=1) + geom_point(size = 6)
+dev.off()
+
+png(filename='LCfluids.props2.sulfide2.cca2.png', width=1000, height=1000)
+plot_ordination(LCfluids.props2.sulfide, LCfluids.props2.sulfide2.cca, type='samples', color='location') + theme_bw() + theme(text=element_text(size=16)) + coord_fixed(ratio=1) + geom_point(size = 6) + theme(text=element_text(size=16)) + geom_text(aes(label=location), size=4, nudge_y=-0.2)
+dev.off()
+
+# add arrow to the sulfate only ordination
+# First, extract the scores from the ordination object:
+library('vegan')
+ord.cca.scrs = scores(LCfluids.props2.sulfate.cca, display=c('bp', 'sp', 'wa', 'cn', 'lc'))
+
+# Extract the values for the vectors:
+multiplier = ordiArrowMul(ord.cca.scrs$biplot, fill=0.7)
+ord.cca.vectors = data.frame(labels=rownames(ord.cca.scrs$biplot), ord.cca.scrs$biplot*multiplier)
+
+png(filename='LCfluids.props2.sulfate.cca.arrow.png', width=1000, height=1000)
+plot_ordination(LCfluids.props2.sulfate, LCfluids.props2.sulfate.cca, type='samples', color='location') + theme_bw() + theme(text=element_text(size=16)) + coord_fixed(ratio=1) + geom_point(size = 6) + geom_segment(data=ord.cca.vectors, aes(x=0, y=0, xend=CCA1, yend=CA1), inherit.aes=FALSE, arrow=arrow(length=unit(0.2, 'cm')), color='#808080', alpha=0.8)
+dev.off()
+
+# --> the arrow is exactly parallel to the CCA1 axis, beginning at coordinate 0. I can just as easily draw the arrow myself.
+
+# Using the sulfate-only plot, match the sample colors and names to my bubble plots
+meta.table <- read.csv("LC2018-everything2021-LCfluids-only-metatable.csv", row.names=1)
+sample_data(LCfluids.props2.sulfate) = meta.table
+LCfluids.props2.sulfate
+otu_table()   OTU Table:         [ 33710 taxa and 21 samples ]
+sample_data() Sample Data:       [ 21 samples by 16 sample variables ]
+tax_table()   Taxonomy Table:    [ 33710 taxa by 6 taxonomic ranks ]
+
+# define custom palette and specify the order of the samples to make color-coding consistent
+pal <- c("#999999", "#E69F00", "#56B4E9", "#CC79A7","#009E73", "#F0E442", "#D55E00")
+p = plot_ordination(LCfluids.props2.sulfate, LCfluids.props2.sulfate.cca, type='samples', color='Chimney') + theme_bw() + theme(text=element_text(size=16)) + coord_fixed(ratio=1) + geom_point(size = 8) 
+p$data$Chimney = factor(p$data$Chimney, levels = c("PoCH", "SOMB", "PoNS", "MarkC", "CALY", "IMAX", "Mark8"))
+p2 = p + scale_color_manual(values = pal)  + theme(legend.key=element_blank(), axis.text.x = element_text(colour = "black", size = 9, vjust = 0.3, hjust = 1), axis.text.y = element_text(colour = "black", face = "bold", size = 9), legend.text = element_text(size = 10, face ="bold", colour ="black"), legend.title = element_text(size = 11, face = "bold"), panel.background = element_blank(), panel.border = element_rect(colour = "black", fill = NA, size = 1.2), legend.position = "right", panel.grid.major.y = element_line(colour = "grey95"), legend.title.align = 0.5)
+p2
+ggsave('p2.png')
+
+# 3 Nov 2021
+# remake ordination plot with corrected chimney names
+# that means an edited sample info table
+meta.table <- read.csv("LC2018-everything2021-LCfluids-only-metatable.csv", row.names=1)
+sample_data(LCfluids.props2.sulfate) = meta.table
+
+# define custom palette and specify the order of the samples to make color-coding consistent
+pal <- c("#999999", "#E69F00", "#56B4E9", "#CC79A7","#009E73", "#F0E442", "#D55E00")
+p = plot_ordination(LCfluids.props2.sulfate, LCfluids.props2.sulfate.cca, type='samples', color='Chimney') + theme_bw() + theme(text=element_text(size=16)) + coord_fixed(ratio=1) + geom_point(size = 8) 
+p$data$Chimney = factor(p$data$Chimney, levels = c("Camel Humps", "Sombrero", "Marker 3", "Marker C", "Calypso", "Marker 2", "Marker 8"))
+p2 = p + scale_color_manual(values = pal)  + theme(legend.key=element_blank(), axis.text.x = element_text(colour = "black", size = 9, vjust = 0.3, hjust = 1), axis.text.y = element_text(colour = "black", face = "bold", size = 9), legend.text = element_text(size = 10, face ="bold", colour ="black"), legend.title = element_text(size = 11, face = "bold"), panel.background = element_blank(), panel.border = element_rect(colour = "black", fill = NA, size = 1.2), legend.position = "right", panel.grid.major.y = element_line(colour = "grey95"), legend.title.align = 0.5)
+p2
+ggsave('p2.png')
+
