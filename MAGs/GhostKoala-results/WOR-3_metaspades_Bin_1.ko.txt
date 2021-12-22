@@ -1,0 +1,1066 @@
+WOR-3_metaspades_Bin_1-contigs_00001
+WOR-3_metaspades_Bin_1-contigs_00002
+WOR-3_metaspades_Bin_1-contigs_00003
+WOR-3_metaspades_Bin_1-contigs_00005
+WOR-3_metaspades_Bin_1-contigs_00006	K01151
+WOR-3_metaspades_Bin_1-contigs_00007	K00823
+WOR-3_metaspades_Bin_1-contigs_00008	K15916
+WOR-3_metaspades_Bin_1-contigs_00009	K00973
+WOR-3_metaspades_Bin_1-contigs_00010	K00789
+WOR-3_metaspades_Bin_1-contigs_00011
+WOR-3_metaspades_Bin_1-contigs_00012	K02888
+WOR-3_metaspades_Bin_1-contigs_00013
+WOR-3_metaspades_Bin_1-contigs_00014	K01803
+WOR-3_metaspades_Bin_1-contigs_00015	K09810
+WOR-3_metaspades_Bin_1-contigs_00016	K02992
+WOR-3_metaspades_Bin_1-contigs_00017
+WOR-3_metaspades_Bin_1-contigs_00018	K05515
+WOR-3_metaspades_Bin_1-contigs_00019
+WOR-3_metaspades_Bin_1-contigs_00020	K15856
+WOR-3_metaspades_Bin_1-contigs_00021
+WOR-3_metaspades_Bin_1-contigs_00022
+WOR-3_metaspades_Bin_1-contigs_00023	K03641
+WOR-3_metaspades_Bin_1-contigs_00024	K03665
+WOR-3_metaspades_Bin_1-contigs_00025	K00611
+WOR-3_metaspades_Bin_1-contigs_00026	K00756
+WOR-3_metaspades_Bin_1-contigs_00028
+WOR-3_metaspades_Bin_1-contigs_00029
+WOR-3_metaspades_Bin_1-contigs_00030
+WOR-3_metaspades_Bin_1-contigs_00031	K04069
+WOR-3_metaspades_Bin_1-contigs_00032	K00656
+WOR-3_metaspades_Bin_1-contigs_00033
+WOR-3_metaspades_Bin_1-contigs_00034
+WOR-3_metaspades_Bin_1-contigs_00035	K01963
+WOR-3_metaspades_Bin_1-contigs_00036
+WOR-3_metaspades_Bin_1-contigs_00037	K01154
+WOR-3_metaspades_Bin_1-contigs_00038	K03655
+WOR-3_metaspades_Bin_1-contigs_00039
+WOR-3_metaspades_Bin_1-contigs_00040	K03273
+WOR-3_metaspades_Bin_1-contigs_00041
+WOR-3_metaspades_Bin_1-contigs_00042	K04072
+WOR-3_metaspades_Bin_1-contigs_00043	K00656
+WOR-3_metaspades_Bin_1-contigs_00044
+WOR-3_metaspades_Bin_1-contigs_00045	K01783
+WOR-3_metaspades_Bin_1-contigs_00046	K03832
+WOR-3_metaspades_Bin_1-contigs_00047
+WOR-3_metaspades_Bin_1-contigs_00048	K01689
+WOR-3_metaspades_Bin_1-contigs_00049
+WOR-3_metaspades_Bin_1-contigs_00050
+WOR-3_metaspades_Bin_1-contigs_00052
+WOR-3_metaspades_Bin_1-contigs_00053
+WOR-3_metaspades_Bin_1-contigs_00054	K01791
+WOR-3_metaspades_Bin_1-contigs_00055
+WOR-3_metaspades_Bin_1-contigs_00056
+WOR-3_metaspades_Bin_1-contigs_00057
+WOR-3_metaspades_Bin_1-contigs_00058	K03585
+WOR-3_metaspades_Bin_1-contigs_00059
+WOR-3_metaspades_Bin_1-contigs_00060
+WOR-3_metaspades_Bin_1-contigs_00061	K02666
+WOR-3_metaspades_Bin_1-contigs_00062	K01448
+WOR-3_metaspades_Bin_1-contigs_00063	K02664
+WOR-3_metaspades_Bin_1-contigs_00064	K02662
+WOR-3_metaspades_Bin_1-contigs_00065	K02313
+WOR-3_metaspades_Bin_1-contigs_00066	K24936
+WOR-3_metaspades_Bin_1-contigs_00067
+WOR-3_metaspades_Bin_1-contigs_00068
+WOR-3_metaspades_Bin_1-contigs_00069	K02654
+WOR-3_metaspades_Bin_1-contigs_00070	K02456
+WOR-3_metaspades_Bin_1-contigs_00071	K02653
+WOR-3_metaspades_Bin_1-contigs_00072	K02669
+WOR-3_metaspades_Bin_1-contigs_00073	K02652
+WOR-3_metaspades_Bin_1-contigs_00074	K01534
+WOR-3_metaspades_Bin_1-contigs_00075	K01875
+WOR-3_metaspades_Bin_1-contigs_00076
+WOR-3_metaspades_Bin_1-contigs_00077
+WOR-3_metaspades_Bin_1-contigs_00078
+WOR-3_metaspades_Bin_1-contigs_00079	K07391
+WOR-3_metaspades_Bin_1-contigs_00080	K04069
+WOR-3_metaspades_Bin_1-contigs_00081
+WOR-3_metaspades_Bin_1-contigs_00082	K01077
+WOR-3_metaspades_Bin_1-contigs_00083	K00997
+WOR-3_metaspades_Bin_1-contigs_00084	K09129
+WOR-3_metaspades_Bin_1-contigs_00085
+WOR-3_metaspades_Bin_1-contigs_00088
+WOR-3_metaspades_Bin_1-contigs_00089
+WOR-3_metaspades_Bin_1-contigs_00090	K00762
+WOR-3_metaspades_Bin_1-contigs_00091	K02626
+WOR-3_metaspades_Bin_1-contigs_00092	K17828
+WOR-3_metaspades_Bin_1-contigs_00093	K20478
+WOR-3_metaspades_Bin_1-contigs_00094
+WOR-3_metaspades_Bin_1-contigs_00095
+WOR-3_metaspades_Bin_1-contigs_00096
+WOR-3_metaspades_Bin_1-contigs_00097
+WOR-3_metaspades_Bin_1-contigs_00098	K02770
+WOR-3_metaspades_Bin_1-contigs_00099
+WOR-3_metaspades_Bin_1-contigs_00100	K00573
+WOR-3_metaspades_Bin_1-contigs_00101	K25156
+WOR-3_metaspades_Bin_1-contigs_00102	K25155
+WOR-3_metaspades_Bin_1-contigs_00103
+WOR-3_metaspades_Bin_1-contigs_00104	K03787
+WOR-3_metaspades_Bin_1-contigs_00105
+WOR-3_metaspades_Bin_1-contigs_00106	K02517
+WOR-3_metaspades_Bin_1-contigs_00107
+WOR-3_metaspades_Bin_1-contigs_00108
+WOR-3_metaspades_Bin_1-contigs_00109	K03086
+WOR-3_metaspades_Bin_1-contigs_00110	K23997
+WOR-3_metaspades_Bin_1-contigs_00111	K03621
+WOR-3_metaspades_Bin_1-contigs_00112	K09458
+WOR-3_metaspades_Bin_1-contigs_00113	K02078
+WOR-3_metaspades_Bin_1-contigs_00114
+WOR-3_metaspades_Bin_1-contigs_00115
+WOR-3_metaspades_Bin_1-contigs_00116	K01589
+WOR-3_metaspades_Bin_1-contigs_00117
+WOR-3_metaspades_Bin_1-contigs_00118
+WOR-3_metaspades_Bin_1-contigs_00119	K07082
+WOR-3_metaspades_Bin_1-contigs_00120
+WOR-3_metaspades_Bin_1-contigs_00122
+WOR-3_metaspades_Bin_1-contigs_00123
+WOR-3_metaspades_Bin_1-contigs_00124
+WOR-3_metaspades_Bin_1-contigs_00125
+WOR-3_metaspades_Bin_1-contigs_00126	K03522
+WOR-3_metaspades_Bin_1-contigs_00127
+WOR-3_metaspades_Bin_1-contigs_00128	K03797
+WOR-3_metaspades_Bin_1-contigs_00129	K07027
+WOR-3_metaspades_Bin_1-contigs_00130	K05337
+WOR-3_metaspades_Bin_1-contigs_00131
+WOR-3_metaspades_Bin_1-contigs_00132	K12454
+WOR-3_metaspades_Bin_1-contigs_00133
+WOR-3_metaspades_Bin_1-contigs_00134	K01873
+WOR-3_metaspades_Bin_1-contigs_00135	K01951
+WOR-3_metaspades_Bin_1-contigs_00136
+WOR-3_metaspades_Bin_1-contigs_00137
+WOR-3_metaspades_Bin_1-contigs_00138
+WOR-3_metaspades_Bin_1-contigs_00139
+WOR-3_metaspades_Bin_1-contigs_00140	K02871
+WOR-3_metaspades_Bin_1-contigs_00141	K03650
+WOR-3_metaspades_Bin_1-contigs_00142	K03070
+WOR-3_metaspades_Bin_1-contigs_00143
+WOR-3_metaspades_Bin_1-contigs_00144	K03531
+WOR-3_metaspades_Bin_1-contigs_00145
+WOR-3_metaspades_Bin_1-contigs_00146	K03286
+WOR-3_metaspades_Bin_1-contigs_00147
+WOR-3_metaspades_Bin_1-contigs_00148
+WOR-3_metaspades_Bin_1-contigs_00149
+WOR-3_metaspades_Bin_1-contigs_00150	K03551
+WOR-3_metaspades_Bin_1-contigs_00151
+WOR-3_metaspades_Bin_1-contigs_00152
+WOR-3_metaspades_Bin_1-contigs_00153	K01710
+WOR-3_metaspades_Bin_1-contigs_00154	K01790
+WOR-3_metaspades_Bin_1-contigs_00155	K04069
+WOR-3_metaspades_Bin_1-contigs_00156	K09706
+WOR-3_metaspades_Bin_1-contigs_00157
+WOR-3_metaspades_Bin_1-contigs_00158
+WOR-3_metaspades_Bin_1-contigs_00159	K03688
+WOR-3_metaspades_Bin_1-contigs_00160	K00554
+WOR-3_metaspades_Bin_1-contigs_00161	K06960
+WOR-3_metaspades_Bin_1-contigs_00162	K02959
+WOR-3_metaspades_Bin_1-contigs_00163
+WOR-3_metaspades_Bin_1-contigs_00164	K06153
+WOR-3_metaspades_Bin_1-contigs_00165
+WOR-3_metaspades_Bin_1-contigs_00166	K03526
+WOR-3_metaspades_Bin_1-contigs_00167	K01579
+WOR-3_metaspades_Bin_1-contigs_00168	K04042
+WOR-3_metaspades_Bin_1-contigs_00169
+WOR-3_metaspades_Bin_1-contigs_00170
+WOR-3_metaspades_Bin_1-contigs_00171	K09710
+WOR-3_metaspades_Bin_1-contigs_00172	K02356
+WOR-3_metaspades_Bin_1-contigs_00173
+WOR-3_metaspades_Bin_1-contigs_00174	K03572
+WOR-3_metaspades_Bin_1-contigs_00175	K03499
+WOR-3_metaspades_Bin_1-contigs_00176
+WOR-3_metaspades_Bin_1-contigs_00177	K01784
+WOR-3_metaspades_Bin_1-contigs_00178
+WOR-3_metaspades_Bin_1-contigs_00179	K02124
+WOR-3_metaspades_Bin_1-contigs_00180
+WOR-3_metaspades_Bin_1-contigs_00181	K03561
+WOR-3_metaspades_Bin_1-contigs_00182
+WOR-3_metaspades_Bin_1-contigs_00183
+WOR-3_metaspades_Bin_1-contigs_00184	K02469
+WOR-3_metaspades_Bin_1-contigs_00185
+WOR-3_metaspades_Bin_1-contigs_00186
+WOR-3_metaspades_Bin_1-contigs_00187	K00549
+WOR-3_metaspades_Bin_1-contigs_00188
+WOR-3_metaspades_Bin_1-contigs_00189	K03286
+WOR-3_metaspades_Bin_1-contigs_00190
+WOR-3_metaspades_Bin_1-contigs_00191
+WOR-3_metaspades_Bin_1-contigs_00192	K09791
+WOR-3_metaspades_Bin_1-contigs_00193
+WOR-3_metaspades_Bin_1-contigs_00194
+WOR-3_metaspades_Bin_1-contigs_00196	K00008
+WOR-3_metaspades_Bin_1-contigs_00197	K03702
+WOR-3_metaspades_Bin_1-contigs_00198	K00123
+WOR-3_metaspades_Bin_1-contigs_00199	K01878
+WOR-3_metaspades_Bin_1-contigs_00200
+WOR-3_metaspades_Bin_1-contigs_00201
+WOR-3_metaspades_Bin_1-contigs_00203
+WOR-3_metaspades_Bin_1-contigs_00204
+WOR-3_metaspades_Bin_1-contigs_00205	K00261
+WOR-3_metaspades_Bin_1-contigs_00206
+WOR-3_metaspades_Bin_1-contigs_00207	K03734
+WOR-3_metaspades_Bin_1-contigs_00208	K01258
+WOR-3_metaspades_Bin_1-contigs_00209	K16554
+WOR-3_metaspades_Bin_1-contigs_00210
+WOR-3_metaspades_Bin_1-contigs_00211
+WOR-3_metaspades_Bin_1-contigs_00212	K00858
+WOR-3_metaspades_Bin_1-contigs_00213	K02493
+WOR-3_metaspades_Bin_1-contigs_00214	K07560
+WOR-3_metaspades_Bin_1-contigs_00215	K05520
+WOR-3_metaspades_Bin_1-contigs_00216
+WOR-3_metaspades_Bin_1-contigs_00217	K02906
+WOR-3_metaspades_Bin_1-contigs_00218	K02946
+WOR-3_metaspades_Bin_1-contigs_00219	K02358
+WOR-3_metaspades_Bin_1-contigs_00220	K01883
+WOR-3_metaspades_Bin_1-contigs_00221	K01937
+WOR-3_metaspades_Bin_1-contigs_00222	K03616
+WOR-3_metaspades_Bin_1-contigs_00223	K01953
+WOR-3_metaspades_Bin_1-contigs_00224	K02528
+WOR-3_metaspades_Bin_1-contigs_00225
+WOR-3_metaspades_Bin_1-contigs_00226
+WOR-3_metaspades_Bin_1-contigs_00227	K01972
+WOR-3_metaspades_Bin_1-contigs_00228	K07478
+WOR-3_metaspades_Bin_1-contigs_00229
+WOR-3_metaspades_Bin_1-contigs_00230
+WOR-3_metaspades_Bin_1-contigs_00231	K16089
+WOR-3_metaspades_Bin_1-contigs_00232	K01035
+WOR-3_metaspades_Bin_1-contigs_00233	K01034
+WOR-3_metaspades_Bin_1-contigs_00234	K01843
+WOR-3_metaspades_Bin_1-contigs_00235	K18013
+WOR-3_metaspades_Bin_1-contigs_00236	K01845
+WOR-3_metaspades_Bin_1-contigs_00237	K18011
+WOR-3_metaspades_Bin_1-contigs_00238	K01844
+WOR-3_metaspades_Bin_1-contigs_00239	K03724
+WOR-3_metaspades_Bin_1-contigs_00240	K00928
+WOR-3_metaspades_Bin_1-contigs_00241
+WOR-3_metaspades_Bin_1-contigs_00242	K01042
+WOR-3_metaspades_Bin_1-contigs_00243	K01008
+WOR-3_metaspades_Bin_1-contigs_00245
+WOR-3_metaspades_Bin_1-contigs_00246	K23997
+WOR-3_metaspades_Bin_1-contigs_00247
+WOR-3_metaspades_Bin_1-contigs_00248	K07112
+WOR-3_metaspades_Bin_1-contigs_00249
+WOR-3_metaspades_Bin_1-contigs_00250	K10670
+WOR-3_metaspades_Bin_1-contigs_00251	K10670
+WOR-3_metaspades_Bin_1-contigs_00252	K09859
+WOR-3_metaspades_Bin_1-contigs_00253
+WOR-3_metaspades_Bin_1-contigs_00254
+WOR-3_metaspades_Bin_1-contigs_00255	K00099
+WOR-3_metaspades_Bin_1-contigs_00256	K11749
+WOR-3_metaspades_Bin_1-contigs_00257	K03470
+WOR-3_metaspades_Bin_1-contigs_00258
+WOR-3_metaspades_Bin_1-contigs_00259
+WOR-3_metaspades_Bin_1-contigs_00260	K00057
+WOR-3_metaspades_Bin_1-contigs_00261	K08321
+WOR-3_metaspades_Bin_1-contigs_00262
+WOR-3_metaspades_Bin_1-contigs_00263
+WOR-3_metaspades_Bin_1-contigs_00264	K02967
+WOR-3_metaspades_Bin_1-contigs_00265	K02357
+WOR-3_metaspades_Bin_1-contigs_00266	K09903
+WOR-3_metaspades_Bin_1-contigs_00267	K02838
+WOR-3_metaspades_Bin_1-contigs_00268
+WOR-3_metaspades_Bin_1-contigs_00269
+WOR-3_metaspades_Bin_1-contigs_00270
+WOR-3_metaspades_Bin_1-contigs_00271	K11754
+WOR-3_metaspades_Bin_1-contigs_00272	K02911
+WOR-3_metaspades_Bin_1-contigs_00273	K02355
+WOR-3_metaspades_Bin_1-contigs_00274
+WOR-3_metaspades_Bin_1-contigs_00275	K01961
+WOR-3_metaspades_Bin_1-contigs_00276	K07301
+WOR-3_metaspades_Bin_1-contigs_00277	K07080
+WOR-3_metaspades_Bin_1-contigs_00278
+WOR-3_metaspades_Bin_1-contigs_00279
+WOR-3_metaspades_Bin_1-contigs_00280
+WOR-3_metaspades_Bin_1-contigs_00281	K07301
+WOR-3_metaspades_Bin_1-contigs_00282
+WOR-3_metaspades_Bin_1-contigs_00283	K01939
+WOR-3_metaspades_Bin_1-contigs_00284	K07027
+WOR-3_metaspades_Bin_1-contigs_00285
+WOR-3_metaspades_Bin_1-contigs_00286	K04567
+WOR-3_metaspades_Bin_1-contigs_00287	K05825
+WOR-3_metaspades_Bin_1-contigs_00288
+WOR-3_metaspades_Bin_1-contigs_00289
+WOR-3_metaspades_Bin_1-contigs_00290
+WOR-3_metaspades_Bin_1-contigs_00291
+WOR-3_metaspades_Bin_1-contigs_00292	K00666
+WOR-3_metaspades_Bin_1-contigs_00293	K01895
+WOR-3_metaspades_Bin_1-contigs_00294	K01668
+WOR-3_metaspades_Bin_1-contigs_00295	K13953
+WOR-3_metaspades_Bin_1-contigs_00296
+WOR-3_metaspades_Bin_1-contigs_00297
+WOR-3_metaspades_Bin_1-contigs_00298
+WOR-3_metaspades_Bin_1-contigs_00299	K25028
+WOR-3_metaspades_Bin_1-contigs_00300	K08316
+WOR-3_metaspades_Bin_1-contigs_00301
+WOR-3_metaspades_Bin_1-contigs_00302
+WOR-3_metaspades_Bin_1-contigs_00303
+WOR-3_metaspades_Bin_1-contigs_00304
+WOR-3_metaspades_Bin_1-contigs_00305	K03568
+WOR-3_metaspades_Bin_1-contigs_00306	K03592
+WOR-3_metaspades_Bin_1-contigs_00308
+WOR-3_metaspades_Bin_1-contigs_00309	K00382
+WOR-3_metaspades_Bin_1-contigs_00310
+WOR-3_metaspades_Bin_1-contigs_00311
+WOR-3_metaspades_Bin_1-contigs_00312
+WOR-3_metaspades_Bin_1-contigs_00313
+WOR-3_metaspades_Bin_1-contigs_00314	K01895
+WOR-3_metaspades_Bin_1-contigs_00315	K04487
+WOR-3_metaspades_Bin_1-contigs_00316	K00566
+WOR-3_metaspades_Bin_1-contigs_00317
+WOR-3_metaspades_Bin_1-contigs_00318	K00974
+WOR-3_metaspades_Bin_1-contigs_00319	K00721
+WOR-3_metaspades_Bin_1-contigs_00320	K00991
+WOR-3_metaspades_Bin_1-contigs_00321	K01770
+WOR-3_metaspades_Bin_1-contigs_00322
+WOR-3_metaspades_Bin_1-contigs_00323
+WOR-3_metaspades_Bin_1-contigs_00324
+WOR-3_metaspades_Bin_1-contigs_00325
+WOR-3_metaspades_Bin_1-contigs_00326	K07491
+WOR-3_metaspades_Bin_1-contigs_00327	K02823
+WOR-3_metaspades_Bin_1-contigs_00328	K00759
+WOR-3_metaspades_Bin_1-contigs_00329	K01515
+WOR-3_metaspades_Bin_1-contigs_00330
+WOR-3_metaspades_Bin_1-contigs_00331	K01006
+WOR-3_metaspades_Bin_1-contigs_00332
+WOR-3_metaspades_Bin_1-contigs_00333	K20885
+WOR-3_metaspades_Bin_1-contigs_00334	K09765
+WOR-3_metaspades_Bin_1-contigs_00335	K00790
+WOR-3_metaspades_Bin_1-contigs_00336
+WOR-3_metaspades_Bin_1-contigs_00337
+WOR-3_metaspades_Bin_1-contigs_00338
+WOR-3_metaspades_Bin_1-contigs_00339	K07318
+WOR-3_metaspades_Bin_1-contigs_00340
+WOR-3_metaspades_Bin_1-contigs_00341	K18499
+WOR-3_metaspades_Bin_1-contigs_00342
+WOR-3_metaspades_Bin_1-contigs_00343
+WOR-3_metaspades_Bin_1-contigs_00344	K01887
+WOR-3_metaspades_Bin_1-contigs_00345
+WOR-3_metaspades_Bin_1-contigs_00346	K03210
+WOR-3_metaspades_Bin_1-contigs_00347
+WOR-3_metaspades_Bin_1-contigs_00348	K09696
+WOR-3_metaspades_Bin_1-contigs_00349	K09697
+WOR-3_metaspades_Bin_1-contigs_00350	K03101
+WOR-3_metaspades_Bin_1-contigs_00351	K01678
+WOR-3_metaspades_Bin_1-contigs_00352	K08256
+WOR-3_metaspades_Bin_1-contigs_00353	K13787
+WOR-3_metaspades_Bin_1-contigs_00354
+WOR-3_metaspades_Bin_1-contigs_00355	K13993
+WOR-3_metaspades_Bin_1-contigs_00356
+WOR-3_metaspades_Bin_1-contigs_00357
+WOR-3_metaspades_Bin_1-contigs_00358
+WOR-3_metaspades_Bin_1-contigs_00359	K09748
+WOR-3_metaspades_Bin_1-contigs_00360	K02600
+WOR-3_metaspades_Bin_1-contigs_00361	K02519
+WOR-3_metaspades_Bin_1-contigs_00362	K02834
+WOR-3_metaspades_Bin_1-contigs_00363
+WOR-3_metaspades_Bin_1-contigs_00364
+WOR-3_metaspades_Bin_1-contigs_00365	K00297
+WOR-3_metaspades_Bin_1-contigs_00366
+WOR-3_metaspades_Bin_1-contigs_00367
+WOR-3_metaspades_Bin_1-contigs_00368	K10671
+WOR-3_metaspades_Bin_1-contigs_00369	K10672
+WOR-3_metaspades_Bin_1-contigs_00370	K10672
+WOR-3_metaspades_Bin_1-contigs_00371	K00384
+WOR-3_metaspades_Bin_1-contigs_00372	K07086
+WOR-3_metaspades_Bin_1-contigs_00373
+WOR-3_metaspades_Bin_1-contigs_00374
+WOR-3_metaspades_Bin_1-contigs_00375
+WOR-3_metaspades_Bin_1-contigs_00376
+WOR-3_metaspades_Bin_1-contigs_00377	K01677
+WOR-3_metaspades_Bin_1-contigs_00378
+WOR-3_metaspades_Bin_1-contigs_00379
+WOR-3_metaspades_Bin_1-contigs_00380
+WOR-3_metaspades_Bin_1-contigs_00381
+WOR-3_metaspades_Bin_1-contigs_00382
+WOR-3_metaspades_Bin_1-contigs_00383	K07058
+WOR-3_metaspades_Bin_1-contigs_00384	K00767
+WOR-3_metaspades_Bin_1-contigs_00385	K02986
+WOR-3_metaspades_Bin_1-contigs_00386	K02948
+WOR-3_metaspades_Bin_1-contigs_00387	K02952
+WOR-3_metaspades_Bin_1-contigs_00388	K02919
+WOR-3_metaspades_Bin_1-contigs_00389	K02518
+WOR-3_metaspades_Bin_1-contigs_00390	K00939
+WOR-3_metaspades_Bin_1-contigs_00391	K03076
+WOR-3_metaspades_Bin_1-contigs_00392	K02876
+WOR-3_metaspades_Bin_1-contigs_00393	K02907
+WOR-3_metaspades_Bin_1-contigs_00394	K02988
+WOR-3_metaspades_Bin_1-contigs_00395	K02881
+WOR-3_metaspades_Bin_1-contigs_00396	K02933
+WOR-3_metaspades_Bin_1-contigs_00397
+WOR-3_metaspades_Bin_1-contigs_00398
+WOR-3_metaspades_Bin_1-contigs_00399
+WOR-3_metaspades_Bin_1-contigs_00400
+WOR-3_metaspades_Bin_1-contigs_00401
+WOR-3_metaspades_Bin_1-contigs_00402
+WOR-3_metaspades_Bin_1-contigs_00403	K03640
+WOR-3_metaspades_Bin_1-contigs_00404
+WOR-3_metaspades_Bin_1-contigs_00405	K03562
+WOR-3_metaspades_Bin_1-contigs_00406	K03560
+WOR-3_metaspades_Bin_1-contigs_00407
+WOR-3_metaspades_Bin_1-contigs_00408	K03614
+WOR-3_metaspades_Bin_1-contigs_00409	K03615
+WOR-3_metaspades_Bin_1-contigs_00410
+WOR-3_metaspades_Bin_1-contigs_00411
+WOR-3_metaspades_Bin_1-contigs_00412	K15778
+WOR-3_metaspades_Bin_1-contigs_00413
+WOR-3_metaspades_Bin_1-contigs_00414	K07752
+WOR-3_metaspades_Bin_1-contigs_00415
+WOR-3_metaspades_Bin_1-contigs_00416
+WOR-3_metaspades_Bin_1-contigs_00417
+WOR-3_metaspades_Bin_1-contigs_00418
+WOR-3_metaspades_Bin_1-contigs_00419
+WOR-3_metaspades_Bin_1-contigs_00420
+WOR-3_metaspades_Bin_1-contigs_00421	K04066
+WOR-3_metaspades_Bin_1-contigs_00422
+WOR-3_metaspades_Bin_1-contigs_00423	K03438
+WOR-3_metaspades_Bin_1-contigs_00424
+WOR-3_metaspades_Bin_1-contigs_00425
+WOR-3_metaspades_Bin_1-contigs_00426	K23270
+WOR-3_metaspades_Bin_1-contigs_00427
+WOR-3_metaspades_Bin_1-contigs_00428	K02950
+WOR-3_metaspades_Bin_1-contigs_00429
+WOR-3_metaspades_Bin_1-contigs_00430	K03271
+WOR-3_metaspades_Bin_1-contigs_00431	K00919
+WOR-3_metaspades_Bin_1-contigs_00432	K06412
+WOR-3_metaspades_Bin_1-contigs_00434	K03265
+WOR-3_metaspades_Bin_1-contigs_00435	K09690
+WOR-3_metaspades_Bin_1-contigs_00436	K02119
+WOR-3_metaspades_Bin_1-contigs_00437
+WOR-3_metaspades_Bin_1-contigs_00438	K02117
+WOR-3_metaspades_Bin_1-contigs_00439	K02118
+WOR-3_metaspades_Bin_1-contigs_00440	K03655
+WOR-3_metaspades_Bin_1-contigs_00441
+WOR-3_metaspades_Bin_1-contigs_00442	K06997
+WOR-3_metaspades_Bin_1-contigs_00443	K00748
+WOR-3_metaspades_Bin_1-contigs_00444	K01756
+WOR-3_metaspades_Bin_1-contigs_00445	K04096
+WOR-3_metaspades_Bin_1-contigs_00446
+WOR-3_metaspades_Bin_1-contigs_00447
+WOR-3_metaspades_Bin_1-contigs_00448	K00088
+WOR-3_metaspades_Bin_1-contigs_00449	K01419
+WOR-3_metaspades_Bin_1-contigs_00450	K03667
+WOR-3_metaspades_Bin_1-contigs_00451	K02887
+WOR-3_metaspades_Bin_1-contigs_00452	K01889
+WOR-3_metaspades_Bin_1-contigs_00453
+WOR-3_metaspades_Bin_1-contigs_00454
+WOR-3_metaspades_Bin_1-contigs_00455
+WOR-3_metaspades_Bin_1-contigs_00456	K01712
+WOR-3_metaspades_Bin_1-contigs_00457
+WOR-3_metaspades_Bin_1-contigs_00458	K02338
+WOR-3_metaspades_Bin_1-contigs_00459
+WOR-3_metaspades_Bin_1-contigs_00460	K00970
+WOR-3_metaspades_Bin_1-contigs_00461	K02238
+WOR-3_metaspades_Bin_1-contigs_00462	K03466
+WOR-3_metaspades_Bin_1-contigs_00463	K03676
+WOR-3_metaspades_Bin_1-contigs_00464	K01633
+WOR-3_metaspades_Bin_1-contigs_00465
+WOR-3_metaspades_Bin_1-contigs_00466
+WOR-3_metaspades_Bin_1-contigs_00467	K04043
+WOR-3_metaspades_Bin_1-contigs_00468	K03686
+WOR-3_metaspades_Bin_1-contigs_00469
+WOR-3_metaspades_Bin_1-contigs_00470
+WOR-3_metaspades_Bin_1-contigs_00471	K02970
+WOR-3_metaspades_Bin_1-contigs_00472
+WOR-3_metaspades_Bin_1-contigs_00473
+WOR-3_metaspades_Bin_1-contigs_00474
+WOR-3_metaspades_Bin_1-contigs_00477
+WOR-3_metaspades_Bin_1-contigs_00478
+WOR-3_metaspades_Bin_1-contigs_00479
+WOR-3_metaspades_Bin_1-contigs_00480
+WOR-3_metaspades_Bin_1-contigs_00482
+WOR-3_metaspades_Bin_1-contigs_00483
+WOR-3_metaspades_Bin_1-contigs_00486	K02914
+WOR-3_metaspades_Bin_1-contigs_00487	K08998
+WOR-3_metaspades_Bin_1-contigs_00488	K01696
+WOR-3_metaspades_Bin_1-contigs_00489
+WOR-3_metaspades_Bin_1-contigs_00490	K02806
+WOR-3_metaspades_Bin_1-contigs_00491	K09125
+WOR-3_metaspades_Bin_1-contigs_00492
+WOR-3_metaspades_Bin_1-contigs_00493	K01571
+WOR-3_metaspades_Bin_1-contigs_00494
+WOR-3_metaspades_Bin_1-contigs_00495
+WOR-3_metaspades_Bin_1-contigs_00496	K03427
+WOR-3_metaspades_Bin_1-contigs_00497	K01465
+WOR-3_metaspades_Bin_1-contigs_00498	K00609
+WOR-3_metaspades_Bin_1-contigs_00499	K02825
+WOR-3_metaspades_Bin_1-contigs_00500	K03046
+WOR-3_metaspades_Bin_1-contigs_00501	K03043
+WOR-3_metaspades_Bin_1-contigs_00502
+WOR-3_metaspades_Bin_1-contigs_00503
+WOR-3_metaspades_Bin_1-contigs_00504
+WOR-3_metaspades_Bin_1-contigs_00505	K00943
+WOR-3_metaspades_Bin_1-contigs_00506	K02909
+WOR-3_metaspades_Bin_1-contigs_00507
+WOR-3_metaspades_Bin_1-contigs_00508
+WOR-3_metaspades_Bin_1-contigs_00509
+WOR-3_metaspades_Bin_1-contigs_00510	K03654
+WOR-3_metaspades_Bin_1-contigs_00511	K03654
+WOR-3_metaspades_Bin_1-contigs_00512
+WOR-3_metaspades_Bin_1-contigs_00513
+WOR-3_metaspades_Bin_1-contigs_00514	K21577
+WOR-3_metaspades_Bin_1-contigs_00515	K13018
+WOR-3_metaspades_Bin_1-contigs_00516	K17105
+WOR-3_metaspades_Bin_1-contigs_00517
+WOR-3_metaspades_Bin_1-contigs_00518	K06218
+WOR-3_metaspades_Bin_1-contigs_00519
+WOR-3_metaspades_Bin_1-contigs_00520	K02945
+WOR-3_metaspades_Bin_1-contigs_00521
+WOR-3_metaspades_Bin_1-contigs_00522
+WOR-3_metaspades_Bin_1-contigs_00523	K03703
+WOR-3_metaspades_Bin_1-contigs_00524	K00859
+WOR-3_metaspades_Bin_1-contigs_00525	K00571
+WOR-3_metaspades_Bin_1-contigs_00526	K02335
+WOR-3_metaspades_Bin_1-contigs_00527	K01191
+WOR-3_metaspades_Bin_1-contigs_00528	K01866
+WOR-3_metaspades_Bin_1-contigs_00529
+WOR-3_metaspades_Bin_1-contigs_00530
+WOR-3_metaspades_Bin_1-contigs_00531
+WOR-3_metaspades_Bin_1-contigs_00532	K07456
+WOR-3_metaspades_Bin_1-contigs_00533
+WOR-3_metaspades_Bin_1-contigs_00534
+WOR-3_metaspades_Bin_1-contigs_00535
+WOR-3_metaspades_Bin_1-contigs_00536
+WOR-3_metaspades_Bin_1-contigs_00537
+WOR-3_metaspades_Bin_1-contigs_00538	K00926
+WOR-3_metaspades_Bin_1-contigs_00539	K07335
+WOR-3_metaspades_Bin_1-contigs_00540	K06213
+WOR-3_metaspades_Bin_1-contigs_00541
+WOR-3_metaspades_Bin_1-contigs_00542
+WOR-3_metaspades_Bin_1-contigs_00543
+WOR-3_metaspades_Bin_1-contigs_00544
+WOR-3_metaspades_Bin_1-contigs_00545	K21001
+WOR-3_metaspades_Bin_1-contigs_00546
+WOR-3_metaspades_Bin_1-contigs_00547	K06381
+WOR-3_metaspades_Bin_1-contigs_00548	K03617
+WOR-3_metaspades_Bin_1-contigs_00549	K03613
+WOR-3_metaspades_Bin_1-contigs_00550
+WOR-3_metaspades_Bin_1-contigs_00551
+WOR-3_metaspades_Bin_1-contigs_00552
+WOR-3_metaspades_Bin_1-contigs_00553	K04075
+WOR-3_metaspades_Bin_1-contigs_00554
+WOR-3_metaspades_Bin_1-contigs_00555	K09793
+WOR-3_metaspades_Bin_1-contigs_00556
+WOR-3_metaspades_Bin_1-contigs_00557	K14742
+WOR-3_metaspades_Bin_1-contigs_00558	K01069
+WOR-3_metaspades_Bin_1-contigs_00559
+WOR-3_metaspades_Bin_1-contigs_00561	K03544
+WOR-3_metaspades_Bin_1-contigs_00562	K01358
+WOR-3_metaspades_Bin_1-contigs_00563
+WOR-3_metaspades_Bin_1-contigs_00564	K00948
+WOR-3_metaspades_Bin_1-contigs_00565	K02897
+WOR-3_metaspades_Bin_1-contigs_00566	K01056
+WOR-3_metaspades_Bin_1-contigs_00567	K04773
+WOR-3_metaspades_Bin_1-contigs_00568
+WOR-3_metaspades_Bin_1-contigs_00569	K01975
+WOR-3_metaspades_Bin_1-contigs_00570	K00981
+WOR-3_metaspades_Bin_1-contigs_00571	K00806
+WOR-3_metaspades_Bin_1-contigs_00572	K04085
+WOR-3_metaspades_Bin_1-contigs_00573
+WOR-3_metaspades_Bin_1-contigs_00574
+WOR-3_metaspades_Bin_1-contigs_00575	K04487
+WOR-3_metaspades_Bin_1-contigs_00576	K04488
+WOR-3_metaspades_Bin_1-contigs_00577
+WOR-3_metaspades_Bin_1-contigs_00578
+WOR-3_metaspades_Bin_1-contigs_00579	K03386
+WOR-3_metaspades_Bin_1-contigs_00581	K00794
+WOR-3_metaspades_Bin_1-contigs_00582	K03625
+WOR-3_metaspades_Bin_1-contigs_00583
+WOR-3_metaspades_Bin_1-contigs_00584	K02899
+WOR-3_metaspades_Bin_1-contigs_00585
+WOR-3_metaspades_Bin_1-contigs_00586
+WOR-3_metaspades_Bin_1-contigs_00587
+WOR-3_metaspades_Bin_1-contigs_00588
+WOR-3_metaspades_Bin_1-contigs_00589	K01495
+WOR-3_metaspades_Bin_1-contigs_00591
+WOR-3_metaspades_Bin_1-contigs_00593
+WOR-3_metaspades_Bin_1-contigs_00594
+WOR-3_metaspades_Bin_1-contigs_00595
+WOR-3_metaspades_Bin_1-contigs_00596
+WOR-3_metaspades_Bin_1-contigs_00597
+WOR-3_metaspades_Bin_1-contigs_00598
+WOR-3_metaspades_Bin_1-contigs_00599
+WOR-3_metaspades_Bin_1-contigs_00600	K00384
+WOR-3_metaspades_Bin_1-contigs_00601
+WOR-3_metaspades_Bin_1-contigs_00602
+WOR-3_metaspades_Bin_1-contigs_00603
+WOR-3_metaspades_Bin_1-contigs_00604
+WOR-3_metaspades_Bin_1-contigs_00605
+WOR-3_metaspades_Bin_1-contigs_00606
+WOR-3_metaspades_Bin_1-contigs_00607	K18889
+WOR-3_metaspades_Bin_1-contigs_00608	K18890
+WOR-3_metaspades_Bin_1-contigs_00609
+WOR-3_metaspades_Bin_1-contigs_00610
+WOR-3_metaspades_Bin_1-contigs_00611
+WOR-3_metaspades_Bin_1-contigs_00612	K01489
+WOR-3_metaspades_Bin_1-contigs_00613	K02237
+WOR-3_metaspades_Bin_1-contigs_00614	K01662
+WOR-3_metaspades_Bin_1-contigs_00615	K07027
+WOR-3_metaspades_Bin_1-contigs_00616	K00067
+WOR-3_metaspades_Bin_1-contigs_00617	K01808
+WOR-3_metaspades_Bin_1-contigs_00618
+WOR-3_metaspades_Bin_1-contigs_00619
+WOR-3_metaspades_Bin_1-contigs_00620	K00573
+WOR-3_metaspades_Bin_1-contigs_00622
+WOR-3_metaspades_Bin_1-contigs_00623
+WOR-3_metaspades_Bin_1-contigs_00624	K10112
+WOR-3_metaspades_Bin_1-contigs_00625
+WOR-3_metaspades_Bin_1-contigs_00626	K06173
+WOR-3_metaspades_Bin_1-contigs_00627	K03525
+WOR-3_metaspades_Bin_1-contigs_00628
+WOR-3_metaspades_Bin_1-contigs_00629	K07277
+WOR-3_metaspades_Bin_1-contigs_00630
+WOR-3_metaspades_Bin_1-contigs_00631	K23265
+WOR-3_metaspades_Bin_1-contigs_00632
+WOR-3_metaspades_Bin_1-contigs_00633	K01129
+WOR-3_metaspades_Bin_1-contigs_00634
+WOR-3_metaspades_Bin_1-contigs_00635	K08676
+WOR-3_metaspades_Bin_1-contigs_00636
+WOR-3_metaspades_Bin_1-contigs_00637	K04069
+WOR-3_metaspades_Bin_1-contigs_00638
+WOR-3_metaspades_Bin_1-contigs_00639	K03565
+WOR-3_metaspades_Bin_1-contigs_00640
+WOR-3_metaspades_Bin_1-contigs_00641
+WOR-3_metaspades_Bin_1-contigs_00642
+WOR-3_metaspades_Bin_1-contigs_00643
+WOR-3_metaspades_Bin_1-contigs_00644	K11991
+WOR-3_metaspades_Bin_1-contigs_00645	K08301
+WOR-3_metaspades_Bin_1-contigs_00646
+WOR-3_metaspades_Bin_1-contigs_00647	K02996
+WOR-3_metaspades_Bin_1-contigs_00648	K03832
+WOR-3_metaspades_Bin_1-contigs_00649	K03699
+WOR-3_metaspades_Bin_1-contigs_00650	K03699
+WOR-3_metaspades_Bin_1-contigs_00651	K07042
+WOR-3_metaspades_Bin_1-contigs_00652
+WOR-3_metaspades_Bin_1-contigs_00653	K18012
+WOR-3_metaspades_Bin_1-contigs_00655
+WOR-3_metaspades_Bin_1-contigs_00656	K01251
+WOR-3_metaspades_Bin_1-contigs_00657
+WOR-3_metaspades_Bin_1-contigs_00658
+WOR-3_metaspades_Bin_1-contigs_00659
+WOR-3_metaspades_Bin_1-contigs_00660
+WOR-3_metaspades_Bin_1-contigs_00661	K01265
+WOR-3_metaspades_Bin_1-contigs_00662
+WOR-3_metaspades_Bin_1-contigs_00663
+WOR-3_metaspades_Bin_1-contigs_00664
+WOR-3_metaspades_Bin_1-contigs_00665	K03523
+WOR-3_metaspades_Bin_1-contigs_00666	K14645
+WOR-3_metaspades_Bin_1-contigs_00667	K14645
+WOR-3_metaspades_Bin_1-contigs_00668
+WOR-3_metaspades_Bin_1-contigs_00669
+WOR-3_metaspades_Bin_1-contigs_00670	K16363
+WOR-3_metaspades_Bin_1-contigs_00671	K03833
+WOR-3_metaspades_Bin_1-contigs_00672	K03820
+WOR-3_metaspades_Bin_1-contigs_00673
+WOR-3_metaspades_Bin_1-contigs_00674
+WOR-3_metaspades_Bin_1-contigs_00675	K03769
+WOR-3_metaspades_Bin_1-contigs_00676
+WOR-3_metaspades_Bin_1-contigs_00677	K12339
+WOR-3_metaspades_Bin_1-contigs_00678
+WOR-3_metaspades_Bin_1-contigs_00679
+WOR-3_metaspades_Bin_1-contigs_00680
+WOR-3_metaspades_Bin_1-contigs_00681	K03101
+WOR-3_metaspades_Bin_1-contigs_00682	K06204
+WOR-3_metaspades_Bin_1-contigs_00683
+WOR-3_metaspades_Bin_1-contigs_00684	K03040
+WOR-3_metaspades_Bin_1-contigs_00685	K02879
+WOR-3_metaspades_Bin_1-contigs_00686
+WOR-3_metaspades_Bin_1-contigs_00687	K18682
+WOR-3_metaspades_Bin_1-contigs_00688	K09769
+WOR-3_metaspades_Bin_1-contigs_00689	K03495
+WOR-3_metaspades_Bin_1-contigs_00690	K22699
+WOR-3_metaspades_Bin_1-contigs_00691	K09808
+WOR-3_metaspades_Bin_1-contigs_00692
+WOR-3_metaspades_Bin_1-contigs_00693	K00626
+WOR-3_metaspades_Bin_1-contigs_00694	K07755
+WOR-3_metaspades_Bin_1-contigs_00695
+WOR-3_metaspades_Bin_1-contigs_00696	K06217
+WOR-3_metaspades_Bin_1-contigs_00697	K03924
+WOR-3_metaspades_Bin_1-contigs_00698
+WOR-3_metaspades_Bin_1-contigs_00699	K00941
+WOR-3_metaspades_Bin_1-contigs_00700	K03168
+WOR-3_metaspades_Bin_1-contigs_00701	K02843
+WOR-3_metaspades_Bin_1-contigs_00702	K01480
+WOR-3_metaspades_Bin_1-contigs_00703
+WOR-3_metaspades_Bin_1-contigs_00704	K00566
+WOR-3_metaspades_Bin_1-contigs_00705	K21219
+WOR-3_metaspades_Bin_1-contigs_00706	K03517
+WOR-3_metaspades_Bin_1-contigs_00707
+WOR-3_metaspades_Bin_1-contigs_00708	K02123
+WOR-3_metaspades_Bin_1-contigs_00709
+WOR-3_metaspades_Bin_1-contigs_00710
+WOR-3_metaspades_Bin_1-contigs_00711
+WOR-3_metaspades_Bin_1-contigs_00712	K04078
+WOR-3_metaspades_Bin_1-contigs_00713	K04077
+WOR-3_metaspades_Bin_1-contigs_00714
+WOR-3_metaspades_Bin_1-contigs_00715	K01933
+WOR-3_metaspades_Bin_1-contigs_00716	K02784
+WOR-3_metaspades_Bin_1-contigs_00717	K24144
+WOR-3_metaspades_Bin_1-contigs_00718
+WOR-3_metaspades_Bin_1-contigs_00719
+WOR-3_metaspades_Bin_1-contigs_00720
+WOR-3_metaspades_Bin_1-contigs_00721
+WOR-3_metaspades_Bin_1-contigs_00722	K07566
+WOR-3_metaspades_Bin_1-contigs_00723	K22227
+WOR-3_metaspades_Bin_1-contigs_00724
+WOR-3_metaspades_Bin_1-contigs_00725	K00459
+WOR-3_metaspades_Bin_1-contigs_00726
+WOR-3_metaspades_Bin_1-contigs_00727
+WOR-3_metaspades_Bin_1-contigs_00728
+WOR-3_metaspades_Bin_1-contigs_00729
+WOR-3_metaspades_Bin_1-contigs_00730
+WOR-3_metaspades_Bin_1-contigs_00731
+WOR-3_metaspades_Bin_1-contigs_00732
+WOR-3_metaspades_Bin_1-contigs_00733
+WOR-3_metaspades_Bin_1-contigs_00734
+WOR-3_metaspades_Bin_1-contigs_00735
+WOR-3_metaspades_Bin_1-contigs_00736	K00995
+WOR-3_metaspades_Bin_1-contigs_00737	K07056
+WOR-3_metaspades_Bin_1-contigs_00738
+WOR-3_metaspades_Bin_1-contigs_00739	K01077
+WOR-3_metaspades_Bin_1-contigs_00740
+WOR-3_metaspades_Bin_1-contigs_00741	K01890
+WOR-3_metaspades_Bin_1-contigs_00742	K15146
+WOR-3_metaspades_Bin_1-contigs_00743
+WOR-3_metaspades_Bin_1-contigs_00744
+WOR-3_metaspades_Bin_1-contigs_00745	K06218
+WOR-3_metaspades_Bin_1-contigs_00746	K03147
+WOR-3_metaspades_Bin_1-contigs_00747
+WOR-3_metaspades_Bin_1-contigs_00748	K01999
+WOR-3_metaspades_Bin_1-contigs_00749	K01338
+WOR-3_metaspades_Bin_1-contigs_00750	K02835
+WOR-3_metaspades_Bin_1-contigs_00751
+WOR-3_metaspades_Bin_1-contigs_00752	K00942
+WOR-3_metaspades_Bin_1-contigs_00753
+WOR-3_metaspades_Bin_1-contigs_00754
+WOR-3_metaspades_Bin_1-contigs_00755	K05919
+WOR-3_metaspades_Bin_1-contigs_00756	K04084
+WOR-3_metaspades_Bin_1-contigs_00757	K03671
+WOR-3_metaspades_Bin_1-contigs_00758
+WOR-3_metaspades_Bin_1-contigs_00759	K03387
+WOR-3_metaspades_Bin_1-contigs_00760	K02217
+WOR-3_metaspades_Bin_1-contigs_00761	K15521
+WOR-3_metaspades_Bin_1-contigs_00762
+WOR-3_metaspades_Bin_1-contigs_00763
+WOR-3_metaspades_Bin_1-contigs_00764
+WOR-3_metaspades_Bin_1-contigs_00765
+WOR-3_metaspades_Bin_1-contigs_00766
+WOR-3_metaspades_Bin_1-contigs_00767	K00278
+WOR-3_metaspades_Bin_1-contigs_00768
+WOR-3_metaspades_Bin_1-contigs_00769	K05808
+WOR-3_metaspades_Bin_1-contigs_00770	K06023
+WOR-3_metaspades_Bin_1-contigs_00771	K03474
+WOR-3_metaspades_Bin_1-contigs_00772
+WOR-3_metaspades_Bin_1-contigs_00773	K07460
+WOR-3_metaspades_Bin_1-contigs_00774
+WOR-3_metaspades_Bin_1-contigs_00775
+WOR-3_metaspades_Bin_1-contigs_00776
+WOR-3_metaspades_Bin_1-contigs_00777	K03630
+WOR-3_metaspades_Bin_1-contigs_00778
+WOR-3_metaspades_Bin_1-contigs_00779
+WOR-3_metaspades_Bin_1-contigs_00780	K00616
+WOR-3_metaspades_Bin_1-contigs_00783
+WOR-3_metaspades_Bin_1-contigs_00784	K07076
+WOR-3_metaspades_Bin_1-contigs_00785
+WOR-3_metaspades_Bin_1-contigs_00786	K16703
+WOR-3_metaspades_Bin_1-contigs_00787	K11085
+WOR-3_metaspades_Bin_1-contigs_00788
+WOR-3_metaspades_Bin_1-contigs_00789	K03655
+WOR-3_metaspades_Bin_1-contigs_00790
+WOR-3_metaspades_Bin_1-contigs_00791
+WOR-3_metaspades_Bin_1-contigs_00792
+WOR-3_metaspades_Bin_1-contigs_00793	K03086
+WOR-3_metaspades_Bin_1-contigs_00794	K04771
+WOR-3_metaspades_Bin_1-contigs_00795	K00971
+WOR-3_metaspades_Bin_1-contigs_00796	K07053
+WOR-3_metaspades_Bin_1-contigs_00797	K03215
+WOR-3_metaspades_Bin_1-contigs_00798	K10773
+WOR-3_metaspades_Bin_1-contigs_00799
+WOR-3_metaspades_Bin_1-contigs_00800
+WOR-3_metaspades_Bin_1-contigs_00801
+WOR-3_metaspades_Bin_1-contigs_00802
+WOR-3_metaspades_Bin_1-contigs_00803
+WOR-3_metaspades_Bin_1-contigs_00804
+WOR-3_metaspades_Bin_1-contigs_00805
+WOR-3_metaspades_Bin_1-contigs_00806
+WOR-3_metaspades_Bin_1-contigs_00807
+WOR-3_metaspades_Bin_1-contigs_00808
+WOR-3_metaspades_Bin_1-contigs_00809
+WOR-3_metaspades_Bin_1-contigs_00810
+WOR-3_metaspades_Bin_1-contigs_00811
+WOR-3_metaspades_Bin_1-contigs_00812	K05947
+WOR-3_metaspades_Bin_1-contigs_00813	K03555
+WOR-3_metaspades_Bin_1-contigs_00814	K03657
+WOR-3_metaspades_Bin_1-contigs_00815	K05837
+WOR-3_metaspades_Bin_1-contigs_00816	K03977
+WOR-3_metaspades_Bin_1-contigs_00817	K08591
+WOR-3_metaspades_Bin_1-contigs_00818	K00615
+WOR-3_metaspades_Bin_1-contigs_00819	K00615
+WOR-3_metaspades_Bin_1-contigs_00820	K19802
+WOR-3_metaspades_Bin_1-contigs_00821	K03742
+WOR-3_metaspades_Bin_1-contigs_00822
+WOR-3_metaspades_Bin_1-contigs_00823	K03553
+WOR-3_metaspades_Bin_1-contigs_00824
+WOR-3_metaspades_Bin_1-contigs_00825	K00012
+WOR-3_metaspades_Bin_1-contigs_00826
+WOR-3_metaspades_Bin_1-contigs_00827	K10947
+WOR-3_metaspades_Bin_1-contigs_00828
+WOR-3_metaspades_Bin_1-contigs_00829	K00812
+WOR-3_metaspades_Bin_1-contigs_00830
+WOR-3_metaspades_Bin_1-contigs_00833
+WOR-3_metaspades_Bin_1-contigs_00834
+WOR-3_metaspades_Bin_1-contigs_00835	K07010
+WOR-3_metaspades_Bin_1-contigs_00836
+WOR-3_metaspades_Bin_1-contigs_00837	K02037
+WOR-3_metaspades_Bin_1-contigs_00838	K01734
+WOR-3_metaspades_Bin_1-contigs_00839	K25034
+WOR-3_metaspades_Bin_1-contigs_00840
+WOR-3_metaspades_Bin_1-contigs_00841	K01409
+WOR-3_metaspades_Bin_1-contigs_00842
+WOR-3_metaspades_Bin_1-contigs_00845
+WOR-3_metaspades_Bin_1-contigs_00846
+WOR-3_metaspades_Bin_1-contigs_00847	K02434
+WOR-3_metaspades_Bin_1-contigs_00848
+WOR-3_metaspades_Bin_1-contigs_00849	K03595
+WOR-3_metaspades_Bin_1-contigs_00850
+WOR-3_metaspades_Bin_1-contigs_00851	K01879
+WOR-3_metaspades_Bin_1-contigs_00852
+WOR-3_metaspades_Bin_1-contigs_00853
+WOR-3_metaspades_Bin_1-contigs_00854
+WOR-3_metaspades_Bin_1-contigs_00855
+WOR-3_metaspades_Bin_1-contigs_00856	K07133
+WOR-3_metaspades_Bin_1-contigs_00857	K16785
+WOR-3_metaspades_Bin_1-contigs_00858	K01552
+WOR-3_metaspades_Bin_1-contigs_00859	K07124
+WOR-3_metaspades_Bin_1-contigs_00860
+WOR-3_metaspades_Bin_1-contigs_00861	K11752
+WOR-3_metaspades_Bin_1-contigs_00862
+WOR-3_metaspades_Bin_1-contigs_00863
+WOR-3_metaspades_Bin_1-contigs_00864	K18672
+WOR-3_metaspades_Bin_1-contigs_00865	K02428
+WOR-3_metaspades_Bin_1-contigs_00866
+WOR-3_metaspades_Bin_1-contigs_00867	K03569
+WOR-3_metaspades_Bin_1-contigs_00868	K03570
+WOR-3_metaspades_Bin_1-contigs_00869
+WOR-3_metaspades_Bin_1-contigs_00870
+WOR-3_metaspades_Bin_1-contigs_00871
+WOR-3_metaspades_Bin_1-contigs_00872
+WOR-3_metaspades_Bin_1-contigs_00873
+WOR-3_metaspades_Bin_1-contigs_00874	K07027
+WOR-3_metaspades_Bin_1-contigs_00875
+WOR-3_metaspades_Bin_1-contigs_00876
+WOR-3_metaspades_Bin_1-contigs_00877	K22736
+WOR-3_metaspades_Bin_1-contigs_00878	K04069
+WOR-3_metaspades_Bin_1-contigs_00879	K04069
+WOR-3_metaspades_Bin_1-contigs_00880	K07091
+WOR-3_metaspades_Bin_1-contigs_00881	K14652
+WOR-3_metaspades_Bin_1-contigs_00882	K02337
+WOR-3_metaspades_Bin_1-contigs_00884
+WOR-3_metaspades_Bin_1-contigs_00885
+WOR-3_metaspades_Bin_1-contigs_00886
+WOR-3_metaspades_Bin_1-contigs_00887
+WOR-3_metaspades_Bin_1-contigs_00888
+WOR-3_metaspades_Bin_1-contigs_00889	K04488
+WOR-3_metaspades_Bin_1-contigs_00890
+WOR-3_metaspades_Bin_1-contigs_00891
+WOR-3_metaspades_Bin_1-contigs_00892
+WOR-3_metaspades_Bin_1-contigs_00893	K01962
+WOR-3_metaspades_Bin_1-contigs_00894
+WOR-3_metaspades_Bin_1-contigs_00896
+WOR-3_metaspades_Bin_1-contigs_00897	K19411
+WOR-3_metaspades_Bin_1-contigs_00898	K19328
+WOR-3_metaspades_Bin_1-contigs_00899	K16092
+WOR-3_metaspades_Bin_1-contigs_00900
+WOR-3_metaspades_Bin_1-contigs_00901	K02916
+WOR-3_metaspades_Bin_1-contigs_00902	K02520
+WOR-3_metaspades_Bin_1-contigs_00903	K01868
+WOR-3_metaspades_Bin_1-contigs_00906
+WOR-3_metaspades_Bin_1-contigs_00907
+WOR-3_metaspades_Bin_1-contigs_00908	K13038
+WOR-3_metaspades_Bin_1-contigs_00909	K00060
+WOR-3_metaspades_Bin_1-contigs_00910
+WOR-3_metaspades_Bin_1-contigs_00911
+WOR-3_metaspades_Bin_1-contigs_00912
+WOR-3_metaspades_Bin_1-contigs_00913
+WOR-3_metaspades_Bin_1-contigs_00914	K03590
+WOR-3_metaspades_Bin_1-contigs_00915	K00075
+WOR-3_metaspades_Bin_1-contigs_00916	K01924
+WOR-3_metaspades_Bin_1-contigs_00917	K02563
+WOR-3_metaspades_Bin_1-contigs_00918	K03588
+WOR-3_metaspades_Bin_1-contigs_00919	K01000
+WOR-3_metaspades_Bin_1-contigs_00920
+WOR-3_metaspades_Bin_1-contigs_00921	K07263
+WOR-3_metaspades_Bin_1-contigs_00922	K00604
+WOR-3_metaspades_Bin_1-contigs_00923	K02601
+WOR-3_metaspades_Bin_1-contigs_00924	K02867
+WOR-3_metaspades_Bin_1-contigs_00925	K02863
+WOR-3_metaspades_Bin_1-contigs_00926	K02864
+WOR-3_metaspades_Bin_1-contigs_00927	K02935
+WOR-3_metaspades_Bin_1-contigs_00928	K03524
+WOR-3_metaspades_Bin_1-contigs_00929
+WOR-3_metaspades_Bin_1-contigs_00930
+WOR-3_metaspades_Bin_1-contigs_00931
+WOR-3_metaspades_Bin_1-contigs_00932	K03733
+WOR-3_metaspades_Bin_1-contigs_00933	K04069
+WOR-3_metaspades_Bin_1-contigs_00934
+WOR-3_metaspades_Bin_1-contigs_00935	K01843
+WOR-3_metaspades_Bin_1-contigs_00936	K03644
+WOR-3_metaspades_Bin_1-contigs_00937	K01745
+WOR-3_metaspades_Bin_1-contigs_00938	K03770
+WOR-3_metaspades_Bin_1-contigs_00940
+WOR-3_metaspades_Bin_1-contigs_00941	K04485
+WOR-3_metaspades_Bin_1-contigs_00942
+WOR-3_metaspades_Bin_1-contigs_00944
+WOR-3_metaspades_Bin_1-contigs_00945
+WOR-3_metaspades_Bin_1-contigs_00946	K03111
+WOR-3_metaspades_Bin_1-contigs_00947	K02990
+WOR-3_metaspades_Bin_1-contigs_00948	K03111
+WOR-3_metaspades_Bin_1-contigs_00949	K02963
+WOR-3_metaspades_Bin_1-contigs_00950	K02939
+WOR-3_metaspades_Bin_1-contigs_00951	K08999
+WOR-3_metaspades_Bin_1-contigs_00952	K03696
+WOR-3_metaspades_Bin_1-contigs_00953	K00764
+WOR-3_metaspades_Bin_1-contigs_00954	K01591
+WOR-3_metaspades_Bin_1-contigs_00955
+WOR-3_metaspades_Bin_1-contigs_00956	K09006
+WOR-3_metaspades_Bin_1-contigs_00957	K06925
+WOR-3_metaspades_Bin_1-contigs_00958	K06013
+WOR-3_metaspades_Bin_1-contigs_00959
+WOR-3_metaspades_Bin_1-contigs_00960
+WOR-3_metaspades_Bin_1-contigs_00961	K23734
+WOR-3_metaspades_Bin_1-contigs_00963	K07403
+WOR-3_metaspades_Bin_1-contigs_00964
+WOR-3_metaspades_Bin_1-contigs_00965	K24451
+WOR-3_metaspades_Bin_1-contigs_00966
+WOR-3_metaspades_Bin_1-contigs_00967	K02314
+WOR-3_metaspades_Bin_1-contigs_00968	K02066
+WOR-3_metaspades_Bin_1-contigs_00969	K02065
+WOR-3_metaspades_Bin_1-contigs_00970
+WOR-3_metaspades_Bin_1-contigs_00971
+WOR-3_metaspades_Bin_1-contigs_00972	K01870
+WOR-3_metaspades_Bin_1-contigs_00973	K01876
+WOR-3_metaspades_Bin_1-contigs_00974
+WOR-3_metaspades_Bin_1-contigs_00975
+WOR-3_metaspades_Bin_1-contigs_00976
+WOR-3_metaspades_Bin_1-contigs_00977	K01095
+WOR-3_metaspades_Bin_1-contigs_00978	K01874
+WOR-3_metaspades_Bin_1-contigs_00979	K06287
+WOR-3_metaspades_Bin_1-contigs_00980
+WOR-3_metaspades_Bin_1-contigs_00981	K03612
+WOR-3_metaspades_Bin_1-contigs_00982	K00945
+WOR-3_metaspades_Bin_1-contigs_00983	K07277
+WOR-3_metaspades_Bin_1-contigs_00984
+WOR-3_metaspades_Bin_1-contigs_00985	K00384
+WOR-3_metaspades_Bin_1-contigs_00986	K06941
+WOR-3_metaspades_Bin_1-contigs_00987	K00027
+WOR-3_metaspades_Bin_1-contigs_00988
+WOR-3_metaspades_Bin_1-contigs_00989	K01644
+WOR-3_metaspades_Bin_1-contigs_00990
+WOR-3_metaspades_Bin_1-contigs_00991	K07171
+WOR-3_metaspades_Bin_1-contigs_00992
+WOR-3_metaspades_Bin_1-contigs_00993	K00797
+WOR-3_metaspades_Bin_1-contigs_00994	K04069
+WOR-3_metaspades_Bin_1-contigs_00995	K02005
+WOR-3_metaspades_Bin_1-contigs_00996	K01915
+WOR-3_metaspades_Bin_1-contigs_00997	K00015
+WOR-3_metaspades_Bin_1-contigs_00998
+WOR-3_metaspades_Bin_1-contigs_00999	K03704
+WOR-3_metaspades_Bin_1-contigs_01000	K01893
+WOR-3_metaspades_Bin_1-contigs_01001
+WOR-3_metaspades_Bin_1-contigs_01002
+WOR-3_metaspades_Bin_1-contigs_01003	K06217
+WOR-3_metaspades_Bin_1-contigs_01004
+WOR-3_metaspades_Bin_1-contigs_01005	K02836
+WOR-3_metaspades_Bin_1-contigs_01006	K03561
+WOR-3_metaspades_Bin_1-contigs_01007
+WOR-3_metaspades_Bin_1-contigs_01008	K14393
+WOR-3_metaspades_Bin_1-contigs_01009	K03628
+WOR-3_metaspades_Bin_1-contigs_01010	K21636
+WOR-3_metaspades_Bin_1-contigs_01011	K00791
+WOR-3_metaspades_Bin_1-contigs_01012	K00645
+WOR-3_metaspades_Bin_1-contigs_01013	K03798
+WOR-3_metaspades_Bin_1-contigs_01014	K07457
+WOR-3_metaspades_Bin_1-contigs_01015
+WOR-3_metaspades_Bin_1-contigs_01016
+WOR-3_metaspades_Bin_1-contigs_01017
+WOR-3_metaspades_Bin_1-contigs_01018	K00927
+WOR-3_metaspades_Bin_1-contigs_01019
+WOR-3_metaspades_Bin_1-contigs_01020	K24451
+WOR-3_metaspades_Bin_1-contigs_01021
+WOR-3_metaspades_Bin_1-contigs_01022	K00134
+WOR-3_metaspades_Bin_1-contigs_01023
+WOR-3_metaspades_Bin_1-contigs_01024	K02039
+WOR-3_metaspades_Bin_1-contigs_01025	K02036
+WOR-3_metaspades_Bin_1-contigs_01026	K02038
+WOR-3_metaspades_Bin_1-contigs_01027
+WOR-3_metaspades_Bin_1-contigs_01028
+WOR-3_metaspades_Bin_1-contigs_01029
+WOR-3_metaspades_Bin_1-contigs_01030	K01588
+WOR-3_metaspades_Bin_1-contigs_01031	K01999
+WOR-3_metaspades_Bin_1-contigs_01032
+WOR-3_metaspades_Bin_1-contigs_01033
+WOR-3_metaspades_Bin_1-contigs_01034	K03556
+WOR-3_metaspades_Bin_1-contigs_01035	K02470
+WOR-3_metaspades_Bin_1-contigs_01036
+WOR-3_metaspades_Bin_1-contigs_01037
+WOR-3_metaspades_Bin_1-contigs_01038
+WOR-3_metaspades_Bin_1-contigs_01039	K02313
+WOR-3_metaspades_Bin_1-contigs_01040
+WOR-3_metaspades_Bin_1-contigs_01041	K00989
+WOR-3_metaspades_Bin_1-contigs_01042	K01622
+WOR-3_metaspades_Bin_1-contigs_01043	K02437
+WOR-3_metaspades_Bin_1-contigs_01044	K03530
+WOR-3_metaspades_Bin_1-contigs_01045	K09775
+WOR-3_metaspades_Bin_1-contigs_01046
+WOR-3_metaspades_Bin_1-contigs_01047
+WOR-3_metaspades_Bin_1-contigs_01048
+WOR-3_metaspades_Bin_1-contigs_01049
+WOR-3_metaspades_Bin_1-contigs_01050
+WOR-3_metaspades_Bin_1-contigs_01051
+WOR-3_metaspades_Bin_1-contigs_01052
+WOR-3_metaspades_Bin_1-contigs_01053
+WOR-3_metaspades_Bin_1-contigs_01054
+WOR-3_metaspades_Bin_1-contigs_01055
+WOR-3_metaspades_Bin_1-contigs_01056
+WOR-3_metaspades_Bin_1-contigs_01057
+WOR-3_metaspades_Bin_1-contigs_01058	K08483
+WOR-3_metaspades_Bin_1-contigs_01059
+WOR-3_metaspades_Bin_1-contigs_01060	K03783
+WOR-3_metaspades_Bin_1-contigs_01061	K25027
+WOR-3_metaspades_Bin_1-contigs_01062	K01867
+WOR-3_metaspades_Bin_1-contigs_01063	K03550
+WOR-3_metaspades_Bin_1-contigs_01064
+WOR-3_metaspades_Bin_1-contigs_01065	K01159
+WOR-3_metaspades_Bin_1-contigs_01066
+WOR-3_metaspades_Bin_1-contigs_01067
+WOR-3_metaspades_Bin_1-contigs_01068
+WOR-3_metaspades_Bin_1-contigs_01069
+WOR-3_metaspades_Bin_1-contigs_01070
+WOR-3_metaspades_Bin_1-contigs_01071
+WOR-3_metaspades_Bin_1-contigs_01072
+WOR-3_metaspades_Bin_1-contigs_01073
+WOR-3_metaspades_Bin_1-contigs_01074
+WOR-3_metaspades_Bin_1-contigs_01075
+WOR-3_metaspades_Bin_1-contigs_01076
+WOR-3_metaspades_Bin_1-contigs_01077
+WOR-3_metaspades_Bin_1-contigs_01078
+WOR-3_metaspades_Bin_1-contigs_01079
+WOR-3_metaspades_Bin_1-contigs_01080
+WOR-3_metaspades_Bin_1-contigs_01081	K03722
+WOR-3_metaspades_Bin_1-contigs_01082	K01916
+WOR-3_metaspades_Bin_1-contigs_01083	K07040
+WOR-3_metaspades_Bin_1-contigs_01084	K01791
+WOR-3_metaspades_Bin_1-contigs_01085	K02004
+WOR-3_metaspades_Bin_1-contigs_01086
+WOR-3_metaspades_Bin_1-contigs_01087
+WOR-3_metaspades_Bin_1-contigs_01089
+WOR-3_metaspades_Bin_1-contigs_01090
+WOR-3_metaspades_Bin_1-contigs_01091
+WOR-3_metaspades_Bin_1-contigs_01092
+WOR-3_metaspades_Bin_1-contigs_01093	K03980
+WOR-3_metaspades_Bin_1-contigs_01094
+WOR-3_metaspades_Bin_1-contigs_01095	K03501
+WOR-3_metaspades_Bin_1-contigs_01096
+WOR-3_metaspades_Bin_1-contigs_01097
+WOR-3_metaspades_Bin_1-contigs_01098
+WOR-3_metaspades_Bin_1-contigs_01099	K01928
+WOR-3_metaspades_Bin_1-contigs_01100	K01923
+WOR-3_metaspades_Bin_1-contigs_01101
+WOR-3_metaspades_Bin_1-contigs_01102	K06990
